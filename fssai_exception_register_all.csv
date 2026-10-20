@@ -1,0 +1,392 @@
+raid_id,business_id,raid_date,raid_reason,inspection_team_id,raid_outcome,follow_up_required,raid_month,action_taken,case_status,high_count,critical_count,corrective_required_count,serious_no_action,correction_no_followup,unresolved_no_action,flag_count,exception_reason,review_priority,priority_rank
+R00003,B0345,2022-01-02,Consumer Complaint,TEAM-021,Violation Found,No,2022-01,No Further Action,Under Review,1.0,0.0,2.0,True,True,True,3,High/Critical violation + No Further Action | Corrective action required + No follow-up | Unresolved case + No Further Action,High,1
+R00047,B0349,2022-02-17,Routine Inspection,TEAM-002,Seizure/Closure,No,2022-02,No Further Action,Under Review,2.0,0.0,2.0,True,True,True,3,High/Critical violation + No Further Action | Corrective action required + No follow-up | Unresolved case + No Further Action,High,1
+R00307,B0099,2023-03-27,Routine Inspection,TEAM-011,Violation Found,No,2023-03,No Further Action,Under Review,1.0,0.0,1.0,True,True,True,3,High/Critical violation + No Further Action | Corrective action required + No follow-up | Unresolved case + No Further Action,High,1
+R00624,B0205,2024-05-15,Follow-up Inspection,TEAM-046,Sample Collected,No,2024-05,No Further Action,Open,1.0,0.0,1.0,True,True,True,3,High/Critical violation + No Further Action | Corrective action required + No follow-up | Unresolved case + No Further Action,High,1
+R00867,B0368,2025-04-24,Consumer Complaint,TEAM-017,Violation Found,No,2025-04,No Further Action,Under Review,0.0,1.0,2.0,True,True,True,3,High/Critical violation + No Further Action | Corrective action required + No follow-up | Unresolved case + No Further Action,High,1
+R00868,B0446,2025-04-25,Routine Inspection,TEAM-048,Seizure/Closure,No,2025-04,No Further Action,Open,1.0,0.0,1.0,True,True,True,3,High/Critical violation + No Further Action | Corrective action required + No follow-up | Unresolved case + No Further Action,High,1
+R01154,B0145,2026-07-06,Routine Inspection,TEAM-026,Seizure/Closure,No,2026-07,No Further Action,Open,2.0,0.0,2.0,True,True,True,3,High/Critical violation + No Further Action | Corrective action required + No follow-up | Unresolved case + No Further Action,High,1
+R00009,B0497,2022-01-07,Follow-up Inspection,TEAM-055,Sample Collected,Yes,2022-01,No Further Action,Open,1.0,0.0,1.0,True,False,True,2,High/Critical violation + No Further Action | Unresolved case + No Further Action,High,1
+R00061,B0242,2022-03-17,Festival Enforcement Drive,TEAM-014,Violation Found,No,2022-03,No Further Action,Resolved,1.0,0.0,1.0,True,True,False,2,High/Critical violation + No Further Action | Corrective action required + No follow-up,High,1
+R00080,B0193,2022-04-26,Routine Inspection,TEAM-011,Sample Collected,Yes,2022-04,No Further Action,Open,0.0,1.0,1.0,True,False,True,2,High/Critical violation + No Further Action | Unresolved case + No Further Action,High,1
+R00101,B0064,2022-05-26,Routine Inspection,TEAM-029,Seizure/Closure,Yes,2022-05,No Further Action,Under Review,1.0,0.0,1.0,True,False,True,2,High/Critical violation + No Further Action | Unresolved case + No Further Action,High,1
+R00138,B0401,2022-07-20,Follow-up Inspection,TEAM-034,Seizure/Closure,Yes,2022-07,No Further Action,Open,0.0,1.0,1.0,True,False,True,2,High/Critical violation + No Further Action | Unresolved case + No Further Action,High,1
+R00257,B0195,2023-01-16,Routine Inspection,TEAM-054,Violation Found,Yes,2023-01,No Further Action,Open,0.0,1.0,2.0,True,False,True,2,High/Critical violation + No Further Action | Unresolved case + No Further Action,High,1
+R00263,B0500,2023-01-23,Risk-Based Inspection,TEAM-045,Violation Found,No,2023-01,No Further Action,Resolved,1.0,0.0,1.0,True,True,False,2,High/Critical violation + No Further Action | Corrective action required + No follow-up,High,1
+R00387,B0232,2023-07-26,Festival Enforcement Drive,TEAM-047,Violation Found,Yes,2023-07,No Further Action,Open,2.0,0.0,2.0,True,False,True,2,High/Critical violation + No Further Action | Unresolved case + No Further Action,High,1
+R00400,B0459,2023-08-07,Festival Enforcement Drive,TEAM-053,Sample Collected,Yes,2023-08,No Further Action,Under Review,1.0,0.0,1.0,True,False,True,2,High/Critical violation + No Further Action | Unresolved case + No Further Action,High,1
+R00443,B0471,2023-10-13,Consumer Complaint,TEAM-025,Violation Found,No,2023-10,No Further Action,Resolved,0.0,1.0,2.0,True,True,False,2,High/Critical violation + No Further Action | Corrective action required + No follow-up,High,1
+R00463,B0310,2023-11-07,Festival Enforcement Drive,TEAM-036,Sample Collected,Yes,2023-11,No Further Action,Open,1.0,0.0,1.0,True,False,True,2,High/Critical violation + No Further Action | Unresolved case + No Further Action,High,1
+R00510,B0412,2023-12-21,Festival Enforcement Drive,TEAM-038,Seizure/Closure,Yes,2023-12,No Further Action,Under Review,1.0,0.0,2.0,True,False,True,2,High/Critical violation + No Further Action | Unresolved case + No Further Action,High,1
+R00512,B0458,2023-12-25,Consumer Complaint,TEAM-060,Violation Found,No,2023-12,No Further Action,Resolved,0.0,1.0,2.0,True,True,False,2,High/Critical violation + No Further Action | Corrective action required + No follow-up,High,1
+R00560,B0143,2024-02-25,Routine Inspection,TEAM-015,Sample Collected,Yes,2024-02,No Further Action,Under Review,1.0,0.0,1.0,True,False,True,2,High/Critical violation + No Further Action | Unresolved case + No Further Action,High,1
+R00599,B0323,2024-04-15,Routine Inspection,TEAM-005,Sample Collected,No,2024-04,No Further Action,Resolved,1.0,0.0,1.0,True,True,False,2,High/Critical violation + No Further Action | Corrective action required + No follow-up,High,1
+R00681,B0132,2024-08-09,Consumer Complaint,TEAM-025,Violation Found,Yes,2024-08,No Further Action,Open,1.0,0.0,1.0,True,False,True,2,High/Critical violation + No Further Action | Unresolved case + No Further Action,High,1
+R00770,B0118,2024-12-01,Routine Inspection,TEAM-055,Violation Found,Yes,2024-12,No Further Action,Open,1.0,0.0,1.0,True,False,True,2,High/Critical violation + No Further Action | Unresolved case + No Further Action,High,1
+R00817,B0085,2025-01-31,Routine Inspection,TEAM-035,Sample Collected,Yes,2025-01,No Further Action,Under Review,1.0,0.0,1.0,True,False,True,2,High/Critical violation + No Further Action | Unresolved case + No Further Action,High,1
+R00838,B0106,2025-02-25,Consumer Complaint,TEAM-008,Seizure/Closure,No,2025-02,No Further Action,Resolved,0.0,1.0,1.0,True,True,False,2,High/Critical violation + No Further Action | Corrective action required + No follow-up,High,1
+R00999,B0282,2025-11-29,Routine Inspection,TEAM-024,Violation Found,Yes,2025-11,No Further Action,Under Review,1.0,0.0,1.0,True,False,True,2,High/Critical violation + No Further Action | Unresolved case + No Further Action,High,1
+R01029,B0011,2026-01-19,Festival Enforcement Drive,TEAM-038,No Major Issue,No,2026-01,No Further Action,Resolved,1.0,0.0,1.0,True,True,False,2,High/Critical violation + No Further Action | Corrective action required + No follow-up,High,1
+R01030,B0188,2026-01-22,Consumer Complaint,TEAM-020,Violation Found,Yes,2026-01,No Further Action,Open,2.0,0.0,2.0,True,False,True,2,High/Critical violation + No Further Action | Unresolved case + No Further Action,High,1
+R01140,B0349,2026-06-19,Routine Inspection,TEAM-029,Sample Collected,Yes,2026-06,No Further Action,Open,0.0,1.0,2.0,True,False,True,2,High/Critical violation + No Further Action | Unresolved case + No Further Action,High,1
+R00011,B0221,2022-01-10,Intelligence Input,TEAM-043,Violation Found,Yes,2022-01,No Further Action,Resolved,1.0,0.0,1.0,True,False,False,1,High/Critical violation + No Further Action,High,1
+R00048,B0188,2022-02-19,Risk-Based Inspection,TEAM-044,Sample Collected,Yes,2022-02,No Further Action,Resolved,1.0,0.0,1.0,True,False,False,1,High/Critical violation + No Further Action,High,1
+R00066,B0355,2022-03-20,Routine Inspection,TEAM-058,Violation Found,Yes,2022-03,No Further Action,Resolved,1.0,0.0,2.0,True,False,False,1,High/Critical violation + No Further Action,High,1
+R00076,B0146,2022-04-17,Routine Inspection,TEAM-009,Violation Found,Yes,2022-04,No Further Action,Resolved,1.0,0.0,1.0,True,False,False,1,High/Critical violation + No Further Action,High,1
+R00197,B0339,2022-10-10,Intelligence Input,TEAM-035,Violation Found,Yes,2022-10,No Further Action,Resolved,1.0,0.0,2.0,True,False,False,1,High/Critical violation + No Further Action,High,1
+R00322,B0044,2023-04-12,Festival Enforcement Drive,TEAM-036,Sample Collected,Yes,2023-04,No Further Action,Resolved,0.0,1.0,1.0,True,False,False,1,High/Critical violation + No Further Action,High,1
+R00452,B0325,2023-10-22,Festival Enforcement Drive,TEAM-059,Violation Found,Yes,2023-10,No Further Action,Resolved,0.0,1.0,1.0,True,False,False,1,High/Critical violation + No Further Action,High,1
+R00468,B0166,2023-11-11,Consumer Complaint,TEAM-025,Sample Collected,Yes,2023-11,No Further Action,Resolved,1.0,0.0,1.0,True,False,False,1,High/Critical violation + No Further Action,High,1
+R00632,B0491,2024-05-24,Festival Enforcement Drive,TEAM-020,Violation Found,Yes,2024-05,No Further Action,Resolved,1.0,0.0,2.0,True,False,False,1,High/Critical violation + No Further Action,High,1
+R00693,B0201,2024-08-31,Intelligence Input,TEAM-010,Violation Found,Yes,2024-08,No Further Action,Resolved,1.0,0.0,1.0,True,False,False,1,High/Critical violation + No Further Action,High,1
+R00802,B0490,2025-01-16,Consumer Complaint,TEAM-030,Sample Collected,Yes,2025-01,No Further Action,Resolved,0.0,1.0,1.0,True,False,False,1,High/Critical violation + No Further Action,High,1
+R00837,B0350,2025-02-24,Intelligence Input,TEAM-030,Violation Found,Yes,2025-02,No Further Action,Resolved,1.0,0.0,1.0,True,False,False,1,High/Critical violation + No Further Action,High,1
+R00845,B0241,2025-03-10,Consumer Complaint,TEAM-016,Violation Found,Yes,2025-03,No Further Action,Resolved,1.0,0.0,2.0,True,False,False,1,High/Critical violation + No Further Action,High,1
+R00912,B0231,2025-07-16,Intelligence Input,TEAM-045,Violation Found,Yes,2025-07,No Further Action,Resolved,0.0,1.0,2.0,True,False,False,1,High/Critical violation + No Further Action,High,1
+R01027,B0004,2026-01-17,Risk-Based Inspection,TEAM-024,Sample Collected,Yes,2026-01,No Further Action,Resolved,2.0,0.0,2.0,True,False,False,1,High/Critical violation + No Further Action,High,1
+R01101,B0229,2026-05-01,Festival Enforcement Drive,TEAM-014,Sample Collected,Yes,2026-05,No Further Action,Resolved,1.0,1.0,2.0,True,False,False,1,High/Critical violation + No Further Action,High,1
+R01106,B0165,2026-05-11,Routine Inspection,TEAM-013,Violation Found,Yes,2026-05,No Further Action,Resolved,0.0,1.0,1.0,True,False,False,1,High/Critical violation + No Further Action,High,1
+R01170,B0398,2026-08-06,Routine Inspection,TEAM-028,Seizure/Closure,Yes,2026-08,No Further Action,Resolved,1.0,0.0,2.0,True,False,False,1,High/Critical violation + No Further Action,High,1
+R00077,B0212,2022-04-22,Consumer Complaint,TEAM-003,Seizure/Closure,No,2022-04,No Further Action,Under Review,0.0,0.0,1.0,False,True,True,2,Corrective action required + No follow-up | Unresolved case + No Further Action,Medium,2
+R00106,B0403,2022-06-03,Risk-Based Inspection,TEAM-015,Sample Collected,No,2022-06,No Further Action,Under Review,0.0,0.0,1.0,False,True,True,2,Corrective action required + No follow-up | Unresolved case + No Further Action,Medium,2
+R00164,B0305,2022-08-25,Intelligence Input,TEAM-028,Violation Found,No,2022-08,No Further Action,Under Review,0.0,0.0,1.0,False,True,True,2,Corrective action required + No follow-up | Unresolved case + No Further Action,Medium,2
+R00261,B0100,2023-01-20,Routine Inspection,TEAM-025,Violation Found,No,2023-01,No Further Action,Under Review,0.0,0.0,1.0,False,True,True,2,Corrective action required + No follow-up | Unresolved case + No Further Action,Medium,2
+R00269,B0179,2023-02-04,Festival Enforcement Drive,TEAM-059,Violation Found,No,2023-02,No Further Action,Under Review,0.0,0.0,1.0,False,True,True,2,Corrective action required + No follow-up | Unresolved case + No Further Action,Medium,2
+R00559,B0146,2024-02-23,Routine Inspection,TEAM-050,Seizure/Closure,No,2024-02,No Further Action,Under Review,0.0,0.0,2.0,False,True,True,2,Corrective action required + No follow-up | Unresolved case + No Further Action,Medium,2
+R00707,B0457,2024-09-11,Festival Enforcement Drive,TEAM-012,Violation Found,No,2024-09,No Further Action,Under Review,0.0,0.0,1.0,False,True,True,2,Corrective action required + No follow-up | Unresolved case + No Further Action,Medium,2
+R00758,B0194,2024-11-16,Festival Enforcement Drive,TEAM-037,Sample Collected,No,2024-11,No Further Action,Open,0.0,0.0,1.0,False,True,True,2,Corrective action required + No follow-up | Unresolved case + No Further Action,Medium,2
+R00848,B0013,2025-03-18,Routine Inspection,TEAM-009,Violation Found,No,2025-03,No Further Action,Open,0.0,0.0,2.0,False,True,True,2,Corrective action required + No follow-up | Unresolved case + No Further Action,Medium,2
+R01097,B0480,2026-04-28,Festival Enforcement Drive,TEAM-007,Violation Found,No,2026-04,No Further Action,Open,0.0,0.0,2.0,False,True,True,2,Corrective action required + No follow-up | Unresolved case + No Further Action,Medium,2
+R00006,B0481,2022-01-04,Risk-Based Inspection,TEAM-024,No Major Issue,No,2022-01,No Further Action,Under Review,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00007,B0058,2022-01-06,Routine Inspection,TEAM-023,Seizure/Closure,Yes,2022-01,No Further Action,Open,0.0,0.0,1.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00008,B0264,2022-01-07,Festival Enforcement Drive,TEAM-013,Sample Collected,Yes,2022-01,No Further Action,Under Review,0.0,0.0,1.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00015,B0001,2022-01-12,Follow-up Inspection,TEAM-016,Sample Collected,Yes,2022-01,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00024,B0450,2022-01-21,Risk-Based Inspection,TEAM-052,Violation Found,No,2022-01,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00026,B0288,2022-01-23,Risk-Based Inspection,TEAM-060,Violation Found,No,2022-01,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00028,B0284,2022-01-24,Routine Inspection,TEAM-040,Violation Found,Yes,2022-01,No Further Action,Under Review,0.0,0.0,1.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00032,B0067,2022-01-28,Routine Inspection,TEAM-042,Violation Found,No,2022-01,No Further Action,Under Review,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00039,B0469,2022-02-12,Intelligence Input,TEAM-038,Violation Found,No,2022-02,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00040,B0250,2022-02-13,Consumer Complaint,TEAM-025,Sample Collected,Yes,2022-02,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00055,B0273,2022-03-07,Routine Inspection,TEAM-017,No Major Issue,No,2022-03,No Further Action,Under Review,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00058,B0269,2022-03-10,Routine Inspection,TEAM-035,Violation Found,Yes,2022-03,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00059,B0197,2022-03-15,Festival Enforcement Drive,TEAM-025,Sample Collected,Yes,2022-03,No Further Action,Under Review,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00062,B0391,2022-03-18,Routine Inspection,TEAM-019,No Major Issue,No,2022-03,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00069,B0346,2022-03-27,Consumer Complaint,TEAM-031,Sample Collected,Yes,2022-03,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00072,B0125,2022-04-09,Risk-Based Inspection,TEAM-010,Violation Found,Yes,2022-04,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00079,B0467,2022-04-26,Routine Inspection,TEAM-006,Sample Collected,Yes,2022-04,No Further Action,Under Review,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00089,B0298,2022-05-04,Festival Enforcement Drive,TEAM-016,No Major Issue,No,2022-05,No Further Action,Under Review,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00111,B0478,2022-06-08,Routine Inspection,TEAM-021,Sample Collected,No,2022-06,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00119,B0493,2022-06-20,Consumer Complaint,TEAM-027,No Major Issue,No,2022-06,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00147,B0437,2022-07-30,Routine Inspection,TEAM-029,Violation Found,No,2022-07,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00149,B0188,2022-07-31,Consumer Complaint,TEAM-012,Violation Found,Yes,2022-07,No Further Action,Under Review,0.0,0.0,2.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00150,B0276,2022-07-31,Intelligence Input,TEAM-054,Sample Collected,No,2022-07,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00160,B0431,2022-08-16,Routine Inspection,TEAM-004,Sample Collected,Yes,2022-08,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00183,B0044,2022-09-18,Consumer Complaint,TEAM-037,Violation Found,Yes,2022-09,No Further Action,Under Review,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00186,B0246,2022-09-23,Consumer Complaint,TEAM-033,Sample Collected,Yes,2022-09,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00196,B0271,2022-10-08,Risk-Based Inspection,TEAM-003,No Major Issue,No,2022-10,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00203,B0113,2022-10-19,Risk-Based Inspection,TEAM-043,No Major Issue,No,2022-10,No Further Action,Under Review,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00208,B0043,2022-10-30,Risk-Based Inspection,TEAM-060,No Major Issue,No,2022-10,No Further Action,Under Review,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00210,B0137,2022-11-01,Routine Inspection,TEAM-033,No Major Issue,No,2022-11,No Further Action,Under Review,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00220,B0289,2022-11-19,Follow-up Inspection,TEAM-049,Sample Collected,No,2022-11,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00225,B0489,2022-11-25,Consumer Complaint,TEAM-023,Violation Found,Yes,2022-11,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00228,B0301,2022-11-28,Routine Inspection,TEAM-047,No Major Issue,No,2022-11,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00230,B0134,2022-11-29,Routine Inspection,TEAM-057,Sample Collected,No,2022-11,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00238,B0429,2022-12-14,Risk-Based Inspection,TEAM-034,No Major Issue,No,2022-12,No Further Action,Under Review,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00241,B0418,2022-12-16,Consumer Complaint,TEAM-018,Sample Collected,Yes,2022-12,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00260,B0492,2023-01-20,Festival Enforcement Drive,TEAM-049,Sample Collected,Yes,2023-01,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00267,B0075,2023-02-02,Follow-up Inspection,TEAM-026,No Major Issue,No,2023-02,No Further Action,Under Review,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00277,B0380,2023-02-18,Intelligence Input,TEAM-050,No Major Issue,No,2023-02,No Further Action,Under Review,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00283,B0098,2023-03-01,Consumer Complaint,TEAM-055,Violation Found,Yes,2023-03,No Further Action,Under Review,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00286,B0093,2023-03-07,Routine Inspection,TEAM-022,Violation Found,Yes,2023-03,No Further Action,Under Review,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00296,B0070,2023-03-18,Consumer Complaint,TEAM-050,Violation Found,Yes,2023-03,No Further Action,Open,0.0,0.0,1.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00298,B0461,2023-03-18,Intelligence Input,TEAM-042,Sample Collected,No,2023-03,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00311,B0403,2023-04-01,Routine Inspection,TEAM-050,No Major Issue,No,2023-04,No Further Action,Under Review,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00338,B0337,2023-05-03,Consumer Complaint,TEAM-030,Violation Found,Yes,2023-05,No Further Action,Under Review,0.0,0.0,1.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00340,B0365,2023-05-07,Festival Enforcement Drive,TEAM-020,Sample Collected,No,2023-05,No Further Action,Under Review,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00341,B0082,2023-05-08,Consumer Complaint,TEAM-029,Seizure/Closure,Yes,2023-05,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00350,B0266,2023-05-21,Consumer Complaint,TEAM-008,Violation Found,No,2023-05,No Further Action,Under Review,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00361,B0356,2023-06-14,Consumer Complaint,TEAM-059,Violation Found,Yes,2023-06,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00364,B0135,2023-06-24,Follow-up Inspection,TEAM-003,No Major Issue,No,2023-06,No Further Action,Under Review,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00372,B0197,2023-07-06,Consumer Complaint,TEAM-010,No Major Issue,No,2023-07,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00375,B0309,2023-07-12,Intelligence Input,TEAM-048,Sample Collected,Yes,2023-07,No Further Action,Under Review,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00377,B0469,2023-07-15,Follow-up Inspection,TEAM-030,No Major Issue,No,2023-07,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00380,B0375,2023-07-17,Consumer Complaint,TEAM-051,No Major Issue,No,2023-07,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00385,B0032,2023-07-24,Festival Enforcement Drive,TEAM-023,Violation Found,Yes,2023-07,No Further Action,Under Review,0.0,0.0,1.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00386,B0180,2023-07-25,Routine Inspection,TEAM-031,Violation Found,Yes,2023-07,No Further Action,Under Review,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00407,B0362,2023-08-21,Consumer Complaint,TEAM-037,Violation Found,Yes,2023-08,No Further Action,Under Review,0.0,0.0,1.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00425,B0439,2023-09-25,Festival Enforcement Drive,TEAM-016,Sample Collected,Yes,2023-09,No Further Action,Under Review,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00435,B0378,2023-10-04,Routine Inspection,TEAM-060,Sample Collected,No,2023-10,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00437,B0030,2023-10-06,Consumer Complaint,TEAM-005,No Major Issue,No,2023-10,No Further Action,Under Review,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00440,B0097,2023-10-10,Risk-Based Inspection,TEAM-036,Sample Collected,Yes,2023-10,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00442,B0021,2023-10-12,Festival Enforcement Drive,TEAM-046,No Major Issue,No,2023-10,No Further Action,Under Review,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00453,B0039,2023-10-22,Routine Inspection,TEAM-038,No Major Issue,No,2023-10,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00454,B0409,2023-10-25,Follow-up Inspection,TEAM-024,Violation Found,Yes,2023-10,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00462,B0018,2023-11-06,Intelligence Input,TEAM-018,Sample Collected,No,2023-11,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00478,B0325,2023-11-22,Intelligence Input,TEAM-013,No Major Issue,No,2023-11,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00496,B0114,2023-12-07,Risk-Based Inspection,TEAM-038,No Major Issue,No,2023-12,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00501,B0092,2023-12-10,Follow-up Inspection,TEAM-024,Sample Collected,Yes,2023-12,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00509,B0459,2023-12-21,Intelligence Input,TEAM-035,Sample Collected,Yes,2023-12,No Further Action,Under Review,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00514,B0495,2023-12-29,Festival Enforcement Drive,TEAM-010,Violation Found,Yes,2023-12,No Further Action,Under Review,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00516,B0026,2023-12-30,Routine Inspection,TEAM-059,No Major Issue,No,2023-12,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00526,B0412,2024-01-15,Consumer Complaint,TEAM-053,No Major Issue,No,2024-01,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00528,B0090,2024-01-16,Routine Inspection,TEAM-028,Violation Found,Yes,2024-01,No Further Action,Under Review,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00536,B0105,2024-01-23,Consumer Complaint,TEAM-011,Sample Collected,Yes,2024-01,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00572,B0130,2024-03-09,Routine Inspection,TEAM-005,Violation Found,Yes,2024-03,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00584,B0467,2024-03-24,Routine Inspection,TEAM-007,Seizure/Closure,Yes,2024-03,No Further Action,Under Review,0.0,0.0,1.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00587,B0279,2024-03-30,Consumer Complaint,TEAM-053,Sample Collected,Yes,2024-03,No Further Action,Under Review,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00588,B0144,2024-03-31,Intelligence Input,TEAM-048,Violation Found,Yes,2024-03,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00596,B0051,2024-04-11,Festival Enforcement Drive,TEAM-003,No Major Issue,No,2024-04,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00608,B0249,2024-04-19,Consumer Complaint,TEAM-059,Sample Collected,Yes,2024-04,No Further Action,Under Review,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00618,B0323,2024-05-08,Risk-Based Inspection,TEAM-013,No Major Issue,No,2024-05,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00626,B0471,2024-05-18,Consumer Complaint,TEAM-059,Sample Collected,No,2024-05,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00643,B0055,2024-06-05,Risk-Based Inspection,TEAM-034,No Major Issue,No,2024-06,No Further Action,Under Review,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00657,B0139,2024-07-11,Follow-up Inspection,TEAM-050,No Major Issue,No,2024-07,No Further Action,Under Review,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00660,B0440,2024-07-18,Consumer Complaint,TEAM-021,No Major Issue,No,2024-07,No Further Action,Under Review,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00664,B0419,2024-07-24,Consumer Complaint,TEAM-033,No Major Issue,No,2024-07,No Further Action,Under Review,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00671,B0463,2024-08-03,Intelligence Input,TEAM-001,No Major Issue,No,2024-08,No Further Action,Under Review,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00682,B0156,2024-08-11,Consumer Complaint,TEAM-047,Violation Found,Yes,2024-08,No Further Action,Under Review,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00683,B0404,2024-08-13,Consumer Complaint,TEAM-040,Violation Found,No,2024-08,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00694,B0183,2024-09-01,Follow-up Inspection,TEAM-033,Sample Collected,No,2024-09,No Further Action,Under Review,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00708,B0177,2024-09-12,Consumer Complaint,TEAM-054,Sample Collected,Yes,2024-09,No Further Action,Under Review,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00715,B0493,2024-09-30,Routine Inspection,TEAM-025,No Major Issue,No,2024-09,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00716,B0152,2024-10-01,Festival Enforcement Drive,TEAM-031,Violation Found,Yes,2024-10,No Further Action,Under Review,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00724,B0052,2024-10-08,Intelligence Input,TEAM-042,Sample Collected,Yes,2024-10,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00726,B0381,2024-10-12,Intelligence Input,TEAM-029,Seizure/Closure,Yes,2024-10,No Further Action,Open,0.0,0.0,2.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00738,B0331,2024-10-27,Risk-Based Inspection,TEAM-059,Violation Found,Yes,2024-10,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00739,B0034,2024-10-28,Consumer Complaint,TEAM-054,No Major Issue,No,2024-10,No Further Action,Under Review,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00741,B0131,2024-10-29,Routine Inspection,TEAM-049,Sample Collected,Yes,2024-10,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00759,B0428,2024-11-16,Intelligence Input,TEAM-008,No Major Issue,No,2024-11,No Further Action,Under Review,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00760,B0077,2024-11-17,Follow-up Inspection,TEAM-011,Violation Found,No,2024-11,No Further Action,Under Review,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00777,B0462,2024-12-07,Consumer Complaint,TEAM-043,Sample Collected,Yes,2024-12,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00799,B0194,2025-01-12,Risk-Based Inspection,TEAM-049,Sample Collected,No,2025-01,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00808,B0167,2025-01-24,Routine Inspection,TEAM-047,No Major Issue,No,2025-01,No Further Action,Under Review,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00809,B0007,2025-01-25,Routine Inspection,TEAM-051,Violation Found,Yes,2025-01,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00811,B0214,2025-01-28,Routine Inspection,TEAM-033,No Major Issue,No,2025-01,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00813,B0202,2025-01-29,Routine Inspection,TEAM-004,No Major Issue,No,2025-01,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00820,B0375,2025-02-05,Festival Enforcement Drive,TEAM-049,Violation Found,Yes,2025-02,No Further Action,Under Review,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00833,B0405,2025-02-17,Risk-Based Inspection,TEAM-006,No Major Issue,No,2025-02,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00840,B0114,2025-03-01,Routine Inspection,TEAM-011,No Major Issue,No,2025-03,No Further Action,Under Review,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00841,B0117,2025-03-03,Routine Inspection,TEAM-018,Violation Found,Yes,2025-03,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00849,B0419,2025-03-19,Routine Inspection,TEAM-032,Sample Collected,Yes,2025-03,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00858,B0401,2025-04-07,Follow-up Inspection,TEAM-030,Violation Found,Yes,2025-04,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00866,B0382,2025-04-23,Routine Inspection,TEAM-033,Sample Collected,Yes,2025-04,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00887,B0393,2025-06-10,Intelligence Input,TEAM-015,Violation Found,Yes,2025-06,No Further Action,Under Review,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00890,B0459,2025-06-13,Follow-up Inspection,TEAM-044,Violation Found,Yes,2025-06,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00901,B0321,2025-07-03,Consumer Complaint,TEAM-033,Seizure/Closure,Yes,2025-07,No Further Action,Open,0.0,0.0,1.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00921,B0469,2025-08-07,Festival Enforcement Drive,TEAM-014,Violation Found,Yes,2025-08,No Further Action,Under Review,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00923,B0422,2025-08-08,Routine Inspection,TEAM-055,Sample Collected,Yes,2025-08,No Further Action,Under Review,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00945,B0447,2025-09-01,Risk-Based Inspection,TEAM-004,No Major Issue,No,2025-09,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00950,B0175,2025-09-12,Consumer Complaint,TEAM-047,Violation Found,No,2025-09,No Further Action,Under Review,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00969,B0308,2025-10-07,Intelligence Input,TEAM-048,Violation Found,Yes,2025-10,No Further Action,Under Review,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00971,B0227,2025-10-10,Routine Inspection,TEAM-043,Violation Found,No,2025-10,No Further Action,Under Review,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00975,B0063,2025-10-16,Intelligence Input,TEAM-036,Violation Found,Yes,2025-10,No Further Action,Under Review,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00978,B0427,2025-10-20,Routine Inspection,TEAM-017,Violation Found,Yes,2025-10,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00990,B0300,2025-11-15,Consumer Complaint,TEAM-015,Sample Collected,No,2025-11,No Further Action,Under Review,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00992,B0108,2025-11-20,Routine Inspection,TEAM-056,Sample Collected,No,2025-11,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00996,B0346,2025-11-24,Consumer Complaint,TEAM-027,No Major Issue,No,2025-11,No Further Action,Under Review,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00998,B0452,2025-11-28,Intelligence Input,TEAM-021,No Major Issue,No,2025-11,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R01004,B0198,2025-12-07,Routine Inspection,TEAM-048,No Major Issue,No,2025-12,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R01005,B0046,2025-12-12,Intelligence Input,TEAM-024,Sample Collected,Yes,2025-12,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R01007,B0418,2025-12-19,Intelligence Input,TEAM-045,No Major Issue,No,2025-12,No Further Action,Under Review,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R01014,B0474,2026-01-02,Risk-Based Inspection,TEAM-016,No Major Issue,No,2026-01,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R01028,B0037,2026-01-17,Consumer Complaint,TEAM-055,Sample Collected,Yes,2026-01,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R01034,B0273,2026-02-01,Risk-Based Inspection,TEAM-016,Violation Found,No,2026-02,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R01041,B0038,2026-02-13,Risk-Based Inspection,TEAM-029,No Major Issue,No,2026-02,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R01043,B0328,2026-02-18,Intelligence Input,TEAM-003,No Major Issue,No,2026-02,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R01046,B0100,2026-02-28,Consumer Complaint,TEAM-046,Violation Found,No,2026-02,No Further Action,Under Review,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R01053,B0260,2026-03-09,Consumer Complaint,TEAM-041,Sample Collected,Yes,2026-03,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R01082,B0119,2026-04-11,Festival Enforcement Drive,TEAM-007,Sample Collected,Yes,2026-04,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R01083,B0288,2026-04-11,Follow-up Inspection,TEAM-013,Sample Collected,No,2026-04,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R01096,B0380,2026-04-28,Risk-Based Inspection,TEAM-043,Sample Collected,Yes,2026-04,No Further Action,Under Review,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R01122,B0235,2026-05-29,Risk-Based Inspection,TEAM-007,No Major Issue,No,2026-05,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R01123,B0396,2026-05-31,Festival Enforcement Drive,TEAM-055,No Major Issue,No,2026-05,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R01124,B0051,2026-05-31,Routine Inspection,TEAM-050,Sample Collected,No,2026-05,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R01130,B0172,2026-06-04,Intelligence Input,TEAM-029,Seizure/Closure,Yes,2026-06,No Further Action,Under Review,0.0,0.0,1.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R01138,B0362,2026-06-16,Routine Inspection,TEAM-005,Sample Collected,Yes,2026-06,No Further Action,Under Review,0.0,0.0,1.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R01139,B0091,2026-06-17,Routine Inspection,TEAM-010,Violation Found,Yes,2026-06,No Further Action,Open,0.0,0.0,1.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R01141,B0414,2026-06-19,Routine Inspection,TEAM-002,Violation Found,Yes,2026-06,No Further Action,Open,0.0,0.0,1.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R01156,B0076,2026-07-08,Consumer Complaint,TEAM-025,No Major Issue,No,2026-07,No Further Action,Under Review,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R01160,B0485,2026-07-14,Consumer Complaint,TEAM-007,No Major Issue,No,2026-07,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R01176,B0281,2026-08-23,Routine Inspection,TEAM-059,No Major Issue,No,2026-08,No Further Action,Under Review,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R01185,B0420,2026-09-08,Consumer Complaint,TEAM-059,Sample Collected,No,2026-09,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R01196,B0267,2026-09-23,Intelligence Input,TEAM-033,No Major Issue,No,2026-09,No Further Action,Under Review,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R01197,B0018,2026-09-25,Consumer Complaint,TEAM-026,Violation Found,Yes,2026-09,No Further Action,Open,0.0,0.0,0.0,False,False,True,1,Unresolved case + No Further Action,Medium,2
+R00004,B0487,2022-01-03,Risk-Based Inspection,TEAM-045,Sample Collected,No,2022-01,No Further Action,Resolved,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00018,B0190,2022-01-18,Consumer Complaint,TEAM-031,Violation Found,No,2022-01,Business Temporarily Closed,Resolved,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00020,B0390,2022-01-19,Routine Inspection,TEAM-045,Violation Found,No,2022-01,Fine Imposed,Open,2.0,0.0,2.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00031,B0287,2022-01-28,Consumer Complaint,TEAM-025,Seizure/Closure,No,2022-01,No Further Action,Resolved,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00035,B0163,2022-02-01,Consumer Complaint,TEAM-026,Sample Collected,No,2022-02,Product Seized,Open,1.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00037,B0176,2022-02-09,Intelligence Input,TEAM-025,Violation Found,No,2022-02,Licence Suspended,Resolved,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00051,B0162,2022-02-24,Consumer Complaint,TEAM-012,No Major Issue,No,2022-02,Warning Issued,Open,1.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00053,B0249,2022-02-27,Risk-Based Inspection,TEAM-021,Violation Found,No,2022-02,Warning Issued,Resolved,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00065,B0408,2022-03-20,Risk-Based Inspection,TEAM-043,Violation Found,No,2022-03,Prosecution Initiated,Resolved,0.0,1.0,2.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00074,B0382,2022-04-11,Consumer Complaint,TEAM-006,Sample Collected,No,2022-04,Improvement Notice,Open,1.0,0.0,2.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00084,B0412,2022-04-29,Consumer Complaint,TEAM-047,Violation Found,No,2022-04,Improvement Notice,Resolved,0.0,1.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00087,B0226,2022-05-03,Consumer Complaint,TEAM-021,Violation Found,No,2022-05,Improvement Notice,Resolved,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00093,B0315,2022-05-10,Risk-Based Inspection,TEAM-008,Violation Found,No,2022-05,Warning Issued,Open,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00098,B0076,2022-05-20,Routine Inspection,TEAM-014,Violation Found,No,2022-05,No Further Action,Resolved,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00104,B0141,2022-05-29,Routine Inspection,TEAM-036,Seizure/Closure,No,2022-05,Fine Imposed,Open,0.0,1.0,2.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00110,B0106,2022-06-06,Risk-Based Inspection,TEAM-042,No Major Issue,No,2022-06,Warning Issued,Under Review,1.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00114,B0302,2022-06-12,Consumer Complaint,TEAM-024,Violation Found,No,2022-06,Improvement Notice,Under Review,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00117,B0476,2022-06-16,Follow-up Inspection,TEAM-042,Sample Collected,No,2022-06,Improvement Notice,Open,1.0,0.0,2.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00124,B0022,2022-06-29,Consumer Complaint,TEAM-027,Sample Collected,No,2022-06,Warning Issued,Open,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00132,B0036,2022-07-12,Festival Enforcement Drive,TEAM-016,Sample Collected,No,2022-07,Warning Issued,Under Review,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00134,B0294,2022-07-15,Routine Inspection,TEAM-059,No Major Issue,No,2022-07,Warning Issued,Open,1.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00137,B0087,2022-07-19,Risk-Based Inspection,TEAM-032,Violation Found,No,2022-07,Warning Issued,Open,1.0,0.0,2.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00152,B0441,2022-08-01,Routine Inspection,TEAM-053,Violation Found,No,2022-08,Fine Imposed,Resolved,1.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00153,B0043,2022-08-04,Consumer Complaint,TEAM-042,No Major Issue,No,2022-08,Improvement Notice,Open,1.0,0.0,2.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00162,B0046,2022-08-19,Intelligence Input,TEAM-013,Seizure/Closure,No,2022-08,Licence Suspended,Under Review,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00165,B0215,2022-08-25,Follow-up Inspection,TEAM-043,Violation Found,No,2022-08,Warning Issued,Resolved,1.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00170,B0244,2022-08-31,Routine Inspection,TEAM-025,Violation Found,No,2022-08,Product Seized,Open,1.0,0.0,2.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00180,B0030,2022-09-14,Consumer Complaint,TEAM-044,Violation Found,No,2022-09,Warning Issued,Open,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00201,B0334,2022-10-18,Festival Enforcement Drive,TEAM-015,No Major Issue,No,2022-10,Product Seized,Under Review,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00206,B0334,2022-10-24,Routine Inspection,TEAM-043,Violation Found,No,2022-10,Improvement Notice,Resolved,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00207,B0453,2022-10-24,Festival Enforcement Drive,TEAM-013,No Major Issue,No,2022-10,Prosecution Initiated,Resolved,1.0,0.0,2.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00247,B0377,2022-12-26,Festival Enforcement Drive,TEAM-020,Violation Found,No,2022-12,Product Seized,Resolved,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00248,B0111,2022-12-28,Intelligence Input,TEAM-042,Seizure/Closure,No,2022-12,Warning Issued,Resolved,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00250,B0256,2022-12-30,Festival Enforcement Drive,TEAM-035,Violation Found,No,2022-12,Prosecution Initiated,Under Review,1.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00256,B0153,2023-01-14,Intelligence Input,TEAM-042,Violation Found,No,2023-01,Business Temporarily Closed,Under Review,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00268,B0176,2023-02-02,Routine Inspection,TEAM-030,Sample Collected,No,2023-02,Prosecution Initiated,Under Review,1.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00301,B0263,2023-03-21,Intelligence Input,TEAM-001,Violation Found,No,2023-03,Product Seized,Resolved,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00303,B0474,2023-03-24,Routine Inspection,TEAM-012,No Major Issue,No,2023-03,Product Seized,Under Review,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00314,B0061,2023-04-07,Risk-Based Inspection,TEAM-028,No Major Issue,No,2023-04,Business Temporarily Closed,Resolved,0.0,1.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00321,B0045,2023-04-11,Consumer Complaint,TEAM-013,Seizure/Closure,No,2023-04,Fine Imposed,Resolved,1.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00324,B0097,2023-04-14,Risk-Based Inspection,TEAM-016,Sample Collected,No,2023-04,Business Temporarily Closed,Resolved,1.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00346,B0298,2023-05-17,Risk-Based Inspection,TEAM-012,Violation Found,No,2023-05,Prosecution Initiated,Under Review,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00352,B0299,2023-06-02,Consumer Complaint,TEAM-033,Violation Found,No,2023-06,Warning Issued,Under Review,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00353,B0301,2023-06-04,Routine Inspection,TEAM-004,No Major Issue,No,2023-06,Licence Suspended,Open,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00384,B0304,2023-07-22,Consumer Complaint,TEAM-057,Violation Found,No,2023-07,Fine Imposed,Open,1.0,0.0,2.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00396,B0250,2023-08-02,Intelligence Input,TEAM-044,Seizure/Closure,No,2023-08,Business Temporarily Closed,Resolved,1.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00402,B0355,2023-08-09,Routine Inspection,TEAM-021,No Major Issue,No,2023-08,Fine Imposed,Resolved,2.0,0.0,2.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00403,B0198,2023-08-09,Risk-Based Inspection,TEAM-026,Violation Found,No,2023-08,Improvement Notice,Open,1.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00410,B0226,2023-08-27,Intelligence Input,TEAM-048,Seizure/Closure,No,2023-08,No Further Action,Resolved,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00414,B0182,2023-09-01,Routine Inspection,TEAM-004,Violation Found,No,2023-09,Business Temporarily Closed,Resolved,0.0,0.0,2.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00416,B0101,2023-09-03,Routine Inspection,TEAM-018,Sample Collected,No,2023-09,Warning Issued,Resolved,0.0,1.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00423,B0215,2023-09-21,Consumer Complaint,TEAM-055,Sample Collected,No,2023-09,Prosecution Initiated,Resolved,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00433,B0249,2023-10-02,Consumer Complaint,TEAM-034,Violation Found,No,2023-10,Fine Imposed,Resolved,0.0,1.0,2.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00449,B0461,2023-10-19,Routine Inspection,TEAM-002,Sample Collected,No,2023-10,Product Seized,Resolved,0.0,1.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00451,B0017,2023-10-21,Consumer Complaint,TEAM-036,Violation Found,No,2023-10,Business Temporarily Closed,Open,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00456,B0211,2023-10-27,Risk-Based Inspection,TEAM-024,Violation Found,No,2023-10,Warning Issued,Under Review,1.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00459,B0365,2023-10-30,Follow-up Inspection,TEAM-049,Violation Found,No,2023-10,Improvement Notice,Open,2.0,0.0,2.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00467,B0235,2023-11-10,Consumer Complaint,TEAM-048,Violation Found,No,2023-11,Improvement Notice,Under Review,0.0,0.0,2.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00471,B0478,2023-11-15,Risk-Based Inspection,TEAM-007,Sample Collected,No,2023-11,Improvement Notice,Open,0.0,1.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00481,B0479,2023-11-25,Routine Inspection,TEAM-013,Violation Found,No,2023-11,Warning Issued,Open,1.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00504,B0471,2023-12-15,Follow-up Inspection,TEAM-032,Seizure/Closure,No,2023-12,Fine Imposed,Resolved,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00507,B0372,2023-12-18,Intelligence Input,TEAM-011,Seizure/Closure,No,2023-12,No Further Action,Resolved,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00513,B0415,2023-12-28,Risk-Based Inspection,TEAM-054,Violation Found,No,2023-12,Fine Imposed,Under Review,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00517,B0144,2023-12-30,Consumer Complaint,TEAM-052,Violation Found,No,2023-12,Fine Imposed,Resolved,1.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00518,B0013,2023-12-31,Routine Inspection,TEAM-021,Violation Found,No,2023-12,Prosecution Initiated,Resolved,0.0,0.0,2.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00521,B0486,2024-01-02,Consumer Complaint,TEAM-021,Seizure/Closure,No,2024-01,Warning Issued,Under Review,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00530,B0283,2024-01-19,Intelligence Input,TEAM-009,Violation Found,No,2024-01,No Further Action,Resolved,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00532,B0067,2024-01-22,Risk-Based Inspection,TEAM-053,Violation Found,No,2024-01,Fine Imposed,Resolved,0.0,0.0,2.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00540,B0482,2024-02-01,Risk-Based Inspection,TEAM-051,Sample Collected,No,2024-02,Business Temporarily Closed,Resolved,1.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00541,B0325,2024-02-01,Routine Inspection,TEAM-018,Seizure/Closure,No,2024-02,Warning Issued,Under Review,1.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00543,B0204,2024-02-05,Routine Inspection,TEAM-037,Seizure/Closure,No,2024-02,Warning Issued,Resolved,1.0,0.0,2.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00573,B0300,2024-03-09,Risk-Based Inspection,TEAM-025,Seizure/Closure,No,2024-03,Warning Issued,Open,0.0,1.0,2.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00576,B0188,2024-03-14,Risk-Based Inspection,TEAM-049,Seizure/Closure,No,2024-03,Warning Issued,Under Review,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00579,B0491,2024-03-17,Intelligence Input,TEAM-008,Violation Found,No,2024-03,Improvement Notice,Resolved,1.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00595,B0251,2024-04-10,Consumer Complaint,TEAM-025,Violation Found,No,2024-04,Warning Issued,Resolved,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00598,B0403,2024-04-15,Consumer Complaint,TEAM-052,Seizure/Closure,No,2024-04,Warning Issued,Open,1.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00603,B0496,2024-04-18,Routine Inspection,TEAM-042,Violation Found,No,2024-04,Fine Imposed,Resolved,0.0,0.0,2.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00607,B0323,2024-04-19,Risk-Based Inspection,TEAM-038,Seizure/Closure,No,2024-04,Improvement Notice,Open,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00611,B0214,2024-04-23,Festival Enforcement Drive,TEAM-021,No Major Issue,No,2024-04,Licence Suspended,Open,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00619,B0403,2024-05-08,Risk-Based Inspection,TEAM-051,No Major Issue,No,2024-05,Warning Issued,Resolved,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00620,B0291,2024-05-12,Risk-Based Inspection,TEAM-022,No Major Issue,No,2024-05,Fine Imposed,Open,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00622,B0468,2024-05-13,Risk-Based Inspection,TEAM-054,Violation Found,No,2024-05,No Further Action,Resolved,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00628,B0330,2024-05-22,Festival Enforcement Drive,TEAM-007,No Major Issue,No,2024-05,Product Seized,Resolved,1.0,0.0,2.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00630,B0227,2024-05-23,Consumer Complaint,TEAM-023,Sample Collected,No,2024-05,Business Temporarily Closed,Open,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00634,B0289,2024-05-24,Follow-up Inspection,TEAM-033,Violation Found,No,2024-05,Fine Imposed,Resolved,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00644,B0431,2024-06-05,Consumer Complaint,TEAM-014,Sample Collected,No,2024-06,Improvement Notice,Resolved,1.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00647,B0420,2024-06-11,Consumer Complaint,TEAM-045,No Major Issue,No,2024-06,Improvement Notice,Resolved,1.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00651,B0348,2024-06-19,Consumer Complaint,TEAM-031,Seizure/Closure,No,2024-06,Improvement Notice,Open,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00662,B0149,2024-07-19,Consumer Complaint,TEAM-050,Violation Found,No,2024-07,Warning Issued,Resolved,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00666,B0095,2024-07-25,Risk-Based Inspection,TEAM-003,Violation Found,No,2024-07,Warning Issued,Resolved,0.0,1.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00696,B0235,2024-09-03,Routine Inspection,TEAM-032,Violation Found,No,2024-09,Improvement Notice,Under Review,1.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00699,B0084,2024-09-05,Intelligence Input,TEAM-055,Violation Found,No,2024-09,Prosecution Initiated,Under Review,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00702,B0348,2024-09-08,Routine Inspection,TEAM-044,Violation Found,No,2024-09,Warning Issued,Resolved,0.0,1.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00711,B0180,2024-09-25,Intelligence Input,TEAM-004,Sample Collected,No,2024-09,No Further Action,Resolved,0.0,0.0,2.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00719,B0368,2024-10-02,Intelligence Input,TEAM-055,Violation Found,No,2024-10,Business Temporarily Closed,Resolved,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00720,B0031,2024-10-02,Festival Enforcement Drive,TEAM-054,No Major Issue,No,2024-10,Warning Issued,Open,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00730,B0176,2024-10-17,Routine Inspection,TEAM-018,Seizure/Closure,No,2024-10,Licence Suspended,Resolved,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00734,B0491,2024-10-24,Routine Inspection,TEAM-053,Violation Found,No,2024-10,Warning Issued,Resolved,1.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00737,B0179,2024-10-27,Consumer Complaint,TEAM-034,No Major Issue,No,2024-10,Improvement Notice,Open,1.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00742,B0364,2024-10-30,Festival Enforcement Drive,TEAM-035,Seizure/Closure,No,2024-10,Warning Issued,Resolved,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00743,B0402,2024-10-31,Follow-up Inspection,TEAM-059,Violation Found,No,2024-10,Product Seized,Resolved,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00746,B0360,2024-11-08,Risk-Based Inspection,TEAM-019,No Major Issue,No,2024-11,Fine Imposed,Resolved,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00748,B0272,2024-11-09,Risk-Based Inspection,TEAM-048,Seizure/Closure,No,2024-11,Improvement Notice,Open,0.0,1.0,2.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00753,B0011,2024-11-13,Consumer Complaint,TEAM-004,Sample Collected,No,2024-11,No Further Action,Resolved,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00771,B0161,2024-12-01,Consumer Complaint,TEAM-021,Seizure/Closure,No,2024-12,Fine Imposed,Under Review,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00772,B0238,2024-12-02,Festival Enforcement Drive,TEAM-028,Violation Found,No,2024-12,Licence Suspended,Resolved,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00773,B0387,2024-12-02,Festival Enforcement Drive,TEAM-015,Seizure/Closure,No,2024-12,Business Temporarily Closed,Resolved,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00774,B0202,2024-12-02,Intelligence Input,TEAM-027,Violation Found,No,2024-12,Prosecution Initiated,Under Review,0.0,1.0,2.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00782,B0434,2024-12-13,Intelligence Input,TEAM-015,No Major Issue,No,2024-12,Product Seized,Resolved,1.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00788,B0489,2024-12-25,Routine Inspection,TEAM-015,Sample Collected,No,2024-12,Improvement Notice,Resolved,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00791,B0050,2024-12-27,Routine Inspection,TEAM-018,No Major Issue,No,2024-12,Prosecution Initiated,Under Review,1.0,0.0,2.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00798,B0311,2025-01-06,Follow-up Inspection,TEAM-024,Sample Collected,No,2025-01,Licence Suspended,Resolved,2.0,0.0,2.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00801,B0042,2025-01-13,Routine Inspection,TEAM-052,Violation Found,No,2025-01,No Further Action,Resolved,0.0,0.0,2.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00805,B0091,2025-01-20,Routine Inspection,TEAM-049,Violation Found,No,2025-01,No Further Action,Resolved,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00816,B0201,2025-01-30,Risk-Based Inspection,TEAM-010,Sample Collected,No,2025-01,Fine Imposed,Resolved,1.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00826,B0295,2025-02-09,Risk-Based Inspection,TEAM-060,Violation Found,No,2025-02,Warning Issued,Open,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00835,B0293,2025-02-22,Consumer Complaint,TEAM-058,Violation Found,No,2025-02,Improvement Notice,Open,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00839,B0397,2025-02-26,Routine Inspection,TEAM-010,Violation Found,No,2025-02,Fine Imposed,Resolved,0.0,1.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00844,B0090,2025-03-07,Routine Inspection,TEAM-019,Violation Found,No,2025-03,Warning Issued,Resolved,1.0,0.0,2.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00854,B0331,2025-03-22,Routine Inspection,TEAM-018,Seizure/Closure,No,2025-03,Product Seized,Resolved,1.0,1.0,2.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00856,B0186,2025-03-25,Routine Inspection,TEAM-019,Violation Found,No,2025-03,Product Seized,Open,1.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00872,B0332,2025-05-01,Risk-Based Inspection,TEAM-023,Violation Found,No,2025-05,Fine Imposed,Under Review,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00875,B0075,2025-05-07,Consumer Complaint,TEAM-052,Violation Found,No,2025-05,Fine Imposed,Under Review,0.0,1.0,2.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00876,B0313,2025-05-08,Intelligence Input,TEAM-033,Violation Found,No,2025-05,Improvement Notice,Open,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00879,B0271,2025-05-18,Routine Inspection,TEAM-054,Sample Collected,No,2025-05,Product Seized,Resolved,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00881,B0111,2025-05-20,Routine Inspection,TEAM-011,Sample Collected,No,2025-05,Warning Issued,Resolved,0.0,0.0,2.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00886,B0052,2025-06-06,Routine Inspection,TEAM-018,Sample Collected,No,2025-06,Product Seized,Open,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00892,B0201,2025-06-19,Consumer Complaint,TEAM-025,Seizure/Closure,No,2025-06,No Further Action,Resolved,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00893,B0352,2025-06-23,Consumer Complaint,TEAM-025,No Major Issue,No,2025-06,Warning Issued,Resolved,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00904,B0011,2025-07-04,Risk-Based Inspection,TEAM-041,Violation Found,No,2025-07,Improvement Notice,Open,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00910,B0156,2025-07-14,Intelligence Input,TEAM-050,Seizure/Closure,No,2025-07,No Further Action,Resolved,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00914,B0016,2025-07-16,Consumer Complaint,TEAM-050,Violation Found,No,2025-07,Prosecution Initiated,Under Review,1.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00920,B0288,2025-08-04,Intelligence Input,TEAM-031,No Major Issue,No,2025-08,Fine Imposed,Resolved,0.0,1.0,2.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00922,B0382,2025-08-07,Routine Inspection,TEAM-037,Violation Found,No,2025-08,Business Temporarily Closed,Resolved,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00928,B0413,2025-08-14,Routine Inspection,TEAM-059,Violation Found,No,2025-08,Warning Issued,Resolved,1.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00939,B0365,2025-08-29,Festival Enforcement Drive,TEAM-029,Violation Found,No,2025-08,Fine Imposed,Resolved,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00952,B0202,2025-09-15,Festival Enforcement Drive,TEAM-060,Violation Found,No,2025-09,Fine Imposed,Resolved,0.0,0.0,2.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00960,B0049,2025-09-24,Consumer Complaint,TEAM-003,Seizure/Closure,No,2025-09,Fine Imposed,Open,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00965,B0382,2025-09-30,Risk-Based Inspection,TEAM-030,Sample Collected,No,2025-09,Warning Issued,Open,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00968,B0317,2025-10-04,Routine Inspection,TEAM-007,Violation Found,No,2025-10,Licence Suspended,Resolved,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00988,B0090,2025-11-11,Routine Inspection,TEAM-001,Violation Found,No,2025-11,No Further Action,Resolved,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R00994,B0059,2025-11-22,Consumer Complaint,TEAM-037,Seizure/Closure,No,2025-11,Fine Imposed,Resolved,0.0,2.0,2.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R01000,B0029,2025-11-30,Festival Enforcement Drive,TEAM-001,Sample Collected,No,2025-11,Product Seized,Open,1.0,0.0,2.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R01001,B0147,2025-12-03,Festival Enforcement Drive,TEAM-049,Sample Collected,No,2025-12,Warning Issued,Resolved,1.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R01002,B0142,2025-12-03,Festival Enforcement Drive,TEAM-038,Violation Found,No,2025-12,Prosecution Initiated,Resolved,1.0,0.0,2.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R01009,B0067,2025-12-27,Festival Enforcement Drive,TEAM-022,Seizure/Closure,No,2025-12,Improvement Notice,Under Review,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R01011,B0097,2025-12-29,Follow-up Inspection,TEAM-008,No Major Issue,No,2025-12,Prosecution Initiated,Resolved,0.0,0.0,2.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R01016,B0062,2026-01-06,Routine Inspection,TEAM-001,Violation Found,No,2026-01,Warning Issued,Open,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R01022,B0072,2026-01-10,Routine Inspection,TEAM-025,Violation Found,No,2026-01,Fine Imposed,Open,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R01023,B0275,2026-01-11,Risk-Based Inspection,TEAM-042,Seizure/Closure,No,2026-01,Improvement Notice,Resolved,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R01025,B0087,2026-01-14,Festival Enforcement Drive,TEAM-036,Violation Found,No,2026-01,Fine Imposed,Resolved,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R01032,B0475,2026-01-25,Festival Enforcement Drive,TEAM-059,Violation Found,No,2026-01,Warning Issued,Open,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R01035,B0123,2026-02-05,Risk-Based Inspection,TEAM-041,Violation Found,No,2026-02,Business Temporarily Closed,Open,0.0,0.0,2.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R01036,B0443,2026-02-06,Follow-up Inspection,TEAM-001,Seizure/Closure,No,2026-02,Prosecution Initiated,Open,1.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R01038,B0168,2026-02-08,Consumer Complaint,TEAM-031,Sample Collected,No,2026-02,Product Seized,Under Review,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R01040,B0425,2026-02-10,Consumer Complaint,TEAM-048,Violation Found,No,2026-02,Warning Issued,Open,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R01052,B0342,2026-03-08,Risk-Based Inspection,TEAM-001,Sample Collected,No,2026-03,Fine Imposed,Under Review,1.0,0.0,2.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R01056,B0322,2026-03-13,Follow-up Inspection,TEAM-013,Violation Found,No,2026-03,Product Seized,Under Review,0.0,0.0,2.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R01080,B0317,2026-04-07,Intelligence Input,TEAM-018,Seizure/Closure,No,2026-04,Product Seized,Under Review,0.0,1.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R01085,B0250,2026-04-18,Routine Inspection,TEAM-037,Sample Collected,No,2026-04,Fine Imposed,Open,1.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R01093,B0332,2026-04-24,Routine Inspection,TEAM-028,Seizure/Closure,No,2026-04,Fine Imposed,Resolved,2.0,0.0,2.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R01102,B0291,2026-05-02,Routine Inspection,TEAM-002,No Major Issue,No,2026-05,Improvement Notice,Resolved,1.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R01103,B0440,2026-05-05,Follow-up Inspection,TEAM-051,Sample Collected,No,2026-05,Prosecution Initiated,Resolved,1.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R01118,B0055,2026-05-25,Intelligence Input,TEAM-001,Violation Found,No,2026-05,Prosecution Initiated,Resolved,1.0,1.0,2.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R01127,B0439,2026-06-03,Consumer Complaint,TEAM-006,Violation Found,No,2026-06,Improvement Notice,Under Review,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R01132,B0358,2026-06-10,Risk-Based Inspection,TEAM-028,Sample Collected,No,2026-06,Business Temporarily Closed,Resolved,0.0,1.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R01135,B0158,2026-06-11,Risk-Based Inspection,TEAM-037,Seizure/Closure,No,2026-06,Improvement Notice,Open,0.0,1.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R01148,B0200,2026-06-28,Risk-Based Inspection,TEAM-010,Sample Collected,No,2026-06,Fine Imposed,Resolved,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R01153,B0082,2026-07-05,Routine Inspection,TEAM-027,Sample Collected,No,2026-07,Warning Issued,Under Review,1.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R01162,B0354,2026-07-16,Consumer Complaint,TEAM-002,Sample Collected,No,2026-07,No Further Action,Resolved,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R01167,B0406,2026-08-02,Routine Inspection,TEAM-029,Violation Found,No,2026-08,Fine Imposed,Resolved,1.0,0.0,2.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R01169,B0254,2026-08-06,Consumer Complaint,TEAM-026,Violation Found,No,2026-08,No Further Action,Resolved,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R01178,B0393,2026-08-31,Risk-Based Inspection,TEAM-005,Violation Found,No,2026-08,Product Seized,Resolved,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R01179,B0342,2026-08-31,Consumer Complaint,TEAM-009,Violation Found,No,2026-08,Fine Imposed,Resolved,0.0,0.0,2.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R01181,B0061,2026-09-04,Risk-Based Inspection,TEAM-049,Violation Found,No,2026-09,No Further Action,Resolved,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R01183,B0307,2026-09-07,Intelligence Input,TEAM-059,No Major Issue,No,2026-09,Product Seized,Resolved,1.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R01184,B0048,2026-09-08,Consumer Complaint,TEAM-035,Sample Collected,No,2026-09,Product Seized,Resolved,0.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R01187,B0103,2026-09-11,Consumer Complaint,TEAM-035,Sample Collected,No,2026-09,Licence Suspended,Under Review,1.0,0.0,1.0,False,True,False,1,Corrective action required + No follow-up,Low,3
+R01190,B0491,2026-09-15,Consumer Complaint,TEAM-055,No Major Issue,No,2026-09,Warning Issued,Under Review,1.0,0.0,2.0,False,True,False,1,Corrective action required + No follow-up,Low,3

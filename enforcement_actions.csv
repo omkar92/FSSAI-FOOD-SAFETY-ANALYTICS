@@ -1,0 +1,1201 @@
+action_id,raid_id,action_date,action_taken,fine_amount_inr,prosecution_status,case_status
+A00001,R00001,2022-01-24,Product Seized,0,Not Applicable,Resolved
+A00002,R00002,2022-01-24,Fine Imposed,1000,Not Applicable,Open
+A00003,R00003,2022-01-05,No Further Action,0,Not Applicable,Under Review
+A00004,R00004,2022-01-25,No Further Action,0,Not Applicable,Resolved
+A00005,R00005,2022-01-26,No Further Action,0,Not Applicable,Resolved
+A00006,R00006,2022-01-24,No Further Action,0,Not Applicable,Under Review
+A00007,R00007,2022-01-30,No Further Action,0,Not Applicable,Open
+A00008,R00008,2022-02-02,No Further Action,0,Not Applicable,Under Review
+A00009,R00009,2022-01-25,No Further Action,0,Closed,Open
+A00010,R00010,2022-01-22,No Further Action,0,Initiated,Resolved
+A00011,R00011,2022-02-06,No Further Action,0,Not Applicable,Resolved
+A00012,R00012,2022-01-31,Warning Issued,0,Pending,Resolved
+A00013,R00013,2022-02-01,Improvement Notice,0,Not Applicable,Resolved
+A00014,R00014,2022-01-14,No Further Action,0,Not Applicable,Resolved
+A00015,R00015,2022-01-17,No Further Action,0,Initiated,Open
+A00016,R00016,2022-02-12,Prosecution Initiated,0,Not Applicable,Under Review
+A00017,R00017,2022-01-18,Improvement Notice,0,Not Applicable,Resolved
+A00018,R00018,2022-02-03,Business Temporarily Closed,0,Not Applicable,Resolved
+A00019,R00019,2022-01-24,No Further Action,0,Not Applicable,Resolved
+A00020,R00020,2022-01-26,Fine Imposed,10000,Not Applicable,Open
+A00021,R00021,2022-02-04,Fine Imposed,25000,Not Applicable,Under Review
+A00022,R00022,2022-02-07,Warning Issued,0,Pending,Resolved
+A00023,R00023,2022-02-07,Business Temporarily Closed,0,Not Applicable,Resolved
+A00024,R00024,2022-02-09,No Further Action,0,Pending,Open
+A00025,R00025,2022-02-01,Fine Imposed,1000,Initiated,Resolved
+A00026,R00026,2022-01-26,No Further Action,0,Not Applicable,Open
+A00027,R00027,2022-02-22,Warning Issued,0,Initiated,Resolved
+A00028,R00028,2022-01-24,No Further Action,0,Closed,Under Review
+A00029,R00029,2022-02-20,No Further Action,0,Pending,Resolved
+A00030,R00030,2022-02-07,Business Temporarily Closed,0,Not Applicable,Resolved
+A00031,R00031,2022-02-13,No Further Action,0,Initiated,Resolved
+A00032,R00032,2022-02-14,No Further Action,0,Not Applicable,Under Review
+A00033,R00033,2022-02-20,Improvement Notice,0,Not Applicable,Under Review
+A00034,R00034,2022-02-24,No Further Action,0,Not Applicable,Resolved
+A00035,R00035,2022-02-10,Product Seized,0,Not Applicable,Open
+A00036,R00036,2022-02-21,Product Seized,0,Initiated,Open
+A00037,R00037,2022-02-17,Licence Suspended,0,Pending,Resolved
+A00038,R00038,2022-02-10,Business Temporarily Closed,0,Not Applicable,Open
+A00039,R00039,2022-03-01,No Further Action,0,Not Applicable,Open
+A00040,R00040,2022-03-14,No Further Action,0,Not Applicable,Open
+A00041,R00041,2022-02-28,Licence Suspended,0,Pending,Under Review
+A00042,R00042,2022-03-05,No Further Action,0,Not Applicable,Resolved
+A00043,R00043,2022-03-01,Business Temporarily Closed,0,Not Applicable,Resolved
+A00044,R00044,2022-02-23,No Further Action,0,Not Applicable,Resolved
+A00045,R00045,2022-02-18,No Further Action,0,Not Applicable,Resolved
+A00046,R00046,2022-03-10,Improvement Notice,0,Not Applicable,Resolved
+A00047,R00047,2022-03-06,No Further Action,0,Not Applicable,Under Review
+A00048,R00048,2022-03-13,No Further Action,0,Closed,Resolved
+A00049,R00049,2022-03-15,Warning Issued,0,Not Applicable,Resolved
+A00050,R00050,2022-03-09,Improvement Notice,0,Not Applicable,Resolved
+A00051,R00051,2022-03-22,Warning Issued,0,Closed,Open
+A00052,R00052,2022-03-07,No Further Action,0,Initiated,Resolved
+A00053,R00053,2022-03-09,Warning Issued,0,Not Applicable,Resolved
+A00054,R00054,2022-04-01,Fine Imposed,10000,Initiated,Resolved
+A00055,R00055,2022-03-15,No Further Action,0,Not Applicable,Under Review
+A00056,R00056,2022-03-20,Improvement Notice,0,Not Applicable,Open
+A00057,R00057,2022-03-27,Improvement Notice,0,Not Applicable,Resolved
+A00058,R00058,2022-03-22,No Further Action,0,Not Applicable,Open
+A00059,R00059,2022-04-11,No Further Action,0,Not Applicable,Under Review
+A00060,R00060,2022-04-05,Business Temporarily Closed,0,Not Applicable,Resolved
+A00061,R00061,2022-03-17,No Further Action,0,Not Applicable,Resolved
+A00062,R00062,2022-03-23,No Further Action,0,Not Applicable,Open
+A00063,R00063,2022-03-21,No Further Action,0,Not Applicable,Resolved
+A00064,R00064,2022-04-02,Business Temporarily Closed,0,Initiated,Resolved
+A00065,R00065,2022-03-30,Prosecution Initiated,0,Not Applicable,Resolved
+A00066,R00066,2022-04-01,No Further Action,0,Pending,Resolved
+A00067,R00067,2022-04-05,Improvement Notice,0,Not Applicable,Resolved
+A00068,R00068,2022-03-27,No Further Action,0,Not Applicable,Resolved
+A00069,R00069,2022-04-08,No Further Action,0,Not Applicable,Open
+A00070,R00070,2022-04-16,Fine Imposed,10000,Not Applicable,Resolved
+A00071,R00071,2022-04-26,Product Seized,0,Not Applicable,Open
+A00072,R00072,2022-04-22,No Further Action,0,Not Applicable,Open
+A00073,R00073,2022-04-16,Warning Issued,0,Closed,Resolved
+A00074,R00074,2022-04-18,Improvement Notice,0,Pending,Open
+A00075,R00075,2022-04-22,Improvement Notice,0,Closed,Under Review
+A00076,R00076,2022-05-01,No Further Action,0,Not Applicable,Resolved
+A00077,R00077,2022-05-06,No Further Action,0,Closed,Under Review
+A00078,R00078,2022-05-19,Licence Suspended,0,Not Applicable,Under Review
+A00079,R00079,2022-05-20,No Further Action,0,Initiated,Under Review
+A00080,R00080,2022-05-11,No Further Action,0,Not Applicable,Open
+A00081,R00081,2022-05-26,Licence Suspended,0,Not Applicable,Resolved
+A00082,R00082,2022-04-27,Licence Suspended,0,Not Applicable,Resolved
+A00083,R00083,2022-05-12,Improvement Notice,0,Not Applicable,Resolved
+A00084,R00084,2022-05-27,Improvement Notice,0,Not Applicable,Resolved
+A00085,R00085,2022-05-04,Improvement Notice,0,Pending,Resolved
+A00086,R00086,2022-05-19,Improvement Notice,0,Not Applicable,Resolved
+A00087,R00087,2022-05-30,Improvement Notice,0,Closed,Resolved
+A00088,R00088,2022-05-31,Warning Issued,0,Not Applicable,Resolved
+A00089,R00089,2022-05-08,No Further Action,0,Not Applicable,Under Review
+A00090,R00090,2022-05-31,No Further Action,0,Pending,Resolved
+A00091,R00091,2022-05-24,No Further Action,0,Pending,Resolved
+A00092,R00092,2022-05-13,Licence Suspended,0,Not Applicable,Open
+A00093,R00093,2022-05-15,Warning Issued,0,Closed,Open
+A00094,R00094,2022-05-31,Fine Imposed,25000,Not Applicable,Under Review
+A00095,R00095,2022-05-31,Warning Issued,0,Closed,Resolved
+A00096,R00096,2022-06-05,Improvement Notice,0,Not Applicable,Under Review
+A00097,R00097,2022-06-07,Warning Issued,0,Not Applicable,Under Review
+A00098,R00098,2022-06-09,No Further Action,0,Pending,Resolved
+A00099,R00099,2022-06-02,Improvement Notice,0,Not Applicable,Under Review
+A00100,R00100,2022-05-30,Prosecution Initiated,0,Not Applicable,Resolved
+A00101,R00101,2022-06-13,No Further Action,0,Not Applicable,Under Review
+A00102,R00102,2022-06-05,Fine Imposed,2500,Pending,Resolved
+A00103,R00103,2022-06-01,Product Seized,0,Not Applicable,Resolved
+A00104,R00104,2022-06-13,Fine Imposed,2500,Not Applicable,Open
+A00105,R00105,2022-06-19,Warning Issued,0,Initiated,Open
+A00106,R00106,2022-06-07,No Further Action,0,Not Applicable,Under Review
+A00107,R00107,2022-06-04,No Further Action,0,Not Applicable,Resolved
+A00108,R00108,2022-06-21,Warning Issued,0,Not Applicable,Resolved
+A00109,R00109,2022-06-27,Warning Issued,0,Not Applicable,Resolved
+A00110,R00110,2022-06-22,Warning Issued,0,Closed,Under Review
+A00111,R00111,2022-06-30,No Further Action,0,Not Applicable,Open
+A00112,R00112,2022-06-18,Improvement Notice,0,Not Applicable,Open
+A00113,R00113,2022-06-24,No Further Action,0,Not Applicable,Resolved
+A00114,R00114,2022-06-25,Improvement Notice,0,Closed,Under Review
+A00115,R00115,2022-06-19,Business Temporarily Closed,0,Not Applicable,Resolved
+A00116,R00116,2022-07-06,Fine Imposed,1000,Not Applicable,Open
+A00117,R00117,2022-06-22,Improvement Notice,0,Not Applicable,Open
+A00118,R00118,2022-07-01,Business Temporarily Closed,0,Not Applicable,Resolved
+A00119,R00119,2022-07-07,No Further Action,0,Closed,Open
+A00120,R00120,2022-07-02,Warning Issued,0,Not Applicable,Resolved
+A00121,R00121,2022-07-18,Improvement Notice,0,Not Applicable,Resolved
+A00122,R00122,2022-07-26,Improvement Notice,0,Not Applicable,Resolved
+A00123,R00123,2022-07-10,No Further Action,0,Pending,Resolved
+A00124,R00124,2022-07-07,Warning Issued,0,Not Applicable,Open
+A00125,R00125,2022-07-15,Product Seized,0,Pending,Resolved
+A00126,R00126,2022-07-14,Warning Issued,0,Not Applicable,Under Review
+A00127,R00127,2022-07-17,Prosecution Initiated,0,Pending,Resolved
+A00128,R00128,2022-08-02,No Further Action,0,Not Applicable,Resolved
+A00129,R00129,2022-07-23,Product Seized,0,Not Applicable,Open
+A00130,R00130,2022-07-28,Prosecution Initiated,0,Initiated,Resolved
+A00131,R00131,2022-08-08,Fine Imposed,25000,Initiated,Open
+A00132,R00132,2022-07-24,Warning Issued,0,Not Applicable,Under Review
+A00133,R00133,2022-08-08,Warning Issued,0,Not Applicable,Resolved
+A00134,R00134,2022-08-03,Warning Issued,0,Initiated,Open
+A00135,R00135,2022-07-25,Warning Issued,0,Not Applicable,Resolved
+A00136,R00136,2022-07-27,Fine Imposed,100000,Initiated,Resolved
+A00137,R00137,2022-07-27,Warning Issued,0,Pending,Open
+A00138,R00138,2022-08-03,No Further Action,0,Not Applicable,Open
+A00139,R00139,2022-08-18,Improvement Notice,0,Not Applicable,Open
+A00140,R00140,2022-07-22,Licence Suspended,0,Not Applicable,Resolved
+A00141,R00141,2022-08-21,Warning Issued,0,Initiated,Resolved
+A00142,R00142,2022-07-27,No Further Action,0,Not Applicable,Resolved
+A00143,R00143,2022-08-07,Improvement Notice,0,Not Applicable,Resolved
+A00144,R00144,2022-07-29,Improvement Notice,0,Closed,Resolved
+A00145,R00145,2022-07-31,Licence Suspended,0,Not Applicable,Resolved
+A00146,R00146,2022-08-21,Product Seized,0,Initiated,Open
+A00147,R00147,2022-08-24,No Further Action,0,Not Applicable,Open
+A00148,R00148,2022-08-16,No Further Action,0,Not Applicable,Resolved
+A00149,R00149,2022-08-08,No Further Action,0,Not Applicable,Under Review
+A00150,R00150,2022-08-26,No Further Action,0,Not Applicable,Open
+A00151,R00151,2022-08-03,Warning Issued,0,Not Applicable,Open
+A00152,R00152,2022-08-03,Fine Imposed,1000,Not Applicable,Resolved
+A00153,R00153,2022-08-27,Improvement Notice,0,Not Applicable,Open
+A00154,R00154,2022-08-31,Improvement Notice,0,Not Applicable,Under Review
+A00155,R00155,2022-08-22,Improvement Notice,0,Not Applicable,Under Review
+A00156,R00156,2022-08-21,Fine Imposed,5000,Not Applicable,Resolved
+A00157,R00157,2022-09-03,Warning Issued,0,Pending,Resolved
+A00158,R00158,2022-08-14,Warning Issued,0,Not Applicable,Resolved
+A00159,R00159,2022-09-02,No Further Action,0,Not Applicable,Resolved
+A00160,R00160,2022-08-28,No Further Action,0,Not Applicable,Open
+A00161,R00161,2022-09-09,No Further Action,0,Not Applicable,Resolved
+A00162,R00162,2022-09-08,Licence Suspended,0,Not Applicable,Under Review
+A00163,R00163,2022-08-27,Warning Issued,0,Initiated,Under Review
+A00164,R00164,2022-09-20,No Further Action,0,Not Applicable,Under Review
+A00165,R00165,2022-08-29,Warning Issued,0,Not Applicable,Resolved
+A00166,R00166,2022-09-21,No Further Action,0,Not Applicable,Resolved
+A00167,R00167,2022-09-23,Fine Imposed,10000,Not Applicable,Under Review
+A00168,R00168,2022-09-18,Warning Issued,0,Closed,Resolved
+A00169,R00169,2022-09-28,Warning Issued,0,Not Applicable,Open
+A00170,R00170,2022-09-29,Product Seized,0,Not Applicable,Open
+A00171,R00171,2022-09-10,Improvement Notice,0,Not Applicable,Under Review
+A00172,R00172,2022-09-22,Business Temporarily Closed,0,Initiated,Open
+A00173,R00173,2022-09-29,Improvement Notice,0,Not Applicable,Resolved
+A00174,R00174,2022-10-06,Warning Issued,0,Initiated,Under Review
+A00175,R00175,2022-09-17,Improvement Notice,0,Not Applicable,Under Review
+A00176,R00176,2022-09-25,Warning Issued,0,Closed,Resolved
+A00177,R00177,2022-09-21,Warning Issued,0,Pending,Under Review
+A00178,R00178,2022-09-10,Product Seized,0,Pending,Resolved
+A00179,R00179,2022-09-23,Licence Suspended,0,Initiated,Open
+A00180,R00180,2022-09-24,Warning Issued,0,Not Applicable,Open
+A00181,R00181,2022-10-04,Warning Issued,0,Not Applicable,Resolved
+A00182,R00182,2022-10-14,Business Temporarily Closed,0,Pending,Under Review
+A00183,R00183,2022-10-07,No Further Action,0,Pending,Under Review
+A00184,R00184,2022-10-11,Licence Suspended,0,Not Applicable,Open
+A00185,R00185,2022-10-22,Improvement Notice,0,Closed,Under Review
+A00186,R00186,2022-10-16,No Further Action,0,Not Applicable,Open
+A00187,R00187,2022-10-12,No Further Action,0,Not Applicable,Resolved
+A00188,R00188,2022-10-19,Fine Imposed,2500,Not Applicable,Resolved
+A00189,R00189,2022-10-23,Warning Issued,0,Not Applicable,Resolved
+A00190,R00190,2022-10-20,No Further Action,0,Initiated,Resolved
+A00191,R00191,2022-10-28,Improvement Notice,0,Not Applicable,Resolved
+A00192,R00192,2022-10-12,Product Seized,0,Not Applicable,Resolved
+A00193,R00193,2022-10-16,Warning Issued,0,Not Applicable,Under Review
+A00194,R00194,2022-10-30,No Further Action,0,Not Applicable,Resolved
+A00195,R00195,2022-10-15,Licence Suspended,0,Not Applicable,Under Review
+A00196,R00196,2022-10-08,No Further Action,0,Not Applicable,Open
+A00197,R00197,2022-10-21,No Further Action,0,Closed,Resolved
+A00198,R00198,2022-10-24,No Further Action,0,Not Applicable,Resolved
+A00199,R00199,2022-10-20,Warning Issued,0,Not Applicable,Resolved
+A00200,R00200,2022-10-27,Product Seized,0,Not Applicable,Resolved
+A00201,R00201,2022-10-30,Product Seized,0,Initiated,Under Review
+A00202,R00202,2022-11-07,No Further Action,0,Not Applicable,Resolved
+A00203,R00203,2022-11-13,No Further Action,0,Not Applicable,Under Review
+A00204,R00204,2022-11-03,Warning Issued,0,Pending,Resolved
+A00205,R00205,2022-10-24,Warning Issued,0,Closed,Resolved
+A00206,R00206,2022-10-26,Improvement Notice,0,Not Applicable,Resolved
+A00207,R00207,2022-10-27,Prosecution Initiated,0,Not Applicable,Resolved
+A00208,R00208,2022-11-08,No Further Action,0,Not Applicable,Under Review
+A00209,R00209,2022-11-05,Warning Issued,0,Pending,Resolved
+A00210,R00210,2022-11-15,No Further Action,0,Not Applicable,Under Review
+A00211,R00211,2022-11-05,No Further Action,0,Not Applicable,Resolved
+A00212,R00212,2022-11-09,No Further Action,0,Not Applicable,Resolved
+A00213,R00213,2022-11-27,No Further Action,0,Not Applicable,Resolved
+A00214,R00214,2022-11-25,Warning Issued,0,Not Applicable,Resolved
+A00215,R00215,2022-12-13,No Further Action,0,Not Applicable,Resolved
+A00216,R00216,2022-12-10,Licence Suspended,0,Not Applicable,Resolved
+A00217,R00217,2022-11-19,No Further Action,0,Not Applicable,Resolved
+A00218,R00218,2022-12-04,Warning Issued,0,Not Applicable,Resolved
+A00219,R00219,2022-12-06,No Further Action,0,Not Applicable,Resolved
+A00220,R00220,2022-12-16,No Further Action,0,Not Applicable,Open
+A00221,R00221,2022-12-01,Fine Imposed,1000,Initiated,Open
+A00222,R00222,2022-12-08,Improvement Notice,0,Not Applicable,Open
+A00223,R00223,2022-12-20,No Further Action,0,Not Applicable,Resolved
+A00224,R00224,2022-12-15,Product Seized,0,Not Applicable,Under Review
+A00225,R00225,2022-11-28,No Further Action,0,Not Applicable,Open
+A00226,R00226,2022-12-25,Warning Issued,0,Not Applicable,Open
+A00227,R00227,2022-11-27,No Further Action,0,Pending,Resolved
+A00228,R00228,2022-12-09,No Further Action,0,Not Applicable,Open
+A00229,R00229,2022-12-01,No Further Action,0,Pending,Resolved
+A00230,R00230,2022-12-29,No Further Action,0,Not Applicable,Open
+A00231,R00231,2022-12-07,No Further Action,0,Not Applicable,Resolved
+A00232,R00232,2022-12-23,Business Temporarily Closed,0,Not Applicable,Resolved
+A00233,R00233,2022-12-08,Fine Imposed,5000,Not Applicable,Open
+A00234,R00234,2022-12-26,Warning Issued,0,Not Applicable,Resolved
+A00235,R00235,2022-12-10,Improvement Notice,0,Not Applicable,Resolved
+A00236,R00236,2022-12-29,No Further Action,0,Not Applicable,Resolved
+A00237,R00237,2022-12-31,Business Temporarily Closed,0,Not Applicable,Open
+A00238,R00238,2022-12-19,No Further Action,0,Not Applicable,Under Review
+A00239,R00239,2022-12-26,Licence Suspended,0,Pending,Open
+A00240,R00240,2023-01-03,Prosecution Initiated,0,Not Applicable,Under Review
+A00241,R00241,2023-01-08,No Further Action,0,Not Applicable,Open
+A00242,R00242,2023-01-12,Business Temporarily Closed,0,Not Applicable,Resolved
+A00243,R00243,2023-01-07,Licence Suspended,0,Not Applicable,Resolved
+A00244,R00244,2023-01-14,No Further Action,0,Not Applicable,Resolved
+A00245,R00245,2023-01-13,Fine Imposed,10000,Not Applicable,Under Review
+A00246,R00246,2023-01-11,No Further Action,0,Not Applicable,Resolved
+A00247,R00247,2023-01-14,Product Seized,0,Not Applicable,Resolved
+A00248,R00248,2023-01-25,Warning Issued,0,Not Applicable,Resolved
+A00249,R00249,2023-01-10,Improvement Notice,0,Not Applicable,Resolved
+A00250,R00250,2023-01-10,Prosecution Initiated,0,Not Applicable,Under Review
+A00251,R00251,2023-01-05,Fine Imposed,10000,Not Applicable,Under Review
+A00252,R00252,2023-02-06,No Further Action,0,Not Applicable,Resolved
+A00253,R00253,2023-01-10,No Further Action,0,Not Applicable,Resolved
+A00254,R00254,2023-02-10,No Further Action,0,Not Applicable,Resolved
+A00255,R00255,2023-02-09,No Further Action,0,Pending,Resolved
+A00256,R00256,2023-01-16,Business Temporarily Closed,0,Not Applicable,Under Review
+A00257,R00257,2023-01-22,No Further Action,0,Initiated,Open
+A00258,R00258,2023-01-19,Warning Issued,0,Closed,Open
+A00259,R00259,2023-01-19,No Further Action,0,Not Applicable,Resolved
+A00260,R00260,2023-01-28,No Further Action,0,Not Applicable,Open
+A00261,R00261,2023-01-30,No Further Action,0,Not Applicable,Under Review
+A00262,R00262,2023-02-15,Improvement Notice,0,Not Applicable,Resolved
+A00263,R00263,2023-02-03,No Further Action,0,Not Applicable,Resolved
+A00264,R00264,2023-02-19,Improvement Notice,0,Pending,Resolved
+A00265,R00265,2023-02-17,No Further Action,0,Not Applicable,Resolved
+A00266,R00266,2023-02-25,Fine Imposed,25000,Pending,Resolved
+A00267,R00267,2023-02-06,No Further Action,0,Not Applicable,Under Review
+A00268,R00268,2023-02-22,Prosecution Initiated,0,Not Applicable,Under Review
+A00269,R00269,2023-02-22,No Further Action,0,Not Applicable,Under Review
+A00270,R00270,2023-02-07,Warning Issued,0,Not Applicable,Resolved
+A00271,R00271,2023-02-22,Warning Issued,0,Not Applicable,Resolved
+A00272,R00272,2023-02-22,Fine Imposed,5000,Initiated,Under Review
+A00273,R00273,2023-02-15,Fine Imposed,10000,Closed,Resolved
+A00274,R00274,2023-03-03,Business Temporarily Closed,0,Initiated,Open
+A00275,R00275,2023-02-21,Licence Suspended,0,Not Applicable,Resolved
+A00276,R00276,2023-03-01,Product Seized,0,Not Applicable,Resolved
+A00277,R00277,2023-03-20,No Further Action,0,Initiated,Under Review
+A00278,R00278,2023-03-07,No Further Action,0,Not Applicable,Resolved
+A00279,R00279,2023-03-14,Warning Issued,0,Not Applicable,Resolved
+A00280,R00280,2023-03-08,No Further Action,0,Not Applicable,Resolved
+A00281,R00281,2023-03-20,Improvement Notice,0,Not Applicable,Resolved
+A00282,R00282,2023-02-28,Warning Issued,0,Not Applicable,Resolved
+A00283,R00283,2023-03-03,No Further Action,0,Not Applicable,Under Review
+A00284,R00284,2023-03-12,Fine Imposed,2500,Not Applicable,Resolved
+A00285,R00285,2023-03-14,Product Seized,0,Initiated,Open
+A00286,R00286,2023-03-25,No Further Action,0,Closed,Under Review
+A00287,R00287,2023-03-26,Warning Issued,0,Pending,Resolved
+A00288,R00288,2023-03-27,No Further Action,0,Not Applicable,Resolved
+A00289,R00289,2023-03-17,Licence Suspended,0,Not Applicable,Under Review
+A00290,R00290,2023-03-19,No Further Action,0,Not Applicable,Resolved
+A00291,R00291,2023-03-16,Product Seized,0,Not Applicable,Resolved
+A00292,R00292,2023-04-08,Warning Issued,0,Not Applicable,Resolved
+A00293,R00293,2023-03-24,Product Seized,0,Initiated,Resolved
+A00294,R00294,2023-03-14,Warning Issued,0,Pending,Under Review
+A00295,R00295,2023-04-07,No Further Action,0,Not Applicable,Resolved
+A00296,R00296,2023-03-30,No Further Action,0,Not Applicable,Open
+A00297,R00297,2023-03-22,Warning Issued,0,Closed,Open
+A00298,R00298,2023-03-25,No Further Action,0,Not Applicable,Open
+A00299,R00299,2023-04-17,Improvement Notice,0,Not Applicable,Resolved
+A00300,R00300,2023-04-19,Product Seized,0,Closed,Open
+A00301,R00301,2023-03-24,Product Seized,0,Not Applicable,Resolved
+A00302,R00302,2023-03-25,Fine Imposed,5000,Pending,Under Review
+A00303,R00303,2023-04-14,Product Seized,0,Not Applicable,Under Review
+A00304,R00304,2023-03-24,Warning Issued,0,Not Applicable,Resolved
+A00305,R00305,2023-04-19,Business Temporarily Closed,0,Pending,Resolved
+A00306,R00306,2023-03-27,Licence Suspended,0,Not Applicable,Resolved
+A00307,R00307,2023-04-17,No Further Action,0,Not Applicable,Under Review
+A00308,R00308,2023-04-21,Product Seized,0,Initiated,Resolved
+A00309,R00309,2023-04-23,Business Temporarily Closed,0,Pending,Resolved
+A00310,R00310,2023-04-02,Licence Suspended,0,Not Applicable,Resolved
+A00311,R00311,2023-04-21,No Further Action,0,Not Applicable,Under Review
+A00312,R00312,2023-04-19,Licence Suspended,0,Not Applicable,Under Review
+A00313,R00313,2023-05-04,Product Seized,0,Not Applicable,Under Review
+A00314,R00314,2023-04-10,Business Temporarily Closed,0,Not Applicable,Resolved
+A00315,R00315,2023-04-18,Warning Issued,0,Pending,Resolved
+A00316,R00316,2023-04-27,No Further Action,0,Not Applicable,Resolved
+A00317,R00317,2023-04-11,Improvement Notice,0,Pending,Resolved
+A00318,R00318,2023-04-25,No Further Action,0,Initiated,Resolved
+A00319,R00319,2023-04-24,Warning Issued,0,Not Applicable,Resolved
+A00320,R00320,2023-05-05,Product Seized,0,Not Applicable,Resolved
+A00321,R00321,2023-04-12,Fine Imposed,5000,Not Applicable,Resolved
+A00322,R00322,2023-05-08,No Further Action,0,Not Applicable,Resolved
+A00323,R00323,2023-05-10,Warning Issued,0,Not Applicable,Resolved
+A00324,R00324,2023-04-28,Business Temporarily Closed,0,Not Applicable,Resolved
+A00325,R00325,2023-04-25,Product Seized,0,Not Applicable,Open
+A00326,R00326,2023-05-01,Improvement Notice,0,Not Applicable,Under Review
+A00327,R00327,2023-05-05,Fine Imposed,50000,Not Applicable,Under Review
+A00328,R00328,2023-05-08,Warning Issued,0,Not Applicable,Under Review
+A00329,R00329,2023-05-10,Fine Imposed,5000,Pending,Resolved
+A00330,R00330,2023-05-21,Warning Issued,0,Pending,Resolved
+A00331,R00331,2023-05-19,No Further Action,0,Closed,Resolved
+A00332,R00332,2023-04-27,Warning Issued,0,Not Applicable,Under Review
+A00333,R00333,2023-05-19,No Further Action,0,Not Applicable,Resolved
+A00334,R00334,2023-05-19,Improvement Notice,0,Closed,Resolved
+A00335,R00335,2023-05-22,Prosecution Initiated,0,Not Applicable,Under Review
+A00336,R00336,2023-05-19,No Further Action,0,Not Applicable,Resolved
+A00337,R00337,2023-05-16,Improvement Notice,0,Not Applicable,Resolved
+A00338,R00338,2023-05-16,No Further Action,0,Not Applicable,Under Review
+A00339,R00339,2023-05-18,Improvement Notice,0,Not Applicable,Under Review
+A00340,R00340,2023-06-06,No Further Action,0,Not Applicable,Under Review
+A00341,R00341,2023-06-05,No Further Action,0,Pending,Open
+A00342,R00342,2023-05-27,Improvement Notice,0,Pending,Resolved
+A00343,R00343,2023-05-13,Fine Imposed,100000,Closed,Under Review
+A00344,R00344,2023-05-12,Fine Imposed,5000,Not Applicable,Resolved
+A00345,R00345,2023-05-16,Business Temporarily Closed,0,Pending,Resolved
+A00346,R00346,2023-05-28,Prosecution Initiated,0,Not Applicable,Under Review
+A00347,R00347,2023-06-05,Warning Issued,0,Closed,Resolved
+A00348,R00348,2023-05-31,Warning Issued,0,Pending,Under Review
+A00349,R00349,2023-06-11,Prosecution Initiated,0,Not Applicable,Open
+A00350,R00350,2023-06-09,No Further Action,0,Not Applicable,Under Review
+A00351,R00351,2023-06-16,Warning Issued,0,Not Applicable,Open
+A00352,R00352,2023-06-23,Warning Issued,0,Not Applicable,Under Review
+A00353,R00353,2023-06-15,Licence Suspended,0,Not Applicable,Open
+A00354,R00354,2023-07-01,Warning Issued,0,Initiated,Under Review
+A00355,R00355,2023-07-03,Product Seized,0,Not Applicable,Resolved
+A00356,R00356,2023-07-08,Warning Issued,0,Closed,Resolved
+A00357,R00357,2023-07-06,Improvement Notice,0,Not Applicable,Under Review
+A00358,R00358,2023-06-27,Product Seized,0,Not Applicable,Resolved
+A00359,R00359,2023-06-21,No Further Action,0,Not Applicable,Resolved
+A00360,R00360,2023-06-19,Improvement Notice,0,Closed,Resolved
+A00361,R00361,2023-06-30,No Further Action,0,Not Applicable,Open
+A00362,R00362,2023-07-21,Product Seized,0,Not Applicable,Resolved
+A00363,R00363,2023-07-09,Improvement Notice,0,Not Applicable,Resolved
+A00364,R00364,2023-07-23,No Further Action,0,Not Applicable,Under Review
+A00365,R00365,2023-06-25,Fine Imposed,1000,Not Applicable,Under Review
+A00366,R00366,2023-07-17,Warning Issued,0,Not Applicable,Resolved
+A00367,R00367,2023-07-28,Prosecution Initiated,0,Not Applicable,Open
+A00368,R00368,2023-07-25,Warning Issued,0,Not Applicable,Resolved
+A00369,R00369,2023-07-06,Warning Issued,0,Pending,Open
+A00370,R00370,2023-07-17,Warning Issued,0,Not Applicable,Resolved
+A00371,R00371,2023-07-15,Warning Issued,0,Not Applicable,Under Review
+A00372,R00372,2023-07-22,No Further Action,0,Closed,Open
+A00373,R00373,2023-07-22,Product Seized,0,Not Applicable,Resolved
+A00374,R00374,2023-07-23,Fine Imposed,50000,Pending,Resolved
+A00375,R00375,2023-07-24,No Further Action,0,Pending,Under Review
+A00376,R00376,2023-08-01,Licence Suspended,0,Pending,Resolved
+A00377,R00377,2023-07-23,No Further Action,0,Not Applicable,Open
+A00378,R00378,2023-08-10,Improvement Notice,0,Not Applicable,Resolved
+A00379,R00379,2023-08-01,Business Temporarily Closed,0,Not Applicable,Resolved
+A00380,R00380,2023-08-05,No Further Action,0,Closed,Open
+A00381,R00381,2023-08-11,Warning Issued,0,Not Applicable,Open
+A00382,R00382,2023-07-28,Warning Issued,0,Not Applicable,Resolved
+A00383,R00383,2023-08-03,No Further Action,0,Not Applicable,Resolved
+A00384,R00384,2023-08-14,Fine Imposed,5000,Not Applicable,Open
+A00385,R00385,2023-08-04,No Further Action,0,Closed,Under Review
+A00386,R00386,2023-08-04,No Further Action,0,Not Applicable,Under Review
+A00387,R00387,2023-08-23,No Further Action,0,Not Applicable,Open
+A00388,R00388,2023-08-02,Product Seized,0,Not Applicable,Under Review
+A00389,R00389,2023-08-19,No Further Action,0,Not Applicable,Resolved
+A00390,R00390,2023-08-11,Improvement Notice,0,Not Applicable,Resolved
+A00391,R00391,2023-08-12,No Further Action,0,Not Applicable,Resolved
+A00392,R00392,2023-07-30,Warning Issued,0,Not Applicable,Resolved
+A00393,R00393,2023-08-09,No Further Action,0,Not Applicable,Resolved
+A00394,R00394,2023-08-12,Product Seized,0,Not Applicable,Under Review
+A00395,R00395,2023-08-29,No Further Action,0,Pending,Resolved
+A00396,R00396,2023-08-21,Business Temporarily Closed,0,Not Applicable,Resolved
+A00397,R00397,2023-08-14,Warning Issued,0,Not Applicable,Under Review
+A00398,R00398,2023-08-10,Improvement Notice,0,Not Applicable,Under Review
+A00399,R00399,2023-08-18,Business Temporarily Closed,0,Not Applicable,Resolved
+A00400,R00400,2023-08-28,No Further Action,0,Pending,Under Review
+A00401,R00401,2023-08-31,Fine Imposed,10000,Not Applicable,Open
+A00402,R00402,2023-08-10,Fine Imposed,100000,Not Applicable,Resolved
+A00403,R00403,2023-08-21,Improvement Notice,0,Initiated,Open
+A00404,R00404,2023-08-28,Business Temporarily Closed,0,Not Applicable,Open
+A00405,R00405,2023-09-04,Warning Issued,0,Not Applicable,Under Review
+A00406,R00406,2023-09-12,Improvement Notice,0,Not Applicable,Under Review
+A00407,R00407,2023-09-11,No Further Action,0,Not Applicable,Under Review
+A00408,R00408,2023-09-02,Improvement Notice,0,Not Applicable,Resolved
+A00409,R00409,2023-09-24,No Further Action,0,Not Applicable,Resolved
+A00410,R00410,2023-09-18,No Further Action,0,Not Applicable,Resolved
+A00411,R00411,2023-09-24,Product Seized,0,Not Applicable,Open
+A00412,R00412,2023-09-11,Improvement Notice,0,Not Applicable,Resolved
+A00413,R00413,2023-09-07,No Further Action,0,Not Applicable,Resolved
+A00414,R00414,2023-09-14,Business Temporarily Closed,0,Not Applicable,Resolved
+A00415,R00415,2023-09-15,Fine Imposed,2500,Not Applicable,Open
+A00416,R00416,2023-09-28,Warning Issued,0,Not Applicable,Resolved
+A00417,R00417,2023-09-18,No Further Action,0,Not Applicable,Resolved
+A00418,R00418,2023-09-21,Product Seized,0,Not Applicable,Resolved
+A00419,R00419,2023-09-28,Improvement Notice,0,Not Applicable,Under Review
+A00420,R00420,2023-09-27,Warning Issued,0,Pending,Resolved
+A00421,R00421,2023-10-01,Fine Imposed,10000,Not Applicable,Resolved
+A00422,R00422,2023-10-11,No Further Action,0,Not Applicable,Resolved
+A00423,R00423,2023-09-29,Prosecution Initiated,0,Not Applicable,Resolved
+A00424,R00424,2023-10-15,Warning Issued,0,Not Applicable,Resolved
+A00425,R00425,2023-10-23,No Further Action,0,Not Applicable,Under Review
+A00426,R00426,2023-10-09,Prosecution Initiated,0,Not Applicable,Open
+A00427,R00427,2023-10-01,Improvement Notice,0,Not Applicable,Open
+A00428,R00428,2023-10-04,Warning Issued,0,Not Applicable,Open
+A00429,R00429,2023-10-11,No Further Action,0,Not Applicable,Resolved
+A00430,R00430,2023-09-30,Improvement Notice,0,Pending,Open
+A00431,R00431,2023-10-23,Fine Imposed,5000,Not Applicable,Under Review
+A00432,R00432,2023-10-29,Fine Imposed,10000,Not Applicable,Under Review
+A00433,R00433,2023-10-03,Fine Imposed,100000,Not Applicable,Resolved
+A00434,R00434,2023-10-18,Fine Imposed,25000,Not Applicable,Under Review
+A00435,R00435,2023-10-20,No Further Action,0,Not Applicable,Open
+A00436,R00436,2023-10-09,Fine Imposed,25000,Not Applicable,Open
+A00437,R00437,2023-10-25,No Further Action,0,Initiated,Under Review
+A00438,R00438,2023-10-09,Fine Imposed,2500,Not Applicable,Resolved
+A00439,R00439,2023-10-15,No Further Action,0,Pending,Resolved
+A00440,R00440,2023-10-25,No Further Action,0,Initiated,Open
+A00441,R00441,2023-11-02,Fine Imposed,10000,Not Applicable,Resolved
+A00442,R00442,2023-11-07,No Further Action,0,Not Applicable,Under Review
+A00443,R00443,2023-10-28,No Further Action,0,Initiated,Resolved
+A00444,R00444,2023-10-23,Business Temporarily Closed,0,Closed,Open
+A00445,R00445,2023-11-03,Improvement Notice,0,Not Applicable,Open
+A00446,R00446,2023-10-25,Product Seized,0,Not Applicable,Resolved
+A00447,R00447,2023-10-29,Warning Issued,0,Not Applicable,Resolved
+A00448,R00448,2023-10-29,Warning Issued,0,Not Applicable,Resolved
+A00449,R00449,2023-11-06,Product Seized,0,Not Applicable,Resolved
+A00450,R00450,2023-10-23,Improvement Notice,0,Closed,Resolved
+A00451,R00451,2023-10-25,Business Temporarily Closed,0,Not Applicable,Open
+A00452,R00452,2023-11-17,No Further Action,0,Not Applicable,Resolved
+A00453,R00453,2023-10-22,No Further Action,0,Not Applicable,Open
+A00454,R00454,2023-11-20,No Further Action,0,Not Applicable,Open
+A00455,R00455,2023-11-16,Warning Issued,0,Not Applicable,Open
+A00456,R00456,2023-11-06,Warning Issued,0,Not Applicable,Under Review
+A00457,R00457,2023-11-02,Warning Issued,0,Not Applicable,Under Review
+A00458,R00458,2023-11-24,No Further Action,0,Initiated,Resolved
+A00459,R00459,2023-11-08,Improvement Notice,0,Not Applicable,Open
+A00460,R00460,2023-11-17,Improvement Notice,0,Not Applicable,Resolved
+A00461,R00461,2023-11-30,Improvement Notice,0,Initiated,Resolved
+A00462,R00462,2023-11-23,No Further Action,0,Initiated,Open
+A00463,R00463,2023-11-17,No Further Action,0,Pending,Open
+A00464,R00464,2023-11-27,Warning Issued,0,Not Applicable,Under Review
+A00465,R00465,2023-11-26,Warning Issued,0,Not Applicable,Resolved
+A00466,R00466,2023-12-01,Prosecution Initiated,0,Not Applicable,Resolved
+A00467,R00467,2023-12-01,Improvement Notice,0,Not Applicable,Under Review
+A00468,R00468,2023-11-22,No Further Action,0,Not Applicable,Resolved
+A00469,R00469,2023-11-22,Product Seized,0,Not Applicable,Under Review
+A00470,R00470,2023-12-01,No Further Action,0,Pending,Resolved
+A00471,R00471,2023-12-08,Improvement Notice,0,Initiated,Open
+A00472,R00472,2023-12-02,No Further Action,0,Not Applicable,Resolved
+A00473,R00473,2023-11-25,Product Seized,0,Initiated,Under Review
+A00474,R00474,2023-11-28,Business Temporarily Closed,0,Not Applicable,Resolved
+A00475,R00475,2023-11-24,Fine Imposed,2500,Closed,Resolved
+A00476,R00476,2023-11-24,Warning Issued,0,Not Applicable,Resolved
+A00477,R00477,2023-12-09,Prosecution Initiated,0,Closed,Resolved
+A00478,R00478,2023-12-19,No Further Action,0,Not Applicable,Open
+A00479,R00479,2023-12-08,No Further Action,0,Not Applicable,Resolved
+A00480,R00480,2023-12-09,Product Seized,0,Not Applicable,Open
+A00481,R00481,2023-12-05,Warning Issued,0,Pending,Open
+A00482,R00482,2023-12-23,Warning Issued,0,Not Applicable,Open
+A00483,R00483,2023-12-06,Fine Imposed,50000,Not Applicable,Open
+A00484,R00484,2023-12-15,Licence Suspended,0,Not Applicable,Resolved
+A00485,R00485,2023-12-13,Warning Issued,0,Pending,Resolved
+A00486,R00486,2023-12-04,Fine Imposed,50000,Not Applicable,Open
+A00487,R00487,2023-12-09,Improvement Notice,0,Not Applicable,Under Review
+A00488,R00488,2023-12-07,Warning Issued,0,Pending,Under Review
+A00489,R00489,2023-12-22,Fine Imposed,2500,Initiated,Resolved
+A00490,R00490,2023-12-17,Improvement Notice,0,Not Applicable,Under Review
+A00491,R00491,2023-12-21,Fine Imposed,100000,Pending,Resolved
+A00492,R00492,2023-12-10,Fine Imposed,25000,Not Applicable,Open
+A00493,R00493,2023-12-05,Product Seized,0,Not Applicable,Open
+A00494,R00494,2023-12-07,Warning Issued,0,Initiated,Resolved
+A00495,R00495,2023-12-31,Product Seized,0,Closed,Resolved
+A00496,R00496,2023-12-21,No Further Action,0,Not Applicable,Open
+A00497,R00497,2024-01-06,Product Seized,0,Not Applicable,Resolved
+A00498,R00498,2023-12-16,No Further Action,0,Not Applicable,Resolved
+A00499,R00499,2023-12-20,No Further Action,0,Not Applicable,Resolved
+A00500,R00500,2023-12-24,Warning Issued,0,Pending,Open
+A00501,R00501,2023-12-10,No Further Action,0,Not Applicable,Open
+A00502,R00502,2023-12-11,Warning Issued,0,Not Applicable,Resolved
+A00503,R00503,2024-01-08,Product Seized,0,Pending,Resolved
+A00504,R00504,2023-12-19,Fine Imposed,10000,Initiated,Resolved
+A00505,R00505,2024-01-13,Product Seized,0,Not Applicable,Open
+A00506,R00506,2023-12-29,Licence Suspended,0,Closed,Resolved
+A00507,R00507,2024-01-07,No Further Action,0,Not Applicable,Resolved
+A00508,R00508,2024-01-17,Warning Issued,0,Not Applicable,Resolved
+A00509,R00509,2024-01-04,No Further Action,0,Initiated,Under Review
+A00510,R00510,2023-12-23,No Further Action,0,Not Applicable,Under Review
+A00511,R00511,2024-01-06,Business Temporarily Closed,0,Not Applicable,Resolved
+A00512,R00512,2024-01-10,No Further Action,0,Not Applicable,Resolved
+A00513,R00513,2024-01-07,Fine Imposed,5000,Closed,Under Review
+A00514,R00514,2024-01-21,No Further Action,0,Not Applicable,Under Review
+A00515,R00515,2024-01-14,Fine Imposed,25000,Not Applicable,Under Review
+A00516,R00516,2024-01-04,No Further Action,0,Not Applicable,Open
+A00517,R00517,2024-01-23,Fine Imposed,1000,Not Applicable,Resolved
+A00518,R00518,2024-01-29,Prosecution Initiated,0,Pending,Resolved
+A00519,R00519,2024-01-02,Business Temporarily Closed,0,Not Applicable,Resolved
+A00520,R00520,2024-01-14,Product Seized,0,Not Applicable,Resolved
+A00521,R00521,2024-01-02,Warning Issued,0,Not Applicable,Under Review
+A00522,R00522,2024-01-05,Improvement Notice,0,Not Applicable,Resolved
+A00523,R00523,2024-01-25,Fine Imposed,100000,Not Applicable,Resolved
+A00524,R00524,2024-01-30,Warning Issued,0,Not Applicable,Resolved
+A00525,R00525,2024-01-26,Business Temporarily Closed,0,Not Applicable,Resolved
+A00526,R00526,2024-02-11,No Further Action,0,Not Applicable,Open
+A00527,R00527,2024-01-21,Licence Suspended,0,Closed,Under Review
+A00528,R00528,2024-01-17,No Further Action,0,Not Applicable,Under Review
+A00529,R00529,2024-01-26,Licence Suspended,0,Not Applicable,Under Review
+A00530,R00530,2024-01-27,No Further Action,0,Not Applicable,Resolved
+A00531,R00531,2024-02-04,No Further Action,0,Closed,Resolved
+A00532,R00532,2024-02-06,Fine Imposed,1000,Not Applicable,Resolved
+A00533,R00533,2024-02-07,Warning Issued,0,Not Applicable,Resolved
+A00534,R00534,2024-02-15,Improvement Notice,0,Not Applicable,Resolved
+A00535,R00535,2024-01-27,Warning Issued,0,Not Applicable,Open
+A00536,R00536,2024-02-12,No Further Action,0,Pending,Open
+A00537,R00537,2024-02-01,Warning Issued,0,Initiated,Under Review
+A00538,R00538,2024-02-18,No Further Action,0,Not Applicable,Resolved
+A00539,R00539,2024-02-04,Prosecution Initiated,0,Not Applicable,Under Review
+A00540,R00540,2024-02-25,Business Temporarily Closed,0,Pending,Resolved
+A00541,R00541,2024-02-03,Warning Issued,0,Pending,Under Review
+A00542,R00542,2024-02-15,Product Seized,0,Not Applicable,Under Review
+A00543,R00543,2024-02-25,Warning Issued,0,Not Applicable,Resolved
+A00544,R00544,2024-02-19,Warning Issued,0,Pending,Open
+A00545,R00545,2024-02-17,Warning Issued,0,Closed,Resolved
+A00546,R00546,2024-02-25,Warning Issued,0,Not Applicable,Resolved
+A00547,R00547,2024-03-05,Product Seized,0,Pending,Resolved
+A00548,R00548,2024-02-24,Warning Issued,0,Pending,Resolved
+A00549,R00549,2024-03-09,Improvement Notice,0,Not Applicable,Open
+A00550,R00550,2024-03-05,Warning Issued,0,Not Applicable,Resolved
+A00551,R00551,2024-03-02,Warning Issued,0,Initiated,Resolved
+A00552,R00552,2024-02-19,Licence Suspended,0,Not Applicable,Open
+A00553,R00553,2024-02-28,Improvement Notice,0,Not Applicable,Open
+A00554,R00554,2024-02-21,Fine Imposed,50000,Initiated,Resolved
+A00555,R00555,2024-03-16,No Further Action,0,Not Applicable,Resolved
+A00556,R00556,2024-03-03,No Further Action,0,Initiated,Resolved
+A00557,R00557,2024-02-28,Improvement Notice,0,Not Applicable,Resolved
+A00558,R00558,2024-03-05,Business Temporarily Closed,0,Closed,Resolved
+A00559,R00559,2024-03-21,No Further Action,0,Pending,Under Review
+A00560,R00560,2024-03-21,No Further Action,0,Not Applicable,Under Review
+A00561,R00561,2024-02-26,Fine Imposed,50000,Not Applicable,Open
+A00562,R00562,2024-03-03,Improvement Notice,0,Pending,Resolved
+A00563,R00563,2024-02-27,Improvement Notice,0,Not Applicable,Resolved
+A00564,R00564,2024-03-28,No Further Action,0,Not Applicable,Resolved
+A00565,R00565,2024-03-07,Warning Issued,0,Not Applicable,Under Review
+A00566,R00566,2024-03-18,No Further Action,0,Not Applicable,Resolved
+A00567,R00567,2024-03-13,Fine Imposed,10000,Not Applicable,Resolved
+A00568,R00568,2024-03-30,Improvement Notice,0,Not Applicable,Resolved
+A00569,R00569,2024-04-06,Licence Suspended,0,Not Applicable,Under Review
+A00570,R00570,2024-03-12,No Further Action,0,Pending,Resolved
+A00571,R00571,2024-04-03,Licence Suspended,0,Initiated,Under Review
+A00572,R00572,2024-03-26,No Further Action,0,Closed,Open
+A00573,R00573,2024-03-13,Warning Issued,0,Closed,Open
+A00574,R00574,2024-03-25,Fine Imposed,5000,Initiated,Resolved
+A00575,R00575,2024-03-17,Improvement Notice,0,Not Applicable,Open
+A00576,R00576,2024-03-28,Warning Issued,0,Initiated,Under Review
+A00577,R00577,2024-03-24,Fine Imposed,10000,Not Applicable,Resolved
+A00578,R00578,2024-04-10,Improvement Notice,0,Initiated,Resolved
+A00579,R00579,2024-04-16,Improvement Notice,0,Closed,Resolved
+A00580,R00580,2024-03-20,Fine Imposed,100000,Closed,Resolved
+A00581,R00581,2024-04-05,Warning Issued,0,Not Applicable,Resolved
+A00582,R00582,2024-03-26,Warning Issued,0,Not Applicable,Resolved
+A00583,R00583,2024-04-12,Product Seized,0,Not Applicable,Open
+A00584,R00584,2024-04-04,No Further Action,0,Not Applicable,Under Review
+A00585,R00585,2024-04-26,Fine Imposed,5000,Not Applicable,Open
+A00586,R00586,2024-04-27,Business Temporarily Closed,0,Not Applicable,Resolved
+A00587,R00587,2024-04-28,No Further Action,0,Not Applicable,Under Review
+A00588,R00588,2024-04-11,No Further Action,0,Not Applicable,Open
+A00589,R00589,2024-04-08,Warning Issued,0,Not Applicable,Open
+A00590,R00590,2024-04-23,No Further Action,0,Initiated,Resolved
+A00591,R00591,2024-04-14,Fine Imposed,50000,Initiated,Under Review
+A00592,R00592,2024-04-20,Business Temporarily Closed,0,Not Applicable,Resolved
+A00593,R00593,2024-04-11,Prosecution Initiated,0,Not Applicable,Under Review
+A00594,R00594,2024-05-05,No Further Action,0,Pending,Resolved
+A00595,R00595,2024-04-24,Warning Issued,0,Not Applicable,Resolved
+A00596,R00596,2024-05-04,No Further Action,0,Initiated,Open
+A00597,R00597,2024-05-01,Product Seized,0,Not Applicable,Resolved
+A00598,R00598,2024-05-10,Warning Issued,0,Not Applicable,Open
+A00599,R00599,2024-04-24,No Further Action,0,Not Applicable,Resolved
+A00600,R00600,2024-05-09,Product Seized,0,Initiated,Under Review
+A00601,R00601,2024-05-01,Warning Issued,0,Initiated,Resolved
+A00602,R00602,2024-04-28,Warning Issued,0,Not Applicable,Resolved
+A00603,R00603,2024-05-18,Fine Imposed,5000,Not Applicable,Resolved
+A00604,R00604,2024-04-19,Fine Imposed,25000,Not Applicable,Resolved
+A00605,R00605,2024-04-29,Product Seized,0,Not Applicable,Resolved
+A00606,R00606,2024-05-18,Business Temporarily Closed,0,Not Applicable,Resolved
+A00607,R00607,2024-05-03,Improvement Notice,0,Not Applicable,Open
+A00608,R00608,2024-04-20,No Further Action,0,Closed,Under Review
+A00609,R00609,2024-04-26,Warning Issued,0,Not Applicable,Under Review
+A00610,R00610,2024-04-30,Improvement Notice,0,Not Applicable,Under Review
+A00611,R00611,2024-05-14,Licence Suspended,0,Pending,Open
+A00612,R00612,2024-05-20,Warning Issued,0,Not Applicable,Resolved
+A00613,R00613,2024-05-08,Fine Imposed,10000,Not Applicable,Resolved
+A00614,R00614,2024-05-14,Improvement Notice,0,Not Applicable,Resolved
+A00615,R00615,2024-06-02,Warning Issued,0,Closed,Resolved
+A00616,R00616,2024-05-19,Warning Issued,0,Initiated,Resolved
+A00617,R00617,2024-05-25,Improvement Notice,0,Not Applicable,Resolved
+A00618,R00618,2024-05-27,No Further Action,0,Not Applicable,Open
+A00619,R00619,2024-05-22,Warning Issued,0,Not Applicable,Resolved
+A00620,R00620,2024-06-02,Fine Imposed,50000,Not Applicable,Open
+A00621,R00621,2024-05-20,Product Seized,0,Not Applicable,Resolved
+A00622,R00622,2024-06-04,No Further Action,0,Pending,Resolved
+A00623,R00623,2024-05-20,Prosecution Initiated,0,Not Applicable,Open
+A00624,R00624,2024-05-28,No Further Action,0,Not Applicable,Open
+A00625,R00625,2024-05-22,Fine Imposed,25000,Not Applicable,Under Review
+A00626,R00626,2024-05-23,No Further Action,0,Not Applicable,Open
+A00627,R00627,2024-06-18,Product Seized,0,Not Applicable,Resolved
+A00628,R00628,2024-06-06,Product Seized,0,Not Applicable,Resolved
+A00629,R00629,2024-06-18,No Further Action,0,Pending,Resolved
+A00630,R00630,2024-06-14,Business Temporarily Closed,0,Not Applicable,Open
+A00631,R00631,2024-06-06,No Further Action,0,Not Applicable,Resolved
+A00632,R00632,2024-06-16,No Further Action,0,Not Applicable,Resolved
+A00633,R00633,2024-06-11,Product Seized,0,Not Applicable,Resolved
+A00634,R00634,2024-06-10,Fine Imposed,10000,Not Applicable,Resolved
+A00635,R00635,2024-06-07,Improvement Notice,0,Not Applicable,Under Review
+A00636,R00636,2024-06-12,No Further Action,0,Not Applicable,Resolved
+A00637,R00637,2024-05-31,Product Seized,0,Not Applicable,Resolved
+A00638,R00638,2024-06-24,Fine Imposed,25000,Not Applicable,Under Review
+A00639,R00639,2024-06-02,Improvement Notice,0,Initiated,Under Review
+A00640,R00640,2024-06-10,Business Temporarily Closed,0,Not Applicable,Resolved
+A00641,R00641,2024-07-03,Fine Imposed,5000,Not Applicable,Resolved
+A00642,R00642,2024-06-16,Improvement Notice,0,Not Applicable,Under Review
+A00643,R00643,2024-06-05,No Further Action,0,Not Applicable,Under Review
+A00644,R00644,2024-06-19,Improvement Notice,0,Not Applicable,Resolved
+A00645,R00645,2024-06-14,Licence Suspended,0,Not Applicable,Resolved
+A00646,R00646,2024-07-02,Warning Issued,0,Not Applicable,Resolved
+A00647,R00647,2024-06-12,Improvement Notice,0,Not Applicable,Resolved
+A00648,R00648,2024-06-24,Business Temporarily Closed,0,Not Applicable,Under Review
+A00649,R00649,2024-07-12,Improvement Notice,0,Not Applicable,Resolved
+A00650,R00650,2024-07-04,Prosecution Initiated,0,Not Applicable,Under Review
+A00651,R00651,2024-07-19,Improvement Notice,0,Not Applicable,Open
+A00652,R00652,2024-06-29,Product Seized,0,Initiated,Under Review
+A00653,R00653,2024-07-06,No Further Action,0,Closed,Resolved
+A00654,R00654,2024-07-28,Warning Issued,0,Not Applicable,Resolved
+A00655,R00655,2024-07-25,Fine Imposed,5000,Not Applicable,Resolved
+A00656,R00656,2024-07-28,No Further Action,0,Not Applicable,Resolved
+A00657,R00657,2024-07-30,No Further Action,0,Initiated,Under Review
+A00658,R00658,2024-07-16,Product Seized,0,Not Applicable,Resolved
+A00659,R00659,2024-08-03,No Further Action,0,Not Applicable,Resolved
+A00660,R00660,2024-08-05,No Further Action,0,Initiated,Under Review
+A00661,R00661,2024-08-11,Product Seized,0,Pending,Resolved
+A00662,R00662,2024-08-08,Warning Issued,0,Pending,Resolved
+A00663,R00663,2024-08-14,No Further Action,0,Not Applicable,Resolved
+A00664,R00664,2024-08-21,No Further Action,0,Initiated,Under Review
+A00665,R00665,2024-08-11,Warning Issued,0,Not Applicable,Resolved
+A00666,R00666,2024-07-30,Warning Issued,0,Pending,Resolved
+A00667,R00667,2024-08-22,Improvement Notice,0,Initiated,Resolved
+A00668,R00668,2024-08-08,Improvement Notice,0,Not Applicable,Under Review
+A00669,R00669,2024-08-11,Product Seized,0,Not Applicable,Resolved
+A00670,R00670,2024-08-30,Warning Issued,0,Closed,Under Review
+A00671,R00671,2024-08-29,No Further Action,0,Not Applicable,Under Review
+A00672,R00672,2024-08-26,Warning Issued,0,Closed,Resolved
+A00673,R00673,2024-09-01,Product Seized,0,Not Applicable,Open
+A00674,R00674,2024-08-19,Fine Imposed,1000,Closed,Under Review
+A00675,R00675,2024-09-01,Warning Issued,0,Not Applicable,Open
+A00676,R00676,2024-08-26,Warning Issued,0,Not Applicable,Under Review
+A00677,R00677,2024-08-22,Warning Issued,0,Closed,Resolved
+A00678,R00678,2024-08-17,Warning Issued,0,Not Applicable,Resolved
+A00679,R00679,2024-08-18,Fine Imposed,5000,Not Applicable,Open
+A00680,R00680,2024-08-19,No Further Action,0,Not Applicable,Resolved
+A00681,R00681,2024-09-02,No Further Action,0,Not Applicable,Open
+A00682,R00682,2024-09-03,No Further Action,0,Not Applicable,Under Review
+A00683,R00683,2024-08-23,No Further Action,0,Not Applicable,Open
+A00684,R00684,2024-08-29,No Further Action,0,Not Applicable,Resolved
+A00685,R00685,2024-09-03,Fine Imposed,1000,Pending,Resolved
+A00686,R00686,2024-08-30,Improvement Notice,0,Not Applicable,Open
+A00687,R00687,2024-09-01,Licence Suspended,0,Not Applicable,Resolved
+A00688,R00688,2024-09-18,Warning Issued,0,Not Applicable,Under Review
+A00689,R00689,2024-08-28,Fine Imposed,1000,Not Applicable,Resolved
+A00690,R00690,2024-09-19,Improvement Notice,0,Not Applicable,Under Review
+A00691,R00691,2024-09-18,Warning Issued,0,Not Applicable,Under Review
+A00692,R00692,2024-09-28,Business Temporarily Closed,0,Not Applicable,Under Review
+A00693,R00693,2024-09-16,No Further Action,0,Not Applicable,Resolved
+A00694,R00694,2024-09-02,No Further Action,0,Initiated,Under Review
+A00695,R00695,2024-09-26,No Further Action,0,Not Applicable,Resolved
+A00696,R00696,2024-09-25,Improvement Notice,0,Closed,Under Review
+A00697,R00697,2024-10-01,Fine Imposed,50000,Not Applicable,Resolved
+A00698,R00698,2024-09-22,Warning Issued,0,Not Applicable,Resolved
+A00699,R00699,2024-09-30,Prosecution Initiated,0,Pending,Under Review
+A00700,R00700,2024-09-23,No Further Action,0,Not Applicable,Resolved
+A00701,R00701,2024-09-21,Warning Issued,0,Not Applicable,Resolved
+A00702,R00702,2024-09-11,Warning Issued,0,Not Applicable,Resolved
+A00703,R00703,2024-09-14,No Further Action,0,Closed,Resolved
+A00704,R00704,2024-10-04,Fine Imposed,1000,Closed,Resolved
+A00705,R00705,2024-10-02,Improvement Notice,0,Closed,Open
+A00706,R00706,2024-10-09,Warning Issued,0,Not Applicable,Resolved
+A00707,R00707,2024-09-29,No Further Action,0,Not Applicable,Under Review
+A00708,R00708,2024-09-23,No Further Action,0,Not Applicable,Under Review
+A00709,R00709,2024-09-22,Improvement Notice,0,Not Applicable,Open
+A00710,R00710,2024-09-22,Improvement Notice,0,Not Applicable,Under Review
+A00711,R00711,2024-10-06,No Further Action,0,Not Applicable,Resolved
+A00712,R00712,2024-10-11,Product Seized,0,Not Applicable,Under Review
+A00713,R00713,2024-10-02,Prosecution Initiated,0,Closed,Under Review
+A00714,R00714,2024-10-22,No Further Action,0,Not Applicable,Resolved
+A00715,R00715,2024-10-22,No Further Action,0,Not Applicable,Open
+A00716,R00716,2024-10-27,No Further Action,0,Not Applicable,Under Review
+A00717,R00717,2024-10-22,No Further Action,0,Pending,Resolved
+A00718,R00718,2024-10-27,No Further Action,0,Not Applicable,Resolved
+A00719,R00719,2024-10-12,Business Temporarily Closed,0,Not Applicable,Resolved
+A00720,R00720,2024-10-03,Warning Issued,0,Not Applicable,Open
+A00721,R00721,2024-10-28,No Further Action,0,Pending,Resolved
+A00722,R00722,2024-10-12,Warning Issued,0,Not Applicable,Under Review
+A00723,R00723,2024-10-29,No Further Action,0,Closed,Resolved
+A00724,R00724,2024-11-06,No Further Action,0,Not Applicable,Open
+A00725,R00725,2024-11-05,No Further Action,0,Not Applicable,Resolved
+A00726,R00726,2024-10-13,No Further Action,0,Not Applicable,Open
+A00727,R00727,2024-11-08,Product Seized,0,Not Applicable,Open
+A00728,R00728,2024-10-26,Prosecution Initiated,0,Not Applicable,Under Review
+A00729,R00729,2024-11-05,Business Temporarily Closed,0,Not Applicable,Open
+A00730,R00730,2024-11-07,Licence Suspended,0,Not Applicable,Resolved
+A00731,R00731,2024-10-23,Warning Issued,0,Not Applicable,Resolved
+A00732,R00732,2024-11-12,Warning Issued,0,Pending,Resolved
+A00733,R00733,2024-11-01,Fine Imposed,5000,Closed,Resolved
+A00734,R00734,2024-11-08,Warning Issued,0,Not Applicable,Resolved
+A00735,R00735,2024-11-11,Improvement Notice,0,Closed,Under Review
+A00736,R00736,2024-11-15,Warning Issued,0,Not Applicable,Resolved
+A00737,R00737,2024-10-28,Improvement Notice,0,Initiated,Open
+A00738,R00738,2024-10-29,No Further Action,0,Not Applicable,Open
+A00739,R00739,2024-11-25,No Further Action,0,Not Applicable,Under Review
+A00740,R00740,2024-11-01,Warning Issued,0,Not Applicable,Resolved
+A00741,R00741,2024-11-05,No Further Action,0,Not Applicable,Open
+A00742,R00742,2024-11-08,Warning Issued,0,Not Applicable,Resolved
+A00743,R00743,2024-11-03,Product Seized,0,Not Applicable,Resolved
+A00744,R00744,2024-11-08,No Further Action,0,Not Applicable,Resolved
+A00745,R00745,2024-11-19,Business Temporarily Closed,0,Not Applicable,Resolved
+A00746,R00746,2024-12-03,Fine Imposed,10000,Not Applicable,Resolved
+A00747,R00747,2024-12-02,Improvement Notice,0,Pending,Resolved
+A00748,R00748,2024-12-05,Improvement Notice,0,Not Applicable,Open
+A00749,R00749,2024-12-08,Warning Issued,0,Not Applicable,Resolved
+A00750,R00750,2024-11-13,Warning Issued,0,Pending,Resolved
+A00751,R00751,2024-11-20,No Further Action,0,Closed,Resolved
+A00752,R00752,2024-11-15,Fine Imposed,100000,Not Applicable,Resolved
+A00753,R00753,2024-12-05,No Further Action,0,Closed,Resolved
+A00754,R00754,2024-11-21,Licence Suspended,0,Pending,Under Review
+A00755,R00755,2024-12-08,No Further Action,0,Not Applicable,Resolved
+A00756,R00756,2024-11-20,Business Temporarily Closed,0,Not Applicable,Resolved
+A00757,R00757,2024-12-06,No Further Action,0,Not Applicable,Resolved
+A00758,R00758,2024-12-03,No Further Action,0,Initiated,Open
+A00759,R00759,2024-11-17,No Further Action,0,Not Applicable,Under Review
+A00760,R00760,2024-12-05,No Further Action,0,Not Applicable,Under Review
+A00761,R00761,2024-11-30,Warning Issued,0,Not Applicable,Resolved
+A00762,R00762,2024-12-08,Product Seized,0,Not Applicable,Resolved
+A00763,R00763,2024-12-07,Warning Issued,0,Not Applicable,Resolved
+A00764,R00764,2024-12-06,Warning Issued,0,Pending,Under Review
+A00765,R00765,2024-12-16,Licence Suspended,0,Pending,Under Review
+A00766,R00766,2024-12-07,Prosecution Initiated,0,Not Applicable,Open
+A00767,R00767,2024-12-19,Improvement Notice,0,Not Applicable,Resolved
+A00768,R00768,2024-12-27,Fine Imposed,50000,Not Applicable,Resolved
+A00769,R00769,2024-12-25,No Further Action,0,Not Applicable,Resolved
+A00770,R00770,2024-12-21,No Further Action,0,Not Applicable,Open
+A00771,R00771,2024-12-30,Fine Imposed,100000,Not Applicable,Under Review
+A00772,R00772,2024-12-25,Licence Suspended,0,Not Applicable,Resolved
+A00773,R00773,2024-12-28,Business Temporarily Closed,0,Not Applicable,Resolved
+A00774,R00774,2024-12-08,Prosecution Initiated,0,Initiated,Under Review
+A00775,R00775,2024-12-20,Product Seized,0,Initiated,Resolved
+A00776,R00776,2024-12-23,Fine Imposed,25000,Not Applicable,Under Review
+A00777,R00777,2024-12-29,No Further Action,0,Not Applicable,Open
+A00778,R00778,2025-01-02,Fine Imposed,10000,Not Applicable,Open
+A00779,R00779,2024-12-12,Fine Imposed,50000,Initiated,Under Review
+A00780,R00780,2024-12-30,Fine Imposed,1000,Pending,Open
+A00781,R00781,2024-12-31,No Further Action,0,Not Applicable,Resolved
+A00782,R00782,2024-12-31,Product Seized,0,Not Applicable,Resolved
+A00783,R00783,2025-01-06,Prosecution Initiated,0,Pending,Under Review
+A00784,R00784,2025-01-13,No Further Action,0,Not Applicable,Resolved
+A00785,R00785,2025-01-09,Improvement Notice,0,Not Applicable,Resolved
+A00786,R00786,2024-12-28,Warning Issued,0,Not Applicable,Resolved
+A00787,R00787,2025-01-15,Warning Issued,0,Pending,Under Review
+A00788,R00788,2025-01-02,Improvement Notice,0,Not Applicable,Resolved
+A00789,R00789,2024-12-30,No Further Action,0,Not Applicable,Resolved
+A00790,R00790,2025-01-04,Improvement Notice,0,Initiated,Resolved
+A00791,R00791,2025-01-22,Prosecution Initiated,0,Not Applicable,Under Review
+A00792,R00792,2025-01-27,Improvement Notice,0,Not Applicable,Resolved
+A00793,R00793,2025-01-11,Warning Issued,0,Closed,Resolved
+A00794,R00794,2025-01-21,Warning Issued,0,Not Applicable,Resolved
+A00795,R00795,2025-01-17,Warning Issued,0,Not Applicable,Resolved
+A00796,R00796,2025-01-23,Warning Issued,0,Pending,Resolved
+A00797,R00797,2025-01-30,Warning Issued,0,Not Applicable,Under Review
+A00798,R00798,2025-02-02,Licence Suspended,0,Not Applicable,Resolved
+A00799,R00799,2025-02-04,No Further Action,0,Not Applicable,Open
+A00800,R00800,2025-02-05,Product Seized,0,Not Applicable,Under Review
+A00801,R00801,2025-02-12,No Further Action,0,Not Applicable,Resolved
+A00802,R00802,2025-02-14,No Further Action,0,Not Applicable,Resolved
+A00803,R00803,2025-02-12,Business Temporarily Closed,0,Not Applicable,Resolved
+A00804,R00804,2025-02-16,Warning Issued,0,Not Applicable,Under Review
+A00805,R00805,2025-02-03,No Further Action,0,Not Applicable,Resolved
+A00806,R00806,2025-02-22,Product Seized,0,Not Applicable,Resolved
+A00807,R00807,2025-02-07,No Further Action,0,Not Applicable,Resolved
+A00808,R00808,2025-02-05,No Further Action,0,Not Applicable,Under Review
+A00809,R00809,2025-02-10,No Further Action,0,Not Applicable,Open
+A00810,R00810,2025-02-26,Warning Issued,0,Not Applicable,Resolved
+A00811,R00811,2025-02-17,No Further Action,0,Pending,Open
+A00812,R00812,2025-02-26,Fine Imposed,1000,Closed,Under Review
+A00813,R00813,2025-02-20,No Further Action,0,Pending,Open
+A00814,R00814,2025-02-13,Warning Issued,0,Not Applicable,Resolved
+A00815,R00815,2025-02-08,Warning Issued,0,Pending,Open
+A00816,R00816,2025-02-06,Fine Imposed,25000,Not Applicable,Resolved
+A00817,R00817,2025-02-03,No Further Action,0,Not Applicable,Under Review
+A00818,R00818,2025-02-27,Business Temporarily Closed,0,Closed,Resolved
+A00819,R00819,2025-02-13,No Further Action,0,Pending,Resolved
+A00820,R00820,2025-02-08,No Further Action,0,Not Applicable,Under Review
+A00821,R00821,2025-03-05,Product Seized,0,Pending,Under Review
+A00822,R00822,2025-03-06,No Further Action,0,Not Applicable,Resolved
+A00823,R00823,2025-03-09,Warning Issued,0,Not Applicable,Resolved
+A00824,R00824,2025-02-23,No Further Action,0,Not Applicable,Resolved
+A00825,R00825,2025-02-22,Warning Issued,0,Not Applicable,Resolved
+A00826,R00826,2025-02-11,Warning Issued,0,Not Applicable,Open
+A00827,R00827,2025-03-03,No Further Action,0,Not Applicable,Resolved
+A00828,R00828,2025-02-27,Licence Suspended,0,Not Applicable,Resolved
+A00829,R00829,2025-03-13,Warning Issued,0,Pending,Open
+A00830,R00830,2025-02-23,Product Seized,0,Not Applicable,Under Review
+A00831,R00831,2025-03-03,Prosecution Initiated,0,Not Applicable,Resolved
+A00832,R00832,2025-03-13,No Further Action,0,Pending,Resolved
+A00833,R00833,2025-03-12,No Further Action,0,Pending,Open
+A00834,R00834,2025-03-06,Improvement Notice,0,Initiated,Under Review
+A00835,R00835,2025-03-08,Improvement Notice,0,Closed,Open
+A00836,R00836,2025-03-21,Warning Issued,0,Not Applicable,Resolved
+A00837,R00837,2025-03-11,No Further Action,0,Not Applicable,Resolved
+A00838,R00838,2025-03-09,No Further Action,0,Not Applicable,Resolved
+A00839,R00839,2025-03-17,Fine Imposed,2500,Not Applicable,Resolved
+A00840,R00840,2025-03-04,No Further Action,0,Not Applicable,Under Review
+A00841,R00841,2025-03-28,No Further Action,0,Not Applicable,Open
+A00842,R00842,2025-04-03,Warning Issued,0,Not Applicable,Resolved
+A00843,R00843,2025-03-28,Prosecution Initiated,0,Pending,Open
+A00844,R00844,2025-03-25,Warning Issued,0,Not Applicable,Resolved
+A00845,R00845,2025-04-06,No Further Action,0,Not Applicable,Resolved
+A00846,R00846,2025-03-21,Warning Issued,0,Not Applicable,Under Review
+A00847,R00847,2025-04-05,No Further Action,0,Not Applicable,Resolved
+A00848,R00848,2025-04-12,No Further Action,0,Not Applicable,Open
+A00849,R00849,2025-03-24,No Further Action,0,Initiated,Open
+A00850,R00850,2025-04-01,Licence Suspended,0,Pending,Resolved
+A00851,R00851,2025-03-30,Warning Issued,0,Pending,Under Review
+A00852,R00852,2025-04-17,Product Seized,0,Initiated,Resolved
+A00853,R00853,2025-04-18,Licence Suspended,0,Not Applicable,Open
+A00854,R00854,2025-04-18,Product Seized,0,Not Applicable,Resolved
+A00855,R00855,2025-04-13,No Further Action,0,Not Applicable,Resolved
+A00856,R00856,2025-03-31,Product Seized,0,Not Applicable,Open
+A00857,R00857,2025-04-22,Fine Imposed,10000,Not Applicable,Resolved
+A00858,R00858,2025-04-25,No Further Action,0,Closed,Open
+A00859,R00859,2025-04-30,Improvement Notice,0,Not Applicable,Open
+A00860,R00860,2025-04-13,Warning Issued,0,Not Applicable,Resolved
+A00861,R00861,2025-05-08,Warning Issued,0,Not Applicable,Under Review
+A00862,R00862,2025-05-08,Warning Issued,0,Not Applicable,Resolved
+A00863,R00863,2025-04-24,Warning Issued,0,Closed,Resolved
+A00864,R00864,2025-05-17,Improvement Notice,0,Not Applicable,Resolved
+A00865,R00865,2025-05-18,Business Temporarily Closed,0,Not Applicable,Open
+A00866,R00866,2025-05-10,No Further Action,0,Not Applicable,Open
+A00867,R00867,2025-05-04,No Further Action,0,Not Applicable,Under Review
+A00868,R00868,2025-04-29,No Further Action,0,Not Applicable,Open
+A00869,R00869,2025-05-13,Licence Suspended,0,Not Applicable,Resolved
+A00870,R00870,2025-05-25,Licence Suspended,0,Not Applicable,Resolved
+A00871,R00871,2025-04-30,Fine Imposed,50000,Not Applicable,Open
+A00872,R00872,2025-05-21,Fine Imposed,25000,Pending,Under Review
+A00873,R00873,2025-05-15,Product Seized,0,Closed,Resolved
+A00874,R00874,2025-06-02,Improvement Notice,0,Not Applicable,Resolved
+A00875,R00875,2025-06-04,Fine Imposed,100000,Not Applicable,Under Review
+A00876,R00876,2025-05-27,Improvement Notice,0,Not Applicable,Open
+A00877,R00877,2025-05-24,Fine Imposed,5000,Not Applicable,Resolved
+A00878,R00878,2025-05-14,No Further Action,0,Not Applicable,Resolved
+A00879,R00879,2025-05-30,Product Seized,0,Not Applicable,Resolved
+A00880,R00880,2025-06-09,Improvement Notice,0,Not Applicable,Resolved
+A00881,R00881,2025-06-05,Warning Issued,0,Not Applicable,Resolved
+A00882,R00882,2025-05-27,Product Seized,0,Initiated,Resolved
+A00883,R00883,2025-05-30,Warning Issued,0,Not Applicable,Resolved
+A00884,R00884,2025-06-15,Prosecution Initiated,0,Closed,Resolved
+A00885,R00885,2025-06-18,Licence Suspended,0,Not Applicable,Resolved
+A00886,R00886,2025-06-20,Product Seized,0,Not Applicable,Open
+A00887,R00887,2025-06-15,No Further Action,0,Not Applicable,Under Review
+A00888,R00888,2025-06-27,No Further Action,0,Initiated,Resolved
+A00889,R00889,2025-06-19,Warning Issued,0,Not Applicable,Resolved
+A00890,R00890,2025-07-05,No Further Action,0,Pending,Open
+A00891,R00891,2025-07-14,Warning Issued,0,Not Applicable,Under Review
+A00892,R00892,2025-06-26,No Further Action,0,Not Applicable,Resolved
+A00893,R00893,2025-07-07,Warning Issued,0,Pending,Resolved
+A00894,R00894,2025-06-25,Licence Suspended,0,Pending,Under Review
+A00895,R00895,2025-07-03,No Further Action,0,Not Applicable,Resolved
+A00896,R00896,2025-07-22,No Further Action,0,Not Applicable,Resolved
+A00897,R00897,2025-07-20,No Further Action,0,Not Applicable,Resolved
+A00898,R00898,2025-07-13,No Further Action,0,Not Applicable,Resolved
+A00899,R00899,2025-07-15,Warning Issued,0,Not Applicable,Under Review
+A00900,R00900,2025-07-09,Warning Issued,0,Not Applicable,Open
+A00901,R00901,2025-07-20,No Further Action,0,Not Applicable,Open
+A00902,R00902,2025-07-30,Warning Issued,0,Not Applicable,Open
+A00903,R00903,2025-07-25,No Further Action,0,Initiated,Resolved
+A00904,R00904,2025-07-24,Improvement Notice,0,Not Applicable,Open
+A00905,R00905,2025-07-06,No Further Action,0,Not Applicable,Resolved
+A00906,R00906,2025-07-10,Warning Issued,0,Not Applicable,Open
+A00907,R00907,2025-07-17,No Further Action,0,Not Applicable,Resolved
+A00908,R00908,2025-07-23,Improvement Notice,0,Not Applicable,Under Review
+A00909,R00909,2025-08-02,Warning Issued,0,Initiated,Resolved
+A00910,R00910,2025-07-17,No Further Action,0,Not Applicable,Resolved
+A00911,R00911,2025-07-17,Licence Suspended,0,Not Applicable,Resolved
+A00912,R00912,2025-07-28,No Further Action,0,Not Applicable,Resolved
+A00913,R00913,2025-07-22,Warning Issued,0,Not Applicable,Under Review
+A00914,R00914,2025-08-14,Prosecution Initiated,0,Not Applicable,Under Review
+A00915,R00915,2025-08-23,Licence Suspended,0,Not Applicable,Resolved
+A00916,R00916,2025-08-09,Fine Imposed,25000,Not Applicable,Resolved
+A00917,R00917,2025-08-06,No Further Action,0,Not Applicable,Resolved
+A00918,R00918,2025-08-03,No Further Action,0,Not Applicable,Resolved
+A00919,R00919,2025-08-19,Warning Issued,0,Not Applicable,Open
+A00920,R00920,2025-08-25,Fine Imposed,50000,Not Applicable,Resolved
+A00921,R00921,2025-08-19,No Further Action,0,Not Applicable,Under Review
+A00922,R00922,2025-08-28,Business Temporarily Closed,0,Not Applicable,Resolved
+A00923,R00923,2025-08-20,No Further Action,0,Not Applicable,Under Review
+A00924,R00924,2025-08-13,No Further Action,0,Not Applicable,Resolved
+A00925,R00925,2025-08-17,Product Seized,0,Initiated,Resolved
+A00926,R00926,2025-09-01,Warning Issued,0,Not Applicable,Resolved
+A00927,R00927,2025-08-30,Prosecution Initiated,0,Not Applicable,Resolved
+A00928,R00928,2025-08-31,Warning Issued,0,Not Applicable,Resolved
+A00929,R00929,2025-09-03,Prosecution Initiated,0,Not Applicable,Under Review
+A00930,R00930,2025-09-09,Licence Suspended,0,Not Applicable,Resolved
+A00931,R00931,2025-09-07,No Further Action,0,Closed,Resolved
+A00932,R00932,2025-09-02,Warning Issued,0,Not Applicable,Open
+A00933,R00933,2025-09-05,No Further Action,0,Not Applicable,Resolved
+A00934,R00934,2025-09-09,Warning Issued,0,Not Applicable,Under Review
+A00935,R00935,2025-09-01,Product Seized,0,Not Applicable,Resolved
+A00936,R00936,2025-09-11,No Further Action,0,Pending,Resolved
+A00937,R00937,2025-09-13,No Further Action,0,Not Applicable,Resolved
+A00938,R00938,2025-09-10,No Further Action,0,Not Applicable,Resolved
+A00939,R00939,2025-09-24,Fine Imposed,100000,Pending,Resolved
+A00940,R00940,2025-09-23,Business Temporarily Closed,0,Initiated,Resolved
+A00941,R00941,2025-09-14,Fine Imposed,100000,Not Applicable,Resolved
+A00942,R00942,2025-09-23,Licence Suspended,0,Not Applicable,Resolved
+A00943,R00943,2025-09-15,Warning Issued,0,Pending,Open
+A00944,R00944,2025-09-14,Warning Issued,0,Not Applicable,Under Review
+A00945,R00945,2025-09-05,No Further Action,0,Pending,Open
+A00946,R00946,2025-09-06,Product Seized,0,Not Applicable,Resolved
+A00947,R00947,2025-09-06,No Further Action,0,Not Applicable,Resolved
+A00948,R00948,2025-10-01,Improvement Notice,0,Closed,Under Review
+A00949,R00949,2025-09-27,Fine Imposed,5000,Not Applicable,Resolved
+A00950,R00950,2025-09-13,No Further Action,0,Not Applicable,Under Review
+A00951,R00951,2025-10-02,Warning Issued,0,Not Applicable,Resolved
+A00952,R00952,2025-09-29,Fine Imposed,10000,Initiated,Resolved
+A00953,R00953,2025-09-27,Warning Issued,0,Closed,Resolved
+A00954,R00954,2025-10-02,No Further Action,0,Pending,Resolved
+A00955,R00955,2025-10-03,Fine Imposed,10000,Not Applicable,Open
+A00956,R00956,2025-10-08,Business Temporarily Closed,0,Not Applicable,Resolved
+A00957,R00957,2025-10-07,Improvement Notice,0,Not Applicable,Resolved
+A00958,R00958,2025-09-28,Product Seized,0,Not Applicable,Open
+A00959,R00959,2025-10-20,Improvement Notice,0,Initiated,Resolved
+A00960,R00960,2025-09-28,Fine Imposed,100000,Not Applicable,Open
+A00961,R00961,2025-09-27,Warning Issued,0,Initiated,Resolved
+A00962,R00962,2025-10-17,Improvement Notice,0,Initiated,Under Review
+A00963,R00963,2025-10-14,No Further Action,0,Not Applicable,Resolved
+A00964,R00964,2025-10-21,No Further Action,0,Not Applicable,Resolved
+A00965,R00965,2025-10-30,Warning Issued,0,Not Applicable,Open
+A00966,R00966,2025-10-30,No Further Action,0,Not Applicable,Resolved
+A00967,R00967,2025-10-17,No Further Action,0,Not Applicable,Resolved
+A00968,R00968,2025-11-01,Licence Suspended,0,Not Applicable,Resolved
+A00969,R00969,2025-10-31,No Further Action,0,Not Applicable,Under Review
+A00970,R00970,2025-10-21,Product Seized,0,Pending,Resolved
+A00971,R00971,2025-10-12,No Further Action,0,Not Applicable,Under Review
+A00972,R00972,2025-10-24,No Further Action,0,Not Applicable,Resolved
+A00973,R00973,2025-10-19,Warning Issued,0,Not Applicable,Under Review
+A00974,R00974,2025-10-20,Product Seized,0,Closed,Resolved
+A00975,R00975,2025-10-19,No Further Action,0,Not Applicable,Under Review
+A00976,R00976,2025-10-17,Improvement Notice,0,Not Applicable,Open
+A00977,R00977,2025-11-14,No Further Action,0,Initiated,Resolved
+A00978,R00978,2025-11-13,No Further Action,0,Not Applicable,Open
+A00979,R00979,2025-11-10,Improvement Notice,0,Not Applicable,Resolved
+A00980,R00980,2025-11-25,Business Temporarily Closed,0,Pending,Resolved
+A00981,R00981,2025-11-21,Warning Issued,0,Not Applicable,Resolved
+A00982,R00982,2025-11-15,Fine Imposed,25000,Not Applicable,Resolved
+A00983,R00983,2025-11-14,Business Temporarily Closed,0,Not Applicable,Resolved
+A00984,R00984,2025-11-05,No Further Action,0,Not Applicable,Resolved
+A00985,R00985,2025-11-18,Warning Issued,0,Not Applicable,Open
+A00986,R00986,2025-11-22,Business Temporarily Closed,0,Not Applicable,Resolved
+A00987,R00987,2025-11-18,No Further Action,0,Not Applicable,Resolved
+A00988,R00988,2025-12-11,No Further Action,0,Closed,Resolved
+A00989,R00989,2025-11-23,Warning Issued,0,Not Applicable,Under Review
+A00990,R00990,2025-11-22,No Further Action,0,Initiated,Under Review
+A00991,R00991,2025-11-24,Warning Issued,0,Not Applicable,Under Review
+A00992,R00992,2025-11-28,No Further Action,0,Initiated,Open
+A00993,R00993,2025-11-27,Improvement Notice,0,Not Applicable,Open
+A00994,R00994,2025-11-22,Fine Imposed,2500,Not Applicable,Resolved
+A00995,R00995,2025-11-28,No Further Action,0,Not Applicable,Resolved
+A00996,R00996,2025-11-28,No Further Action,0,Initiated,Under Review
+A00997,R00997,2025-12-20,Warning Issued,0,Pending,Open
+A00998,R00998,2025-12-16,No Further Action,0,Closed,Open
+A00999,R00999,2025-12-03,No Further Action,0,Initiated,Under Review
+A01000,R01000,2025-12-15,Product Seized,0,Not Applicable,Open
+A01001,R01001,2025-12-19,Warning Issued,0,Not Applicable,Resolved
+A01002,R01002,2025-12-31,Prosecution Initiated,0,Not Applicable,Resolved
+A01003,R01003,2025-12-29,Fine Imposed,5000,Initiated,Resolved
+A01004,R01004,2025-12-27,No Further Action,0,Pending,Open
+A01005,R01005,2026-01-01,No Further Action,0,Initiated,Open
+A01006,R01006,2026-01-10,No Further Action,0,Not Applicable,Resolved
+A01007,R01007,2025-12-25,No Further Action,0,Pending,Under Review
+A01008,R01008,2025-12-30,Warning Issued,0,Not Applicable,Resolved
+A01009,R01009,2026-01-01,Improvement Notice,0,Pending,Under Review
+A01010,R01010,2026-01-18,Warning Issued,0,Not Applicable,Open
+A01011,R01011,2026-01-03,Prosecution Initiated,0,Not Applicable,Resolved
+A01012,R01012,2026-01-25,Warning Issued,0,Not Applicable,Under Review
+A01013,R01013,2026-01-13,Business Temporarily Closed,0,Not Applicable,Under Review
+A01014,R01014,2026-01-14,No Further Action,0,Not Applicable,Open
+A01015,R01015,2026-01-25,Product Seized,0,Not Applicable,Under Review
+A01016,R01016,2026-01-30,Warning Issued,0,Not Applicable,Open
+A01017,R01017,2026-01-27,Improvement Notice,0,Not Applicable,Under Review
+A01018,R01018,2026-01-15,No Further Action,0,Not Applicable,Resolved
+A01019,R01019,2026-01-14,Warning Issued,0,Initiated,Resolved
+A01020,R01020,2026-01-17,No Further Action,0,Not Applicable,Resolved
+A01021,R01021,2026-01-25,No Further Action,0,Initiated,Resolved
+A01022,R01022,2026-01-27,Fine Imposed,25000,Not Applicable,Open
+A01023,R01023,2026-01-13,Improvement Notice,0,Pending,Resolved
+A01024,R01024,2026-02-09,Fine Imposed,100000,Pending,Under Review
+A01025,R01025,2026-01-21,Fine Imposed,50000,Not Applicable,Resolved
+A01026,R01026,2026-01-20,Business Temporarily Closed,0,Not Applicable,Resolved
+A01027,R01027,2026-02-12,No Further Action,0,Pending,Resolved
+A01028,R01028,2026-02-11,No Further Action,0,Not Applicable,Open
+A01029,R01029,2026-01-22,No Further Action,0,Not Applicable,Resolved
+A01030,R01030,2026-01-28,No Further Action,0,Not Applicable,Open
+A01031,R01031,2026-01-28,No Further Action,0,Not Applicable,Resolved
+A01032,R01032,2026-01-26,Warning Issued,0,Pending,Open
+A01033,R01033,2026-01-31,Warning Issued,0,Closed,Under Review
+A01034,R01034,2026-02-22,No Further Action,0,Not Applicable,Open
+A01035,R01035,2026-02-16,Business Temporarily Closed,0,Pending,Open
+A01036,R01036,2026-03-03,Prosecution Initiated,0,Not Applicable,Open
+A01037,R01037,2026-03-08,Fine Imposed,2500,Not Applicable,Under Review
+A01038,R01038,2026-03-06,Product Seized,0,Not Applicable,Under Review
+A01039,R01039,2026-02-23,Warning Issued,0,Not Applicable,Resolved
+A01040,R01040,2026-02-13,Warning Issued,0,Not Applicable,Open
+A01041,R01041,2026-02-21,No Further Action,0,Not Applicable,Open
+A01042,R01042,2026-03-19,No Further Action,0,Not Applicable,Resolved
+A01043,R01043,2026-02-19,No Further Action,0,Not Applicable,Open
+A01044,R01044,2026-03-08,Improvement Notice,0,Pending,Open
+A01045,R01045,2026-03-10,No Further Action,0,Not Applicable,Resolved
+A01046,R01046,2026-03-01,No Further Action,0,Not Applicable,Under Review
+A01047,R01047,2026-03-08,Warning Issued,0,Not Applicable,Resolved
+A01048,R01048,2026-03-04,Licence Suspended,0,Initiated,Resolved
+A01049,R01049,2026-03-16,No Further Action,0,Not Applicable,Resolved
+A01050,R01050,2026-03-28,No Further Action,0,Closed,Resolved
+A01051,R01051,2026-03-14,Fine Imposed,5000,Not Applicable,Open
+A01052,R01052,2026-03-26,Fine Imposed,10000,Not Applicable,Under Review
+A01053,R01053,2026-03-29,No Further Action,0,Not Applicable,Open
+A01054,R01054,2026-04-01,No Further Action,0,Not Applicable,Resolved
+A01055,R01055,2026-03-20,Improvement Notice,0,Not Applicable,Resolved
+A01056,R01056,2026-03-16,Product Seized,0,Initiated,Under Review
+A01057,R01057,2026-03-28,Improvement Notice,0,Closed,Resolved
+A01058,R01058,2026-03-29,Prosecution Initiated,0,Not Applicable,Under Review
+A01059,R01059,2026-04-07,Improvement Notice,0,Not Applicable,Resolved
+A01060,R01060,2026-04-17,No Further Action,0,Not Applicable,Resolved
+A01061,R01061,2026-04-05,No Further Action,0,Not Applicable,Resolved
+A01062,R01062,2026-04-15,Improvement Notice,0,Pending,Resolved
+A01063,R01063,2026-03-22,Warning Issued,0,Not Applicable,Under Review
+A01064,R01064,2026-03-28,Licence Suspended,0,Pending,Resolved
+A01065,R01065,2026-04-16,Improvement Notice,0,Closed,Resolved
+A01066,R01066,2026-04-19,Warning Issued,0,Not Applicable,Resolved
+A01067,R01067,2026-04-02,No Further Action,0,Not Applicable,Resolved
+A01068,R01068,2026-04-15,Warning Issued,0,Closed,Open
+A01069,R01069,2026-03-30,Warning Issued,0,Closed,Open
+A01070,R01070,2026-03-26,No Further Action,0,Not Applicable,Resolved
+A01071,R01071,2026-04-05,No Further Action,0,Not Applicable,Resolved
+A01072,R01072,2026-04-09,Prosecution Initiated,0,Not Applicable,Resolved
+A01073,R01073,2026-04-10,Fine Imposed,5000,Not Applicable,Open
+A01074,R01074,2026-04-19,Improvement Notice,0,Not Applicable,Open
+A01075,R01075,2026-04-02,Warning Issued,0,Not Applicable,Open
+A01076,R01076,2026-04-19,Warning Issued,0,Not Applicable,Resolved
+A01077,R01077,2026-04-12,Warning Issued,0,Initiated,Open
+A01078,R01078,2026-04-04,Warning Issued,0,Not Applicable,Under Review
+A01079,R01079,2026-04-21,Warning Issued,0,Not Applicable,Under Review
+A01080,R01080,2026-04-30,Product Seized,0,Not Applicable,Under Review
+A01081,R01081,2026-04-21,No Further Action,0,Not Applicable,Resolved
+A01082,R01082,2026-04-23,No Further Action,0,Pending,Open
+A01083,R01083,2026-04-24,No Further Action,0,Not Applicable,Open
+A01084,R01084,2026-04-20,Improvement Notice,0,Closed,Resolved
+A01085,R01085,2026-04-25,Fine Imposed,2500,Pending,Open
+A01086,R01086,2026-05-18,Improvement Notice,0,Not Applicable,Under Review
+A01087,R01087,2026-04-23,No Further Action,0,Not Applicable,Resolved
+A01088,R01088,2026-05-09,Licence Suspended,0,Initiated,Resolved
+A01089,R01089,2026-05-13,Prosecution Initiated,0,Not Applicable,Open
+A01090,R01090,2026-05-19,No Further Action,0,Not Applicable,Resolved
+A01091,R01091,2026-04-30,Warning Issued,0,Not Applicable,Under Review
+A01092,R01092,2026-05-11,Warning Issued,0,Not Applicable,Resolved
+A01093,R01093,2026-04-24,Fine Imposed,25000,Not Applicable,Resolved
+A01094,R01094,2026-05-24,Business Temporarily Closed,0,Not Applicable,Resolved
+A01095,R01095,2026-05-02,Warning Issued,0,Initiated,Open
+A01096,R01096,2026-05-28,No Further Action,0,Pending,Under Review
+A01097,R01097,2026-05-28,No Further Action,0,Closed,Open
+A01098,R01098,2026-05-18,Warning Issued,0,Not Applicable,Under Review
+A01099,R01099,2026-05-05,Warning Issued,0,Closed,Open
+A01100,R01100,2026-05-25,No Further Action,0,Not Applicable,Resolved
+A01101,R01101,2026-05-25,No Further Action,0,Not Applicable,Resolved
+A01102,R01102,2026-05-02,Improvement Notice,0,Pending,Resolved
+A01103,R01103,2026-05-11,Prosecution Initiated,0,Not Applicable,Resolved
+A01104,R01104,2026-05-08,Warning Issued,0,Not Applicable,Under Review
+A01105,R01105,2026-05-09,Licence Suspended,0,Not Applicable,Resolved
+A01106,R01106,2026-05-15,No Further Action,0,Not Applicable,Resolved
+A01107,R01107,2026-05-19,Improvement Notice,0,Initiated,Open
+A01108,R01108,2026-05-19,Warning Issued,0,Initiated,Resolved
+A01109,R01109,2026-05-13,Fine Imposed,2500,Closed,Resolved
+A01110,R01110,2026-05-15,Product Seized,0,Initiated,Resolved
+A01111,R01111,2026-05-31,Product Seized,0,Not Applicable,Under Review
+A01112,R01112,2026-05-24,Fine Imposed,50000,Pending,Resolved
+A01113,R01113,2026-06-19,Improvement Notice,0,Closed,Open
+A01114,R01114,2026-06-20,Fine Imposed,100000,Not Applicable,Resolved
+A01115,R01115,2026-06-21,Fine Imposed,2500,Pending,Under Review
+A01116,R01116,2026-06-01,No Further Action,0,Not Applicable,Resolved
+A01117,R01117,2026-06-15,Fine Imposed,5000,Initiated,Resolved
+A01118,R01118,2026-06-20,Prosecution Initiated,0,Not Applicable,Resolved
+A01119,R01119,2026-06-21,Warning Issued,0,Pending,Open
+A01120,R01120,2026-06-24,Fine Imposed,25000,Pending,Resolved
+A01121,R01121,2026-06-20,Warning Issued,0,Not Applicable,Resolved
+A01122,R01122,2026-06-10,No Further Action,0,Not Applicable,Open
+A01123,R01123,2026-06-14,No Further Action,0,Not Applicable,Open
+A01124,R01124,2026-06-16,No Further Action,0,Not Applicable,Open
+A01125,R01125,2026-06-22,Fine Imposed,25000,Initiated,Resolved
+A01126,R01126,2026-06-12,Licence Suspended,0,Initiated,Open
+A01127,R01127,2026-06-14,Improvement Notice,0,Pending,Under Review
+A01128,R01128,2026-06-11,Product Seized,0,Not Applicable,Resolved
+A01129,R01129,2026-06-17,Warning Issued,0,Closed,Resolved
+A01130,R01130,2026-06-27,No Further Action,0,Not Applicable,Under Review
+A01131,R01131,2026-06-27,No Further Action,0,Not Applicable,Resolved
+A01132,R01132,2026-06-13,Business Temporarily Closed,0,Not Applicable,Resolved
+A01133,R01133,2026-07-09,Business Temporarily Closed,0,Not Applicable,Resolved
+A01134,R01134,2026-06-22,Product Seized,0,Pending,Open
+A01135,R01135,2026-07-01,Improvement Notice,0,Initiated,Open
+A01136,R01136,2026-07-07,Fine Imposed,100000,Not Applicable,Resolved
+A01137,R01137,2026-07-15,No Further Action,0,Not Applicable,Resolved
+A01138,R01138,2026-06-17,No Further Action,0,Not Applicable,Under Review
+A01139,R01139,2026-06-26,No Further Action,0,Not Applicable,Open
+A01140,R01140,2026-06-28,No Further Action,0,Not Applicable,Open
+A01141,R01141,2026-06-30,No Further Action,0,Not Applicable,Open
+A01142,R01142,2026-07-12,Prosecution Initiated,0,Not Applicable,Open
+A01143,R01143,2026-07-18,Warning Issued,0,Not Applicable,Open
+A01144,R01144,2026-07-08,Warning Issued,0,Pending,Under Review
+A01145,R01145,2026-07-18,No Further Action,0,Not Applicable,Resolved
+A01146,R01146,2026-06-24,Product Seized,0,Not Applicable,Open
+A01147,R01147,2026-06-24,Improvement Notice,0,Not Applicable,Open
+A01148,R01148,2026-07-21,Fine Imposed,1000,Initiated,Resolved
+A01149,R01149,2026-07-13,Improvement Notice,0,Pending,Resolved
+A01150,R01150,2026-07-16,Product Seized,0,Not Applicable,Resolved
+A01151,R01151,2026-07-17,Product Seized,0,Not Applicable,Under Review
+A01152,R01152,2026-07-09,No Further Action,0,Not Applicable,Resolved
+A01153,R01153,2026-07-14,Warning Issued,0,Not Applicable,Under Review
+A01154,R01154,2026-07-08,No Further Action,0,Not Applicable,Open
+A01155,R01155,2026-07-23,No Further Action,0,Not Applicable,Resolved
+A01156,R01156,2026-08-07,No Further Action,0,Not Applicable,Under Review
+A01157,R01157,2026-08-08,Product Seized,0,Not Applicable,Resolved
+A01158,R01158,2026-08-06,Improvement Notice,0,Pending,Resolved
+A01159,R01159,2026-08-09,No Further Action,0,Not Applicable,Resolved
+A01160,R01160,2026-07-19,No Further Action,0,Initiated,Open
+A01161,R01161,2026-07-21,Improvement Notice,0,Not Applicable,Resolved
+A01162,R01162,2026-07-25,No Further Action,0,Initiated,Resolved
+A01163,R01163,2026-08-01,Fine Imposed,5000,Initiated,Resolved
+A01164,R01164,2026-08-25,Improvement Notice,0,Closed,Resolved
+A01165,R01165,2026-08-25,Product Seized,0,Not Applicable,Resolved
+A01166,R01166,2026-08-03,Fine Imposed,2500,Not Applicable,Under Review
+A01167,R01167,2026-08-08,Fine Imposed,25000,Not Applicable,Resolved
+A01168,R01168,2026-08-19,Warning Issued,0,Not Applicable,Under Review
+A01169,R01169,2026-09-02,No Further Action,0,Not Applicable,Resolved
+A01170,R01170,2026-08-27,No Further Action,0,Initiated,Resolved
+A01171,R01171,2026-08-20,Warning Issued,0,Pending,Resolved
+A01172,R01172,2026-08-26,No Further Action,0,Initiated,Resolved
+A01173,R01173,2026-08-24,Product Seized,0,Not Applicable,Resolved
+A01174,R01174,2026-09-13,Fine Imposed,1000,Not Applicable,Resolved
+A01175,R01175,2026-09-12,No Further Action,0,Closed,Resolved
+A01176,R01176,2026-09-22,No Further Action,0,Closed,Under Review
+A01177,R01177,2026-09-02,No Further Action,0,Not Applicable,Resolved
+A01178,R01178,2026-09-01,Product Seized,0,Not Applicable,Resolved
+A01179,R01179,2026-09-13,Fine Imposed,10000,Initiated,Resolved
+A01180,R01180,2026-09-19,No Further Action,0,Closed,Resolved
+A01181,R01181,2026-09-29,No Further Action,0,Not Applicable,Resolved
+A01182,R01182,2026-09-24,Warning Issued,0,Initiated,Resolved
+A01183,R01183,2026-10-06,Product Seized,0,Initiated,Resolved
+A01184,R01184,2026-09-22,Product Seized,0,Not Applicable,Resolved
+A01185,R01185,2026-10-08,No Further Action,0,Not Applicable,Open
+A01186,R01186,2026-10-02,Warning Issued,0,Not Applicable,Resolved
+A01187,R01187,2026-10-08,Licence Suspended,0,Not Applicable,Under Review
+A01188,R01188,2026-09-18,Fine Imposed,1000,Not Applicable,Open
+A01189,R01189,2026-09-30,Product Seized,0,Initiated,Resolved
+A01190,R01190,2026-10-12,Warning Issued,0,Not Applicable,Under Review
+A01191,R01191,2026-10-08,Warning Issued,0,Initiated,Under Review
+A01192,R01192,2026-10-03,Improvement Notice,0,Not Applicable,Open
+A01193,R01193,2026-10-13,Fine Imposed,10000,Initiated,Resolved
+A01194,R01194,2026-10-17,Warning Issued,0,Not Applicable,Resolved
+A01195,R01195,2026-10-05,Product Seized,0,Not Applicable,Under Review
+A01196,R01196,2026-10-21,No Further Action,0,Not Applicable,Under Review
+A01197,R01197,2026-10-25,No Further Action,0,Initiated,Open
+A01198,R01198,2026-10-16,Warning Issued,0,Not Applicable,Resolved
+A01199,R01199,2026-10-27,Improvement Notice,0,Not Applicable,Resolved
+A01200,R01200,2026-10-26,No Further Action,0,Not Applicable,Resolved

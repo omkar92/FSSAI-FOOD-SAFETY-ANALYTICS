@@ -1,0 +1,501 @@
+business_id,business_name,business_type,city,state,licence_status,risk_category,business_start_date
+B0001,Bengaluru Street Food Vendor 001,Street Food Vendor,Bengaluru,Karnataka,Licensed,Medium,2020-12-09
+B0002,Nashik Dairy 002,Dairy,Nashik,Maharashtra,Licensed,Low,2015-05-11
+B0003,Pune Grocery Retailer 003,Grocery Retailer,Pune,Maharashtra,Unlicensed,Low,2017-08-13
+B0004,Nagpur Grocery Retailer 004,Grocery Retailer,Nagpur,Maharashtra,Licensed,Low,2016-04-19
+B0005,Kanpur Restaurant 005,Restaurant,Kanpur,Uttar Pradesh,Licence Expired,Low,2023-03-25
+B0006,Karimnagar Sweet Shop 006,Sweet Shop,Karimnagar,Telangana,Licence Expired,Medium,2024-09-26
+B0007,Agra Dairy 007,Dairy,Agra,Uttar Pradesh,Licensed,High,2020-08-23
+B0008,Hyderabad Restaurant 008,Restaurant,Hyderabad,Telangana,Licensed,Low,2023-03-23
+B0009,Thane Bakery 009,Bakery,Thane,Maharashtra,Licensed,Medium,2019-05-05
+B0010,Coimbatore Dairy 010,Dairy,Coimbatore,Tamil Nadu,Licensed,Medium,2019-02-09
+B0011,Bhopal Dairy 011,Dairy,Bhopal,Madhya Pradesh,Licensed,High,2017-03-26
+B0012,Mysuru Street Food Vendor 012,Street Food Vendor,Mysuru,Karnataka,Licensed,Low,2022-07-30
+B0013,Karimnagar Bakery 013,Bakery,Karimnagar,Telangana,Licensed,Low,2016-01-15
+B0014,Ahmedabad Bakery 014,Bakery,Ahmedabad,Gujarat,Licensed,High,2018-09-29
+B0015,Hubballi Restaurant 015,Restaurant,Hubballi,Karnataka,Licensed,Medium,2019-08-26
+B0016,Karimnagar Restaurant 016,Restaurant,Karimnagar,Telangana,Licensed,Low,2020-12-22
+B0017,Kota Street Food Vendor 017,Street Food Vendor,Kota,Rajasthan,Licensed,Low,2019-10-18
+B0018,Salem Grocery Retailer 018,Grocery Retailer,Salem,Tamil Nadu,Unlicensed,Medium,2022-04-14
+B0019,Jabalpur Meat Fish Retailer 019,Meat/Fish Retailer,Jabalpur,Madhya Pradesh,Licensed,Medium,2017-05-20
+B0020,Pune Restaurant 020,Restaurant,Pune,Maharashtra,Licensed,Low,2022-08-22
+B0021,New Delhi Packaged Food Manufacturer 021,Packaged Food Manufacturer,New Delhi,Delhi,Unlicensed,Low,2022-08-28
+B0022,Agra Street Food Vendor 022,Street Food Vendor,Agra,Uttar Pradesh,Licensed,Low,2023-08-24
+B0023,Howrah Bakery 023,Bakery,Howrah,West Bengal,Licensed,High,2017-11-17
+B0024,Nagpur Caterer 024,Caterer,Nagpur,Maharashtra,Licensed,High,2024-05-12
+B0025,Mysuru Restaurant 025,Restaurant,Mysuru,Karnataka,Licensed,Medium,2022-04-29
+B0026,Mangaluru Restaurant 026,Restaurant,Mangaluru,Karnataka,Licensed,Medium,2025-04-06
+B0027,Coimbatore Street Food Vendor 027,Street Food Vendor,Coimbatore,Tamil Nadu,Licence Expired,Low,2019-06-20
+B0028,Varanasi Sweet Shop 028,Sweet Shop,Varanasi,Uttar Pradesh,Licence Expired,High,2024-10-21
+B0029,Madurai Street Food Vendor 029,Street Food Vendor,Madurai,Tamil Nadu,Licensed,Low,2020-11-30
+B0030,Gwalior Restaurant 030,Restaurant,Gwalior,Madhya Pradesh,Licensed,High,2024-07-06
+B0031,Chennai Dairy 031,Dairy,Chennai,Tamil Nadu,Licence Expired,Low,2017-04-15
+B0032,Nashik Street Food Vendor 032,Street Food Vendor,Nashik,Maharashtra,Licensed,Medium,2025-01-29
+B0033,Noida Bakery 033,Bakery,Noida,Uttar Pradesh,Licensed,Low,2015-07-06
+B0034,Thane Bakery 034,Bakery,Thane,Maharashtra,Licensed,Low,2018-10-01
+B0035,Noida Sweet Shop 035,Sweet Shop,Noida,Uttar Pradesh,Licensed,High,2020-05-13
+B0036,Mysuru Bakery 036,Bakery,Mysuru,Karnataka,Licensed,Medium,2020-05-23
+B0037,Howrah Grocery Retailer 037,Grocery Retailer,Howrah,West Bengal,Licensed,Low,2016-09-15
+B0038,Varanasi Street Food Vendor 038,Street Food Vendor,Varanasi,Uttar Pradesh,Licence Expired,High,2016-03-28
+B0039,Siliguri Street Food Vendor 039,Street Food Vendor,Siliguri,West Bengal,Licensed,Medium,2021-03-05
+B0040,Howrah Meat Fish Retailer 040,Meat/Fish Retailer,Howrah,West Bengal,Licensed,Low,2018-12-14
+B0041,Howrah Restaurant 041,Restaurant,Howrah,West Bengal,Licensed,Medium,2020-02-28
+B0042,Surat Packaged Food Manufacturer 042,Packaged Food Manufacturer,Surat,Gujarat,Licensed,Medium,2019-09-01
+B0043,Nagpur Street Food Vendor 043,Street Food Vendor,Nagpur,Maharashtra,Licensed,Medium,2020-04-03
+B0044,Karimnagar Grocery Retailer 044,Grocery Retailer,Karimnagar,Telangana,Licensed,Low,2016-04-14
+B0045,Surat Packaged Food Manufacturer 045,Packaged Food Manufacturer,Surat,Gujarat,Licence Expired,Medium,2019-12-05
+B0046,Kanpur Sweet Shop 046,Sweet Shop,Kanpur,Uttar Pradesh,Licensed,Medium,2019-02-13
+B0047,Thane Dairy 047,Dairy,Thane,Maharashtra,Licensed,Medium,2024-10-23
+B0048,Nagpur Dairy 048,Dairy,Nagpur,Maharashtra,Licensed,High,2019-11-04
+B0049,Indore Dairy 049,Dairy,Indore,Madhya Pradesh,Licence Expired,High,2017-09-19
+B0050,Thane Sweet Shop 050,Sweet Shop,Thane,Maharashtra,Unlicensed,Low,2015-05-08
+B0051,Mysuru Caterer 051,Caterer,Mysuru,Karnataka,Licensed,Medium,2025-07-30
+B0052,Aurangabad Sweet Shop 052,Sweet Shop,Aurangabad,Maharashtra,Licensed,Low,2017-02-23
+B0053,Jaipur Grocery Retailer 053,Grocery Retailer,Jaipur,Rajasthan,Licensed,Low,2022-09-07
+B0054,Mysuru Bakery 054,Bakery,Mysuru,Karnataka,Unlicensed,Medium,2025-09-01
+B0055,Varanasi Grocery Retailer 055,Grocery Retailer,Varanasi,Uttar Pradesh,Licensed,Medium,2017-08-29
+B0056,Siliguri Sweet Shop 056,Sweet Shop,Siliguri,West Bengal,Licensed,Medium,2017-05-03
+B0057,Mysuru Packaged Food Manufacturer 057,Packaged Food Manufacturer,Mysuru,Karnataka,Licensed,Medium,2024-05-06
+B0058,Surat Bakery 058,Bakery,Surat,Gujarat,Licensed,Low,2023-04-29
+B0059,Kota Street Food Vendor 059,Street Food Vendor,Kota,Rajasthan,Licensed,Low,2017-05-26
+B0060,Aurangabad Packaged Food Manufacturer 060,Packaged Food Manufacturer,Aurangabad,Maharashtra,Licensed,Medium,2015-09-26
+B0061,Bhopal Street Food Vendor 061,Street Food Vendor,Bhopal,Madhya Pradesh,Licensed,Low,2025-01-23
+B0062,Warangal Restaurant 062,Restaurant,Warangal,Telangana,Licence Expired,High,2024-06-26
+B0063,Chennai Restaurant 063,Restaurant,Chennai,Tamil Nadu,Licensed,Low,2025-02-26
+B0064,Mumbai Grocery Retailer 064,Grocery Retailer,Mumbai,Maharashtra,Licensed,High,2016-12-04
+B0065,Agra Sweet Shop 065,Sweet Shop,Agra,Uttar Pradesh,Licensed,Medium,2017-09-23
+B0066,Thane Restaurant 066,Restaurant,Thane,Maharashtra,Licensed,Low,2019-11-09
+B0067,Indore Dairy 067,Dairy,Indore,Madhya Pradesh,Licensed,Medium,2016-07-04
+B0068,Mysuru Dairy 068,Dairy,Mysuru,Karnataka,Licensed,Medium,2023-09-07
+B0069,Pune Grocery Retailer 069,Grocery Retailer,Pune,Maharashtra,Licensed,High,2018-09-10
+B0070,Salem Restaurant 070,Restaurant,Salem,Tamil Nadu,Licensed,Low,2017-06-14
+B0071,Varanasi Packaged Food Manufacturer 071,Packaged Food Manufacturer,Varanasi,Uttar Pradesh,Licensed,Medium,2017-08-14
+B0072,Agra Grocery Retailer 072,Grocery Retailer,Agra,Uttar Pradesh,Licensed,Medium,2017-12-02
+B0073,Thane Street Food Vendor 073,Street Food Vendor,Thane,Maharashtra,Licensed,Low,2017-01-23
+B0074,Chennai Grocery Retailer 074,Grocery Retailer,Chennai,Tamil Nadu,Licensed,Medium,2023-05-28
+B0075,Jaipur Dairy 075,Dairy,Jaipur,Rajasthan,Licensed,Low,2023-08-13
+B0076,Kolkata Bakery 076,Bakery,Kolkata,West Bengal,Licensed,Low,2021-11-09
+B0077,Noida Warehouse Distributor 077,Warehouse/Distributor,Noida,Uttar Pradesh,Licensed,Medium,2020-11-13
+B0078,Mysuru Packaged Food Manufacturer 078,Packaged Food Manufacturer,Mysuru,Karnataka,Licensed,Medium,2021-05-15
+B0079,Hyderabad Sweet Shop 079,Sweet Shop,Hyderabad,Telangana,Licensed,Medium,2016-12-29
+B0080,Mangaluru Restaurant 080,Restaurant,Mangaluru,Karnataka,Licensed,High,2015-03-17
+B0081,Hubballi Warehouse Distributor 081,Warehouse/Distributor,Hubballi,Karnataka,Licence Expired,Medium,2018-10-22
+B0082,Thane Street Food Vendor 082,Street Food Vendor,Thane,Maharashtra,Licensed,Medium,2024-09-25
+B0083,Gwalior Meat Fish Retailer 083,Meat/Fish Retailer,Gwalior,Madhya Pradesh,Licensed,Medium,2023-03-02
+B0084,Bhopal Dairy 084,Dairy,Bhopal,Madhya Pradesh,Unlicensed,Medium,2022-05-29
+B0085,Indore Meat Fish Retailer 085,Meat/Fish Retailer,Indore,Madhya Pradesh,Licensed,Low,2019-03-23
+B0086,Hubballi Restaurant 086,Restaurant,Hubballi,Karnataka,Licensed,Medium,2019-03-21
+B0087,Noida Packaged Food Manufacturer 087,Packaged Food Manufacturer,Noida,Uttar Pradesh,Unlicensed,High,2019-08-08
+B0088,Indore Packaged Food Manufacturer 088,Packaged Food Manufacturer,Indore,Madhya Pradesh,Licensed,Medium,2019-12-16
+B0089,Warangal Grocery Retailer 089,Grocery Retailer,Warangal,Telangana,Licensed,Low,2023-10-03
+B0090,New Delhi Sweet Shop 090,Sweet Shop,New Delhi,Delhi,Licensed,Medium,2016-03-31
+B0091,Mumbai Meat Fish Retailer 091,Meat/Fish Retailer,Mumbai,Maharashtra,Licensed,Low,2016-05-19
+B0092,Bengaluru Restaurant 092,Restaurant,Bengaluru,Karnataka,Licensed,Medium,2020-10-06
+B0093,Thane Restaurant 093,Restaurant,Thane,Maharashtra,Unlicensed,Medium,2015-07-22
+B0094,Siliguri Grocery Retailer 094,Grocery Retailer,Siliguri,West Bengal,Licensed,Low,2024-03-30
+B0095,Madurai Warehouse Distributor 095,Warehouse/Distributor,Madurai,Tamil Nadu,Licensed,Medium,2016-04-15
+B0096,Nagpur Warehouse Distributor 096,Warehouse/Distributor,Nagpur,Maharashtra,Licensed,Medium,2024-07-11
+B0097,Kanpur Street Food Vendor 097,Street Food Vendor,Kanpur,Uttar Pradesh,Licensed,Medium,2023-11-24
+B0098,Ahmedabad Warehouse Distributor 098,Warehouse/Distributor,Ahmedabad,Gujarat,Licence Expired,Medium,2023-10-22
+B0099,Ahmedabad Bakery 099,Bakery,Ahmedabad,Gujarat,Licensed,Low,2019-05-01
+B0100,Aurangabad Warehouse Distributor 100,Warehouse/Distributor,Aurangabad,Maharashtra,Licensed,Medium,2021-11-02
+B0101,Aurangabad Bakery 101,Bakery,Aurangabad,Maharashtra,Licensed,Low,2019-12-30
+B0102,Warangal Warehouse Distributor 102,Warehouse/Distributor,Warangal,Telangana,Licensed,Medium,2015-03-04
+B0103,Mangaluru Bakery 103,Bakery,Mangaluru,Karnataka,Licensed,Medium,2023-09-06
+B0104,Thane Restaurant 104,Restaurant,Thane,Maharashtra,Unlicensed,High,2019-07-27
+B0105,Indore Packaged Food Manufacturer 105,Packaged Food Manufacturer,Indore,Madhya Pradesh,Licensed,Medium,2015-03-24
+B0106,Surat Street Food Vendor 106,Street Food Vendor,Surat,Gujarat,Licensed,Low,2025-07-10
+B0107,Ahmedabad Meat Fish Retailer 107,Meat/Fish Retailer,Ahmedabad,Gujarat,Licensed,Low,2019-04-24
+B0108,Coimbatore Dairy 108,Dairy,Coimbatore,Tamil Nadu,Licensed,Low,2020-06-07
+B0109,Agra Restaurant 109,Restaurant,Agra,Uttar Pradesh,Licensed,Medium,2022-09-15
+B0110,Thane Grocery Retailer 110,Grocery Retailer,Thane,Maharashtra,Licensed,Low,2024-07-25
+B0111,Kanpur Sweet Shop 111,Sweet Shop,Kanpur,Uttar Pradesh,Licensed,Medium,2022-12-16
+B0112,Pune Sweet Shop 112,Sweet Shop,Pune,Maharashtra,Licensed,Medium,2017-10-16
+B0113,Surat Bakery 113,Bakery,Surat,Gujarat,Licence Expired,Low,2021-02-09
+B0114,Jaipur Street Food Vendor 114,Street Food Vendor,Jaipur,Rajasthan,Licensed,High,2020-10-01
+B0115,Mysuru Grocery Retailer 115,Grocery Retailer,Mysuru,Karnataka,Licensed,Low,2017-01-30
+B0116,Shahdara Restaurant 116,Restaurant,Shahdara,Delhi,Licensed,Medium,2015-12-26
+B0117,Chennai Caterer 117,Caterer,Chennai,Tamil Nadu,Licensed,Medium,2020-05-23
+B0118,Noida Restaurant 118,Restaurant,Noida,Uttar Pradesh,Licensed,Low,2022-01-25
+B0119,Mumbai Packaged Food Manufacturer 119,Packaged Food Manufacturer,Mumbai,Maharashtra,Licensed,High,2020-05-22
+B0120,New Delhi Street Food Vendor 120,Street Food Vendor,New Delhi,Delhi,Licensed,Medium,2021-03-11
+B0121,Aurangabad Restaurant 121,Restaurant,Aurangabad,Maharashtra,Licensed,Low,2022-10-22
+B0122,Hyderabad Packaged Food Manufacturer 122,Packaged Food Manufacturer,Hyderabad,Telangana,Licence Expired,Medium,2015-02-25
+B0123,Dwarka Meat Fish Retailer 123,Meat/Fish Retailer,Dwarka,Delhi,Licensed,Medium,2022-06-06
+B0124,Nashik Grocery Retailer 124,Grocery Retailer,Nashik,Maharashtra,Unlicensed,Medium,2019-11-10
+B0125,Pune Dairy 125,Dairy,Pune,Maharashtra,Licensed,Low,2019-07-13
+B0126,Mysuru Packaged Food Manufacturer 126,Packaged Food Manufacturer,Mysuru,Karnataka,Unlicensed,Low,2015-05-06
+B0127,Mumbai Sweet Shop 127,Sweet Shop,Mumbai,Maharashtra,Licensed,Medium,2015-08-21
+B0128,Rohini Packaged Food Manufacturer 128,Packaged Food Manufacturer,Rohini,Delhi,Licensed,Medium,2024-06-02
+B0129,Kanpur Street Food Vendor 129,Street Food Vendor,Kanpur,Uttar Pradesh,Licensed,Medium,2019-10-28
+B0130,Vadodara Warehouse Distributor 130,Warehouse/Distributor,Vadodara,Gujarat,Licensed,Low,2022-06-02
+B0131,Surat Street Food Vendor 131,Street Food Vendor,Surat,Gujarat,Licensed,Low,2021-07-25
+B0132,Mumbai Restaurant 132,Restaurant,Mumbai,Maharashtra,Licensed,Medium,2022-02-08
+B0133,Bhopal Sweet Shop 133,Sweet Shop,Bhopal,Madhya Pradesh,Licence Expired,High,2016-10-07
+B0134,Bhopal Restaurant 134,Restaurant,Bhopal,Madhya Pradesh,Licensed,High,2017-04-26
+B0135,Kanpur Street Food Vendor 135,Street Food Vendor,Kanpur,Uttar Pradesh,Licensed,Low,2018-02-15
+B0136,Salem Packaged Food Manufacturer 136,Packaged Food Manufacturer,Salem,Tamil Nadu,Licensed,Low,2020-11-07
+B0137,Warangal Packaged Food Manufacturer 137,Packaged Food Manufacturer,Warangal,Telangana,Licensed,Medium,2020-07-19
+B0138,Kanpur Dairy 138,Dairy,Kanpur,Uttar Pradesh,Licensed,Medium,2023-01-24
+B0139,Mysuru Restaurant 139,Restaurant,Mysuru,Karnataka,Licensed,Low,2022-09-25
+B0140,Noida Sweet Shop 140,Sweet Shop,Noida,Uttar Pradesh,Unlicensed,High,2015-08-24
+B0141,Bengaluru Grocery Retailer 141,Grocery Retailer,Bengaluru,Karnataka,Unlicensed,Low,2019-04-20
+B0142,Howrah Restaurant 142,Restaurant,Howrah,West Bengal,Licensed,High,2018-06-06
+B0143,Aurangabad Bakery 143,Bakery,Aurangabad,Maharashtra,Licensed,Low,2015-03-19
+B0144,Varanasi Street Food Vendor 144,Street Food Vendor,Varanasi,Uttar Pradesh,Licensed,Medium,2020-02-07
+B0145,Dwarka Caterer 145,Caterer,Dwarka,Delhi,Licensed,Medium,2016-07-28
+B0146,New Delhi Sweet Shop 146,Sweet Shop,New Delhi,Delhi,Licensed,Medium,2017-03-31
+B0147,Siliguri Packaged Food Manufacturer 147,Packaged Food Manufacturer,Siliguri,West Bengal,Licensed,Low,2018-04-17
+B0148,Hubballi Restaurant 148,Restaurant,Hubballi,Karnataka,Unlicensed,Medium,2016-04-22
+B0149,Kolkata Restaurant 149,Restaurant,Kolkata,West Bengal,Licensed,Low,2017-08-08
+B0150,Nagpur Packaged Food Manufacturer 150,Packaged Food Manufacturer,Nagpur,Maharashtra,Licensed,High,2022-12-22
+B0151,Thane Restaurant 151,Restaurant,Thane,Maharashtra,Unlicensed,Low,2025-04-25
+B0152,Shahdara Restaurant 152,Restaurant,Shahdara,Delhi,Licensed,Medium,2015-05-10
+B0153,Nashik Grocery Retailer 153,Grocery Retailer,Nashik,Maharashtra,Licensed,Low,2020-10-17
+B0154,Jodhpur Caterer 154,Caterer,Jodhpur,Rajasthan,Licensed,Medium,2017-03-25
+B0155,Vadodara Restaurant 155,Restaurant,Vadodara,Gujarat,Licensed,Medium,2017-09-11
+B0156,Rajkot Caterer 156,Caterer,Rajkot,Gujarat,Unlicensed,Medium,2018-09-09
+B0157,Hyderabad Grocery Retailer 157,Grocery Retailer,Hyderabad,Telangana,Licensed,Medium,2024-06-11
+B0158,Nashik Grocery Retailer 158,Grocery Retailer,Nashik,Maharashtra,Unlicensed,High,2018-12-01
+B0159,Thane Warehouse Distributor 159,Warehouse/Distributor,Thane,Maharashtra,Licensed,Low,2022-11-12
+B0160,Mysuru Packaged Food Manufacturer 160,Packaged Food Manufacturer,Mysuru,Karnataka,Licensed,Medium,2023-04-05
+B0161,Warangal Bakery 161,Bakery,Warangal,Telangana,Licensed,Low,2016-07-28
+B0162,Mysuru Caterer 162,Caterer,Mysuru,Karnataka,Licensed,Low,2016-02-22
+B0163,Siliguri Restaurant 163,Restaurant,Siliguri,West Bengal,Unlicensed,Low,2015-01-25
+B0164,Dwarka Restaurant 164,Restaurant,Dwarka,Delhi,Licensed,Medium,2017-09-29
+B0165,Varanasi Street Food Vendor 165,Street Food Vendor,Varanasi,Uttar Pradesh,Licensed,High,2024-05-25
+B0166,Aurangabad Bakery 166,Bakery,Aurangabad,Maharashtra,Licensed,Low,2015-11-23
+B0167,Agra Sweet Shop 167,Sweet Shop,Agra,Uttar Pradesh,Licensed,Medium,2024-04-12
+B0168,Thane Grocery Retailer 168,Grocery Retailer,Thane,Maharashtra,Licensed,High,2023-06-18
+B0169,Aurangabad Grocery Retailer 169,Grocery Retailer,Aurangabad,Maharashtra,Licensed,Medium,2018-02-10
+B0170,Mysuru Meat Fish Retailer 170,Meat/Fish Retailer,Mysuru,Karnataka,Licensed,Low,2015-02-24
+B0171,Gwalior Street Food Vendor 171,Street Food Vendor,Gwalior,Madhya Pradesh,Unlicensed,Medium,2020-11-04
+B0172,Gwalior Grocery Retailer 172,Grocery Retailer,Gwalior,Madhya Pradesh,Licensed,Low,2022-09-07
+B0173,Vadodara Grocery Retailer 173,Grocery Retailer,Vadodara,Gujarat,Licensed,Low,2024-01-24
+B0174,Noida Grocery Retailer 174,Grocery Retailer,Noida,Uttar Pradesh,Licensed,Low,2020-11-13
+B0175,Gwalior Bakery 175,Bakery,Gwalior,Madhya Pradesh,Licensed,Medium,2015-06-14
+B0176,Aurangabad Street Food Vendor 176,Street Food Vendor,Aurangabad,Maharashtra,Unlicensed,Low,2017-02-13
+B0177,Hyderabad Restaurant 177,Restaurant,Hyderabad,Telangana,Licensed,Medium,2022-07-10
+B0178,Chennai Bakery 178,Bakery,Chennai,Tamil Nadu,Licensed,Low,2018-11-10
+B0179,Mangaluru Street Food Vendor 179,Street Food Vendor,Mangaluru,Karnataka,Licensed,Medium,2019-10-24
+B0180,Bengaluru Street Food Vendor 180,Street Food Vendor,Bengaluru,Karnataka,Licence Expired,Medium,2018-07-27
+B0181,Aurangabad Dairy 181,Dairy,Aurangabad,Maharashtra,Unlicensed,Medium,2022-07-31
+B0182,New Delhi Street Food Vendor 182,Street Food Vendor,New Delhi,Delhi,Licensed,Medium,2024-05-23
+B0183,Aurangabad Bakery 183,Bakery,Aurangabad,Maharashtra,Licence Expired,Medium,2023-09-16
+B0184,Chennai Restaurant 184,Restaurant,Chennai,Tamil Nadu,Unlicensed,Low,2018-10-11
+B0185,Dwarka Packaged Food Manufacturer 185,Packaged Food Manufacturer,Dwarka,Delhi,Licensed,High,2019-06-11
+B0186,Aurangabad Restaurant 186,Restaurant,Aurangabad,Maharashtra,Unlicensed,High,2015-06-17
+B0187,Ahmedabad Grocery Retailer 187,Grocery Retailer,Ahmedabad,Gujarat,Licensed,High,2023-02-17
+B0188,Mysuru Packaged Food Manufacturer 188,Packaged Food Manufacturer,Mysuru,Karnataka,Licensed,Low,2018-10-18
+B0189,Thane Grocery Retailer 189,Grocery Retailer,Thane,Maharashtra,Licensed,Medium,2018-08-12
+B0190,Shahdara Grocery Retailer 190,Grocery Retailer,Shahdara,Delhi,Licensed,Medium,2015-04-08
+B0191,Hubballi Caterer 191,Caterer,Hubballi,Karnataka,Licensed,Low,2024-11-28
+B0192,Noida Packaged Food Manufacturer 192,Packaged Food Manufacturer,Noida,Uttar Pradesh,Licensed,Medium,2015-12-31
+B0193,Mumbai Meat Fish Retailer 193,Meat/Fish Retailer,Mumbai,Maharashtra,Licensed,Low,2017-11-06
+B0194,Bengaluru Grocery Retailer 194,Grocery Retailer,Bengaluru,Karnataka,Licensed,Low,2015-05-11
+B0195,Nagpur Grocery Retailer 195,Grocery Retailer,Nagpur,Maharashtra,Licensed,Medium,2021-05-11
+B0196,Vadodara Caterer 196,Caterer,Vadodara,Gujarat,Licensed,High,2025-08-30
+B0197,Varanasi Packaged Food Manufacturer 197,Packaged Food Manufacturer,Varanasi,Uttar Pradesh,Unlicensed,Medium,2022-06-01
+B0198,Hyderabad Grocery Retailer 198,Grocery Retailer,Hyderabad,Telangana,Unlicensed,Low,2018-01-17
+B0199,Madurai Warehouse Distributor 199,Warehouse/Distributor,Madurai,Tamil Nadu,Licence Expired,Low,2017-02-16
+B0200,Lucknow Street Food Vendor 200,Street Food Vendor,Lucknow,Uttar Pradesh,Licensed,High,2025-07-20
+B0201,Mumbai Street Food Vendor 201,Street Food Vendor,Mumbai,Maharashtra,Licensed,Medium,2019-02-09
+B0202,Dwarka Restaurant 202,Restaurant,Dwarka,Delhi,Licensed,Medium,2016-09-06
+B0203,Nashik Packaged Food Manufacturer 203,Packaged Food Manufacturer,Nashik,Maharashtra,Licensed,High,2018-04-09
+B0204,Mangaluru Sweet Shop 204,Sweet Shop,Mangaluru,Karnataka,Licensed,High,2024-10-27
+B0205,Hyderabad Grocery Retailer 205,Grocery Retailer,Hyderabad,Telangana,Licensed,Medium,2018-02-05
+B0206,Vadodara Dairy 206,Dairy,Vadodara,Gujarat,Licence Expired,Low,2019-12-10
+B0207,Noida Restaurant 207,Restaurant,Noida,Uttar Pradesh,Licensed,Low,2020-07-25
+B0208,Bengaluru Dairy 208,Dairy,Bengaluru,Karnataka,Licensed,Low,2021-08-21
+B0209,Hyderabad Street Food Vendor 209,Street Food Vendor,Hyderabad,Telangana,Licensed,Medium,2025-04-18
+B0210,Aurangabad Street Food Vendor 210,Street Food Vendor,Aurangabad,Maharashtra,Unlicensed,Medium,2015-10-20
+B0211,Mumbai Caterer 211,Caterer,Mumbai,Maharashtra,Licensed,Low,2024-05-08
+B0212,Nashik Warehouse Distributor 212,Warehouse/Distributor,Nashik,Maharashtra,Licensed,Low,2016-12-10
+B0213,Jabalpur Warehouse Distributor 213,Warehouse/Distributor,Jabalpur,Madhya Pradesh,Licensed,Medium,2023-10-30
+B0214,Karimnagar Sweet Shop 214,Sweet Shop,Karimnagar,Telangana,Licensed,Low,2024-01-28
+B0215,Kanpur Restaurant 215,Restaurant,Kanpur,Uttar Pradesh,Licensed,Low,2021-12-28
+B0216,Warangal Bakery 216,Bakery,Warangal,Telangana,Licensed,Low,2019-03-25
+B0217,Howrah Packaged Food Manufacturer 217,Packaged Food Manufacturer,Howrah,West Bengal,Licensed,Medium,2017-04-29
+B0218,Salem Caterer 218,Caterer,Salem,Tamil Nadu,Licensed,Medium,2017-06-11
+B0219,Lucknow Caterer 219,Caterer,Lucknow,Uttar Pradesh,Unlicensed,Medium,2017-08-09
+B0220,Rajkot Dairy 220,Dairy,Rajkot,Gujarat,Licensed,High,2015-06-19
+B0221,Hyderabad Packaged Food Manufacturer 221,Packaged Food Manufacturer,Hyderabad,Telangana,Licensed,Medium,2017-09-01
+B0222,Nashik Grocery Retailer 222,Grocery Retailer,Nashik,Maharashtra,Licensed,Low,2024-04-10
+B0223,Nagpur Restaurant 223,Restaurant,Nagpur,Maharashtra,Unlicensed,Medium,2021-03-21
+B0224,Noida Bakery 224,Bakery,Noida,Uttar Pradesh,Licensed,Medium,2020-06-19
+B0225,Surat Packaged Food Manufacturer 225,Packaged Food Manufacturer,Surat,Gujarat,Unlicensed,Low,2022-03-03
+B0226,Jaipur Street Food Vendor 226,Street Food Vendor,Jaipur,Rajasthan,Licensed,High,2015-12-22
+B0227,Varanasi Restaurant 227,Restaurant,Varanasi,Uttar Pradesh,Unlicensed,High,2017-11-20
+B0228,Jodhpur Bakery 228,Bakery,Jodhpur,Rajasthan,Licensed,High,2020-10-30
+B0229,Jodhpur Meat Fish Retailer 229,Meat/Fish Retailer,Jodhpur,Rajasthan,Licensed,Low,2019-03-29
+B0230,Lucknow Packaged Food Manufacturer 230,Packaged Food Manufacturer,Lucknow,Uttar Pradesh,Licensed,Medium,2016-03-23
+B0231,Noida Restaurant 231,Restaurant,Noida,Uttar Pradesh,Licensed,Low,2018-06-10
+B0232,Jabalpur Sweet Shop 232,Sweet Shop,Jabalpur,Madhya Pradesh,Licensed,Medium,2015-10-05
+B0233,Gwalior Meat Fish Retailer 233,Meat/Fish Retailer,Gwalior,Madhya Pradesh,Licence Expired,Low,2022-01-15
+B0234,Pune Dairy 234,Dairy,Pune,Maharashtra,Licensed,Low,2021-03-07
+B0235,Siliguri Warehouse Distributor 235,Warehouse/Distributor,Siliguri,West Bengal,Licensed,Low,2021-08-25
+B0236,Bengaluru Restaurant 236,Restaurant,Bengaluru,Karnataka,Licensed,Medium,2023-03-14
+B0237,Vadodara Dairy 237,Dairy,Vadodara,Gujarat,Licensed,High,2020-06-23
+B0238,Mumbai Restaurant 238,Restaurant,Mumbai,Maharashtra,Licensed,Medium,2023-01-10
+B0239,Udaipur Grocery Retailer 239,Grocery Retailer,Udaipur,Rajasthan,Licensed,Low,2022-12-06
+B0240,Gwalior Dairy 240,Dairy,Gwalior,Madhya Pradesh,Licence Expired,Medium,2015-03-25
+B0241,Bengaluru Dairy 241,Dairy,Bengaluru,Karnataka,Licensed,Low,2017-07-22
+B0242,Ahmedabad Street Food Vendor 242,Street Food Vendor,Ahmedabad,Gujarat,Unlicensed,Medium,2019-12-15
+B0243,Kota Packaged Food Manufacturer 243,Packaged Food Manufacturer,Kota,Rajasthan,Licensed,Low,2025-01-24
+B0244,Karimnagar Dairy 244,Dairy,Karimnagar,Telangana,Licensed,Low,2015-12-15
+B0245,Thane Caterer 245,Caterer,Thane,Maharashtra,Licence Expired,Low,2016-06-10
+B0246,Dwarka Packaged Food Manufacturer 246,Packaged Food Manufacturer,Dwarka,Delhi,Licensed,Low,2016-06-04
+B0247,Mumbai Restaurant 247,Restaurant,Mumbai,Maharashtra,Licensed,Low,2021-08-30
+B0248,Karimnagar Warehouse Distributor 248,Warehouse/Distributor,Karimnagar,Telangana,Licensed,Medium,2020-07-06
+B0249,Mysuru Warehouse Distributor 249,Warehouse/Distributor,Mysuru,Karnataka,Licensed,Medium,2016-12-29
+B0250,Jodhpur Caterer 250,Caterer,Jodhpur,Rajasthan,Licensed,Medium,2019-04-26
+B0251,Ahmedabad Packaged Food Manufacturer 251,Packaged Food Manufacturer,Ahmedabad,Gujarat,Licensed,Medium,2020-11-09
+B0252,Coimbatore Meat Fish Retailer 252,Meat/Fish Retailer,Coimbatore,Tamil Nadu,Licence Expired,Low,2021-03-22
+B0253,Thane Restaurant 253,Restaurant,Thane,Maharashtra,Licensed,Medium,2023-09-10
+B0254,Pune Grocery Retailer 254,Grocery Retailer,Pune,Maharashtra,Licensed,Low,2017-06-05
+B0255,Salem Grocery Retailer 255,Grocery Retailer,Salem,Tamil Nadu,Licensed,Low,2022-09-22
+B0256,Lucknow Grocery Retailer 256,Grocery Retailer,Lucknow,Uttar Pradesh,Unlicensed,Medium,2024-04-12
+B0257,Karimnagar Bakery 257,Bakery,Karimnagar,Telangana,Licensed,High,2017-06-18
+B0258,Kanpur Dairy 258,Dairy,Kanpur,Uttar Pradesh,Licensed,Low,2015-01-14
+B0259,Aurangabad Packaged Food Manufacturer 259,Packaged Food Manufacturer,Aurangabad,Maharashtra,Licensed,Medium,2018-06-20
+B0260,Aurangabad Street Food Vendor 260,Street Food Vendor,Aurangabad,Maharashtra,Licensed,Medium,2016-11-25
+B0261,Nagpur Packaged Food Manufacturer 261,Packaged Food Manufacturer,Nagpur,Maharashtra,Licensed,Low,2024-05-16
+B0262,Noida Grocery Retailer 262,Grocery Retailer,Noida,Uttar Pradesh,Licensed,Medium,2020-11-10
+B0263,Mangaluru Street Food Vendor 263,Street Food Vendor,Mangaluru,Karnataka,Licensed,High,2015-06-08
+B0264,Hubballi Dairy 264,Dairy,Hubballi,Karnataka,Licensed,Medium,2022-01-23
+B0265,Dwarka Bakery 265,Bakery,Dwarka,Delhi,Licensed,Medium,2023-09-24
+B0266,Hubballi Caterer 266,Caterer,Hubballi,Karnataka,Unlicensed,Medium,2017-01-24
+B0267,Agra Street Food Vendor 267,Street Food Vendor,Agra,Uttar Pradesh,Licensed,Medium,2023-02-06
+B0268,Surat Grocery Retailer 268,Grocery Retailer,Surat,Gujarat,Unlicensed,Low,2017-07-28
+B0269,Mysuru Street Food Vendor 269,Street Food Vendor,Mysuru,Karnataka,Unlicensed,Medium,2021-06-23
+B0270,Thane Dairy 270,Dairy,Thane,Maharashtra,Licensed,Medium,2015-05-10
+B0271,Mumbai Sweet Shop 271,Sweet Shop,Mumbai,Maharashtra,Licence Expired,Low,2018-06-06
+B0272,Mumbai Meat Fish Retailer 272,Meat/Fish Retailer,Mumbai,Maharashtra,Licensed,High,2024-03-28
+B0273,Surat Restaurant 273,Restaurant,Surat,Gujarat,Licensed,Medium,2019-12-07
+B0274,Chennai Dairy 274,Dairy,Chennai,Tamil Nadu,Licensed,Medium,2022-01-04
+B0275,Surat Restaurant 275,Restaurant,Surat,Gujarat,Licensed,Medium,2020-07-13
+B0276,Lucknow Bakery 276,Bakery,Lucknow,Uttar Pradesh,Licensed,Medium,2019-10-09
+B0277,Noida Restaurant 277,Restaurant,Noida,Uttar Pradesh,Licensed,Low,2022-01-02
+B0278,Surat Restaurant 278,Restaurant,Surat,Gujarat,Licensed,Medium,2025-06-25
+B0279,Mumbai Packaged Food Manufacturer 279,Packaged Food Manufacturer,Mumbai,Maharashtra,Licensed,Low,2022-07-03
+B0280,Rohini Restaurant 280,Restaurant,Rohini,Delhi,Licence Expired,Medium,2018-04-23
+B0281,Noida Dairy 281,Dairy,Noida,Uttar Pradesh,Licensed,Low,2021-08-28
+B0282,Nagpur Grocery Retailer 282,Grocery Retailer,Nagpur,Maharashtra,Licensed,Medium,2020-07-26
+B0283,Thane Dairy 283,Dairy,Thane,Maharashtra,Unlicensed,Low,2025-08-09
+B0284,Madurai Warehouse Distributor 284,Warehouse/Distributor,Madurai,Tamil Nadu,Licensed,Medium,2023-10-22
+B0285,Udaipur Packaged Food Manufacturer 285,Packaged Food Manufacturer,Udaipur,Rajasthan,Licensed,High,2017-03-24
+B0286,Kolkata Street Food Vendor 286,Street Food Vendor,Kolkata,West Bengal,Licensed,Medium,2017-12-28
+B0287,Varanasi Restaurant 287,Restaurant,Varanasi,Uttar Pradesh,Licensed,Low,2023-11-07
+B0288,Hubballi Meat Fish Retailer 288,Meat/Fish Retailer,Hubballi,Karnataka,Licensed,Low,2023-04-07
+B0289,Kolkata Meat Fish Retailer 289,Meat/Fish Retailer,Kolkata,West Bengal,Unlicensed,Medium,2024-09-23
+B0290,Hyderabad Street Food Vendor 290,Street Food Vendor,Hyderabad,Telangana,Unlicensed,Medium,2017-04-01
+B0291,Chennai Street Food Vendor 291,Street Food Vendor,Chennai,Tamil Nadu,Licensed,Medium,2017-07-05
+B0292,Bengaluru Dairy 292,Dairy,Bengaluru,Karnataka,Licensed,Medium,2020-05-17
+B0293,Nashik Grocery Retailer 293,Grocery Retailer,Nashik,Maharashtra,Licensed,Medium,2023-03-09
+B0294,New Delhi Bakery 294,Bakery,New Delhi,Delhi,Licensed,Medium,2022-04-30
+B0295,Jaipur Sweet Shop 295,Sweet Shop,Jaipur,Rajasthan,Licensed,Medium,2024-03-25
+B0296,Rohini Meat Fish Retailer 296,Meat/Fish Retailer,Rohini,Delhi,Licensed,Medium,2017-06-09
+B0297,Agra Street Food Vendor 297,Street Food Vendor,Agra,Uttar Pradesh,Licensed,Medium,2018-02-21
+B0298,Gwalior Caterer 298,Caterer,Gwalior,Madhya Pradesh,Licensed,High,2016-04-14
+B0299,Aurangabad Dairy 299,Dairy,Aurangabad,Maharashtra,Licensed,Low,2024-11-19
+B0300,Siliguri Packaged Food Manufacturer 300,Packaged Food Manufacturer,Siliguri,West Bengal,Licensed,Medium,2015-01-02
+B0301,Rajkot Bakery 301,Bakery,Rajkot,Gujarat,Licensed,Low,2023-09-15
+B0302,Thane Street Food Vendor 302,Street Food Vendor,Thane,Maharashtra,Licensed,Medium,2016-03-20
+B0303,Rajkot Dairy 303,Dairy,Rajkot,Gujarat,Licensed,High,2018-04-10
+B0304,Pune Restaurant 304,Restaurant,Pune,Maharashtra,Licensed,Medium,2018-07-24
+B0305,Kolkata Bakery 305,Bakery,Kolkata,West Bengal,Licensed,Low,2019-07-15
+B0306,Kota Meat Fish Retailer 306,Meat/Fish Retailer,Kota,Rajasthan,Licensed,Low,2019-05-23
+B0307,Vadodara Bakery 307,Bakery,Vadodara,Gujarat,Licensed,High,2017-07-03
+B0308,Lucknow Dairy 308,Dairy,Lucknow,Uttar Pradesh,Licensed,Low,2023-09-15
+B0309,Udaipur Packaged Food Manufacturer 309,Packaged Food Manufacturer,Udaipur,Rajasthan,Licensed,Low,2021-10-02
+B0310,Noida Street Food Vendor 310,Street Food Vendor,Noida,Uttar Pradesh,Licensed,Medium,2024-02-08
+B0311,Nashik Packaged Food Manufacturer 311,Packaged Food Manufacturer,Nashik,Maharashtra,Licensed,Medium,2022-05-08
+B0312,Chennai Restaurant 312,Restaurant,Chennai,Tamil Nadu,Licensed,High,2019-05-23
+B0313,Coimbatore Caterer 313,Caterer,Coimbatore,Tamil Nadu,Licensed,Low,2019-10-31
+B0314,Siliguri Sweet Shop 314,Sweet Shop,Siliguri,West Bengal,Licensed,Low,2023-05-05
+B0315,Mumbai Bakery 315,Bakery,Mumbai,Maharashtra,Licensed,Low,2015-06-09
+B0316,Kanpur Grocery Retailer 316,Grocery Retailer,Kanpur,Uttar Pradesh,Licensed,Medium,2015-12-08
+B0317,Madurai Sweet Shop 317,Sweet Shop,Madurai,Tamil Nadu,Licensed,High,2019-02-03
+B0318,Shahdara Packaged Food Manufacturer 318,Packaged Food Manufacturer,Shahdara,Delhi,Licensed,High,2024-09-18
+B0319,Chennai Restaurant 319,Restaurant,Chennai,Tamil Nadu,Licensed,Medium,2020-10-03
+B0320,Hyderabad Street Food Vendor 320,Street Food Vendor,Hyderabad,Telangana,Licence Expired,Medium,2024-11-22
+B0321,Rajkot Warehouse Distributor 321,Warehouse/Distributor,Rajkot,Gujarat,Licensed,Medium,2018-06-25
+B0322,Lucknow Grocery Retailer 322,Grocery Retailer,Lucknow,Uttar Pradesh,Licensed,Low,2016-03-31
+B0323,Hyderabad Grocery Retailer 323,Grocery Retailer,Hyderabad,Telangana,Licensed,Low,2021-12-31
+B0324,Mumbai Street Food Vendor 324,Street Food Vendor,Mumbai,Maharashtra,Licensed,Medium,2022-09-18
+B0325,Indore Packaged Food Manufacturer 325,Packaged Food Manufacturer,Indore,Madhya Pradesh,Licensed,Low,2019-08-17
+B0326,Noida Meat Fish Retailer 326,Meat/Fish Retailer,Noida,Uttar Pradesh,Licensed,Medium,2015-09-01
+B0327,Mumbai Restaurant 327,Restaurant,Mumbai,Maharashtra,Licensed,Medium,2024-01-01
+B0328,Noida Bakery 328,Bakery,Noida,Uttar Pradesh,Licensed,Low,2018-11-29
+B0329,Nashik Grocery Retailer 329,Grocery Retailer,Nashik,Maharashtra,Licensed,High,2025-07-06
+B0330,Bhopal Restaurant 330,Restaurant,Bhopal,Madhya Pradesh,Unlicensed,High,2019-12-11
+B0331,Aurangabad Bakery 331,Bakery,Aurangabad,Maharashtra,Licensed,High,2023-01-28
+B0332,Thane Restaurant 332,Restaurant,Thane,Maharashtra,Licensed,Medium,2023-08-17
+B0333,Gwalior Meat Fish Retailer 333,Meat/Fish Retailer,Gwalior,Madhya Pradesh,Licensed,Medium,2016-06-26
+B0334,Dwarka Street Food Vendor 334,Street Food Vendor,Dwarka,Delhi,Unlicensed,Low,2015-02-12
+B0335,Varanasi Sweet Shop 335,Sweet Shop,Varanasi,Uttar Pradesh,Licensed,Medium,2020-05-07
+B0336,Dwarka Dairy 336,Dairy,Dwarka,Delhi,Licensed,Medium,2019-01-26
+B0337,Jabalpur Restaurant 337,Restaurant,Jabalpur,Madhya Pradesh,Licensed,Medium,2024-10-05
+B0338,Nagpur Grocery Retailer 338,Grocery Retailer,Nagpur,Maharashtra,Licensed,Low,2020-11-18
+B0339,Varanasi Restaurant 339,Restaurant,Varanasi,Uttar Pradesh,Licensed,High,2025-04-19
+B0340,Nagpur Sweet Shop 340,Sweet Shop,Nagpur,Maharashtra,Licensed,Medium,2021-01-11
+B0341,Mysuru Restaurant 341,Restaurant,Mysuru,Karnataka,Licensed,High,2018-04-21
+B0342,Mangaluru Sweet Shop 342,Sweet Shop,Mangaluru,Karnataka,Licensed,Medium,2024-09-12
+B0343,Thane Street Food Vendor 343,Street Food Vendor,Thane,Maharashtra,Licensed,Low,2023-12-29
+B0344,Thane Warehouse Distributor 344,Warehouse/Distributor,Thane,Maharashtra,Licensed,Low,2016-11-30
+B0345,Chennai Bakery 345,Bakery,Chennai,Tamil Nadu,Licensed,Medium,2019-09-28
+B0346,Kota Grocery Retailer 346,Grocery Retailer,Kota,Rajasthan,Licensed,Medium,2018-12-30
+B0347,Jodhpur Meat Fish Retailer 347,Meat/Fish Retailer,Jodhpur,Rajasthan,Unlicensed,High,2015-01-17
+B0348,Chennai Grocery Retailer 348,Grocery Retailer,Chennai,Tamil Nadu,Licensed,Low,2023-06-09
+B0349,Gwalior Caterer 349,Caterer,Gwalior,Madhya Pradesh,Licensed,Medium,2022-10-20
+B0350,Mysuru Grocery Retailer 350,Grocery Retailer,Mysuru,Karnataka,Licensed,Low,2017-05-05
+B0351,Kolkata Grocery Retailer 351,Grocery Retailer,Kolkata,West Bengal,Licensed,Medium,2017-04-24
+B0352,Nashik Grocery Retailer 352,Grocery Retailer,Nashik,Maharashtra,Licensed,Low,2023-06-16
+B0353,Indore Sweet Shop 353,Sweet Shop,Indore,Madhya Pradesh,Licensed,High,2016-03-11
+B0354,Karimnagar Meat Fish Retailer 354,Meat/Fish Retailer,Karimnagar,Telangana,Licensed,Medium,2017-02-11
+B0355,Salem Restaurant 355,Restaurant,Salem,Tamil Nadu,Licensed,Low,2021-08-12
+B0356,Jabalpur Meat Fish Retailer 356,Meat/Fish Retailer,Jabalpur,Madhya Pradesh,Licensed,High,2021-11-15
+B0357,Mumbai Street Food Vendor 357,Street Food Vendor,Mumbai,Maharashtra,Licensed,Low,2015-08-05
+B0358,Kanpur Street Food Vendor 358,Street Food Vendor,Kanpur,Uttar Pradesh,Licensed,Medium,2017-02-08
+B0359,Agra Caterer 359,Caterer,Agra,Uttar Pradesh,Licensed,Medium,2018-06-03
+B0360,Mumbai Caterer 360,Caterer,Mumbai,Maharashtra,Licensed,Medium,2020-01-25
+B0361,Kanpur Grocery Retailer 361,Grocery Retailer,Kanpur,Uttar Pradesh,Licence Expired,Low,2019-10-15
+B0362,Madurai Caterer 362,Caterer,Madurai,Tamil Nadu,Licensed,Low,2019-04-17
+B0363,Vadodara Bakery 363,Bakery,Vadodara,Gujarat,Unlicensed,Low,2024-06-30
+B0364,Surat Bakery 364,Bakery,Surat,Gujarat,Licensed,Medium,2021-04-02
+B0365,Aurangabad Meat Fish Retailer 365,Meat/Fish Retailer,Aurangabad,Maharashtra,Licensed,Medium,2025-07-19
+B0366,Thane Grocery Retailer 366,Grocery Retailer,Thane,Maharashtra,Licensed,High,2019-01-26
+B0367,Shahdara Sweet Shop 367,Sweet Shop,Shahdara,Delhi,Licensed,Medium,2018-10-08
+B0368,Rohini Restaurant 368,Restaurant,Rohini,Delhi,Licensed,Low,2020-11-25
+B0369,Agra Restaurant 369,Restaurant,Agra,Uttar Pradesh,Licensed,Low,2020-12-16
+B0370,Karimnagar Warehouse Distributor 370,Warehouse/Distributor,Karimnagar,Telangana,Licensed,Medium,2017-05-23
+B0371,Chennai Packaged Food Manufacturer 371,Packaged Food Manufacturer,Chennai,Tamil Nadu,Licensed,Medium,2017-07-11
+B0372,Salem Meat Fish Retailer 372,Meat/Fish Retailer,Salem,Tamil Nadu,Licensed,Low,2022-04-03
+B0373,Kota Meat Fish Retailer 373,Meat/Fish Retailer,Kota,Rajasthan,Licensed,High,2024-06-10
+B0374,Salem Restaurant 374,Restaurant,Salem,Tamil Nadu,Licensed,High,2018-01-29
+B0375,Thane Grocery Retailer 375,Grocery Retailer,Thane,Maharashtra,Licensed,Low,2023-10-31
+B0376,Bengaluru Restaurant 376,Restaurant,Bengaluru,Karnataka,Licensed,Low,2023-03-09
+B0377,Bengaluru Sweet Shop 377,Sweet Shop,Bengaluru,Karnataka,Licensed,High,2024-01-06
+B0378,Salem Restaurant 378,Restaurant,Salem,Tamil Nadu,Licensed,Medium,2022-09-14
+B0379,Dwarka Bakery 379,Bakery,Dwarka,Delhi,Licensed,High,2025-08-24
+B0380,Noida Restaurant 380,Restaurant,Noida,Uttar Pradesh,Licensed,Medium,2017-09-24
+B0381,Nagpur Packaged Food Manufacturer 381,Packaged Food Manufacturer,Nagpur,Maharashtra,Licensed,Low,2015-07-02
+B0382,Hyderabad Restaurant 382,Restaurant,Hyderabad,Telangana,Licensed,Medium,2022-09-11
+B0383,Hyderabad Caterer 383,Caterer,Hyderabad,Telangana,Licensed,Medium,2018-07-07
+B0384,Rohini Restaurant 384,Restaurant,Rohini,Delhi,Licensed,High,2015-03-16
+B0385,Warangal Packaged Food Manufacturer 385,Packaged Food Manufacturer,Warangal,Telangana,Licensed,Medium,2020-09-28
+B0386,Nashik Restaurant 386,Restaurant,Nashik,Maharashtra,Licensed,Low,2020-03-15
+B0387,Karimnagar Street Food Vendor 387,Street Food Vendor,Karimnagar,Telangana,Licensed,High,2018-10-04
+B0388,Shahdara Bakery 388,Bakery,Shahdara,Delhi,Licensed,Medium,2025-01-01
+B0389,Kanpur Caterer 389,Caterer,Kanpur,Uttar Pradesh,Licensed,Low,2022-10-27
+B0390,Nagpur Restaurant 390,Restaurant,Nagpur,Maharashtra,Licensed,High,2017-09-11
+B0391,Bhopal Street Food Vendor 391,Street Food Vendor,Bhopal,Madhya Pradesh,Licensed,Low,2017-06-21
+B0392,Rajkot Meat Fish Retailer 392,Meat/Fish Retailer,Rajkot,Gujarat,Licence Expired,Medium,2020-07-07
+B0393,New Delhi Street Food Vendor 393,Street Food Vendor,New Delhi,Delhi,Licensed,High,2019-07-01
+B0394,Pune Packaged Food Manufacturer 394,Packaged Food Manufacturer,Pune,Maharashtra,Licensed,Low,2020-07-03
+B0395,Mangaluru Street Food Vendor 395,Street Food Vendor,Mangaluru,Karnataka,Licensed,Medium,2019-02-04
+B0396,Agra Restaurant 396,Restaurant,Agra,Uttar Pradesh,Licensed,Low,2018-08-29
+B0397,New Delhi Street Food Vendor 397,Street Food Vendor,New Delhi,Delhi,Licensed,Low,2023-04-20
+B0398,Mangaluru Warehouse Distributor 398,Warehouse/Distributor,Mangaluru,Karnataka,Licensed,Low,2016-02-29
+B0399,Thane Street Food Vendor 399,Street Food Vendor,Thane,Maharashtra,Licensed,High,2023-05-21
+B0400,Agra Street Food Vendor 400,Street Food Vendor,Agra,Uttar Pradesh,Licensed,Medium,2021-10-06
+B0401,Chennai Grocery Retailer 401,Grocery Retailer,Chennai,Tamil Nadu,Licensed,High,2022-11-29
+B0402,Pune Grocery Retailer 402,Grocery Retailer,Pune,Maharashtra,Licensed,Low,2023-10-21
+B0403,Bengaluru Meat Fish Retailer 403,Meat/Fish Retailer,Bengaluru,Karnataka,Licensed,Medium,2018-08-10
+B0404,Warangal Warehouse Distributor 404,Warehouse/Distributor,Warangal,Telangana,Licensed,Medium,2020-09-10
+B0405,Rajkot Packaged Food Manufacturer 405,Packaged Food Manufacturer,Rajkot,Gujarat,Licensed,Medium,2019-08-06
+B0406,Thane Grocery Retailer 406,Grocery Retailer,Thane,Maharashtra,Licensed,Low,2024-06-14
+B0407,Dwarka Meat Fish Retailer 407,Meat/Fish Retailer,Dwarka,Delhi,Licensed,Medium,2019-11-19
+B0408,Shahdara Street Food Vendor 408,Street Food Vendor,Shahdara,Delhi,Licensed,Medium,2022-06-19
+B0409,Chennai Sweet Shop 409,Sweet Shop,Chennai,Tamil Nadu,Licensed,Medium,2017-02-17
+B0410,Pune Restaurant 410,Restaurant,Pune,Maharashtra,Licensed,Medium,2016-04-29
+B0411,Lucknow Sweet Shop 411,Sweet Shop,Lucknow,Uttar Pradesh,Unlicensed,Medium,2022-02-14
+B0412,Dwarka Bakery 412,Bakery,Dwarka,Delhi,Licensed,High,2015-09-16
+B0413,Siliguri Warehouse Distributor 413,Warehouse/Distributor,Siliguri,West Bengal,Licensed,Low,2023-05-30
+B0414,Hubballi Grocery Retailer 414,Grocery Retailer,Hubballi,Karnataka,Licensed,Medium,2023-04-02
+B0415,Jabalpur Caterer 415,Caterer,Jabalpur,Madhya Pradesh,Licensed,Medium,2023-06-15
+B0416,Indore Warehouse Distributor 416,Warehouse/Distributor,Indore,Madhya Pradesh,Licensed,Medium,2018-07-07
+B0417,Bhopal Dairy 417,Dairy,Bhopal,Madhya Pradesh,Licensed,Low,2019-04-10
+B0418,Nagpur Grocery Retailer 418,Grocery Retailer,Nagpur,Maharashtra,Unlicensed,Low,2022-05-16
+B0419,Gwalior Bakery 419,Bakery,Gwalior,Madhya Pradesh,Licensed,Medium,2021-03-08
+B0420,Hyderabad Dairy 420,Dairy,Hyderabad,Telangana,Licensed,Medium,2022-08-04
+B0421,Surat Bakery 421,Bakery,Surat,Gujarat,Licensed,Low,2024-03-02
+B0422,Pune Restaurant 422,Restaurant,Pune,Maharashtra,Licensed,Low,2015-02-10
+B0423,Warangal Meat Fish Retailer 423,Meat/Fish Retailer,Warangal,Telangana,Licensed,Medium,2025-03-22
+B0424,Karimnagar Bakery 424,Bakery,Karimnagar,Telangana,Licensed,Low,2023-01-19
+B0425,Coimbatore Street Food Vendor 425,Street Food Vendor,Coimbatore,Tamil Nadu,Licensed,Medium,2021-11-06
+B0426,Kota Warehouse Distributor 426,Warehouse/Distributor,Kota,Rajasthan,Licensed,Low,2019-05-22
+B0427,Chennai Street Food Vendor 427,Street Food Vendor,Chennai,Tamil Nadu,Licensed,Low,2018-08-29
+B0428,Surat Meat Fish Retailer 428,Meat/Fish Retailer,Surat,Gujarat,Unlicensed,Low,2016-01-28
+B0429,Hyderabad Caterer 429,Caterer,Hyderabad,Telangana,Licensed,High,2021-03-16
+B0430,Noida Sweet Shop 430,Sweet Shop,Noida,Uttar Pradesh,Licensed,Low,2016-05-15
+B0431,Noida Sweet Shop 431,Sweet Shop,Noida,Uttar Pradesh,Licensed,Medium,2020-03-19
+B0432,Aurangabad Caterer 432,Caterer,Aurangabad,Maharashtra,Licensed,High,2015-03-24
+B0433,Jabalpur Meat Fish Retailer 433,Meat/Fish Retailer,Jabalpur,Madhya Pradesh,Licensed,Low,2024-04-21
+B0434,Lucknow Street Food Vendor 434,Street Food Vendor,Lucknow,Uttar Pradesh,Licensed,Low,2023-03-10
+B0435,Shahdara Grocery Retailer 435,Grocery Retailer,Shahdara,Delhi,Licensed,Low,2015-10-13
+B0436,Mumbai Dairy 436,Dairy,Mumbai,Maharashtra,Licensed,Medium,2019-10-29
+B0437,Surat Meat Fish Retailer 437,Meat/Fish Retailer,Surat,Gujarat,Licensed,High,2019-12-05
+B0438,Kolkata Packaged Food Manufacturer 438,Packaged Food Manufacturer,Kolkata,West Bengal,Unlicensed,Low,2016-11-25
+B0439,Lucknow Street Food Vendor 439,Street Food Vendor,Lucknow,Uttar Pradesh,Licensed,Low,2016-05-08
+B0440,Udaipur Grocery Retailer 440,Grocery Retailer,Udaipur,Rajasthan,Licensed,Low,2025-04-13
+B0441,Thane Packaged Food Manufacturer 441,Packaged Food Manufacturer,Thane,Maharashtra,Licensed,High,2016-04-26
+B0442,Kolkata Restaurant 442,Restaurant,Kolkata,West Bengal,Licensed,Low,2021-10-21
+B0443,Rohini Restaurant 443,Restaurant,Rohini,Delhi,Licensed,Low,2016-02-10
+B0444,Noida Dairy 444,Dairy,Noida,Uttar Pradesh,Licensed,Medium,2020-01-21
+B0445,Varanasi Street Food Vendor 445,Street Food Vendor,Varanasi,Uttar Pradesh,Licensed,High,2019-02-24
+B0446,Bhopal Dairy 446,Dairy,Bhopal,Madhya Pradesh,Licence Expired,Low,2024-02-16
+B0447,Howrah Sweet Shop 447,Sweet Shop,Howrah,West Bengal,Licensed,Low,2025-03-08
+B0448,Surat Warehouse Distributor 448,Warehouse/Distributor,Surat,Gujarat,Licensed,Medium,2018-12-18
+B0449,Shahdara Street Food Vendor 449,Street Food Vendor,Shahdara,Delhi,Licensed,Medium,2017-09-24
+B0450,Jaipur Street Food Vendor 450,Street Food Vendor,Jaipur,Rajasthan,Licensed,Low,2016-08-24
+B0451,New Delhi Packaged Food Manufacturer 451,Packaged Food Manufacturer,New Delhi,Delhi,Licensed,Low,2021-08-26
+B0452,Rajkot Restaurant 452,Restaurant,Rajkot,Gujarat,Licensed,Low,2022-11-06
+B0453,Siliguri Caterer 453,Caterer,Siliguri,West Bengal,Licensed,Medium,2025-03-19
+B0454,Rohini Street Food Vendor 454,Street Food Vendor,Rohini,Delhi,Licensed,Medium,2024-04-26
+B0455,Kolkata Grocery Retailer 455,Grocery Retailer,Kolkata,West Bengal,Licensed,Low,2024-03-26
+B0456,Salem Bakery 456,Bakery,Salem,Tamil Nadu,Licensed,Medium,2018-09-28
+B0457,Madurai Restaurant 457,Restaurant,Madurai,Tamil Nadu,Licensed,Medium,2018-09-09
+B0458,Mangaluru Grocery Retailer 458,Grocery Retailer,Mangaluru,Karnataka,Licensed,Medium,2017-07-24
+B0459,Hyderabad Sweet Shop 459,Sweet Shop,Hyderabad,Telangana,Licensed,Medium,2019-11-29
+B0460,Chennai Grocery Retailer 460,Grocery Retailer,Chennai,Tamil Nadu,Unlicensed,Medium,2017-06-28
+B0461,Lucknow Grocery Retailer 461,Grocery Retailer,Lucknow,Uttar Pradesh,Unlicensed,Medium,2022-06-07
+B0462,Hyderabad Restaurant 462,Restaurant,Hyderabad,Telangana,Licensed,Low,2018-01-09
+B0463,Salem Street Food Vendor 463,Street Food Vendor,Salem,Tamil Nadu,Licensed,Medium,2023-04-22
+B0464,Howrah Packaged Food Manufacturer 464,Packaged Food Manufacturer,Howrah,West Bengal,Licensed,Medium,2019-03-09
+B0465,Thane Grocery Retailer 465,Grocery Retailer,Thane,Maharashtra,Licensed,Medium,2016-01-10
+B0466,Kanpur Packaged Food Manufacturer 466,Packaged Food Manufacturer,Kanpur,Uttar Pradesh,Licensed,Medium,2021-02-20
+B0467,Udaipur Meat Fish Retailer 467,Meat/Fish Retailer,Udaipur,Rajasthan,Licensed,High,2022-06-12
+B0468,Bengaluru Restaurant 468,Restaurant,Bengaluru,Karnataka,Licensed,Medium,2024-03-15
+B0469,Thane Grocery Retailer 469,Grocery Retailer,Thane,Maharashtra,Licensed,Medium,2022-02-19
+B0470,Thane Packaged Food Manufacturer 470,Packaged Food Manufacturer,Thane,Maharashtra,Licensed,Low,2023-05-13
+B0471,Aurangabad Packaged Food Manufacturer 471,Packaged Food Manufacturer,Aurangabad,Maharashtra,Licensed,High,2018-11-16
+B0472,Hubballi Packaged Food Manufacturer 472,Packaged Food Manufacturer,Hubballi,Karnataka,Licensed,Low,2019-07-07
+B0473,Thane Street Food Vendor 473,Street Food Vendor,Thane,Maharashtra,Licence Expired,Medium,2016-07-10
+B0474,Mangaluru Street Food Vendor 474,Street Food Vendor,Mangaluru,Karnataka,Unlicensed,Medium,2024-12-13
+B0475,Nashik Restaurant 475,Restaurant,Nashik,Maharashtra,Licensed,Low,2020-12-09
+B0476,Pune Sweet Shop 476,Sweet Shop,Pune,Maharashtra,Licensed,Medium,2017-02-24
+B0477,Jaipur Restaurant 477,Restaurant,Jaipur,Rajasthan,Licensed,Low,2020-04-20
+B0478,Hubballi Meat Fish Retailer 478,Meat/Fish Retailer,Hubballi,Karnataka,Licence Expired,Medium,2020-04-16
+B0479,Agra Bakery 479,Bakery,Agra,Uttar Pradesh,Licensed,Low,2018-12-10
+B0480,Coimbatore Restaurant 480,Restaurant,Coimbatore,Tamil Nadu,Licensed,Low,2015-10-27
+B0481,Kota Sweet Shop 481,Sweet Shop,Kota,Rajasthan,Licensed,Low,2021-12-05
+B0482,Pune Dairy 482,Dairy,Pune,Maharashtra,Licensed,High,2025-07-02
+B0483,Surat Packaged Food Manufacturer 483,Packaged Food Manufacturer,Surat,Gujarat,Licensed,Low,2022-01-11
+B0484,Mumbai Grocery Retailer 484,Grocery Retailer,Mumbai,Maharashtra,Unlicensed,Low,2023-08-29
+B0485,Siliguri Sweet Shop 485,Sweet Shop,Siliguri,West Bengal,Licensed,Low,2025-06-26
+B0486,Hyderabad Bakery 486,Bakery,Hyderabad,Telangana,Licensed,High,2024-11-04
+B0487,Jabalpur Dairy 487,Dairy,Jabalpur,Madhya Pradesh,Licence Expired,Medium,2017-05-13
+B0488,Rohini Sweet Shop 488,Sweet Shop,Rohini,Delhi,Licensed,Low,2018-05-24
+B0489,Rohini Packaged Food Manufacturer 489,Packaged Food Manufacturer,Rohini,Delhi,Licensed,Medium,2019-09-11
+B0490,Siliguri Sweet Shop 490,Sweet Shop,Siliguri,West Bengal,Licensed,Medium,2022-09-20
+B0491,Karimnagar Street Food Vendor 491,Street Food Vendor,Karimnagar,Telangana,Licensed,High,2021-07-12
+B0492,Kota Street Food Vendor 492,Street Food Vendor,Kota,Rajasthan,Licensed,Low,2022-11-24
+B0493,Agra Caterer 493,Caterer,Agra,Uttar Pradesh,Licensed,Medium,2024-05-13
+B0494,Nashik Grocery Retailer 494,Grocery Retailer,Nashik,Maharashtra,Licensed,Low,2020-06-22
+B0495,Jaipur Street Food Vendor 495,Street Food Vendor,Jaipur,Rajasthan,Licensed,High,2024-03-28
+B0496,Bhopal Grocery Retailer 496,Grocery Retailer,Bhopal,Madhya Pradesh,Licensed,Low,2022-05-18
+B0497,Nagpur Bakery 497,Bakery,Nagpur,Maharashtra,Licensed,Low,2019-11-03
+B0498,Gwalior Grocery Retailer 498,Grocery Retailer,Gwalior,Madhya Pradesh,Licensed,High,2021-02-19
+B0499,Mumbai Grocery Retailer 499,Grocery Retailer,Mumbai,Maharashtra,Licensed,Medium,2020-07-07
+B0500,Nashik Packaged Food Manufacturer 500,Packaged Food Manufacturer,Nashik,Maharashtra,Licensed,Medium,2020-07-08

@@ -1,0 +1,828 @@
+violation_id,raid_id,violation_type,severity,estimated_fine_inr,corrective_action_required
+V000001,R00003,Temperature Control Failure,Low,0,Yes
+V000002,R00003,Unlicensed Operation,High,100000,Yes
+V000003,R00004,Improper Storage,Moderate,50000,Yes
+V000004,R00005,Poor Hygiene,Low,50000,Yes
+V000005,R00007,Improper Storage,Moderate,1000,Yes
+V000006,R00008,Temperature Control Failure,Moderate,10000,Yes
+V000007,R00009,Incorrect Ingredient Declaration,High,50000,Yes
+V000008,R00011,Temperature Control Failure,High,25000,Yes
+V000009,R00016,Incorrect Ingredient Declaration,Low,0,No
+V000010,R00018,Expired Product,Moderate,2500,Yes
+V000011,R00020,Poor Hygiene,High,100000,Yes
+V000012,R00020,Incorrect Ingredient Declaration,High,25000,Yes
+V000013,R00023,Poor Hygiene,Moderate,2500,Yes
+V000014,R00024,Pest Infestation,Low,25000,No
+V000015,R00025,Incorrect Ingredient Declaration,Moderate,2500,Yes
+V000016,R00025,Incorrect Ingredient Declaration,High,2500,Yes
+V000017,R00028,Temperature Control Failure,Low,0,Yes
+V000018,R00031,Improper Storage,Low,0,Yes
+V000019,R00033,Temperature Control Failure,High,100000,Yes
+V000020,R00035,Suspected Adulteration,High,1000,Yes
+V000021,R00036,Expired Product,High,10000,Yes
+V000022,R00037,Temperature Control Failure,Low,0,Yes
+V000023,R00037,Unlicensed Operation,Low,5000,No
+V000024,R00041,Suspected Adulteration,High,2500,Yes
+V000025,R00041,Poor Hygiene,High,10000,Yes
+V000026,R00043,Unlicensed Operation,Low,25000,Yes
+V000027,R00047,Mislabeling,High,25000,Yes
+V000028,R00047,Incorrect Ingredient Declaration,High,100000,Yes
+V000029,R00048,Temperature Control Failure,High,10000,Yes
+V000030,R00050,Improper Storage,High,100000,Yes
+V000031,R00050,Pest Infestation,Critical,5000,Yes
+V000032,R00051,Poor Hygiene,High,1000,Yes
+V000033,R00052,Suspected Adulteration,Low,0,Yes
+V000034,R00053,Unsafe Water,Moderate,1000,Yes
+V000035,R00054,Suspected Adulteration,Moderate,2500,Yes
+V000036,R00056,Improper Storage,High,5000,Yes
+V000037,R00060,Mislabeling,Critical,50000,Yes
+V000038,R00061,Poor Hygiene,High,10000,Yes
+V000039,R00064,Mislabeling,Low,5000,Yes
+V000040,R00065,Improper Storage,Critical,10000,Yes
+V000041,R00065,Unlicensed Operation,Moderate,50000,Yes
+V000042,R00066,Suspected Adulteration,High,50000,Yes
+V000043,R00066,Incorrect Ingredient Declaration,Moderate,2500,Yes
+V000044,R00070,Temperature Control Failure,Low,1000,No
+V000045,R00070,Mislabeling,High,5000,Yes
+V000046,R00071,Incorrect Ingredient Declaration,Moderate,10000,Yes
+V000047,R00074,Poor Hygiene,High,2500,Yes
+V000048,R00074,Temperature Control Failure,Moderate,2500,Yes
+V000049,R00075,Incorrect Ingredient Declaration,Low,25000,Yes
+V000050,R00075,Expired Product,High,5000,Yes
+V000051,R00076,Improper Storage,High,50000,Yes
+V000052,R00077,Mislabeling,Low,0,Yes
+V000053,R00078,Temperature Control Failure,Moderate,100000,Yes
+V000054,R00080,Suspected Adulteration,Critical,10000,Yes
+V000055,R00081,Mislabeling,Moderate,100000,Yes
+V000056,R00082,Pest Infestation,Moderate,10000,Yes
+V000057,R00083,Improper Storage,High,50000,Yes
+V000058,R00084,Improper Storage,Critical,5000,Yes
+V000059,R00085,Mislabeling,Moderate,50000,Yes
+V000060,R00085,Unsafe Water,Low,0,No
+V000061,R00087,Unlicensed Operation,Moderate,1000,Yes
+V000062,R00092,Mislabeling,Moderate,25000,Yes
+V000063,R00093,Expired Product,Low,0,Yes
+V000064,R00093,Unlicensed Operation,Low,0,No
+V000065,R00098,Pest Infestation,Low,0,Yes
+V000066,R00100,Temperature Control Failure,Moderate,25000,Yes
+V000067,R00100,Poor Hygiene,High,25000,Yes
+V000068,R00101,Suspected Adulteration,High,10000,Yes
+V000069,R00102,Mislabeling,Moderate,50000,Yes
+V000070,R00104,Expired Product,Moderate,1000,Yes
+V000071,R00104,Pest Infestation,Critical,25000,Yes
+V000072,R00106,Unsafe Water,Low,50000,Yes
+V000073,R00108,Incorrect Ingredient Declaration,High,25000,Yes
+V000074,R00110,Expired Product,High,50000,Yes
+V000075,R00112,Incorrect Ingredient Declaration,High,2500,Yes
+V000076,R00112,Expired Product,High,5000,Yes
+V000077,R00114,Temperature Control Failure,Moderate,25000,Yes
+V000078,R00116,Expired Product,Low,50000,No
+V000079,R00116,Improper Storage,Low,1000,Yes
+V000080,R00117,Poor Hygiene,High,5000,Yes
+V000081,R00117,Unlicensed Operation,Moderate,100000,Yes
+V000082,R00118,Unlicensed Operation,Critical,50000,Yes
+V000083,R00118,Suspected Adulteration,Moderate,1000,Yes
+V000084,R00120,Suspected Adulteration,Moderate,2500,Yes
+V000085,R00122,Unlicensed Operation,Low,0,Yes
+V000086,R00122,Poor Hygiene,High,50000,Yes
+V000087,R00123,Incorrect Ingredient Declaration,Moderate,5000,Yes
+V000088,R00124,Temperature Control Failure,Low,100000,Yes
+V000089,R00125,Unsafe Water,Low,1000,No
+V000090,R00127,Pest Infestation,Low,0,No
+V000091,R00130,Improper Storage,Moderate,1000,Yes
+V000092,R00131,Expired Product,Moderate,1000,Yes
+V000093,R00132,Temperature Control Failure,Moderate,25000,Yes
+V000094,R00134,Expired Product,High,2500,Yes
+V000095,R00135,Improper Storage,Moderate,10000,Yes
+V000096,R00137,Temperature Control Failure,Moderate,2500,Yes
+V000097,R00137,Improper Storage,High,100000,Yes
+V000098,R00138,Poor Hygiene,Critical,25000,Yes
+V000099,R00140,Suspected Adulteration,Critical,100000,Yes
+V000100,R00144,Improper Storage,Moderate,25000,Yes
+V000101,R00144,Incorrect Ingredient Declaration,Low,0,No
+V000102,R00145,Poor Hygiene,Moderate,50000,Yes
+V000103,R00145,Temperature Control Failure,Moderate,5000,Yes
+V000104,R00146,Incorrect Ingredient Declaration,Moderate,50000,Yes
+V000105,R00149,Suspected Adulteration,Low,10000,Yes
+V000106,R00149,Pest Infestation,Moderate,5000,Yes
+V000107,R00150,Unsafe Water,Low,100000,No
+V000108,R00152,Incorrect Ingredient Declaration,High,1000,Yes
+V000109,R00153,Expired Product,Moderate,100000,Yes
+V000110,R00153,Mislabeling,High,25000,Yes
+V000111,R00154,Mislabeling,Low,0,No
+V000112,R00156,Expired Product,Low,0,Yes
+V000113,R00162,Poor Hygiene,Low,5000,Yes
+V000114,R00163,Unlicensed Operation,High,5000,Yes
+V000115,R00164,Temperature Control Failure,Moderate,50000,Yes
+V000116,R00165,Unlicensed Operation,High,100000,Yes
+V000117,R00167,Expired Product,Low,0,No
+V000118,R00170,Improper Storage,High,5000,Yes
+V000119,R00170,Unsafe Water,Moderate,2500,Yes
+V000120,R00172,Improper Storage,Moderate,25000,Yes
+V000121,R00175,Mislabeling,High,5000,Yes
+V000122,R00176,Unsafe Water,Low,0,Yes
+V000123,R00178,Poor Hygiene,Moderate,50000,Yes
+V000124,R00179,Improper Storage,Moderate,50000,Yes
+V000125,R00180,Poor Hygiene,Low,50000,Yes
+V000126,R00182,Unsafe Water,High,5000,Yes
+V000127,R00182,Incorrect Ingredient Declaration,Moderate,1000,Yes
+V000128,R00184,Expired Product,Low,0,No
+V000129,R00185,Unsafe Water,Low,100000,No
+V000130,R00190,Poor Hygiene,Moderate,100000,Yes
+V000131,R00191,Temperature Control Failure,Low,1000,Yes
+V000132,R00191,Mislabeling,High,25000,Yes
+V000133,R00192,Unlicensed Operation,High,10000,Yes
+V000134,R00195,Temperature Control Failure,Moderate,25000,Yes
+V000135,R00197,Incorrect Ingredient Declaration,High,100000,Yes
+V000136,R00197,Pest Infestation,Low,0,Yes
+V000137,R00198,Suspected Adulteration,Low,0,Yes
+V000138,R00199,Pest Infestation,High,50000,Yes
+V000139,R00200,Improper Storage,Moderate,2500,Yes
+V000140,R00201,Unsafe Water,Moderate,1000,Yes
+V000141,R00206,Incorrect Ingredient Declaration,Moderate,5000,Yes
+V000142,R00207,Improper Storage,High,25000,Yes
+V000143,R00207,Poor Hygiene,Moderate,5000,Yes
+V000144,R00216,Incorrect Ingredient Declaration,Moderate,50000,Yes
+V000145,R00218,Improper Storage,Low,0,Yes
+V000146,R00220,Suspected Adulteration,Low,0,No
+V000147,R00221,Poor Hygiene,Moderate,1000,Yes
+V000148,R00222,Poor Hygiene,Moderate,25000,Yes
+V000149,R00224,Unlicensed Operation,Low,5000,Yes
+V000150,R00224,Pest Infestation,High,2500,Yes
+V000151,R00226,Unlicensed Operation,Moderate,25000,Yes
+V000152,R00226,Improper Storage,Moderate,2500,Yes
+V000153,R00229,Improper Storage,Moderate,1000,Yes
+V000154,R00232,Unlicensed Operation,High,10000,Yes
+V000155,R00233,Poor Hygiene,Critical,1000,Yes
+V000156,R00237,Pest Infestation,High,10000,Yes
+V000157,R00239,Temperature Control Failure,High,50000,Yes
+V000158,R00239,Unsafe Water,Moderate,5000,Yes
+V000159,R00240,Poor Hygiene,High,10000,Yes
+V000160,R00242,Unlicensed Operation,Moderate,50000,Yes
+V000161,R00242,Temperature Control Failure,Low,2500,Yes
+V000162,R00243,Suspected Adulteration,High,100000,Yes
+V000163,R00245,Suspected Adulteration,High,50000,Yes
+V000164,R00247,Temperature Control Failure,Low,0,Yes
+V000165,R00248,Mislabeling,Moderate,2500,Yes
+V000166,R00250,Unlicensed Operation,High,5000,Yes
+V000167,R00251,Pest Infestation,Low,1000,Yes
+V000168,R00251,Temperature Control Failure,Low,100000,No
+V000169,R00256,Mislabeling,Low,0,Yes
+V000170,R00257,Pest Infestation,Moderate,100000,Yes
+V000171,R00257,Suspected Adulteration,Critical,50000,Yes
+V000172,R00261,Pest Infestation,Low,10000,Yes
+V000173,R00263,Unsafe Water,High,100000,Yes
+V000174,R00266,Temperature Control Failure,Moderate,5000,Yes
+V000175,R00268,Suspected Adulteration,High,50000,Yes
+V000176,R00269,Expired Product,Moderate,50000,Yes
+V000177,R00272,Mislabeling,Critical,1000,Yes
+V000178,R00273,Unlicensed Operation,High,5000,Yes
+V000179,R00273,Unlicensed Operation,Low,0,Yes
+V000180,R00274,Expired Product,Critical,50000,Yes
+V000181,R00275,Mislabeling,High,1000,Yes
+V000182,R00276,Poor Hygiene,High,5000,Yes
+V000183,R00281,Unlicensed Operation,Low,100000,No
+V000184,R00281,Unlicensed Operation,Moderate,5000,Yes
+V000185,R00282,Mislabeling,Low,0,Yes
+V000186,R00285,Pest Infestation,Moderate,50000,Yes
+V000187,R00285,Temperature Control Failure,Low,0,Yes
+V000188,R00288,Unsafe Water,Low,25000,No
+V000189,R00288,Temperature Control Failure,Moderate,50000,Yes
+V000190,R00291,Pest Infestation,Low,0,No
+V000191,R00292,Pest Infestation,Moderate,5000,Yes
+V000192,R00293,Unsafe Water,High,100000,Yes
+V000193,R00293,Mislabeling,Low,0,Yes
+V000194,R00295,Expired Product,Low,0,No
+V000195,R00296,Unlicensed Operation,Moderate,2500,Yes
+V000196,R00300,Expired Product,High,1000,Yes
+V000197,R00301,Pest Infestation,Low,5000,Yes
+V000198,R00303,Poor Hygiene,Moderate,10000,Yes
+V000199,R00305,Pest Infestation,Moderate,100000,Yes
+V000200,R00306,Poor Hygiene,High,100000,Yes
+V000201,R00307,Unlicensed Operation,High,50000,Yes
+V000202,R00309,Suspected Adulteration,Critical,5000,Yes
+V000203,R00312,Improper Storage,Moderate,25000,Yes
+V000204,R00313,Unsafe Water,High,5000,Yes
+V000205,R00314,Mislabeling,Critical,10000,Yes
+V000206,R00314,Poor Hygiene,Low,0,No
+V000207,R00315,Temperature Control Failure,Low,0,No
+V000208,R00320,Unsafe Water,High,2500,Yes
+V000209,R00320,Improper Storage,High,5000,Yes
+V000210,R00321,Expired Product,High,100000,Yes
+V000211,R00322,Incorrect Ingredient Declaration,Critical,1000,Yes
+V000212,R00324,Mislabeling,High,100000,Yes
+V000213,R00325,Mislabeling,Low,10000,No
+V000214,R00325,Suspected Adulteration,High,1000,Yes
+V000215,R00327,Temperature Control Failure,Moderate,5000,Yes
+V000216,R00327,Improper Storage,Low,0,No
+V000217,R00329,Unsafe Water,Moderate,25000,Yes
+V000218,R00330,Temperature Control Failure,High,5000,Yes
+V000219,R00330,Temperature Control Failure,Moderate,1000,Yes
+V000220,R00332,Poor Hygiene,Low,0,Yes
+V000221,R00335,Unsafe Water,Low,50000,Yes
+V000222,R00337,Incorrect Ingredient Declaration,High,5000,Yes
+V000223,R00338,Temperature Control Failure,Moderate,25000,Yes
+V000224,R00342,Expired Product,Low,0,No
+V000225,R00343,Improper Storage,Moderate,10000,Yes
+V000226,R00344,Unlicensed Operation,Moderate,1000,Yes
+V000227,R00344,Unsafe Water,High,2500,Yes
+V000228,R00346,Poor Hygiene,Moderate,50000,Yes
+V000229,R00349,Temperature Control Failure,High,25000,Yes
+V000230,R00352,Expired Product,Moderate,2500,Yes
+V000231,R00353,Poor Hygiene,Moderate,25000,Yes
+V000232,R00355,Poor Hygiene,High,50000,Yes
+V000233,R00356,Incorrect Ingredient Declaration,Moderate,1000,Yes
+V000234,R00359,Unsafe Water,Moderate,25000,Yes
+V000235,R00360,Incorrect Ingredient Declaration,High,1000,Yes
+V000236,R00362,Incorrect Ingredient Declaration,High,50000,Yes
+V000237,R00362,Incorrect Ingredient Declaration,Low,0,No
+V000238,R00367,Unlicensed Operation,Moderate,25000,Yes
+V000239,R00367,Unlicensed Operation,Moderate,5000,Yes
+V000240,R00370,Unsafe Water,Low,1000,No
+V000241,R00373,Poor Hygiene,High,100000,Yes
+V000242,R00374,Unlicensed Operation,Moderate,5000,Yes
+V000243,R00376,Pest Infestation,Moderate,1000,Yes
+V000244,R00378,Temperature Control Failure,Moderate,50000,Yes
+V000245,R00378,Unsafe Water,High,1000,Yes
+V000246,R00382,Pest Infestation,Low,100000,Yes
+V000247,R00384,Suspected Adulteration,High,100000,Yes
+V000248,R00384,Unlicensed Operation,Low,0,Yes
+V000249,R00385,Unlicensed Operation,Low,0,Yes
+V000250,R00387,Temperature Control Failure,High,50000,Yes
+V000251,R00387,Improper Storage,High,5000,Yes
+V000252,R00395,Mislabeling,Moderate,1000,Yes
+V000253,R00395,Incorrect Ingredient Declaration,Moderate,5000,Yes
+V000254,R00396,Unsafe Water,High,100000,Yes
+V000255,R00399,Suspected Adulteration,Moderate,100000,Yes
+V000256,R00400,Pest Infestation,High,25000,Yes
+V000257,R00401,Mislabeling,Moderate,1000,Yes
+V000258,R00402,Pest Infestation,High,1000,Yes
+V000259,R00402,Unlicensed Operation,High,100000,Yes
+V000260,R00403,Unsafe Water,High,50000,Yes
+V000261,R00404,Pest Infestation,Low,0,Yes
+V000262,R00407,Poor Hygiene,Low,0,Yes
+V000263,R00408,Poor Hygiene,Low,0,Yes
+V000264,R00410,Mislabeling,Moderate,25000,Yes
+V000265,R00411,Expired Product,Moderate,50000,Yes
+V000266,R00412,Temperature Control Failure,High,10000,Yes
+V000267,R00414,Temperature Control Failure,Moderate,10000,Yes
+V000268,R00414,Suspected Adulteration,Low,0,Yes
+V000269,R00415,Temperature Control Failure,High,100000,Yes
+V000270,R00416,Suspected Adulteration,Critical,2500,Yes
+V000271,R00418,Mislabeling,High,25000,Yes
+V000272,R00419,Unsafe Water,Low,2500,No
+V000273,R00420,Poor Hygiene,High,1000,Yes
+V000274,R00423,Pest Infestation,Moderate,2500,Yes
+V000275,R00426,Pest Infestation,Moderate,100000,Yes
+V000276,R00426,Temperature Control Failure,Moderate,1000,Yes
+V000277,R00430,Improper Storage,Critical,25000,Yes
+V000278,R00430,Incorrect Ingredient Declaration,High,100000,Yes
+V000279,R00431,Unsafe Water,Low,0,Yes
+V000280,R00431,Incorrect Ingredient Declaration,Moderate,25000,Yes
+V000281,R00433,Poor Hygiene,Critical,5000,Yes
+V000282,R00433,Pest Infestation,Moderate,1000,Yes
+V000283,R00434,Suspected Adulteration,High,50000,Yes
+V000284,R00438,Unlicensed Operation,Moderate,50000,Yes
+V000285,R00440,Improper Storage,Low,50000,No
+V000286,R00441,Incorrect Ingredient Declaration,High,10000,Yes
+V000287,R00443,Improper Storage,Critical,25000,Yes
+V000288,R00443,Expired Product,Moderate,5000,Yes
+V000289,R00444,Temperature Control Failure,Moderate,5000,Yes
+V000290,R00444,Poor Hygiene,Moderate,1000,Yes
+V000291,R00445,Unsafe Water,Low,0,Yes
+V000292,R00449,Mislabeling,Critical,10000,Yes
+V000293,R00450,Temperature Control Failure,Moderate,25000,Yes
+V000294,R00451,Unlicensed Operation,Moderate,5000,Yes
+V000295,R00452,Unsafe Water,Critical,2500,Yes
+V000296,R00452,Mislabeling,Low,0,No
+V000297,R00456,Pest Infestation,High,1000,Yes
+V000298,R00459,Suspected Adulteration,High,50000,Yes
+V000299,R00459,Temperature Control Failure,High,2500,Yes
+V000300,R00461,Suspected Adulteration,Low,0,No
+V000301,R00463,Incorrect Ingredient Declaration,High,2500,Yes
+V000302,R00464,Mislabeling,High,1000,Yes
+V000303,R00464,Poor Hygiene,High,1000,Yes
+V000304,R00466,Poor Hygiene,High,2500,Yes
+V000305,R00467,Expired Product,Moderate,5000,Yes
+V000306,R00467,Unsafe Water,Moderate,1000,Yes
+V000307,R00468,Unsafe Water,High,5000,Yes
+V000308,R00469,Temperature Control Failure,High,1000,Yes
+V000309,R00471,Incorrect Ingredient Declaration,Critical,2500,Yes
+V000310,R00473,Mislabeling,Low,0,No
+V000311,R00474,Mislabeling,Low,0,Yes
+V000312,R00477,Unlicensed Operation,Low,0,No
+V000313,R00480,Suspected Adulteration,Low,100000,No
+V000314,R00481,Expired Product,High,10000,Yes
+V000315,R00483,Pest Infestation,Critical,100000,Yes
+V000316,R00483,Suspected Adulteration,Moderate,50000,Yes
+V000317,R00484,Unlicensed Operation,Moderate,2500,Yes
+V000318,R00487,Unlicensed Operation,High,25000,Yes
+V000319,R00487,Mislabeling,Moderate,10000,Yes
+V000320,R00488,Expired Product,Critical,50000,Yes
+V000321,R00491,Unsafe Water,Moderate,10000,Yes
+V000322,R00492,Poor Hygiene,Moderate,25000,Yes
+V000323,R00494,Unlicensed Operation,Moderate,50000,Yes
+V000324,R00495,Pest Infestation,High,10000,Yes
+V000325,R00497,Mislabeling,Moderate,5000,Yes
+V000326,R00504,Poor Hygiene,Moderate,1000,Yes
+V000327,R00505,Poor Hygiene,Moderate,50000,Yes
+V000328,R00506,Incorrect Ingredient Declaration,High,25000,Yes
+V000329,R00506,Pest Infestation,High,1000,Yes
+V000330,R00507,Expired Product,Moderate,50000,Yes
+V000331,R00510,Improper Storage,Moderate,10000,Yes
+V000332,R00510,Unlicensed Operation,High,25000,Yes
+V000333,R00512,Mislabeling,Moderate,50000,Yes
+V000334,R00512,Incorrect Ingredient Declaration,Critical,1000,Yes
+V000335,R00513,Mislabeling,Moderate,100000,Yes
+V000336,R00517,Incorrect Ingredient Declaration,High,25000,Yes
+V000337,R00518,Improper Storage,Low,100000,Yes
+V000338,R00518,Suspected Adulteration,Moderate,5000,Yes
+V000339,R00520,Suspected Adulteration,High,1000,Yes
+V000340,R00521,Pest Infestation,Low,5000,Yes
+V000341,R00522,Mislabeling,High,25000,Yes
+V000342,R00523,Unsafe Water,Moderate,100000,Yes
+V000343,R00525,Mislabeling,High,10000,Yes
+V000344,R00527,Unsafe Water,Low,0,Yes
+V000345,R00528,Poor Hygiene,Low,25000,No
+V000346,R00529,Unsafe Water,Critical,100000,Yes
+V000347,R00530,Unsafe Water,Low,0,Yes
+V000348,R00532,Incorrect Ingredient Declaration,Moderate,10000,Yes
+V000349,R00532,Suspected Adulteration,Low,0,Yes
+V000350,R00534,Unsafe Water,High,50000,Yes
+V000351,R00537,Poor Hygiene,High,50000,Yes
+V000352,R00537,Unsafe Water,Moderate,5000,Yes
+V000353,R00538,Mislabeling,Moderate,10000,Yes
+V000354,R00538,Unsafe Water,Moderate,50000,Yes
+V000355,R00539,Expired Product,Critical,50000,Yes
+V000356,R00540,Unlicensed Operation,High,2500,Yes
+V000357,R00540,Temperature Control Failure,Low,0,No
+V000358,R00541,Expired Product,High,2500,Yes
+V000359,R00542,Pest Infestation,High,1000,Yes
+V000360,R00542,Pest Infestation,High,2500,Yes
+V000361,R00543,Unlicensed Operation,Low,0,Yes
+V000362,R00543,Improper Storage,High,10000,Yes
+V000363,R00546,Expired Product,High,50000,Yes
+V000364,R00547,Poor Hygiene,High,100000,Yes
+V000365,R00549,Incorrect Ingredient Declaration,High,1000,Yes
+V000366,R00549,Expired Product,Moderate,25000,Yes
+V000367,R00551,Improper Storage,Low,0,No
+V000368,R00552,Incorrect Ingredient Declaration,High,1000,Yes
+V000369,R00552,Suspected Adulteration,Moderate,100000,Yes
+V000370,R00553,Unsafe Water,Low,0,No
+V000371,R00553,Unsafe Water,Low,0,Yes
+V000372,R00556,Unsafe Water,Low,1000,No
+V000373,R00558,Unlicensed Operation,High,1000,Yes
+V000374,R00559,Suspected Adulteration,Moderate,50000,Yes
+V000375,R00559,Suspected Adulteration,Low,0,Yes
+V000376,R00560,Unsafe Water,High,5000,Yes
+V000377,R00562,Suspected Adulteration,High,25000,Yes
+V000378,R00562,Temperature Control Failure,Moderate,2500,Yes
+V000379,R00563,Temperature Control Failure,High,10000,Yes
+V000380,R00567,Pest Infestation,Critical,25000,Yes
+V000381,R00568,Unsafe Water,Critical,5000,Yes
+V000382,R00573,Poor Hygiene,Critical,2500,Yes
+V000383,R00573,Unlicensed Operation,Moderate,100000,Yes
+V000384,R00574,Poor Hygiene,High,2500,Yes
+V000385,R00576,Mislabeling,Moderate,100000,Yes
+V000386,R00577,Improper Storage,High,100000,Yes
+V000387,R00578,Mislabeling,Low,0,No
+V000388,R00578,Poor Hygiene,Moderate,100000,Yes
+V000389,R00579,Unlicensed Operation,High,50000,Yes
+V000390,R00580,Mislabeling,Critical,5000,Yes
+V000391,R00582,Improper Storage,High,100000,Yes
+V000392,R00583,Improper Storage,High,5000,Yes
+V000393,R00584,Expired Product,Moderate,100000,Yes
+V000394,R00586,Unlicensed Operation,High,5000,Yes
+V000395,R00588,Suspected Adulteration,Low,100000,No
+V000396,R00589,Incorrect Ingredient Declaration,Moderate,1000,Yes
+V000397,R00590,Improper Storage,Moderate,2500,Yes
+V000398,R00591,Mislabeling,Low,0,Yes
+V000399,R00591,Expired Product,High,1000,Yes
+V000400,R00592,Incorrect Ingredient Declaration,Moderate,1000,Yes
+V000401,R00592,Suspected Adulteration,Moderate,10000,Yes
+V000402,R00595,Incorrect Ingredient Declaration,Moderate,2500,Yes
+V000403,R00597,Expired Product,Critical,50000,Yes
+V000404,R00597,Improper Storage,High,5000,Yes
+V000405,R00598,Unsafe Water,High,50000,Yes
+V000406,R00599,Temperature Control Failure,High,100000,Yes
+V000407,R00600,Mislabeling,Moderate,100000,Yes
+V000408,R00601,Temperature Control Failure,Critical,50000,Yes
+V000409,R00603,Temperature Control Failure,Moderate,100000,Yes
+V000410,R00603,Unsafe Water,Low,0,Yes
+V000411,R00604,Improper Storage,High,25000,Yes
+V000412,R00605,Mislabeling,Moderate,50000,Yes
+V000413,R00607,Temperature Control Failure,Moderate,2500,Yes
+V000414,R00609,Incorrect Ingredient Declaration,High,1000,Yes
+V000415,R00609,Unlicensed Operation,High,5000,Yes
+V000416,R00611,Poor Hygiene,Low,25000,Yes
+V000417,R00612,Temperature Control Failure,High,25000,Yes
+V000418,R00613,Mislabeling,Low,2500,No
+V000419,R00614,Temperature Control Failure,Low,0,Yes
+V000420,R00615,Pest Infestation,Low,0,Yes
+V000421,R00616,Improper Storage,High,1000,Yes
+V000422,R00617,Suspected Adulteration,Moderate,5000,Yes
+V000423,R00619,Expired Product,Low,25000,No
+V000424,R00619,Incorrect Ingredient Declaration,Moderate,5000,Yes
+V000425,R00620,Incorrect Ingredient Declaration,Moderate,50000,Yes
+V000426,R00621,Suspected Adulteration,High,100000,Yes
+V000427,R00622,Mislabeling,Moderate,2500,Yes
+V000428,R00623,Pest Infestation,Critical,50000,Yes
+V000429,R00623,Expired Product,Low,0,No
+V000430,R00624,Suspected Adulteration,High,1000,Yes
+V000431,R00625,Incorrect Ingredient Declaration,High,2500,Yes
+V000432,R00625,Unsafe Water,Moderate,1000,Yes
+V000433,R00628,Unlicensed Operation,High,2500,Yes
+V000434,R00628,Unlicensed Operation,Low,50000,Yes
+V000435,R00630,Incorrect Ingredient Declaration,Moderate,100000,Yes
+V000436,R00632,Incorrect Ingredient Declaration,Moderate,2500,Yes
+V000437,R00632,Pest Infestation,High,1000,Yes
+V000438,R00633,Suspected Adulteration,Moderate,100000,Yes
+V000439,R00634,Poor Hygiene,Moderate,100000,Yes
+V000440,R00637,Temperature Control Failure,Moderate,2500,Yes
+V000441,R00637,Expired Product,Moderate,5000,Yes
+V000442,R00639,Incorrect Ingredient Declaration,High,10000,Yes
+V000443,R00639,Expired Product,Low,0,Yes
+V000444,R00640,Incorrect Ingredient Declaration,High,5000,Yes
+V000445,R00641,Expired Product,Low,100000,Yes
+V000446,R00641,Unlicensed Operation,High,100000,Yes
+V000447,R00642,Poor Hygiene,Low,0,Yes
+V000448,R00642,Poor Hygiene,High,50000,Yes
+V000449,R00644,Suspected Adulteration,High,5000,Yes
+V000450,R00645,Unlicensed Operation,Low,0,No
+V000451,R00645,Unlicensed Operation,Moderate,1000,Yes
+V000452,R00647,Expired Product,High,100000,Yes
+V000453,R00649,Improper Storage,High,50000,Yes
+V000454,R00651,Mislabeling,Moderate,5000,Yes
+V000455,R00652,Unsafe Water,Moderate,25000,Yes
+V000456,R00652,Mislabeling,Low,0,No
+V000457,R00658,Incorrect Ingredient Declaration,High,100000,Yes
+V000458,R00662,Improper Storage,Moderate,1000,Yes
+V000459,R00663,Mislabeling,Moderate,10000,Yes
+V000460,R00666,Mislabeling,Critical,2500,Yes
+V000461,R00667,Improper Storage,Low,100000,No
+V000462,R00668,Unsafe Water,High,2500,Yes
+V000463,R00668,Unlicensed Operation,Moderate,50000,Yes
+V000464,R00673,Suspected Adulteration,Critical,5000,Yes
+V000465,R00674,Suspected Adulteration,High,2500,Yes
+V000466,R00681,Suspected Adulteration,High,5000,Yes
+V000467,R00685,Improper Storage,Moderate,1000,Yes
+V000468,R00685,Mislabeling,High,2500,Yes
+V000469,R00687,Expired Product,Low,100000,Yes
+V000470,R00688,Unsafe Water,Critical,25000,Yes
+V000471,R00689,Expired Product,Low,0,Yes
+V000472,R00692,Temperature Control Failure,Moderate,2500,Yes
+V000473,R00693,Unlicensed Operation,High,1000,Yes
+V000474,R00696,Improper Storage,High,5000,Yes
+V000475,R00698,Unsafe Water,High,5000,Yes
+V000476,R00698,Mislabeling,Low,0,No
+V000477,R00699,Pest Infestation,Low,0,Yes
+V000478,R00701,Incorrect Ingredient Declaration,Moderate,5000,Yes
+V000479,R00702,Unlicensed Operation,Critical,1000,Yes
+V000480,R00704,Pest Infestation,Low,25000,No
+V000481,R00707,Suspected Adulteration,Moderate,2500,Yes
+V000482,R00710,Incorrect Ingredient Declaration,Moderate,10000,Yes
+V000483,R00710,Expired Product,Moderate,50000,Yes
+V000484,R00711,Improper Storage,Moderate,100000,Yes
+V000485,R00711,Temperature Control Failure,Moderate,100000,Yes
+V000486,R00712,Improper Storage,Moderate,50000,Yes
+V000487,R00713,Pest Infestation,High,100000,Yes
+V000488,R00716,Pest Infestation,Low,0,No
+V000489,R00719,Suspected Adulteration,Moderate,50000,Yes
+V000490,R00719,Unsafe Water,Low,0,No
+V000491,R00720,Unsafe Water,Moderate,10000,Yes
+V000492,R00722,Unsafe Water,High,2500,Yes
+V000493,R00726,Unsafe Water,Low,2500,Yes
+V000494,R00726,Improper Storage,Moderate,1000,Yes
+V000495,R00727,Incorrect Ingredient Declaration,Moderate,2500,Yes
+V000496,R00727,Mislabeling,Critical,2500,Yes
+V000497,R00728,Incorrect Ingredient Declaration,Low,0,Yes
+V000498,R00730,Expired Product,Moderate,50000,Yes
+V000499,R00731,Unsafe Water,Low,1000,Yes
+V000500,R00734,Expired Product,High,100000,Yes
+V000501,R00737,Incorrect Ingredient Declaration,High,50000,Yes
+V000502,R00742,Unlicensed Operation,Low,2500,Yes
+V000503,R00742,Poor Hygiene,Low,100000,No
+V000504,R00743,Mislabeling,Moderate,25000,Yes
+V000505,R00745,Incorrect Ingredient Declaration,Moderate,50000,Yes
+V000506,R00746,Temperature Control Failure,Moderate,1000,Yes
+V000507,R00748,Suspected Adulteration,Low,0,Yes
+V000508,R00748,Mislabeling,Critical,5000,Yes
+V000509,R00750,Suspected Adulteration,Low,2500,No
+V000510,R00752,Unlicensed Operation,Moderate,2500,Yes
+V000511,R00753,Incorrect Ingredient Declaration,Moderate,10000,Yes
+V000512,R00754,Expired Product,Low,1000,Yes
+V000513,R00756,Poor Hygiene,Low,0,No
+V000514,R00758,Improper Storage,Low,0,Yes
+V000515,R00761,Suspected Adulteration,Low,0,No
+V000516,R00762,Expired Product,Critical,100000,Yes
+V000517,R00765,Mislabeling,Low,0,Yes
+V000518,R00765,Suspected Adulteration,High,25000,Yes
+V000519,R00768,Poor Hygiene,Moderate,1000,Yes
+V000520,R00770,Suspected Adulteration,High,5000,Yes
+V000521,R00771,Improper Storage,Moderate,10000,Yes
+V000522,R00772,Mislabeling,Moderate,25000,Yes
+V000523,R00773,Improper Storage,Moderate,2500,Yes
+V000524,R00774,Poor Hygiene,Critical,100000,Yes
+V000525,R00774,Poor Hygiene,Moderate,10000,Yes
+V000526,R00775,Unlicensed Operation,Low,0,No
+V000527,R00775,Incorrect Ingredient Declaration,Moderate,100000,Yes
+V000528,R00776,Poor Hygiene,Moderate,10000,Yes
+V000529,R00778,Unlicensed Operation,High,10000,Yes
+V000530,R00780,Temperature Control Failure,High,50000,Yes
+V000531,R00782,Expired Product,High,25000,Yes
+V000532,R00783,Unlicensed Operation,Critical,50000,Yes
+V000533,R00783,Poor Hygiene,High,50000,Yes
+V000534,R00785,Temperature Control Failure,Low,1000,No
+V000535,R00786,Expired Product,Critical,10000,Yes
+V000536,R00786,Improper Storage,Low,25000,Yes
+V000537,R00787,Temperature Control Failure,Moderate,1000,Yes
+V000538,R00787,Mislabeling,Moderate,2500,Yes
+V000539,R00788,Expired Product,Moderate,25000,Yes
+V000540,R00791,Improper Storage,High,2500,Yes
+V000541,R00791,Pest Infestation,Moderate,1000,Yes
+V000542,R00792,Unsafe Water,High,5000,Yes
+V000543,R00794,Unsafe Water,Moderate,10000,Yes
+V000544,R00794,Expired Product,High,10000,Yes
+V000545,R00798,Suspected Adulteration,High,1000,Yes
+V000546,R00798,Unsafe Water,High,5000,Yes
+V000547,R00800,Improper Storage,High,50000,Yes
+V000548,R00800,Incorrect Ingredient Declaration,Moderate,1000,Yes
+V000549,R00801,Poor Hygiene,Moderate,1000,Yes
+V000550,R00801,Temperature Control Failure,Moderate,10000,Yes
+V000551,R00802,Temperature Control Failure,Critical,2500,Yes
+V000552,R00803,Mislabeling,Critical,100000,Yes
+V000553,R00804,Mislabeling,Low,5000,No
+V000554,R00805,Unlicensed Operation,Moderate,25000,Yes
+V000555,R00806,Temperature Control Failure,Low,25000,No
+V000556,R00812,Pest Infestation,Moderate,2500,Yes
+V000557,R00816,Unsafe Water,High,100000,Yes
+V000558,R00817,Expired Product,High,100000,Yes
+V000559,R00818,Temperature Control Failure,Low,0,Yes
+V000560,R00818,Unsafe Water,Low,10000,No
+V000561,R00821,Incorrect Ingredient Declaration,High,50000,Yes
+V000562,R00823,Pest Infestation,High,50000,Yes
+V000563,R00825,Unsafe Water,Critical,25000,Yes
+V000564,R00826,Temperature Control Failure,Moderate,2500,Yes
+V000565,R00828,Expired Product,Moderate,5000,Yes
+V000566,R00831,Incorrect Ingredient Declaration,Low,0,No
+V000567,R00831,Improper Storage,Moderate,2500,Yes
+V000568,R00834,Poor Hygiene,Low,0,Yes
+V000569,R00835,Temperature Control Failure,Moderate,1000,Yes
+V000570,R00837,Temperature Control Failure,High,25000,Yes
+V000571,R00838,Unlicensed Operation,Critical,1000,Yes
+V000572,R00839,Suspected Adulteration,Critical,1000,Yes
+V000573,R00843,Incorrect Ingredient Declaration,High,25000,Yes
+V000574,R00844,Incorrect Ingredient Declaration,High,5000,Yes
+V000575,R00844,Incorrect Ingredient Declaration,Moderate,5000,Yes
+V000576,R00845,Mislabeling,High,1000,Yes
+V000577,R00845,Expired Product,Moderate,5000,Yes
+V000578,R00848,Incorrect Ingredient Declaration,Low,2500,Yes
+V000579,R00848,Suspected Adulteration,Moderate,1000,Yes
+V000580,R00850,Pest Infestation,Moderate,100000,Yes
+V000581,R00852,Incorrect Ingredient Declaration,High,25000,Yes
+V000582,R00853,Incorrect Ingredient Declaration,Moderate,50000,Yes
+V000583,R00854,Temperature Control Failure,Critical,10000,Yes
+V000584,R00854,Mislabeling,High,2500,Yes
+V000585,R00856,Suspected Adulteration,High,10000,Yes
+V000586,R00857,Suspected Adulteration,Moderate,25000,Yes
+V000587,R00859,Expired Product,Low,0,Yes
+V000588,R00860,Temperature Control Failure,Moderate,50000,Yes
+V000589,R00861,Improper Storage,Low,1000,Yes
+V000590,R00861,Pest Infestation,Low,1000,No
+V000591,R00862,Unsafe Water,Moderate,5000,Yes
+V000592,R00865,Unlicensed Operation,Moderate,1000,Yes
+V000593,R00867,Temperature Control Failure,Low,0,Yes
+V000594,R00867,Pest Infestation,Critical,5000,Yes
+V000595,R00868,Improper Storage,High,50000,Yes
+V000596,R00870,Incorrect Ingredient Declaration,Low,100000,No
+V000597,R00872,Temperature Control Failure,Moderate,5000,Yes
+V000598,R00873,Improper Storage,Moderate,100000,Yes
+V000599,R00874,Mislabeling,Low,0,No
+V000600,R00875,Unsafe Water,Critical,50000,Yes
+V000601,R00875,Mislabeling,Low,0,Yes
+V000602,R00876,Improper Storage,Low,2500,No
+V000603,R00876,Suspected Adulteration,Moderate,2500,Yes
+V000604,R00877,Suspected Adulteration,High,25000,Yes
+V000605,R00877,Unlicensed Operation,Low,0,No
+V000606,R00879,Suspected Adulteration,Moderate,25000,Yes
+V000607,R00880,Expired Product,Moderate,10000,Yes
+V000608,R00881,Unsafe Water,Moderate,10000,Yes
+V000609,R00881,Suspected Adulteration,Moderate,100000,Yes
+V000610,R00882,Mislabeling,Critical,50000,Yes
+V000611,R00884,Improper Storage,Low,10000,Yes
+V000612,R00885,Improper Storage,Moderate,5000,Yes
+V000613,R00886,Suspected Adulteration,Low,0,Yes
+V000614,R00889,Poor Hygiene,Critical,2500,Yes
+V000615,R00891,Poor Hygiene,Moderate,2500,Yes
+V000616,R00892,Suspected Adulteration,Moderate,2500,Yes
+V000617,R00893,Unlicensed Operation,Moderate,1000,Yes
+V000618,R00894,Pest Infestation,Moderate,25000,Yes
+V000619,R00896,Suspected Adulteration,Low,0,Yes
+V000620,R00900,Incorrect Ingredient Declaration,Moderate,25000,Yes
+V000621,R00901,Expired Product,Moderate,50000,Yes
+V000622,R00904,Unlicensed Operation,Moderate,10000,Yes
+V000623,R00908,Expired Product,Moderate,1000,Yes
+V000624,R00910,Pest Infestation,Moderate,2500,Yes
+V000625,R00911,Unlicensed Operation,Low,0,Yes
+V000626,R00912,Poor Hygiene,Low,10000,Yes
+V000627,R00912,Suspected Adulteration,Critical,5000,Yes
+V000628,R00914,Suspected Adulteration,High,5000,Yes
+V000629,R00916,Suspected Adulteration,Low,0,No
+V000630,R00916,Pest Infestation,Low,50000,No
+V000631,R00919,Unsafe Water,Moderate,50000,Yes
+V000632,R00919,Improper Storage,Moderate,2500,Yes
+V000633,R00920,Expired Product,Moderate,5000,Yes
+V000634,R00920,Temperature Control Failure,Critical,10000,Yes
+V000635,R00922,Temperature Control Failure,Moderate,5000,Yes
+V000636,R00927,Incorrect Ingredient Declaration,Moderate,1000,Yes
+V000637,R00928,Mislabeling,High,50000,Yes
+V000638,R00929,Unlicensed Operation,Moderate,50000,Yes
+V000639,R00930,Suspected Adulteration,Critical,1000,Yes
+V000640,R00930,Improper Storage,Low,10000,No
+V000641,R00934,Unlicensed Operation,Moderate,25000,Yes
+V000642,R00934,Unsafe Water,Low,0,Yes
+V000643,R00935,Unlicensed Operation,Moderate,50000,Yes
+V000644,R00935,Mislabeling,Critical,2500,Yes
+V000645,R00938,Expired Product,Moderate,50000,Yes
+V000646,R00939,Mislabeling,Moderate,10000,Yes
+V000647,R00940,Incorrect Ingredient Declaration,Moderate,10000,Yes
+V000648,R00941,Temperature Control Failure,Low,0,Yes
+V000649,R00942,Incorrect Ingredient Declaration,High,100000,Yes
+V000650,R00944,Incorrect Ingredient Declaration,Low,0,Yes
+V000651,R00946,Unlicensed Operation,Low,5000,No
+V000652,R00948,Unlicensed Operation,Critical,2500,Yes
+V000653,R00949,Improper Storage,Moderate,25000,Yes
+V000654,R00951,Unlicensed Operation,High,100000,Yes
+V000655,R00952,Expired Product,Low,0,Yes
+V000656,R00952,Unsafe Water,Low,0,Yes
+V000657,R00955,Suspected Adulteration,Moderate,25000,Yes
+V000658,R00959,Unlicensed Operation,Critical,2500,Yes
+V000659,R00959,Incorrect Ingredient Declaration,Moderate,25000,Yes
+V000660,R00960,Pest Infestation,Moderate,1000,Yes
+V000661,R00962,Temperature Control Failure,Moderate,25000,Yes
+V000662,R00964,Incorrect Ingredient Declaration,Moderate,25000,Yes
+V000663,R00965,Mislabeling,Moderate,50000,Yes
+V000664,R00966,Unlicensed Operation,Moderate,5000,Yes
+V000665,R00968,Temperature Control Failure,Low,0,Yes
+V000666,R00970,Incorrect Ingredient Declaration,Critical,10000,Yes
+V000667,R00976,Expired Product,Low,0,Yes
+V000668,R00979,Suspected Adulteration,Moderate,10000,Yes
+V000669,R00980,Temperature Control Failure,High,5000,Yes
+V000670,R00980,Pest Infestation,Low,0,No
+V000671,R00982,Expired Product,High,1000,Yes
+V000672,R00983,Unsafe Water,Moderate,2500,Yes
+V000673,R00985,Suspected Adulteration,Moderate,10000,Yes
+V000674,R00985,Unsafe Water,High,1000,Yes
+V000675,R00986,Suspected Adulteration,High,50000,Yes
+V000676,R00988,Temperature Control Failure,Low,0,Yes
+V000677,R00989,Unlicensed Operation,Moderate,25000,Yes
+V000678,R00991,Poor Hygiene,Low,2500,No
+V000679,R00994,Improper Storage,Critical,5000,Yes
+V000680,R00994,Incorrect Ingredient Declaration,Critical,100000,Yes
+V000681,R00999,Temperature Control Failure,High,100000,Yes
+V000682,R01000,Incorrect Ingredient Declaration,High,10000,Yes
+V000683,R01000,Unlicensed Operation,Moderate,10000,Yes
+V000684,R01001,Unlicensed Operation,High,25000,Yes
+V000685,R01002,Temperature Control Failure,High,2500,Yes
+V000686,R01002,Improper Storage,Moderate,5000,Yes
+V000687,R01003,Unlicensed Operation,Low,0,No
+V000688,R01009,Unsafe Water,Low,100000,Yes
+V000689,R01011,Poor Hygiene,Moderate,100000,Yes
+V000690,R01011,Incorrect Ingredient Declaration,Low,0,Yes
+V000691,R01013,Suspected Adulteration,High,1000,Yes
+V000692,R01013,Temperature Control Failure,Critical,100000,Yes
+V000693,R01015,Suspected Adulteration,Critical,1000,Yes
+V000694,R01015,Mislabeling,Moderate,100000,Yes
+V000695,R01016,Unlicensed Operation,Moderate,1000,Yes
+V000696,R01019,Pest Infestation,High,50000,Yes
+V000697,R01022,Incorrect Ingredient Declaration,Moderate,1000,Yes
+V000698,R01023,Suspected Adulteration,Moderate,1000,Yes
+V000699,R01023,Expired Product,Low,0,No
+V000700,R01024,Poor Hygiene,Moderate,1000,Yes
+V000701,R01024,Expired Product,Moderate,50000,Yes
+V000702,R01025,Expired Product,Low,0,Yes
+V000703,R01026,Poor Hygiene,Low,0,No
+V000704,R01027,Suspected Adulteration,High,5000,Yes
+V000705,R01027,Unlicensed Operation,High,1000,Yes
+V000706,R01029,Incorrect Ingredient Declaration,High,2500,Yes
+V000707,R01030,Temperature Control Failure,High,50000,Yes
+V000708,R01030,Unsafe Water,High,50000,Yes
+V000709,R01032,Mislabeling,Moderate,2500,Yes
+V000710,R01035,Incorrect Ingredient Declaration,Low,100000,Yes
+V000711,R01035,Unsafe Water,Moderate,25000,Yes
+V000712,R01036,Pest Infestation,High,5000,Yes
+V000713,R01037,Poor Hygiene,High,100000,Yes
+V000714,R01038,Improper Storage,Moderate,10000,Yes
+V000715,R01040,Expired Product,Moderate,10000,Yes
+V000716,R01042,Expired Product,Moderate,25000,Yes
+V000717,R01047,Temperature Control Failure,Moderate,1000,Yes
+V000718,R01047,Suspected Adulteration,Moderate,100000,Yes
+V000719,R01048,Poor Hygiene,High,25000,Yes
+V000720,R01051,Expired Product,Critical,25000,Yes
+V000721,R01051,Mislabeling,Low,100000,No
+V000722,R01052,Temperature Control Failure,Moderate,2500,Yes
+V000723,R01052,Unsafe Water,High,5000,Yes
+V000724,R01056,Temperature Control Failure,Moderate,5000,Yes
+V000725,R01056,Temperature Control Failure,Moderate,10000,Yes
+V000726,R01057,Mislabeling,Moderate,10000,Yes
+V000727,R01058,Pest Infestation,Moderate,50000,Yes
+V000728,R01064,Temperature Control Failure,Low,0,No
+V000729,R01064,Incorrect Ingredient Declaration,Critical,100000,Yes
+V000730,R01066,Pest Infestation,Moderate,100000,Yes
+V000731,R01068,Unsafe Water,Critical,50000,Yes
+V000732,R01073,Unlicensed Operation,Moderate,100000,Yes
+V000733,R01074,Unlicensed Operation,High,25000,Yes
+V000734,R01075,Unsafe Water,Moderate,5000,Yes
+V000735,R01078,Incorrect Ingredient Declaration,Moderate,25000,Yes
+V000736,R01078,Improper Storage,Moderate,100000,Yes
+V000737,R01079,Unsafe Water,High,10000,Yes
+V000738,R01080,Pest Infestation,Critical,10000,Yes
+V000739,R01085,Suspected Adulteration,High,2500,Yes
+V000740,R01086,Suspected Adulteration,High,50000,Yes
+V000741,R01086,Mislabeling,Low,100000,Yes
+V000742,R01088,Pest Infestation,High,5000,Yes
+V000743,R01089,Improper Storage,Low,0,Yes
+V000744,R01092,Pest Infestation,Moderate,10000,Yes
+V000745,R01093,Expired Product,High,2500,Yes
+V000746,R01093,Pest Infestation,High,25000,Yes
+V000747,R01094,Unsafe Water,Low,50000,Yes
+V000748,R01095,Unlicensed Operation,Moderate,10000,Yes
+V000749,R01097,Incorrect Ingredient Declaration,Moderate,1000,Yes
+V000750,R01097,Improper Storage,Moderate,25000,Yes
+V000751,R01099,Pest Infestation,Moderate,50000,Yes
+V000752,R01101,Incorrect Ingredient Declaration,Critical,50000,Yes
+V000753,R01101,Unlicensed Operation,High,2500,Yes
+V000754,R01102,Incorrect Ingredient Declaration,High,25000,Yes
+V000755,R01103,Mislabeling,High,10000,Yes
+V000756,R01105,Temperature Control Failure,Critical,50000,Yes
+V000757,R01105,Suspected Adulteration,High,1000,Yes
+V000758,R01106,Poor Hygiene,Critical,5000,Yes
+V000759,R01109,Incorrect Ingredient Declaration,Critical,2500,Yes
+V000760,R01112,Incorrect Ingredient Declaration,High,100000,Yes
+V000761,R01113,Unsafe Water,High,5000,Yes
+V000762,R01114,Improper Storage,High,10000,Yes
+V000763,R01115,Improper Storage,Critical,1000,Yes
+V000764,R01117,Temperature Control Failure,Moderate,5000,Yes
+V000765,R01118,Unlicensed Operation,Critical,10000,Yes
+V000766,R01118,Pest Infestation,High,5000,Yes
+V000767,R01119,Suspected Adulteration,Moderate,100000,Yes
+V000768,R01120,Unsafe Water,Low,1000,No
+V000769,R01121,Poor Hygiene,High,5000,Yes
+V000770,R01126,Mislabeling,Low,0,Yes
+V000771,R01127,Mislabeling,Moderate,100000,Yes
+V000772,R01128,Unsafe Water,Low,0,Yes
+V000773,R01130,Improper Storage,Moderate,5000,Yes
+V000774,R01132,Expired Product,Critical,100000,Yes
+V000775,R01133,Improper Storage,Moderate,25000,Yes
+V000776,R01134,Unlicensed Operation,Critical,2500,Yes
+V000777,R01135,Unlicensed Operation,Critical,5000,Yes
+V000778,R01138,Pest Infestation,Low,0,Yes
+V000779,R01139,Unlicensed Operation,Moderate,10000,Yes
+V000780,R01140,Improper Storage,Low,0,Yes
+V000781,R01140,Mislabeling,Critical,1000,Yes
+V000782,R01141,Suspected Adulteration,Moderate,1000,Yes
+V000783,R01145,Mislabeling,Low,50000,No
+V000784,R01146,Expired Product,Low,50000,No
+V000785,R01147,Improper Storage,Low,0,No
+V000786,R01147,Expired Product,High,5000,Yes
+V000787,R01148,Unlicensed Operation,Moderate,5000,Yes
+V000788,R01150,Incorrect Ingredient Declaration,Low,0,No
+V000789,R01151,Mislabeling,High,100000,Yes
+V000790,R01152,Unsafe Water,Moderate,5000,Yes
+V000791,R01153,Temperature Control Failure,High,2500,Yes
+V000792,R01154,Suspected Adulteration,High,5000,Yes
+V000793,R01154,Improper Storage,High,100000,Yes
+V000794,R01156,Pest Infestation,Low,0,No
+V000795,R01158,Unsafe Water,Low,0,Yes
+V000796,R01159,Unsafe Water,Moderate,10000,Yes
+V000797,R01162,Pest Infestation,Moderate,2500,Yes
+V000798,R01163,Suspected Adulteration,Moderate,100000,Yes
+V000799,R01164,Temperature Control Failure,Moderate,25000,Yes
+V000800,R01165,Temperature Control Failure,Low,50000,Yes
+V000801,R01167,Unlicensed Operation,Moderate,100000,Yes
+V000802,R01167,Unlicensed Operation,High,100000,Yes
+V000803,R01168,Unsafe Water,Moderate,10000,Yes
+V000804,R01169,Temperature Control Failure,Low,25000,Yes
+V000805,R01170,Unlicensed Operation,High,1000,Yes
+V000806,R01170,Pest Infestation,Moderate,2500,Yes
+V000807,R01173,Unlicensed Operation,High,25000,Yes
+V000808,R01174,Incorrect Ingredient Declaration,Moderate,50000,Yes
+V000809,R01178,Incorrect Ingredient Declaration,Moderate,50000,Yes
+V000810,R01179,Suspected Adulteration,Moderate,10000,Yes
+V000811,R01179,Mislabeling,Moderate,50000,Yes
+V000812,R01181,Expired Product,Low,1000,No
+V000813,R01181,Temperature Control Failure,Low,0,Yes
+V000814,R01182,Poor Hygiene,Low,0,Yes
+V000815,R01183,Improper Storage,High,25000,Yes
+V000816,R01184,Improper Storage,Low,50000,Yes
+V000817,R01186,Mislabeling,Moderate,2500,Yes
+V000818,R01186,Unsafe Water,High,5000,Yes
+V000819,R01187,Improper Storage,High,10000,Yes
+V000820,R01188,Expired Product,Moderate,5000,Yes
+V000821,R01189,Incorrect Ingredient Declaration,Critical,2500,Yes
+V000822,R01190,Pest Infestation,Moderate,1000,Yes
+V000823,R01190,Mislabeling,High,10000,Yes
+V000824,R01193,Unsafe Water,Low,25000,Yes
+V000825,R01194,Suspected Adulteration,Low,0,No
+V000826,R01195,Unlicensed Operation,Low,0,No
+V000827,R01199,Suspected Adulteration,High,5000,Yes

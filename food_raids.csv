@@ -1,0 +1,1201 @@
+raid_id,business_id,raid_date,raid_reason,inspection_team_id,raid_outcome,follow_up_required
+R00001,B0006,2022-01-01,Routine Inspection,TEAM-003,Sample Collected,No
+R00002,B0076,2022-01-02,Risk-Based Inspection,TEAM-005,Sample Collected,Yes
+R00003,B0345,2022-01-02,Consumer Complaint,TEAM-021,Violation Found,No
+R00004,B0487,2022-01-03,Risk-Based Inspection,TEAM-045,Sample Collected,No
+R00005,B0114,2022-01-04,Consumer Complaint,TEAM-017,Violation Found,Yes
+R00006,B0481,2022-01-04,Risk-Based Inspection,TEAM-024,No Major Issue,No
+R00007,B0058,2022-01-06,Routine Inspection,TEAM-023,Seizure/Closure,Yes
+R00008,B0264,2022-01-07,Festival Enforcement Drive,TEAM-013,Sample Collected,Yes
+R00009,B0497,2022-01-07,Follow-up Inspection,TEAM-055,Sample Collected,Yes
+R00010,B0210,2022-01-09,Risk-Based Inspection,TEAM-013,Sample Collected,No
+R00011,B0221,2022-01-10,Intelligence Input,TEAM-043,Violation Found,Yes
+R00012,B0149,2022-01-11,Consumer Complaint,TEAM-019,Sample Collected,Yes
+R00013,B0201,2022-01-11,Routine Inspection,TEAM-053,Sample Collected,Yes
+R00014,B0180,2022-01-11,Routine Inspection,TEAM-009,Sample Collected,No
+R00015,B0001,2022-01-12,Follow-up Inspection,TEAM-016,Sample Collected,Yes
+R00016,B0271,2022-01-14,Routine Inspection,TEAM-057,Sample Collected,Yes
+R00017,B0072,2022-01-18,Festival Enforcement Drive,TEAM-043,Sample Collected,No
+R00018,B0190,2022-01-18,Consumer Complaint,TEAM-031,Violation Found,No
+R00019,B0416,2022-01-18,Risk-Based Inspection,TEAM-040,Sample Collected,No
+R00020,B0390,2022-01-19,Routine Inspection,TEAM-045,Violation Found,No
+R00021,B0310,2022-01-20,Consumer Complaint,TEAM-051,Violation Found,Yes
+R00022,B0305,2022-01-21,Routine Inspection,TEAM-040,Violation Found,No
+R00023,B0156,2022-01-21,Risk-Based Inspection,TEAM-056,Sample Collected,Yes
+R00024,B0450,2022-01-21,Risk-Based Inspection,TEAM-052,Violation Found,No
+R00025,B0218,2022-01-22,Festival Enforcement Drive,TEAM-013,Violation Found,Yes
+R00026,B0288,2022-01-23,Risk-Based Inspection,TEAM-060,Violation Found,No
+R00027,B0186,2022-01-24,Routine Inspection,TEAM-056,No Major Issue,No
+R00028,B0284,2022-01-24,Routine Inspection,TEAM-040,Violation Found,Yes
+R00029,B0460,2022-01-24,Consumer Complaint,TEAM-004,Violation Found,Yes
+R00030,B0411,2022-01-26,Consumer Complaint,TEAM-012,No Major Issue,No
+R00031,B0287,2022-01-28,Consumer Complaint,TEAM-025,Seizure/Closure,No
+R00032,B0067,2022-01-28,Routine Inspection,TEAM-042,Violation Found,No
+R00033,B0404,2022-01-31,Intelligence Input,TEAM-003,Violation Found,Yes
+R00034,B0195,2022-02-01,Intelligence Input,TEAM-015,No Major Issue,No
+R00035,B0163,2022-02-01,Consumer Complaint,TEAM-026,Sample Collected,No
+R00036,B0471,2022-02-06,Festival Enforcement Drive,TEAM-023,Seizure/Closure,Yes
+R00037,B0176,2022-02-09,Intelligence Input,TEAM-025,Violation Found,No
+R00038,B0387,2022-02-10,Routine Inspection,TEAM-049,Violation Found,No
+R00039,B0469,2022-02-12,Intelligence Input,TEAM-038,Violation Found,No
+R00040,B0250,2022-02-13,Consumer Complaint,TEAM-025,Sample Collected,Yes
+R00041,B0377,2022-02-13,Routine Inspection,TEAM-043,Violation Found,Yes
+R00042,B0303,2022-02-14,Consumer Complaint,TEAM-021,Violation Found,No
+R00043,B0214,2022-02-14,Risk-Based Inspection,TEAM-040,Sample Collected,Yes
+R00044,B0345,2022-02-15,Festival Enforcement Drive,TEAM-011,No Major Issue,No
+R00045,B0061,2022-02-15,Follow-up Inspection,TEAM-053,No Major Issue,No
+R00046,B0311,2022-02-16,Routine Inspection,TEAM-038,No Major Issue,No
+R00047,B0349,2022-02-17,Routine Inspection,TEAM-002,Seizure/Closure,No
+R00048,B0188,2022-02-19,Risk-Based Inspection,TEAM-044,Sample Collected,Yes
+R00049,B0090,2022-02-19,Follow-up Inspection,TEAM-054,Sample Collected,Yes
+R00050,B0094,2022-02-21,Routine Inspection,TEAM-021,Seizure/Closure,Yes
+R00051,B0162,2022-02-24,Consumer Complaint,TEAM-012,No Major Issue,No
+R00052,B0385,2022-02-26,Routine Inspection,TEAM-047,Violation Found,Yes
+R00053,B0249,2022-02-27,Risk-Based Inspection,TEAM-021,Violation Found,No
+R00054,B0022,2022-03-07,Risk-Based Inspection,TEAM-008,Violation Found,Yes
+R00055,B0273,2022-03-07,Routine Inspection,TEAM-017,No Major Issue,No
+R00056,B0166,2022-03-09,Routine Inspection,TEAM-006,Violation Found,Yes
+R00057,B0014,2022-03-09,Routine Inspection,TEAM-054,Sample Collected,No
+R00058,B0269,2022-03-10,Routine Inspection,TEAM-035,Violation Found,Yes
+R00059,B0197,2022-03-15,Festival Enforcement Drive,TEAM-025,Sample Collected,Yes
+R00060,B0303,2022-03-16,Risk-Based Inspection,TEAM-006,Violation Found,Yes
+R00061,B0242,2022-03-17,Festival Enforcement Drive,TEAM-014,Violation Found,No
+R00062,B0391,2022-03-18,Routine Inspection,TEAM-019,No Major Issue,No
+R00063,B0063,2022-03-19,Festival Enforcement Drive,TEAM-017,Sample Collected,Yes
+R00064,B0404,2022-03-19,Risk-Based Inspection,TEAM-048,Violation Found,Yes
+R00065,B0408,2022-03-20,Risk-Based Inspection,TEAM-043,Violation Found,No
+R00066,B0355,2022-03-20,Routine Inspection,TEAM-058,Violation Found,Yes
+R00067,B0421,2022-03-21,Consumer Complaint,TEAM-004,Violation Found,Yes
+R00068,B0208,2022-03-22,Follow-up Inspection,TEAM-045,No Major Issue,No
+R00069,B0346,2022-03-27,Consumer Complaint,TEAM-031,Sample Collected,Yes
+R00070,B0136,2022-03-28,Risk-Based Inspection,TEAM-009,Sample Collected,Yes
+R00071,B0450,2022-03-30,Festival Enforcement Drive,TEAM-051,Seizure/Closure,Yes
+R00072,B0125,2022-04-09,Risk-Based Inspection,TEAM-010,Violation Found,Yes
+R00073,B0370,2022-04-10,Intelligence Input,TEAM-060,Violation Found,Yes
+R00074,B0382,2022-04-11,Consumer Complaint,TEAM-006,Sample Collected,No
+R00075,B0494,2022-04-16,Consumer Complaint,TEAM-006,Sample Collected,Yes
+R00076,B0146,2022-04-17,Routine Inspection,TEAM-009,Violation Found,Yes
+R00077,B0212,2022-04-22,Consumer Complaint,TEAM-003,Seizure/Closure,No
+R00078,B0299,2022-04-24,Festival Enforcement Drive,TEAM-004,Seizure/Closure,Yes
+R00079,B0467,2022-04-26,Routine Inspection,TEAM-006,Sample Collected,Yes
+R00080,B0193,2022-04-26,Routine Inspection,TEAM-011,Sample Collected,Yes
+R00081,B0490,2022-04-26,Consumer Complaint,TEAM-023,Sample Collected,Yes
+R00082,B0018,2022-04-27,Consumer Complaint,TEAM-023,Seizure/Closure,Yes
+R00083,B0125,2022-04-28,Routine Inspection,TEAM-023,Violation Found,Yes
+R00084,B0412,2022-04-29,Consumer Complaint,TEAM-047,Violation Found,No
+R00085,B0206,2022-05-01,Intelligence Input,TEAM-030,Sample Collected,Yes
+R00086,B0425,2022-05-02,Consumer Complaint,TEAM-048,No Major Issue,No
+R00087,B0226,2022-05-03,Consumer Complaint,TEAM-021,Violation Found,No
+R00088,B0173,2022-05-04,Routine Inspection,TEAM-002,Violation Found,No
+R00089,B0298,2022-05-04,Festival Enforcement Drive,TEAM-016,No Major Issue,No
+R00090,B0241,2022-05-05,Consumer Complaint,TEAM-059,Sample Collected,Yes
+R00091,B0262,2022-05-09,Follow-up Inspection,TEAM-047,Violation Found,Yes
+R00092,B0076,2022-05-10,Routine Inspection,TEAM-054,Violation Found,Yes
+R00093,B0315,2022-05-10,Risk-Based Inspection,TEAM-008,Violation Found,No
+R00094,B0367,2022-05-11,Risk-Based Inspection,TEAM-060,No Major Issue,No
+R00095,B0012,2022-05-12,Routine Inspection,TEAM-017,No Major Issue,No
+R00096,B0376,2022-05-12,Routine Inspection,TEAM-026,No Major Issue,No
+R00097,B0208,2022-05-12,Consumer Complaint,TEAM-047,No Major Issue,No
+R00098,B0076,2022-05-20,Routine Inspection,TEAM-014,Violation Found,No
+R00099,B0493,2022-05-23,Festival Enforcement Drive,TEAM-029,Sample Collected,Yes
+R00100,B0228,2022-05-24,Intelligence Input,TEAM-013,Violation Found,Yes
+R00101,B0064,2022-05-26,Routine Inspection,TEAM-029,Seizure/Closure,Yes
+R00102,B0326,2022-05-26,Routine Inspection,TEAM-032,Violation Found,Yes
+R00103,B0453,2022-05-27,Follow-up Inspection,TEAM-019,Violation Found,No
+R00104,B0141,2022-05-29,Routine Inspection,TEAM-036,Seizure/Closure,No
+R00105,B0436,2022-05-29,Routine Inspection,TEAM-051,No Major Issue,No
+R00106,B0403,2022-06-03,Risk-Based Inspection,TEAM-015,Sample Collected,No
+R00107,B0009,2022-06-04,Risk-Based Inspection,TEAM-005,No Major Issue,No
+R00108,B0404,2022-06-05,Intelligence Input,TEAM-022,Violation Found,Yes
+R00109,B0477,2022-06-05,Festival Enforcement Drive,TEAM-009,No Major Issue,No
+R00110,B0106,2022-06-06,Risk-Based Inspection,TEAM-042,No Major Issue,No
+R00111,B0478,2022-06-08,Routine Inspection,TEAM-021,Sample Collected,No
+R00112,B0339,2022-06-08,Festival Enforcement Drive,TEAM-059,Sample Collected,Yes
+R00113,B0130,2022-06-10,Risk-Based Inspection,TEAM-032,Sample Collected,No
+R00114,B0302,2022-06-12,Consumer Complaint,TEAM-024,Violation Found,No
+R00115,B0375,2022-06-12,Consumer Complaint,TEAM-047,Sample Collected,No
+R00116,B0095,2022-06-13,Risk-Based Inspection,TEAM-032,Violation Found,Yes
+R00117,B0476,2022-06-16,Follow-up Inspection,TEAM-042,Sample Collected,No
+R00118,B0108,2022-06-18,Consumer Complaint,TEAM-050,Violation Found,Yes
+R00119,B0493,2022-06-20,Consumer Complaint,TEAM-027,No Major Issue,No
+R00120,B0369,2022-06-20,Festival Enforcement Drive,TEAM-002,Sample Collected,Yes
+R00121,B0030,2022-06-20,Routine Inspection,TEAM-032,No Major Issue,No
+R00122,B0381,2022-06-28,Routine Inspection,TEAM-033,Seizure/Closure,Yes
+R00123,B0361,2022-06-29,Intelligence Input,TEAM-054,Violation Found,Yes
+R00124,B0022,2022-06-29,Consumer Complaint,TEAM-027,Sample Collected,No
+R00125,B0162,2022-07-02,Consumer Complaint,TEAM-012,Violation Found,Yes
+R00126,B0076,2022-07-04,Consumer Complaint,TEAM-057,Sample Collected,Yes
+R00127,B0276,2022-07-07,Risk-Based Inspection,TEAM-051,Sample Collected,Yes
+R00128,B0408,2022-07-07,Risk-Based Inspection,TEAM-057,Sample Collected,No
+R00129,B0285,2022-07-09,Follow-up Inspection,TEAM-020,Violation Found,Yes
+R00130,B0280,2022-07-09,Routine Inspection,TEAM-037,Violation Found,Yes
+R00131,B0398,2022-07-10,Follow-up Inspection,TEAM-022,Sample Collected,Yes
+R00132,B0036,2022-07-12,Festival Enforcement Drive,TEAM-016,Sample Collected,No
+R00133,B0440,2022-07-14,Follow-up Inspection,TEAM-036,Sample Collected,Yes
+R00134,B0294,2022-07-15,Routine Inspection,TEAM-059,No Major Issue,No
+R00135,B0400,2022-07-17,Consumer Complaint,TEAM-040,Sample Collected,Yes
+R00136,B0231,2022-07-19,Consumer Complaint,TEAM-016,Sample Collected,No
+R00137,B0087,2022-07-19,Risk-Based Inspection,TEAM-032,Violation Found,No
+R00138,B0401,2022-07-20,Follow-up Inspection,TEAM-034,Seizure/Closure,Yes
+R00139,B0283,2022-07-21,Routine Inspection,TEAM-059,Sample Collected,Yes
+R00140,B0043,2022-07-22,Consumer Complaint,TEAM-017,Sample Collected,Yes
+R00141,B0110,2022-07-23,Consumer Complaint,TEAM-040,Violation Found,No
+R00142,B0212,2022-07-23,Risk-Based Inspection,TEAM-006,Violation Found,No
+R00143,B0095,2022-07-25,Routine Inspection,TEAM-060,Sample Collected,Yes
+R00144,B0072,2022-07-28,Consumer Complaint,TEAM-023,Violation Found,Yes
+R00145,B0423,2022-07-28,Festival Enforcement Drive,TEAM-029,Violation Found,Yes
+R00146,B0016,2022-07-30,Festival Enforcement Drive,TEAM-001,Violation Found,Yes
+R00147,B0437,2022-07-30,Routine Inspection,TEAM-029,Violation Found,No
+R00148,B0008,2022-07-31,Routine Inspection,TEAM-003,No Major Issue,No
+R00149,B0188,2022-07-31,Consumer Complaint,TEAM-012,Violation Found,Yes
+R00150,B0276,2022-07-31,Intelligence Input,TEAM-054,Sample Collected,No
+R00151,B0475,2022-08-01,Risk-Based Inspection,TEAM-060,No Major Issue,No
+R00152,B0441,2022-08-01,Routine Inspection,TEAM-053,Violation Found,No
+R00153,B0043,2022-08-04,Consumer Complaint,TEAM-042,No Major Issue,No
+R00154,B0346,2022-08-05,Consumer Complaint,TEAM-043,Violation Found,Yes
+R00155,B0137,2022-08-11,Consumer Complaint,TEAM-039,No Major Issue,No
+R00156,B0435,2022-08-11,Risk-Based Inspection,TEAM-014,Violation Found,Yes
+R00157,B0042,2022-08-12,Follow-up Inspection,TEAM-043,No Major Issue,No
+R00158,B0275,2022-08-13,Intelligence Input,TEAM-038,Violation Found,Yes
+R00159,B0220,2022-08-15,Festival Enforcement Drive,TEAM-059,Sample Collected,Yes
+R00160,B0431,2022-08-16,Routine Inspection,TEAM-004,Sample Collected,Yes
+R00161,B0154,2022-08-17,Follow-up Inspection,TEAM-051,Violation Found,No
+R00162,B0046,2022-08-19,Intelligence Input,TEAM-013,Seizure/Closure,No
+R00163,B0118,2022-08-21,Routine Inspection,TEAM-004,Seizure/Closure,Yes
+R00164,B0305,2022-08-25,Intelligence Input,TEAM-028,Violation Found,No
+R00165,B0215,2022-08-25,Follow-up Inspection,TEAM-043,Violation Found,No
+R00166,B0026,2022-08-27,Follow-up Inspection,TEAM-033,Violation Found,Yes
+R00167,B0334,2022-08-27,Consumer Complaint,TEAM-003,Violation Found,Yes
+R00168,B0414,2022-08-30,Festival Enforcement Drive,TEAM-046,Sample Collected,No
+R00169,B0435,2022-08-31,Consumer Complaint,TEAM-053,Sample Collected,Yes
+R00170,B0244,2022-08-31,Routine Inspection,TEAM-025,Violation Found,No
+R00171,B0278,2022-09-03,Consumer Complaint,TEAM-010,No Major Issue,No
+R00172,B0138,2022-09-03,Routine Inspection,TEAM-050,Violation Found,Yes
+R00173,B0308,2022-09-06,Routine Inspection,TEAM-060,No Major Issue,No
+R00174,B0418,2022-09-08,Consumer Complaint,TEAM-054,Sample Collected,Yes
+R00175,B0001,2022-09-08,Consumer Complaint,TEAM-035,Violation Found,Yes
+R00176,B0408,2022-09-08,Follow-up Inspection,TEAM-059,Violation Found,Yes
+R00177,B0032,2022-09-08,Festival Enforcement Drive,TEAM-060,Violation Found,No
+R00178,B0355,2022-09-10,Consumer Complaint,TEAM-004,Violation Found,Yes
+R00179,B0039,2022-09-10,Festival Enforcement Drive,TEAM-039,Sample Collected,Yes
+R00180,B0030,2022-09-14,Consumer Complaint,TEAM-044,Violation Found,No
+R00181,B0292,2022-09-17,Follow-up Inspection,TEAM-007,Violation Found,Yes
+R00182,B0383,2022-09-17,Festival Enforcement Drive,TEAM-045,Seizure/Closure,Yes
+R00183,B0044,2022-09-18,Consumer Complaint,TEAM-037,Violation Found,Yes
+R00184,B0254,2022-09-21,Festival Enforcement Drive,TEAM-033,Sample Collected,Yes
+R00185,B0012,2022-09-22,Festival Enforcement Drive,TEAM-009,No Major Issue,No
+R00186,B0246,2022-09-23,Consumer Complaint,TEAM-033,Sample Collected,Yes
+R00187,B0117,2022-09-24,Routine Inspection,TEAM-053,Sample Collected,Yes
+R00188,B0274,2022-09-30,Risk-Based Inspection,TEAM-044,Seizure/Closure,No
+R00189,B0186,2022-10-01,Routine Inspection,TEAM-058,No Major Issue,No
+R00190,B0011,2022-10-02,Follow-up Inspection,TEAM-049,Violation Found,Yes
+R00191,B0472,2022-10-02,Risk-Based Inspection,TEAM-006,Sample Collected,Yes
+R00192,B0185,2022-10-04,Consumer Complaint,TEAM-031,Violation Found,Yes
+R00193,B0412,2022-10-05,Routine Inspection,TEAM-049,No Major Issue,No
+R00194,B0265,2022-10-06,Consumer Complaint,TEAM-005,Sample Collected,Yes
+R00195,B0042,2022-10-06,Routine Inspection,TEAM-059,Sample Collected,Yes
+R00196,B0271,2022-10-08,Risk-Based Inspection,TEAM-003,No Major Issue,No
+R00197,B0339,2022-10-10,Intelligence Input,TEAM-035,Violation Found,Yes
+R00198,B0111,2022-10-11,Follow-up Inspection,TEAM-003,Seizure/Closure,Yes
+R00199,B0122,2022-10-12,Consumer Complaint,TEAM-021,Violation Found,Yes
+R00200,B0136,2022-10-16,Risk-Based Inspection,TEAM-048,Violation Found,Yes
+R00201,B0334,2022-10-18,Festival Enforcement Drive,TEAM-015,No Major Issue,No
+R00202,B0327,2022-10-18,Consumer Complaint,TEAM-024,No Major Issue,No
+R00203,B0113,2022-10-19,Risk-Based Inspection,TEAM-043,No Major Issue,No
+R00204,B0208,2022-10-22,Follow-up Inspection,TEAM-025,Violation Found,No
+R00205,B0345,2022-10-24,Consumer Complaint,TEAM-048,No Major Issue,No
+R00206,B0334,2022-10-24,Routine Inspection,TEAM-043,Violation Found,No
+R00207,B0453,2022-10-24,Festival Enforcement Drive,TEAM-013,No Major Issue,No
+R00208,B0043,2022-10-30,Risk-Based Inspection,TEAM-060,No Major Issue,No
+R00209,B0319,2022-10-31,Intelligence Input,TEAM-027,Sample Collected,No
+R00210,B0137,2022-11-01,Routine Inspection,TEAM-033,No Major Issue,No
+R00211,B0068,2022-11-05,Consumer Complaint,TEAM-003,No Major Issue,No
+R00212,B0410,2022-11-05,Risk-Based Inspection,TEAM-048,Sample Collected,Yes
+R00213,B0429,2022-11-13,Routine Inspection,TEAM-054,No Major Issue,No
+R00214,B0338,2022-11-13,Follow-up Inspection,TEAM-055,Sample Collected,Yes
+R00215,B0175,2022-11-16,Festival Enforcement Drive,TEAM-050,No Major Issue,No
+R00216,B0111,2022-11-16,Routine Inspection,TEAM-035,Sample Collected,Yes
+R00217,B0026,2022-11-17,Festival Enforcement Drive,TEAM-044,Sample Collected,Yes
+R00218,B0193,2022-11-17,Routine Inspection,TEAM-023,Seizure/Closure,Yes
+R00219,B0275,2022-11-18,Routine Inspection,TEAM-028,Sample Collected,No
+R00220,B0289,2022-11-19,Follow-up Inspection,TEAM-049,Sample Collected,No
+R00221,B0099,2022-11-20,Consumer Complaint,TEAM-016,Violation Found,Yes
+R00222,B0126,2022-11-21,Risk-Based Inspection,TEAM-016,Seizure/Closure,Yes
+R00223,B0419,2022-11-22,Routine Inspection,TEAM-044,No Major Issue,No
+R00224,B0439,2022-11-23,Festival Enforcement Drive,TEAM-040,Sample Collected,Yes
+R00225,B0489,2022-11-25,Consumer Complaint,TEAM-023,Violation Found,Yes
+R00226,B0407,2022-11-27,Risk-Based Inspection,TEAM-018,Seizure/Closure,Yes
+R00227,B0225,2022-11-27,Intelligence Input,TEAM-027,No Major Issue,No
+R00228,B0301,2022-11-28,Routine Inspection,TEAM-047,No Major Issue,No
+R00229,B0168,2022-11-28,Routine Inspection,TEAM-048,Violation Found,Yes
+R00230,B0134,2022-11-29,Routine Inspection,TEAM-057,Sample Collected,No
+R00231,B0090,2022-11-29,Risk-Based Inspection,TEAM-049,No Major Issue,No
+R00232,B0343,2022-11-30,Routine Inspection,TEAM-028,Seizure/Closure,Yes
+R00233,B0425,2022-12-01,Consumer Complaint,TEAM-041,Violation Found,Yes
+R00234,B0249,2022-12-06,Routine Inspection,TEAM-011,No Major Issue,No
+R00235,B0142,2022-12-08,Consumer Complaint,TEAM-053,No Major Issue,No
+R00236,B0355,2022-12-11,Consumer Complaint,TEAM-049,No Major Issue,No
+R00237,B0372,2022-12-12,Routine Inspection,TEAM-001,Violation Found,Yes
+R00238,B0429,2022-12-14,Risk-Based Inspection,TEAM-034,No Major Issue,No
+R00239,B0345,2022-12-14,Routine Inspection,TEAM-023,Sample Collected,Yes
+R00240,B0016,2022-12-14,Routine Inspection,TEAM-042,Violation Found,Yes
+R00241,B0418,2022-12-16,Consumer Complaint,TEAM-018,Sample Collected,Yes
+R00242,B0381,2022-12-17,Risk-Based Inspection,TEAM-006,Violation Found,Yes
+R00243,B0048,2022-12-19,Consumer Complaint,TEAM-010,Sample Collected,Yes
+R00244,B0244,2022-12-21,Risk-Based Inspection,TEAM-009,No Major Issue,No
+R00245,B0479,2022-12-22,Consumer Complaint,TEAM-009,Sample Collected,Yes
+R00246,B0154,2022-12-25,Festival Enforcement Drive,TEAM-035,No Major Issue,No
+R00247,B0377,2022-12-26,Festival Enforcement Drive,TEAM-020,Violation Found,No
+R00248,B0111,2022-12-28,Intelligence Input,TEAM-042,Seizure/Closure,No
+R00249,B0189,2022-12-29,Routine Inspection,TEAM-048,Sample Collected,Yes
+R00250,B0256,2022-12-30,Festival Enforcement Drive,TEAM-035,Violation Found,No
+R00251,B0298,2023-01-03,Follow-up Inspection,TEAM-012,Violation Found,Yes
+R00252,B0073,2023-01-07,Intelligence Input,TEAM-056,Violation Found,No
+R00253,B0103,2023-01-09,Festival Enforcement Drive,TEAM-023,Sample Collected,Yes
+R00254,B0474,2023-01-11,Follow-up Inspection,TEAM-025,Sample Collected,Yes
+R00255,B0276,2023-01-12,Routine Inspection,TEAM-002,No Major Issue,No
+R00256,B0153,2023-01-14,Intelligence Input,TEAM-042,Violation Found,No
+R00257,B0195,2023-01-16,Routine Inspection,TEAM-054,Violation Found,Yes
+R00258,B0325,2023-01-17,Routine Inspection,TEAM-019,Violation Found,Yes
+R00259,B0318,2023-01-19,Follow-up Inspection,TEAM-004,Seizure/Closure,No
+R00260,B0492,2023-01-20,Festival Enforcement Drive,TEAM-049,Sample Collected,Yes
+R00261,B0100,2023-01-20,Routine Inspection,TEAM-025,Violation Found,No
+R00262,B0232,2023-01-23,Follow-up Inspection,TEAM-016,No Major Issue,No
+R00263,B0500,2023-01-23,Risk-Based Inspection,TEAM-045,Violation Found,No
+R00264,B0155,2023-01-25,Follow-up Inspection,TEAM-006,Violation Found,No
+R00265,B0215,2023-01-29,Follow-up Inspection,TEAM-055,Violation Found,Yes
+R00266,B0152,2023-01-31,Routine Inspection,TEAM-034,Violation Found,Yes
+R00267,B0075,2023-02-02,Follow-up Inspection,TEAM-026,No Major Issue,No
+R00268,B0176,2023-02-02,Routine Inspection,TEAM-030,Sample Collected,No
+R00269,B0179,2023-02-04,Festival Enforcement Drive,TEAM-059,Violation Found,No
+R00270,B0109,2023-02-06,Intelligence Input,TEAM-056,Sample Collected,Yes
+R00271,B0035,2023-02-07,Festival Enforcement Drive,TEAM-040,No Major Issue,No
+R00272,B0007,2023-02-10,Intelligence Input,TEAM-038,Violation Found,Yes
+R00273,B0087,2023-02-14,Consumer Complaint,TEAM-053,Sample Collected,Yes
+R00274,B0063,2023-02-15,Intelligence Input,TEAM-017,Violation Found,Yes
+R00275,B0389,2023-02-16,Festival Enforcement Drive,TEAM-047,Seizure/Closure,Yes
+R00276,B0116,2023-02-17,Routine Inspection,TEAM-031,Sample Collected,Yes
+R00277,B0380,2023-02-18,Intelligence Input,TEAM-050,No Major Issue,No
+R00278,B0206,2023-02-19,Routine Inspection,TEAM-027,No Major Issue,No
+R00279,B0271,2023-02-20,Follow-up Inspection,TEAM-015,Violation Found,Yes
+R00280,B0047,2023-02-21,Follow-up Inspection,TEAM-040,No Major Issue,No
+R00281,B0352,2023-02-22,Risk-Based Inspection,TEAM-052,Seizure/Closure,Yes
+R00282,B0001,2023-02-27,Consumer Complaint,TEAM-014,Violation Found,Yes
+R00283,B0098,2023-03-01,Consumer Complaint,TEAM-055,Violation Found,Yes
+R00284,B0253,2023-03-07,Routine Inspection,TEAM-027,No Major Issue,No
+R00285,B0310,2023-03-07,Risk-Based Inspection,TEAM-025,Violation Found,Yes
+R00286,B0093,2023-03-07,Routine Inspection,TEAM-022,Violation Found,Yes
+R00287,B0272,2023-03-07,Follow-up Inspection,TEAM-043,Sample Collected,Yes
+R00288,B0442,2023-03-07,Consumer Complaint,TEAM-039,Seizure/Closure,Yes
+R00289,B0390,2023-03-09,Routine Inspection,TEAM-005,Sample Collected,No
+R00290,B0016,2023-03-09,Routine Inspection,TEAM-009,Violation Found,Yes
+R00291,B0185,2023-03-10,Consumer Complaint,TEAM-022,Violation Found,No
+R00292,B0278,2023-03-10,Follow-up Inspection,TEAM-059,Sample Collected,Yes
+R00293,B0018,2023-03-12,Intelligence Input,TEAM-001,Violation Found,Yes
+R00294,B0260,2023-03-13,Routine Inspection,TEAM-059,No Major Issue,No
+R00295,B0032,2023-03-15,Intelligence Input,TEAM-055,Violation Found,Yes
+R00296,B0070,2023-03-18,Consumer Complaint,TEAM-050,Violation Found,Yes
+R00297,B0056,2023-03-18,Risk-Based Inspection,TEAM-054,No Major Issue,No
+R00298,B0461,2023-03-18,Intelligence Input,TEAM-042,Sample Collected,No
+R00299,B0146,2023-03-20,Follow-up Inspection,TEAM-058,No Major Issue,No
+R00300,B0354,2023-03-20,Routine Inspection,TEAM-056,Seizure/Closure,Yes
+R00301,B0263,2023-03-21,Intelligence Input,TEAM-001,Violation Found,No
+R00302,B0305,2023-03-22,Follow-up Inspection,TEAM-021,No Major Issue,No
+R00303,B0474,2023-03-24,Routine Inspection,TEAM-012,No Major Issue,No
+R00304,B0298,2023-03-24,Routine Inspection,TEAM-020,Sample Collected,No
+R00305,B0422,2023-03-26,Festival Enforcement Drive,TEAM-049,Seizure/Closure,Yes
+R00306,B0431,2023-03-27,Consumer Complaint,TEAM-057,Violation Found,Yes
+R00307,B0099,2023-03-27,Routine Inspection,TEAM-011,Violation Found,No
+R00308,B0413,2023-03-30,Intelligence Input,TEAM-001,Violation Found,No
+R00309,B0112,2023-03-31,Intelligence Input,TEAM-038,Seizure/Closure,Yes
+R00310,B0473,2023-04-01,Follow-up Inspection,TEAM-003,Seizure/Closure,Yes
+R00311,B0403,2023-04-01,Routine Inspection,TEAM-050,No Major Issue,No
+R00312,B0381,2023-04-05,Consumer Complaint,TEAM-006,Sample Collected,Yes
+R00313,B0179,2023-04-05,Risk-Based Inspection,TEAM-016,Sample Collected,Yes
+R00314,B0061,2023-04-07,Risk-Based Inspection,TEAM-028,No Major Issue,No
+R00315,B0065,2023-04-07,Follow-up Inspection,TEAM-017,Violation Found,No
+R00316,B0023,2023-04-07,Festival Enforcement Drive,TEAM-044,Sample Collected,Yes
+R00317,B0302,2023-04-08,Festival Enforcement Drive,TEAM-016,Sample Collected,Yes
+R00318,B0147,2023-04-09,Intelligence Input,TEAM-017,No Major Issue,No
+R00319,B0485,2023-04-10,Follow-up Inspection,TEAM-041,Sample Collected,Yes
+R00320,B0438,2023-04-11,Consumer Complaint,TEAM-019,Violation Found,Yes
+R00321,B0045,2023-04-11,Consumer Complaint,TEAM-013,Seizure/Closure,No
+R00322,B0044,2023-04-12,Festival Enforcement Drive,TEAM-036,Sample Collected,Yes
+R00323,B0192,2023-04-13,Consumer Complaint,TEAM-002,Sample Collected,No
+R00324,B0097,2023-04-14,Risk-Based Inspection,TEAM-016,Sample Collected,No
+R00325,B0154,2023-04-14,Intelligence Input,TEAM-029,Sample Collected,Yes
+R00326,B0169,2023-04-20,Risk-Based Inspection,TEAM-058,Sample Collected,Yes
+R00327,B0082,2023-04-22,Festival Enforcement Drive,TEAM-014,Sample Collected,Yes
+R00328,B0006,2023-04-22,Routine Inspection,TEAM-034,No Major Issue,No
+R00329,B0158,2023-04-22,Follow-up Inspection,TEAM-017,Violation Found,Yes
+R00330,B0115,2023-04-23,Routine Inspection,TEAM-012,Violation Found,Yes
+R00331,B0041,2023-04-23,Risk-Based Inspection,TEAM-028,Sample Collected,Yes
+R00332,B0494,2023-04-24,Risk-Based Inspection,TEAM-036,Violation Found,Yes
+R00333,B0013,2023-04-25,Routine Inspection,TEAM-022,Sample Collected,Yes
+R00334,B0474,2023-04-27,Routine Inspection,TEAM-037,No Major Issue,No
+R00335,B0176,2023-04-28,Routine Inspection,TEAM-045,Violation Found,Yes
+R00336,B0366,2023-05-01,Routine Inspection,TEAM-037,No Major Issue,No
+R00337,B0313,2023-05-03,Consumer Complaint,TEAM-024,Violation Found,Yes
+R00338,B0337,2023-05-03,Consumer Complaint,TEAM-030,Violation Found,Yes
+R00339,B0203,2023-05-07,Routine Inspection,TEAM-029,Violation Found,Yes
+R00340,B0365,2023-05-07,Festival Enforcement Drive,TEAM-020,Sample Collected,No
+R00341,B0082,2023-05-08,Consumer Complaint,TEAM-029,Seizure/Closure,Yes
+R00342,B0338,2023-05-09,Risk-Based Inspection,TEAM-047,Violation Found,No
+R00343,B0265,2023-05-11,Routine Inspection,TEAM-028,Violation Found,Yes
+R00344,B0019,2023-05-12,Consumer Complaint,TEAM-026,Violation Found,Yes
+R00345,B0092,2023-05-14,Risk-Based Inspection,TEAM-003,Sample Collected,Yes
+R00346,B0298,2023-05-17,Risk-Based Inspection,TEAM-012,Violation Found,No
+R00347,B0319,2023-05-18,Intelligence Input,TEAM-026,Sample Collected,Yes
+R00348,B0308,2023-05-19,Follow-up Inspection,TEAM-046,Sample Collected,No
+R00349,B0400,2023-05-20,Consumer Complaint,TEAM-001,Sample Collected,Yes
+R00350,B0266,2023-05-21,Consumer Complaint,TEAM-008,Violation Found,No
+R00351,B0348,2023-05-24,Risk-Based Inspection,TEAM-007,Violation Found,No
+R00352,B0299,2023-06-02,Consumer Complaint,TEAM-033,Violation Found,No
+R00353,B0301,2023-06-04,Routine Inspection,TEAM-004,No Major Issue,No
+R00354,B0253,2023-06-06,Routine Inspection,TEAM-044,Sample Collected,Yes
+R00355,B0140,2023-06-08,Festival Enforcement Drive,TEAM-014,Violation Found,Yes
+R00356,B0098,2023-06-10,Intelligence Input,TEAM-048,Violation Found,Yes
+R00357,B0066,2023-06-11,Consumer Complaint,TEAM-013,Violation Found,Yes
+R00358,B0254,2023-06-11,Consumer Complaint,TEAM-020,Sample Collected,No
+R00359,B0387,2023-06-12,Risk-Based Inspection,TEAM-036,Sample Collected,Yes
+R00360,B0339,2023-06-12,Routine Inspection,TEAM-006,Sample Collected,Yes
+R00361,B0356,2023-06-14,Consumer Complaint,TEAM-059,Violation Found,Yes
+R00362,B0373,2023-06-22,Routine Inspection,TEAM-048,Violation Found,Yes
+R00363,B0084,2023-06-22,Follow-up Inspection,TEAM-048,No Major Issue,No
+R00364,B0135,2023-06-24,Follow-up Inspection,TEAM-003,No Major Issue,No
+R00365,B0378,2023-06-24,Intelligence Input,TEAM-009,Sample Collected,Yes
+R00366,B0093,2023-06-28,Routine Inspection,TEAM-008,Violation Found,Yes
+R00367,B0267,2023-06-29,Intelligence Input,TEAM-035,Seizure/Closure,Yes
+R00368,B0014,2023-07-02,Intelligence Input,TEAM-055,No Major Issue,No
+R00369,B0238,2023-07-03,Risk-Based Inspection,TEAM-017,Sample Collected,Yes
+R00370,B0446,2023-07-03,Follow-up Inspection,TEAM-039,Violation Found,Yes
+R00371,B0397,2023-07-03,Intelligence Input,TEAM-057,Sample Collected,No
+R00372,B0197,2023-07-06,Consumer Complaint,TEAM-010,No Major Issue,No
+R00373,B0354,2023-07-06,Consumer Complaint,TEAM-011,Violation Found,Yes
+R00374,B0383,2023-07-08,Routine Inspection,TEAM-058,Violation Found,Yes
+R00375,B0309,2023-07-12,Intelligence Input,TEAM-048,Sample Collected,Yes
+R00376,B0477,2023-07-13,Routine Inspection,TEAM-048,Violation Found,Yes
+R00377,B0469,2023-07-15,Follow-up Inspection,TEAM-030,No Major Issue,No
+R00378,B0167,2023-07-15,Festival Enforcement Drive,TEAM-009,Violation Found,Yes
+R00379,B0422,2023-07-17,Follow-up Inspection,TEAM-022,Sample Collected,Yes
+R00380,B0375,2023-07-17,Consumer Complaint,TEAM-051,No Major Issue,No
+R00381,B0242,2023-07-18,Consumer Complaint,TEAM-056,Violation Found,No
+R00382,B0248,2023-07-19,Consumer Complaint,TEAM-039,Violation Found,Yes
+R00383,B0443,2023-07-20,Follow-up Inspection,TEAM-052,Sample Collected,No
+R00384,B0304,2023-07-22,Consumer Complaint,TEAM-057,Violation Found,No
+R00385,B0032,2023-07-24,Festival Enforcement Drive,TEAM-023,Violation Found,Yes
+R00386,B0180,2023-07-25,Routine Inspection,TEAM-031,Violation Found,Yes
+R00387,B0232,2023-07-26,Festival Enforcement Drive,TEAM-047,Violation Found,Yes
+R00388,B0226,2023-07-26,Risk-Based Inspection,TEAM-054,Sample Collected,Yes
+R00389,B0254,2023-07-28,Routine Inspection,TEAM-044,No Major Issue,No
+R00390,B0309,2023-07-28,Consumer Complaint,TEAM-011,Sample Collected,No
+R00391,B0218,2023-07-30,Follow-up Inspection,TEAM-040,Sample Collected,Yes
+R00392,B0042,2023-07-30,Risk-Based Inspection,TEAM-019,Violation Found,Yes
+R00393,B0251,2023-07-31,Routine Inspection,TEAM-024,Violation Found,Yes
+R00394,B0392,2023-07-31,Consumer Complaint,TEAM-026,Violation Found,Yes
+R00395,B0013,2023-08-01,Routine Inspection,TEAM-040,Violation Found,Yes
+R00396,B0250,2023-08-02,Intelligence Input,TEAM-044,Seizure/Closure,No
+R00397,B0077,2023-08-05,Follow-up Inspection,TEAM-037,Sample Collected,Yes
+R00398,B0474,2023-08-06,Risk-Based Inspection,TEAM-040,No Major Issue,No
+R00399,B0254,2023-08-06,Intelligence Input,TEAM-037,Violation Found,Yes
+R00400,B0459,2023-08-07,Festival Enforcement Drive,TEAM-053,Sample Collected,Yes
+R00401,B0143,2023-08-08,Consumer Complaint,TEAM-040,Seizure/Closure,Yes
+R00402,B0355,2023-08-09,Routine Inspection,TEAM-021,No Major Issue,No
+R00403,B0198,2023-08-09,Risk-Based Inspection,TEAM-026,Violation Found,No
+R00404,B0151,2023-08-11,Routine Inspection,TEAM-045,Violation Found,Yes
+R00405,B0487,2023-08-13,Consumer Complaint,TEAM-016,No Major Issue,No
+R00406,B0478,2023-08-20,Intelligence Input,TEAM-016,Violation Found,No
+R00407,B0362,2023-08-21,Consumer Complaint,TEAM-037,Violation Found,Yes
+R00408,B0353,2023-08-25,Consumer Complaint,TEAM-054,Violation Found,Yes
+R00409,B0284,2023-08-25,Follow-up Inspection,TEAM-046,No Major Issue,No
+R00410,B0226,2023-08-27,Intelligence Input,TEAM-048,Seizure/Closure,No
+R00411,B0075,2023-08-27,Festival Enforcement Drive,TEAM-033,Violation Found,Yes
+R00412,B0105,2023-08-28,Intelligence Input,TEAM-010,Seizure/Closure,Yes
+R00413,B0143,2023-09-01,Intelligence Input,TEAM-019,No Major Issue,No
+R00414,B0182,2023-09-01,Routine Inspection,TEAM-004,Violation Found,No
+R00415,B0336,2023-09-03,Intelligence Input,TEAM-012,Seizure/Closure,Yes
+R00416,B0101,2023-09-03,Routine Inspection,TEAM-018,Sample Collected,No
+R00417,B0063,2023-09-04,Intelligence Input,TEAM-014,Violation Found,Yes
+R00418,B0425,2023-09-04,Consumer Complaint,TEAM-028,Violation Found,Yes
+R00419,B0076,2023-09-05,Routine Inspection,TEAM-001,Violation Found,Yes
+R00420,B0218,2023-09-11,Consumer Complaint,TEAM-024,Seizure/Closure,Yes
+R00421,B0170,2023-09-13,Intelligence Input,TEAM-038,No Major Issue,No
+R00422,B0407,2023-09-20,Routine Inspection,TEAM-009,Sample Collected,Yes
+R00423,B0215,2023-09-21,Consumer Complaint,TEAM-055,Sample Collected,No
+R00424,B0239,2023-09-23,Routine Inspection,TEAM-051,Seizure/Closure,Yes
+R00425,B0439,2023-09-25,Festival Enforcement Drive,TEAM-016,Sample Collected,Yes
+R00426,B0461,2023-09-25,Follow-up Inspection,TEAM-030,Violation Found,Yes
+R00427,B0420,2023-09-27,Intelligence Input,TEAM-050,Sample Collected,No
+R00428,B0124,2023-09-27,Consumer Complaint,TEAM-056,Violation Found,No
+R00429,B0044,2023-09-28,Consumer Complaint,TEAM-053,Sample Collected,Yes
+R00430,B0151,2023-09-28,Festival Enforcement Drive,TEAM-015,Violation Found,Yes
+R00431,B0037,2023-09-29,Follow-up Inspection,TEAM-018,Violation Found,Yes
+R00432,B0420,2023-09-30,Routine Inspection,TEAM-045,Sample Collected,Yes
+R00433,B0249,2023-10-02,Consumer Complaint,TEAM-034,Violation Found,No
+R00434,B0055,2023-10-04,Festival Enforcement Drive,TEAM-013,Violation Found,Yes
+R00435,B0378,2023-10-04,Routine Inspection,TEAM-060,Sample Collected,No
+R00436,B0405,2023-10-05,Consumer Complaint,TEAM-039,Sample Collected,Yes
+R00437,B0030,2023-10-06,Consumer Complaint,TEAM-005,No Major Issue,No
+R00438,B0058,2023-10-07,Consumer Complaint,TEAM-040,Violation Found,Yes
+R00439,B0063,2023-10-08,Routine Inspection,TEAM-013,Violation Found,No
+R00440,B0097,2023-10-10,Risk-Based Inspection,TEAM-036,Sample Collected,Yes
+R00441,B0266,2023-10-11,Risk-Based Inspection,TEAM-007,Seizure/Closure,Yes
+R00442,B0021,2023-10-12,Festival Enforcement Drive,TEAM-046,No Major Issue,No
+R00443,B0471,2023-10-13,Consumer Complaint,TEAM-025,Violation Found,No
+R00444,B0120,2023-10-14,Risk-Based Inspection,TEAM-057,Violation Found,Yes
+R00445,B0384,2023-10-14,Intelligence Input,TEAM-042,Violation Found,Yes
+R00446,B0233,2023-10-15,Routine Inspection,TEAM-045,Sample Collected,Yes
+R00447,B0055,2023-10-17,Consumer Complaint,TEAM-034,No Major Issue,No
+R00448,B0469,2023-10-18,Risk-Based Inspection,TEAM-006,Sample Collected,Yes
+R00449,B0461,2023-10-19,Routine Inspection,TEAM-002,Sample Collected,No
+R00450,B0391,2023-10-19,Risk-Based Inspection,TEAM-059,Sample Collected,Yes
+R00451,B0017,2023-10-21,Consumer Complaint,TEAM-036,Violation Found,No
+R00452,B0325,2023-10-22,Festival Enforcement Drive,TEAM-059,Violation Found,Yes
+R00453,B0039,2023-10-22,Routine Inspection,TEAM-038,No Major Issue,No
+R00454,B0409,2023-10-25,Follow-up Inspection,TEAM-024,Violation Found,Yes
+R00455,B0196,2023-10-27,Risk-Based Inspection,TEAM-018,Sample Collected,Yes
+R00456,B0211,2023-10-27,Risk-Based Inspection,TEAM-024,Violation Found,No
+R00457,B0279,2023-10-27,Routine Inspection,TEAM-060,Violation Found,Yes
+R00458,B0412,2023-10-29,Risk-Based Inspection,TEAM-022,Sample Collected,No
+R00459,B0365,2023-10-30,Follow-up Inspection,TEAM-049,Violation Found,No
+R00460,B0010,2023-10-30,Routine Inspection,TEAM-039,No Major Issue,No
+R00461,B0380,2023-11-01,Risk-Based Inspection,TEAM-032,Sample Collected,Yes
+R00462,B0018,2023-11-06,Intelligence Input,TEAM-018,Sample Collected,No
+R00463,B0310,2023-11-07,Festival Enforcement Drive,TEAM-036,Sample Collected,Yes
+R00464,B0038,2023-11-07,Routine Inspection,TEAM-009,Violation Found,Yes
+R00465,B0255,2023-11-08,Risk-Based Inspection,TEAM-014,Violation Found,Yes
+R00466,B0004,2023-11-10,Follow-up Inspection,TEAM-028,Violation Found,Yes
+R00467,B0235,2023-11-10,Consumer Complaint,TEAM-048,Violation Found,No
+R00468,B0166,2023-11-11,Consumer Complaint,TEAM-025,Sample Collected,Yes
+R00469,B0185,2023-11-12,Consumer Complaint,TEAM-044,Seizure/Closure,Yes
+R00470,B0358,2023-11-14,Intelligence Input,TEAM-002,Violation Found,Yes
+R00471,B0478,2023-11-15,Risk-Based Inspection,TEAM-007,Sample Collected,No
+R00472,B0479,2023-11-15,Follow-up Inspection,TEAM-039,Violation Found,Yes
+R00473,B0198,2023-11-17,Risk-Based Inspection,TEAM-051,Seizure/Closure,Yes
+R00474,B0044,2023-11-19,Intelligence Input,TEAM-037,Sample Collected,Yes
+R00475,B0451,2023-11-20,Festival Enforcement Drive,TEAM-051,Sample Collected,Yes
+R00476,B0332,2023-11-20,Risk-Based Inspection,TEAM-013,Violation Found,Yes
+R00477,B0004,2023-11-22,Consumer Complaint,TEAM-052,Sample Collected,Yes
+R00478,B0325,2023-11-22,Intelligence Input,TEAM-013,No Major Issue,No
+R00479,B0211,2023-11-24,Consumer Complaint,TEAM-024,Sample Collected,No
+R00480,B0259,2023-11-24,Routine Inspection,TEAM-048,Violation Found,Yes
+R00481,B0479,2023-11-25,Routine Inspection,TEAM-013,Violation Found,No
+R00482,B0334,2023-11-25,Consumer Complaint,TEAM-036,Sample Collected,Yes
+R00483,B0355,2023-11-26,Risk-Based Inspection,TEAM-013,Seizure/Closure,Yes
+R00484,B0308,2023-11-27,Consumer Complaint,TEAM-022,Sample Collected,Yes
+R00485,B0439,2023-11-27,Follow-up Inspection,TEAM-012,Sample Collected,No
+R00486,B0084,2023-11-28,Follow-up Inspection,TEAM-057,No Major Issue,No
+R00487,B0181,2023-11-29,Risk-Based Inspection,TEAM-010,Violation Found,Yes
+R00488,B0040,2023-12-01,Routine Inspection,TEAM-035,Violation Found,Yes
+R00489,B0005,2023-12-03,Risk-Based Inspection,TEAM-053,Sample Collected,Yes
+R00490,B0362,2023-12-03,Intelligence Input,TEAM-031,Violation Found,Yes
+R00491,B0327,2023-12-03,Routine Inspection,TEAM-032,Seizure/Closure,Yes
+R00492,B0226,2023-12-04,Routine Inspection,TEAM-007,Violation Found,Yes
+R00493,B0045,2023-12-04,Follow-up Inspection,TEAM-027,Sample Collected,Yes
+R00494,B0166,2023-12-04,Follow-up Inspection,TEAM-025,Sample Collected,Yes
+R00495,B0369,2023-12-05,Follow-up Inspection,TEAM-052,Violation Found,Yes
+R00496,B0114,2023-12-07,Risk-Based Inspection,TEAM-038,No Major Issue,No
+R00497,B0374,2023-12-07,Consumer Complaint,TEAM-031,Violation Found,Yes
+R00498,B0079,2023-12-08,Consumer Complaint,TEAM-018,Sample Collected,Yes
+R00499,B0016,2023-12-08,Consumer Complaint,TEAM-028,No Major Issue,No
+R00500,B0002,2023-12-09,Risk-Based Inspection,TEAM-059,Violation Found,No
+R00501,B0092,2023-12-10,Follow-up Inspection,TEAM-024,Sample Collected,Yes
+R00502,B0350,2023-12-10,Consumer Complaint,TEAM-007,No Major Issue,No
+R00503,B0426,2023-12-11,Festival Enforcement Drive,TEAM-005,No Major Issue,No
+R00504,B0471,2023-12-15,Follow-up Inspection,TEAM-032,Seizure/Closure,No
+R00505,B0351,2023-12-15,Risk-Based Inspection,TEAM-054,Seizure/Closure,Yes
+R00506,B0179,2023-12-16,Routine Inspection,TEAM-056,Violation Found,Yes
+R00507,B0372,2023-12-18,Intelligence Input,TEAM-011,Seizure/Closure,No
+R00508,B0021,2023-12-19,Routine Inspection,TEAM-002,Violation Found,Yes
+R00509,B0459,2023-12-21,Intelligence Input,TEAM-035,Sample Collected,Yes
+R00510,B0412,2023-12-21,Festival Enforcement Drive,TEAM-038,Seizure/Closure,Yes
+R00511,B0191,2023-12-23,Routine Inspection,TEAM-044,Sample Collected,Yes
+R00512,B0458,2023-12-25,Consumer Complaint,TEAM-060,Violation Found,No
+R00513,B0415,2023-12-28,Risk-Based Inspection,TEAM-054,Violation Found,No
+R00514,B0495,2023-12-29,Festival Enforcement Drive,TEAM-010,Violation Found,Yes
+R00515,B0218,2023-12-29,Intelligence Input,TEAM-038,Sample Collected,Yes
+R00516,B0026,2023-12-30,Routine Inspection,TEAM-059,No Major Issue,No
+R00517,B0144,2023-12-30,Consumer Complaint,TEAM-052,Violation Found,No
+R00518,B0013,2023-12-31,Routine Inspection,TEAM-021,Violation Found,No
+R00519,B0155,2024-01-01,Follow-up Inspection,TEAM-059,Violation Found,Yes
+R00520,B0217,2024-01-02,Festival Enforcement Drive,TEAM-053,Violation Found,Yes
+R00521,B0486,2024-01-02,Consumer Complaint,TEAM-021,Seizure/Closure,No
+R00522,B0276,2024-01-04,Risk-Based Inspection,TEAM-050,Sample Collected,Yes
+R00523,B0496,2024-01-06,Risk-Based Inspection,TEAM-010,Sample Collected,Yes
+R00524,B0080,2024-01-10,Follow-up Inspection,TEAM-037,No Major Issue,No
+R00525,B0342,2024-01-13,Festival Enforcement Drive,TEAM-029,Violation Found,Yes
+R00526,B0412,2024-01-15,Consumer Complaint,TEAM-053,No Major Issue,No
+R00527,B0225,2024-01-16,Risk-Based Inspection,TEAM-027,Violation Found,Yes
+R00528,B0090,2024-01-16,Routine Inspection,TEAM-028,Violation Found,Yes
+R00529,B0215,2024-01-18,Intelligence Input,TEAM-042,Seizure/Closure,Yes
+R00530,B0283,2024-01-19,Intelligence Input,TEAM-009,Violation Found,No
+R00531,B0129,2024-01-19,Consumer Complaint,TEAM-025,Violation Found,Yes
+R00532,B0067,2024-01-22,Risk-Based Inspection,TEAM-053,Violation Found,No
+R00533,B0082,2024-01-23,Follow-up Inspection,TEAM-037,No Major Issue,No
+R00534,B0404,2024-01-23,Follow-up Inspection,TEAM-001,Violation Found,Yes
+R00535,B0251,2024-01-23,Festival Enforcement Drive,TEAM-030,No Major Issue,No
+R00536,B0105,2024-01-23,Consumer Complaint,TEAM-011,Sample Collected,Yes
+R00537,B0448,2024-01-24,Risk-Based Inspection,TEAM-001,Seizure/Closure,Yes
+R00538,B0458,2024-01-27,Intelligence Input,TEAM-016,Violation Found,Yes
+R00539,B0059,2024-02-01,Risk-Based Inspection,TEAM-016,Violation Found,Yes
+R00540,B0482,2024-02-01,Risk-Based Inspection,TEAM-051,Sample Collected,No
+R00541,B0325,2024-02-01,Routine Inspection,TEAM-018,Seizure/Closure,No
+R00542,B0297,2024-02-05,Routine Inspection,TEAM-059,Violation Found,Yes
+R00543,B0204,2024-02-05,Routine Inspection,TEAM-037,Seizure/Closure,No
+R00544,B0002,2024-02-06,Festival Enforcement Drive,TEAM-004,No Major Issue,No
+R00545,B0276,2024-02-06,Routine Inspection,TEAM-028,Seizure/Closure,Yes
+R00546,B0188,2024-02-09,Consumer Complaint,TEAM-054,Violation Found,Yes
+R00547,B0439,2024-02-10,Consumer Complaint,TEAM-001,Violation Found,Yes
+R00548,B0307,2024-02-11,Consumer Complaint,TEAM-052,Sample Collected,No
+R00549,B0356,2024-02-12,Consumer Complaint,TEAM-053,Seizure/Closure,Yes
+R00550,B0464,2024-02-14,Intelligence Input,TEAM-021,Violation Found,Yes
+R00551,B0300,2024-02-15,Risk-Based Inspection,TEAM-054,Violation Found,Yes
+R00552,B0273,2024-02-16,Festival Enforcement Drive,TEAM-009,Violation Found,Yes
+R00553,B0049,2024-02-16,Consumer Complaint,TEAM-046,Sample Collected,Yes
+R00554,B0353,2024-02-17,Festival Enforcement Drive,TEAM-047,Sample Collected,No
+R00555,B0002,2024-02-18,Consumer Complaint,TEAM-037,Sample Collected,No
+R00556,B0388,2024-02-19,Risk-Based Inspection,TEAM-055,Violation Found,Yes
+R00557,B0389,2024-02-22,Intelligence Input,TEAM-010,Seizure/Closure,No
+R00558,B0069,2024-02-22,Festival Enforcement Drive,TEAM-033,Sample Collected,Yes
+R00559,B0146,2024-02-23,Routine Inspection,TEAM-050,Seizure/Closure,No
+R00560,B0143,2024-02-25,Routine Inspection,TEAM-015,Sample Collected,Yes
+R00561,B0082,2024-02-25,Routine Inspection,TEAM-039,No Major Issue,No
+R00562,B0208,2024-02-26,Festival Enforcement Drive,TEAM-050,Seizure/Closure,Yes
+R00563,B0320,2024-02-26,Consumer Complaint,TEAM-058,Violation Found,Yes
+R00564,B0058,2024-02-28,Consumer Complaint,TEAM-013,Sample Collected,Yes
+R00565,B0462,2024-02-28,Intelligence Input,TEAM-008,Violation Found,Yes
+R00566,B0236,2024-03-03,Risk-Based Inspection,TEAM-045,Seizure/Closure,No
+R00567,B0032,2024-03-04,Intelligence Input,TEAM-050,Violation Found,Yes
+R00568,B0131,2024-03-05,Consumer Complaint,TEAM-009,Violation Found,Yes
+R00569,B0062,2024-03-07,Routine Inspection,TEAM-051,Violation Found,Yes
+R00570,B0300,2024-03-08,Consumer Complaint,TEAM-002,No Major Issue,No
+R00571,B0445,2024-03-09,Consumer Complaint,TEAM-031,Sample Collected,Yes
+R00572,B0130,2024-03-09,Routine Inspection,TEAM-005,Violation Found,Yes
+R00573,B0300,2024-03-09,Risk-Based Inspection,TEAM-025,Seizure/Closure,No
+R00574,B0286,2024-03-10,Consumer Complaint,TEAM-055,Violation Found,Yes
+R00575,B0003,2024-03-10,Risk-Based Inspection,TEAM-053,Sample Collected,Yes
+R00576,B0188,2024-03-14,Risk-Based Inspection,TEAM-049,Seizure/Closure,No
+R00577,B0011,2024-03-14,Risk-Based Inspection,TEAM-021,Violation Found,Yes
+R00578,B0436,2024-03-16,Consumer Complaint,TEAM-059,Sample Collected,Yes
+R00579,B0491,2024-03-17,Intelligence Input,TEAM-008,Violation Found,No
+R00580,B0367,2024-03-20,Festival Enforcement Drive,TEAM-025,Sample Collected,Yes
+R00581,B0331,2024-03-21,Intelligence Input,TEAM-023,No Major Issue,No
+R00582,B0411,2024-03-23,Consumer Complaint,TEAM-019,Violation Found,Yes
+R00583,B0170,2024-03-24,Intelligence Input,TEAM-033,Sample Collected,Yes
+R00584,B0467,2024-03-24,Routine Inspection,TEAM-007,Seizure/Closure,Yes
+R00585,B0012,2024-03-27,Routine Inspection,TEAM-053,Violation Found,No
+R00586,B0282,2024-03-28,Risk-Based Inspection,TEAM-028,Sample Collected,Yes
+R00587,B0279,2024-03-30,Consumer Complaint,TEAM-053,Sample Collected,Yes
+R00588,B0144,2024-03-31,Intelligence Input,TEAM-048,Violation Found,Yes
+R00589,B0422,2024-04-01,Routine Inspection,TEAM-050,Sample Collected,Yes
+R00590,B0216,2024-04-06,Risk-Based Inspection,TEAM-028,Sample Collected,Yes
+R00591,B0247,2024-04-08,Consumer Complaint,TEAM-014,Violation Found,Yes
+R00592,B0262,2024-04-08,Risk-Based Inspection,TEAM-014,Seizure/Closure,Yes
+R00593,B0151,2024-04-08,Routine Inspection,TEAM-025,No Major Issue,No
+R00594,B0141,2024-04-10,Routine Inspection,TEAM-055,No Major Issue,No
+R00595,B0251,2024-04-10,Consumer Complaint,TEAM-025,Violation Found,No
+R00596,B0051,2024-04-11,Festival Enforcement Drive,TEAM-003,No Major Issue,No
+R00597,B0490,2024-04-14,Festival Enforcement Drive,TEAM-048,Sample Collected,Yes
+R00598,B0403,2024-04-15,Consumer Complaint,TEAM-052,Seizure/Closure,No
+R00599,B0323,2024-04-15,Routine Inspection,TEAM-005,Sample Collected,No
+R00600,B0092,2024-04-15,Risk-Based Inspection,TEAM-013,Seizure/Closure,Yes
+R00601,B0293,2024-04-16,Routine Inspection,TEAM-035,Seizure/Closure,Yes
+R00602,B0139,2024-04-17,Intelligence Input,TEAM-035,No Major Issue,No
+R00603,B0496,2024-04-18,Routine Inspection,TEAM-042,Violation Found,No
+R00604,B0208,2024-04-18,Festival Enforcement Drive,TEAM-051,Seizure/Closure,Yes
+R00605,B0215,2024-04-18,Festival Enforcement Drive,TEAM-040,Sample Collected,Yes
+R00606,B0195,2024-04-18,Intelligence Input,TEAM-048,Sample Collected,Yes
+R00607,B0323,2024-04-19,Risk-Based Inspection,TEAM-038,Seizure/Closure,No
+R00608,B0249,2024-04-19,Consumer Complaint,TEAM-059,Sample Collected,Yes
+R00609,B0044,2024-04-22,Risk-Based Inspection,TEAM-059,Seizure/Closure,Yes
+R00610,B0244,2024-04-22,Consumer Complaint,TEAM-002,Sample Collected,Yes
+R00611,B0214,2024-04-23,Festival Enforcement Drive,TEAM-021,No Major Issue,No
+R00612,B0267,2024-04-27,Consumer Complaint,TEAM-002,Violation Found,Yes
+R00613,B0161,2024-05-02,Routine Inspection,TEAM-051,Violation Found,No
+R00614,B0031,2024-05-03,Risk-Based Inspection,TEAM-040,Violation Found,Yes
+R00615,B0227,2024-05-04,Consumer Complaint,TEAM-058,Violation Found,Yes
+R00616,B0429,2024-05-06,Festival Enforcement Drive,TEAM-038,Sample Collected,Yes
+R00617,B0025,2024-05-07,Risk-Based Inspection,TEAM-006,Sample Collected,Yes
+R00618,B0323,2024-05-08,Risk-Based Inspection,TEAM-013,No Major Issue,No
+R00619,B0403,2024-05-08,Risk-Based Inspection,TEAM-051,No Major Issue,No
+R00620,B0291,2024-05-12,Risk-Based Inspection,TEAM-022,No Major Issue,No
+R00621,B0359,2024-05-13,Routine Inspection,TEAM-003,Sample Collected,Yes
+R00622,B0468,2024-05-13,Risk-Based Inspection,TEAM-054,Violation Found,No
+R00623,B0216,2024-05-15,Risk-Based Inspection,TEAM-050,Violation Found,Yes
+R00624,B0205,2024-05-15,Follow-up Inspection,TEAM-046,Sample Collected,No
+R00625,B0254,2024-05-17,Routine Inspection,TEAM-009,Sample Collected,Yes
+R00626,B0471,2024-05-18,Consumer Complaint,TEAM-059,Sample Collected,No
+R00627,B0015,2024-05-22,Routine Inspection,TEAM-022,Sample Collected,Yes
+R00628,B0330,2024-05-22,Festival Enforcement Drive,TEAM-007,No Major Issue,No
+R00629,B0004,2024-05-23,Risk-Based Inspection,TEAM-016,No Major Issue,No
+R00630,B0227,2024-05-23,Consumer Complaint,TEAM-023,Sample Collected,No
+R00631,B0079,2024-05-24,Risk-Based Inspection,TEAM-017,Sample Collected,Yes
+R00632,B0491,2024-05-24,Festival Enforcement Drive,TEAM-020,Violation Found,Yes
+R00633,B0181,2024-05-24,Risk-Based Inspection,TEAM-023,Violation Found,Yes
+R00634,B0289,2024-05-24,Follow-up Inspection,TEAM-033,Violation Found,No
+R00635,B0438,2024-05-25,Risk-Based Inspection,TEAM-035,Violation Found,Yes
+R00636,B0034,2024-05-26,Routine Inspection,TEAM-010,No Major Issue,No
+R00637,B0344,2024-05-28,Festival Enforcement Drive,TEAM-026,Violation Found,Yes
+R00638,B0222,2024-05-30,Routine Inspection,TEAM-016,No Major Issue,No
+R00639,B0227,2024-05-31,Risk-Based Inspection,TEAM-012,Violation Found,Yes
+R00640,B0021,2024-05-31,Festival Enforcement Drive,TEAM-017,Violation Found,Yes
+R00641,B0134,2024-06-03,Routine Inspection,TEAM-002,Sample Collected,Yes
+R00642,B0437,2024-06-04,Consumer Complaint,TEAM-006,Violation Found,Yes
+R00643,B0055,2024-06-05,Risk-Based Inspection,TEAM-034,No Major Issue,No
+R00644,B0431,2024-06-05,Consumer Complaint,TEAM-014,Sample Collected,No
+R00645,B0199,2024-06-07,Routine Inspection,TEAM-024,Sample Collected,Yes
+R00646,B0285,2024-06-08,Consumer Complaint,TEAM-040,No Major Issue,No
+R00647,B0420,2024-06-11,Consumer Complaint,TEAM-045,No Major Issue,No
+R00648,B0191,2024-06-11,Festival Enforcement Drive,TEAM-032,Violation Found,Yes
+R00649,B0366,2024-06-13,Routine Inspection,TEAM-060,Sample Collected,Yes
+R00650,B0328,2024-06-14,Routine Inspection,TEAM-019,Sample Collected,Yes
+R00651,B0348,2024-06-19,Consumer Complaint,TEAM-031,Seizure/Closure,No
+R00652,B0487,2024-06-23,Risk-Based Inspection,TEAM-012,Violation Found,Yes
+R00653,B0427,2024-06-23,Routine Inspection,TEAM-050,Sample Collected,Yes
+R00654,B0364,2024-07-06,Consumer Complaint,TEAM-004,No Major Issue,No
+R00655,B0214,2024-07-09,Festival Enforcement Drive,TEAM-026,Sample Collected,Yes
+R00656,B0412,2024-07-10,Routine Inspection,TEAM-029,No Major Issue,No
+R00657,B0139,2024-07-11,Follow-up Inspection,TEAM-050,No Major Issue,No
+R00658,B0398,2024-07-16,Risk-Based Inspection,TEAM-035,Sample Collected,Yes
+R00659,B0364,2024-07-16,Risk-Based Inspection,TEAM-014,No Major Issue,No
+R00660,B0440,2024-07-18,Consumer Complaint,TEAM-021,No Major Issue,No
+R00661,B0394,2024-07-18,Intelligence Input,TEAM-022,No Major Issue,No
+R00662,B0149,2024-07-19,Consumer Complaint,TEAM-050,Violation Found,No
+R00663,B0069,2024-07-21,Routine Inspection,TEAM-009,Violation Found,Yes
+R00664,B0419,2024-07-24,Consumer Complaint,TEAM-033,No Major Issue,No
+R00665,B0456,2024-07-24,Risk-Based Inspection,TEAM-043,No Major Issue,No
+R00666,B0095,2024-07-25,Risk-Based Inspection,TEAM-003,Violation Found,No
+R00667,B0012,2024-07-26,Consumer Complaint,TEAM-023,Violation Found,Yes
+R00668,B0480,2024-07-26,Consumer Complaint,TEAM-044,Seizure/Closure,Yes
+R00669,B0416,2024-07-30,Follow-up Inspection,TEAM-006,Violation Found,Yes
+R00670,B0344,2024-07-31,Intelligence Input,TEAM-034,Sample Collected,No
+R00671,B0463,2024-08-03,Intelligence Input,TEAM-001,No Major Issue,No
+R00672,B0274,2024-08-04,Follow-up Inspection,TEAM-028,No Major Issue,No
+R00673,B0488,2024-08-05,Intelligence Input,TEAM-034,Violation Found,Yes
+R00674,B0234,2024-08-06,Consumer Complaint,TEAM-028,Seizure/Closure,Yes
+R00675,B0206,2024-08-07,Routine Inspection,TEAM-042,No Major Issue,No
+R00676,B0118,2024-08-08,Consumer Complaint,TEAM-027,Violation Found,No
+R00677,B0481,2024-08-08,Follow-up Inspection,TEAM-039,No Major Issue,No
+R00678,B0063,2024-08-08,Routine Inspection,TEAM-034,No Major Issue,No
+R00679,B0007,2024-08-09,Intelligence Input,TEAM-039,No Major Issue,No
+R00680,B0476,2024-08-09,Consumer Complaint,TEAM-038,No Major Issue,No
+R00681,B0132,2024-08-09,Consumer Complaint,TEAM-025,Violation Found,Yes
+R00682,B0156,2024-08-11,Consumer Complaint,TEAM-047,Violation Found,Yes
+R00683,B0404,2024-08-13,Consumer Complaint,TEAM-040,Violation Found,No
+R00684,B0263,2024-08-15,Intelligence Input,TEAM-034,No Major Issue,No
+R00685,B0362,2024-08-17,Intelligence Input,TEAM-051,Violation Found,Yes
+R00686,B0304,2024-08-18,Consumer Complaint,TEAM-014,No Major Issue,No
+R00687,B0108,2024-08-19,Risk-Based Inspection,TEAM-015,Seizure/Closure,Yes
+R00688,B0104,2024-08-21,Consumer Complaint,TEAM-019,Violation Found,Yes
+R00689,B0213,2024-08-26,Intelligence Input,TEAM-048,Seizure/Closure,Yes
+R00690,B0286,2024-08-27,Risk-Based Inspection,TEAM-018,No Major Issue,No
+R00691,B0459,2024-08-31,Festival Enforcement Drive,TEAM-006,No Major Issue,No
+R00692,B0107,2024-08-31,Routine Inspection,TEAM-059,Seizure/Closure,Yes
+R00693,B0201,2024-08-31,Intelligence Input,TEAM-010,Violation Found,Yes
+R00694,B0183,2024-09-01,Follow-up Inspection,TEAM-033,Sample Collected,No
+R00695,B0236,2024-09-01,Risk-Based Inspection,TEAM-032,Sample Collected,No
+R00696,B0235,2024-09-03,Routine Inspection,TEAM-032,Violation Found,No
+R00697,B0382,2024-09-03,Risk-Based Inspection,TEAM-009,No Major Issue,No
+R00698,B0376,2024-09-05,Intelligence Input,TEAM-015,Seizure/Closure,Yes
+R00699,B0084,2024-09-05,Intelligence Input,TEAM-055,Violation Found,No
+R00700,B0482,2024-09-06,Routine Inspection,TEAM-008,Sample Collected,Yes
+R00701,B0163,2024-09-06,Follow-up Inspection,TEAM-054,Violation Found,Yes
+R00702,B0348,2024-09-08,Routine Inspection,TEAM-044,Violation Found,No
+R00703,B0161,2024-09-08,Risk-Based Inspection,TEAM-016,Sample Collected,Yes
+R00704,B0289,2024-09-08,Festival Enforcement Drive,TEAM-021,Sample Collected,Yes
+R00705,B0197,2024-09-09,Consumer Complaint,TEAM-057,Sample Collected,Yes
+R00706,B0276,2024-09-09,Routine Inspection,TEAM-010,No Major Issue,No
+R00707,B0457,2024-09-11,Festival Enforcement Drive,TEAM-012,Violation Found,No
+R00708,B0177,2024-09-12,Consumer Complaint,TEAM-054,Sample Collected,Yes
+R00709,B0053,2024-09-16,Routine Inspection,TEAM-040,Sample Collected,Yes
+R00710,B0118,2024-09-19,Routine Inspection,TEAM-056,Violation Found,Yes
+R00711,B0180,2024-09-25,Intelligence Input,TEAM-004,Sample Collected,No
+R00712,B0135,2024-09-27,Routine Inspection,TEAM-033,Seizure/Closure,Yes
+R00713,B0192,2024-09-29,Consumer Complaint,TEAM-059,Violation Found,Yes
+R00714,B0362,2024-09-29,Routine Inspection,TEAM-009,Violation Found,Yes
+R00715,B0493,2024-09-30,Routine Inspection,TEAM-025,No Major Issue,No
+R00716,B0152,2024-10-01,Festival Enforcement Drive,TEAM-031,Violation Found,Yes
+R00717,B0284,2024-10-01,Follow-up Inspection,TEAM-040,Sample Collected,Yes
+R00718,B0276,2024-10-01,Festival Enforcement Drive,TEAM-023,Sample Collected,No
+R00719,B0368,2024-10-02,Intelligence Input,TEAM-055,Violation Found,No
+R00720,B0031,2024-10-02,Festival Enforcement Drive,TEAM-054,No Major Issue,No
+R00721,B0389,2024-10-05,Consumer Complaint,TEAM-051,Sample Collected,Yes
+R00722,B0487,2024-10-07,Intelligence Input,TEAM-045,Violation Found,Yes
+R00723,B0119,2024-10-07,Risk-Based Inspection,TEAM-017,No Major Issue,No
+R00724,B0052,2024-10-08,Intelligence Input,TEAM-042,Sample Collected,Yes
+R00725,B0238,2024-10-10,Risk-Based Inspection,TEAM-023,Violation Found,No
+R00726,B0381,2024-10-12,Intelligence Input,TEAM-029,Seizure/Closure,Yes
+R00727,B0016,2024-10-12,Consumer Complaint,TEAM-056,Seizure/Closure,Yes
+R00728,B0038,2024-10-13,Risk-Based Inspection,TEAM-026,Seizure/Closure,Yes
+R00729,B0444,2024-10-15,Follow-up Inspection,TEAM-009,Violation Found,Yes
+R00730,B0176,2024-10-17,Routine Inspection,TEAM-018,Seizure/Closure,No
+R00731,B0006,2024-10-17,Festival Enforcement Drive,TEAM-035,Violation Found,Yes
+R00732,B0182,2024-10-17,Consumer Complaint,TEAM-016,Sample Collected,No
+R00733,B0096,2024-10-24,Risk-Based Inspection,TEAM-031,No Major Issue,No
+R00734,B0491,2024-10-24,Routine Inspection,TEAM-053,Violation Found,No
+R00735,B0404,2024-10-25,Risk-Based Inspection,TEAM-059,No Major Issue,No
+R00736,B0221,2024-10-26,Risk-Based Inspection,TEAM-008,Violation Found,No
+R00737,B0179,2024-10-27,Consumer Complaint,TEAM-034,No Major Issue,No
+R00738,B0331,2024-10-27,Risk-Based Inspection,TEAM-059,Violation Found,Yes
+R00739,B0034,2024-10-28,Consumer Complaint,TEAM-054,No Major Issue,No
+R00740,B0318,2024-10-28,Risk-Based Inspection,TEAM-054,Sample Collected,Yes
+R00741,B0131,2024-10-29,Routine Inspection,TEAM-049,Sample Collected,Yes
+R00742,B0364,2024-10-30,Festival Enforcement Drive,TEAM-035,Seizure/Closure,No
+R00743,B0402,2024-10-31,Follow-up Inspection,TEAM-059,Violation Found,No
+R00744,B0191,2024-11-06,Intelligence Input,TEAM-038,Sample Collected,No
+R00745,B0489,2024-11-07,Intelligence Input,TEAM-037,Seizure/Closure,Yes
+R00746,B0360,2024-11-08,Risk-Based Inspection,TEAM-019,No Major Issue,No
+R00747,B0323,2024-11-08,Risk-Based Inspection,TEAM-019,Sample Collected,No
+R00748,B0272,2024-11-09,Risk-Based Inspection,TEAM-048,Seizure/Closure,No
+R00749,B0177,2024-11-09,Routine Inspection,TEAM-007,No Major Issue,No
+R00750,B0366,2024-11-11,Routine Inspection,TEAM-021,Violation Found,Yes
+R00751,B0024,2024-11-12,Routine Inspection,TEAM-042,No Major Issue,No
+R00752,B0209,2024-11-12,Festival Enforcement Drive,TEAM-007,Sample Collected,Yes
+R00753,B0011,2024-11-13,Consumer Complaint,TEAM-004,Sample Collected,No
+R00754,B0441,2024-11-13,Routine Inspection,TEAM-037,Violation Found,Yes
+R00755,B0080,2024-11-14,Festival Enforcement Drive,TEAM-011,No Major Issue,No
+R00756,B0159,2024-11-14,Follow-up Inspection,TEAM-031,Sample Collected,No
+R00757,B0015,2024-11-15,Risk-Based Inspection,TEAM-004,Sample Collected,Yes
+R00758,B0194,2024-11-16,Festival Enforcement Drive,TEAM-037,Sample Collected,No
+R00759,B0428,2024-11-16,Intelligence Input,TEAM-008,No Major Issue,No
+R00760,B0077,2024-11-17,Follow-up Inspection,TEAM-011,Violation Found,No
+R00761,B0061,2024-11-20,Routine Inspection,TEAM-019,Seizure/Closure,Yes
+R00762,B0157,2024-11-23,Consumer Complaint,TEAM-004,Sample Collected,Yes
+R00763,B0113,2024-11-23,Risk-Based Inspection,TEAM-030,Violation Found,Yes
+R00764,B0153,2024-11-24,Intelligence Input,TEAM-006,Sample Collected,Yes
+R00765,B0092,2024-11-24,Intelligence Input,TEAM-037,Violation Found,Yes
+R00766,B0052,2024-11-28,Routine Inspection,TEAM-031,No Major Issue,No
+R00767,B0475,2024-11-28,Risk-Based Inspection,TEAM-036,No Major Issue,No
+R00768,B0485,2024-11-30,Festival Enforcement Drive,TEAM-025,Violation Found,Yes
+R00769,B0342,2024-11-30,Consumer Complaint,TEAM-052,Violation Found,Yes
+R00770,B0118,2024-12-01,Routine Inspection,TEAM-055,Violation Found,Yes
+R00771,B0161,2024-12-01,Consumer Complaint,TEAM-021,Seizure/Closure,No
+R00772,B0238,2024-12-02,Festival Enforcement Drive,TEAM-028,Violation Found,No
+R00773,B0387,2024-12-02,Festival Enforcement Drive,TEAM-015,Seizure/Closure,No
+R00774,B0202,2024-12-02,Intelligence Input,TEAM-027,Violation Found,No
+R00775,B0389,2024-12-02,Consumer Complaint,TEAM-014,Sample Collected,Yes
+R00776,B0239,2024-12-04,Risk-Based Inspection,TEAM-035,Violation Found,Yes
+R00777,B0462,2024-12-07,Consumer Complaint,TEAM-043,Sample Collected,Yes
+R00778,B0177,2024-12-07,Risk-Based Inspection,TEAM-011,Seizure/Closure,Yes
+R00779,B0226,2024-12-07,Consumer Complaint,TEAM-006,No Major Issue,No
+R00780,B0356,2024-12-09,Festival Enforcement Drive,TEAM-023,Violation Found,Yes
+R00781,B0249,2024-12-11,Routine Inspection,TEAM-006,No Major Issue,No
+R00782,B0434,2024-12-13,Intelligence Input,TEAM-015,No Major Issue,No
+R00783,B0346,2024-12-14,Consumer Complaint,TEAM-038,Violation Found,Yes
+R00784,B0246,2024-12-19,Follow-up Inspection,TEAM-046,Sample Collected,Yes
+R00785,B0204,2024-12-20,Consumer Complaint,TEAM-050,Violation Found,No
+R00786,B0139,2024-12-23,Follow-up Inspection,TEAM-013,Violation Found,Yes
+R00787,B0314,2024-12-25,Consumer Complaint,TEAM-031,Violation Found,Yes
+R00788,B0489,2024-12-25,Routine Inspection,TEAM-015,Sample Collected,No
+R00789,B0415,2024-12-26,Intelligence Input,TEAM-011,No Major Issue,No
+R00790,B0271,2024-12-27,Routine Inspection,TEAM-038,Sample Collected,No
+R00791,B0050,2024-12-27,Routine Inspection,TEAM-018,No Major Issue,No
+R00792,B0372,2024-12-29,Routine Inspection,TEAM-020,Violation Found,Yes
+R00793,B0154,2024-12-30,Consumer Complaint,TEAM-005,No Major Issue,No
+R00794,B0395,2025-01-01,Risk-Based Inspection,TEAM-019,Violation Found,Yes
+R00795,B0148,2025-01-02,Follow-up Inspection,TEAM-004,Violation Found,Yes
+R00796,B0278,2025-01-05,Routine Inspection,TEAM-033,Sample Collected,Yes
+R00797,B0292,2025-01-06,Routine Inspection,TEAM-031,No Major Issue,No
+R00798,B0311,2025-01-06,Follow-up Inspection,TEAM-024,Sample Collected,No
+R00799,B0194,2025-01-12,Risk-Based Inspection,TEAM-049,Sample Collected,No
+R00800,B0163,2025-01-13,Routine Inspection,TEAM-058,Sample Collected,Yes
+R00801,B0042,2025-01-13,Routine Inspection,TEAM-052,Violation Found,No
+R00802,B0490,2025-01-16,Consumer Complaint,TEAM-030,Sample Collected,Yes
+R00803,B0426,2025-01-16,Intelligence Input,TEAM-056,Sample Collected,Yes
+R00804,B0106,2025-01-19,Routine Inspection,TEAM-039,Violation Found,Yes
+R00805,B0091,2025-01-20,Routine Inspection,TEAM-049,Violation Found,No
+R00806,B0340,2025-01-23,Risk-Based Inspection,TEAM-040,Sample Collected,Yes
+R00807,B0393,2025-01-23,Routine Inspection,TEAM-012,Sample Collected,Yes
+R00808,B0167,2025-01-24,Routine Inspection,TEAM-047,No Major Issue,No
+R00809,B0007,2025-01-25,Routine Inspection,TEAM-051,Violation Found,Yes
+R00810,B0211,2025-01-27,Intelligence Input,TEAM-026,No Major Issue,No
+R00811,B0214,2025-01-28,Routine Inspection,TEAM-033,No Major Issue,No
+R00812,B0066,2025-01-28,Follow-up Inspection,TEAM-018,Violation Found,Yes
+R00813,B0202,2025-01-29,Routine Inspection,TEAM-004,No Major Issue,No
+R00814,B0077,2025-01-30,Festival Enforcement Drive,TEAM-059,No Major Issue,No
+R00815,B0344,2025-01-30,Festival Enforcement Drive,TEAM-019,No Major Issue,No
+R00816,B0201,2025-01-30,Risk-Based Inspection,TEAM-010,Sample Collected,No
+R00817,B0085,2025-01-31,Routine Inspection,TEAM-035,Sample Collected,Yes
+R00818,B0105,2025-02-01,Consumer Complaint,TEAM-023,Violation Found,Yes
+R00819,B0407,2025-02-03,Festival Enforcement Drive,TEAM-006,No Major Issue,No
+R00820,B0375,2025-02-05,Festival Enforcement Drive,TEAM-049,Violation Found,Yes
+R00821,B0188,2025-02-06,Consumer Complaint,TEAM-041,Violation Found,Yes
+R00822,B0442,2025-02-06,Festival Enforcement Drive,TEAM-015,Violation Found,Yes
+R00823,B0036,2025-02-07,Consumer Complaint,TEAM-016,Sample Collected,Yes
+R00824,B0464,2025-02-08,Follow-up Inspection,TEAM-037,No Major Issue,No
+R00825,B0029,2025-02-09,Routine Inspection,TEAM-039,Violation Found,Yes
+R00826,B0295,2025-02-09,Risk-Based Inspection,TEAM-060,Violation Found,No
+R00827,B0138,2025-02-12,Follow-up Inspection,TEAM-046,Seizure/Closure,No
+R00828,B0354,2025-02-13,Routine Inspection,TEAM-020,Violation Found,Yes
+R00829,B0001,2025-02-13,Intelligence Input,TEAM-028,Violation Found,No
+R00830,B0496,2025-02-16,Consumer Complaint,TEAM-034,No Major Issue,No
+R00831,B0397,2025-02-16,Risk-Based Inspection,TEAM-032,Sample Collected,Yes
+R00832,B0123,2025-02-17,Follow-up Inspection,TEAM-009,Sample Collected,Yes
+R00833,B0405,2025-02-17,Risk-Based Inspection,TEAM-006,No Major Issue,No
+R00834,B0030,2025-02-21,Consumer Complaint,TEAM-048,Sample Collected,Yes
+R00835,B0293,2025-02-22,Consumer Complaint,TEAM-058,Violation Found,No
+R00836,B0265,2025-02-23,Follow-up Inspection,TEAM-034,Sample Collected,No
+R00837,B0350,2025-02-24,Intelligence Input,TEAM-030,Violation Found,Yes
+R00838,B0106,2025-02-25,Consumer Complaint,TEAM-008,Seizure/Closure,No
+R00839,B0397,2025-02-26,Routine Inspection,TEAM-010,Violation Found,No
+R00840,B0114,2025-03-01,Routine Inspection,TEAM-011,No Major Issue,No
+R00841,B0117,2025-03-03,Routine Inspection,TEAM-018,Violation Found,Yes
+R00842,B0330,2025-03-05,Intelligence Input,TEAM-046,Violation Found,Yes
+R00843,B0042,2025-03-05,Routine Inspection,TEAM-006,Violation Found,Yes
+R00844,B0090,2025-03-07,Routine Inspection,TEAM-019,Violation Found,No
+R00845,B0241,2025-03-10,Consumer Complaint,TEAM-016,Violation Found,Yes
+R00846,B0104,2025-03-14,Risk-Based Inspection,TEAM-056,Violation Found,No
+R00847,B0019,2025-03-17,Follow-up Inspection,TEAM-036,Violation Found,Yes
+R00848,B0013,2025-03-18,Routine Inspection,TEAM-009,Violation Found,No
+R00849,B0419,2025-03-19,Routine Inspection,TEAM-032,Sample Collected,Yes
+R00850,B0456,2025-03-20,Routine Inspection,TEAM-038,Violation Found,Yes
+R00851,B0168,2025-03-21,Intelligence Input,TEAM-001,No Major Issue,No
+R00852,B0489,2025-03-21,Consumer Complaint,TEAM-010,Violation Found,Yes
+R00853,B0270,2025-03-22,Consumer Complaint,TEAM-016,Violation Found,Yes
+R00854,B0331,2025-03-22,Routine Inspection,TEAM-018,Seizure/Closure,No
+R00855,B0270,2025-03-22,Risk-Based Inspection,TEAM-058,Seizure/Closure,Yes
+R00856,B0186,2025-03-25,Routine Inspection,TEAM-019,Violation Found,No
+R00857,B0136,2025-04-03,Risk-Based Inspection,TEAM-022,Violation Found,Yes
+R00858,B0401,2025-04-07,Follow-up Inspection,TEAM-030,Violation Found,Yes
+R00859,B0165,2025-04-08,Consumer Complaint,TEAM-053,Seizure/Closure,Yes
+R00860,B0203,2025-04-09,Intelligence Input,TEAM-044,Sample Collected,Yes
+R00861,B0047,2025-04-09,Follow-up Inspection,TEAM-027,Sample Collected,Yes
+R00862,B0340,2025-04-11,Festival Enforcement Drive,TEAM-009,Violation Found,Yes
+R00863,B0329,2025-04-14,Intelligence Input,TEAM-038,Sample Collected,Yes
+R00864,B0039,2025-04-18,Routine Inspection,TEAM-019,No Major Issue,No
+R00865,B0369,2025-04-19,Risk-Based Inspection,TEAM-053,Violation Found,Yes
+R00866,B0382,2025-04-23,Routine Inspection,TEAM-033,Sample Collected,Yes
+R00867,B0368,2025-04-24,Consumer Complaint,TEAM-017,Violation Found,No
+R00868,B0446,2025-04-25,Routine Inspection,TEAM-048,Seizure/Closure,No
+R00869,B0209,2025-04-27,Risk-Based Inspection,TEAM-003,Violation Found,Yes
+R00870,B0084,2025-04-29,Routine Inspection,TEAM-053,Violation Found,Yes
+R00871,B0446,2025-04-30,Festival Enforcement Drive,TEAM-033,Violation Found,No
+R00872,B0332,2025-05-01,Risk-Based Inspection,TEAM-023,Violation Found,No
+R00873,B0225,2025-05-02,Follow-up Inspection,TEAM-015,Violation Found,Yes
+R00874,B0046,2025-05-03,Risk-Based Inspection,TEAM-057,Sample Collected,Yes
+R00875,B0075,2025-05-07,Consumer Complaint,TEAM-052,Violation Found,No
+R00876,B0313,2025-05-08,Intelligence Input,TEAM-033,Violation Found,No
+R00877,B0046,2025-05-13,Routine Inspection,TEAM-005,Violation Found,Yes
+R00878,B0345,2025-05-13,Follow-up Inspection,TEAM-045,Violation Found,No
+R00879,B0271,2025-05-18,Routine Inspection,TEAM-054,Sample Collected,No
+R00880,B0210,2025-05-19,Routine Inspection,TEAM-010,Violation Found,Yes
+R00881,B0111,2025-05-20,Routine Inspection,TEAM-011,Sample Collected,No
+R00882,B0071,2025-05-21,Intelligence Input,TEAM-015,Violation Found,Yes
+R00883,B0357,2025-05-26,Consumer Complaint,TEAM-037,Sample Collected,Yes
+R00884,B0122,2025-06-01,Consumer Complaint,TEAM-023,Sample Collected,Yes
+R00885,B0469,2025-06-02,Consumer Complaint,TEAM-027,Seizure/Closure,Yes
+R00886,B0052,2025-06-06,Routine Inspection,TEAM-018,Sample Collected,No
+R00887,B0393,2025-06-10,Intelligence Input,TEAM-015,Violation Found,Yes
+R00888,B0110,2025-06-10,Risk-Based Inspection,TEAM-051,No Major Issue,No
+R00889,B0128,2025-06-11,Follow-up Inspection,TEAM-041,Violation Found,Yes
+R00890,B0459,2025-06-13,Follow-up Inspection,TEAM-044,Violation Found,Yes
+R00891,B0063,2025-06-17,Intelligence Input,TEAM-025,Sample Collected,Yes
+R00892,B0201,2025-06-19,Consumer Complaint,TEAM-025,Seizure/Closure,No
+R00893,B0352,2025-06-23,Consumer Complaint,TEAM-025,No Major Issue,No
+R00894,B0443,2025-06-23,Festival Enforcement Drive,TEAM-035,Violation Found,Yes
+R00895,B0009,2025-06-25,Risk-Based Inspection,TEAM-033,No Major Issue,No
+R00896,B0386,2025-06-26,Routine Inspection,TEAM-058,Seizure/Closure,Yes
+R00897,B0207,2025-06-27,Risk-Based Inspection,TEAM-014,Sample Collected,Yes
+R00898,B0111,2025-06-29,Risk-Based Inspection,TEAM-034,No Major Issue,No
+R00899,B0386,2025-06-30,Consumer Complaint,TEAM-049,No Major Issue,No
+R00900,B0328,2025-07-01,Routine Inspection,TEAM-053,Sample Collected,Yes
+R00901,B0321,2025-07-03,Consumer Complaint,TEAM-033,Seizure/Closure,Yes
+R00902,B0337,2025-07-03,Consumer Complaint,TEAM-052,Violation Found,Yes
+R00903,B0194,2025-07-04,Risk-Based Inspection,TEAM-024,No Major Issue,No
+R00904,B0011,2025-07-04,Risk-Based Inspection,TEAM-041,Violation Found,No
+R00905,B0073,2025-07-06,Festival Enforcement Drive,TEAM-017,Sample Collected,Yes
+R00906,B0138,2025-07-10,Risk-Based Inspection,TEAM-018,Sample Collected,Yes
+R00907,B0231,2025-07-11,Festival Enforcement Drive,TEAM-053,No Major Issue,No
+R00908,B0462,2025-07-12,Festival Enforcement Drive,TEAM-020,Sample Collected,Yes
+R00909,B0135,2025-07-13,Consumer Complaint,TEAM-048,Violation Found,No
+R00910,B0156,2025-07-14,Intelligence Input,TEAM-050,Seizure/Closure,No
+R00911,B0213,2025-07-14,Risk-Based Inspection,TEAM-004,Seizure/Closure,Yes
+R00912,B0231,2025-07-16,Intelligence Input,TEAM-045,Violation Found,Yes
+R00913,B0300,2025-07-16,Follow-up Inspection,TEAM-026,Violation Found,Yes
+R00914,B0016,2025-07-16,Consumer Complaint,TEAM-050,Violation Found,No
+R00915,B0327,2025-07-24,Festival Enforcement Drive,TEAM-030,Violation Found,Yes
+R00916,B0288,2025-07-28,Consumer Complaint,TEAM-045,Seizure/Closure,Yes
+R00917,B0327,2025-07-30,Intelligence Input,TEAM-035,Sample Collected,Yes
+R00918,B0320,2025-07-31,Risk-Based Inspection,TEAM-057,No Major Issue,No
+R00919,B0163,2025-08-01,Risk-Based Inspection,TEAM-045,Seizure/Closure,Yes
+R00920,B0288,2025-08-04,Intelligence Input,TEAM-031,No Major Issue,No
+R00921,B0469,2025-08-07,Festival Enforcement Drive,TEAM-014,Violation Found,Yes
+R00922,B0382,2025-08-07,Routine Inspection,TEAM-037,Violation Found,No
+R00923,B0422,2025-08-08,Routine Inspection,TEAM-055,Sample Collected,Yes
+R00924,B0480,2025-08-09,Consumer Complaint,TEAM-006,Sample Collected,No
+R00925,B0186,2025-08-09,Routine Inspection,TEAM-012,Violation Found,Yes
+R00926,B0149,2025-08-10,Intelligence Input,TEAM-026,No Major Issue,No
+R00927,B0173,2025-08-12,Festival Enforcement Drive,TEAM-044,Sample Collected,Yes
+R00928,B0413,2025-08-14,Routine Inspection,TEAM-059,Violation Found,No
+R00929,B0330,2025-08-15,Risk-Based Inspection,TEAM-002,Violation Found,Yes
+R00930,B0433,2025-08-15,Routine Inspection,TEAM-027,Seizure/Closure,Yes
+R00931,B0182,2025-08-17,Intelligence Input,TEAM-003,Sample Collected,Yes
+R00932,B0297,2025-08-22,Routine Inspection,TEAM-038,Violation Found,No
+R00933,B0056,2025-08-23,Risk-Based Inspection,TEAM-038,Sample Collected,Yes
+R00934,B0169,2025-08-24,Routine Inspection,TEAM-031,Violation Found,Yes
+R00935,B0287,2025-08-24,Routine Inspection,TEAM-034,Seizure/Closure,Yes
+R00936,B0048,2025-08-25,Consumer Complaint,TEAM-041,Sample Collected,Yes
+R00937,B0203,2025-08-26,Consumer Complaint,TEAM-007,No Major Issue,No
+R00938,B0475,2025-08-27,Risk-Based Inspection,TEAM-013,Seizure/Closure,Yes
+R00939,B0365,2025-08-29,Festival Enforcement Drive,TEAM-029,Violation Found,No
+R00940,B0260,2025-08-30,Risk-Based Inspection,TEAM-043,Violation Found,Yes
+R00941,B0349,2025-08-30,Intelligence Input,TEAM-059,Violation Found,Yes
+R00942,B0060,2025-08-31,Consumer Complaint,TEAM-014,Sample Collected,Yes
+R00943,B0399,2025-08-31,Festival Enforcement Drive,TEAM-048,Sample Collected,Yes
+R00944,B0114,2025-09-01,Intelligence Input,TEAM-030,Sample Collected,Yes
+R00945,B0447,2025-09-01,Risk-Based Inspection,TEAM-004,No Major Issue,No
+R00946,B0157,2025-09-04,Routine Inspection,TEAM-046,Sample Collected,No
+R00947,B0074,2025-09-06,Routine Inspection,TEAM-056,Violation Found,Yes
+R00948,B0240,2025-09-10,Festival Enforcement Drive,TEAM-011,Sample Collected,Yes
+R00949,B0118,2025-09-11,Routine Inspection,TEAM-031,Violation Found,Yes
+R00950,B0175,2025-09-12,Consumer Complaint,TEAM-047,Violation Found,No
+R00951,B0442,2025-09-12,Festival Enforcement Drive,TEAM-007,Sample Collected,Yes
+R00952,B0202,2025-09-15,Festival Enforcement Drive,TEAM-060,Violation Found,No
+R00953,B0065,2025-09-15,Risk-Based Inspection,TEAM-026,Violation Found,Yes
+R00954,B0476,2025-09-17,Risk-Based Inspection,TEAM-030,No Major Issue,No
+R00955,B0057,2025-09-19,Risk-Based Inspection,TEAM-047,Violation Found,Yes
+R00956,B0268,2025-09-19,Intelligence Input,TEAM-025,No Major Issue,No
+R00957,B0449,2025-09-20,Risk-Based Inspection,TEAM-042,No Major Issue,No
+R00958,B0131,2025-09-20,Consumer Complaint,TEAM-029,Violation Found,No
+R00959,B0329,2025-09-20,Consumer Complaint,TEAM-036,Violation Found,Yes
+R00960,B0049,2025-09-24,Consumer Complaint,TEAM-003,Seizure/Closure,No
+R00961,B0050,2025-09-26,Follow-up Inspection,TEAM-046,No Major Issue,No
+R00962,B0170,2025-09-29,Risk-Based Inspection,TEAM-055,Violation Found,Yes
+R00963,B0280,2025-09-29,Festival Enforcement Drive,TEAM-030,No Major Issue,No
+R00964,B0226,2025-09-29,Routine Inspection,TEAM-022,Seizure/Closure,Yes
+R00965,B0382,2025-09-30,Risk-Based Inspection,TEAM-030,Sample Collected,No
+R00966,B0214,2025-10-01,Consumer Complaint,TEAM-027,Sample Collected,Yes
+R00967,B0415,2025-10-04,Consumer Complaint,TEAM-045,Sample Collected,Yes
+R00968,B0317,2025-10-04,Routine Inspection,TEAM-007,Violation Found,No
+R00969,B0308,2025-10-07,Intelligence Input,TEAM-048,Violation Found,Yes
+R00970,B0438,2025-10-08,Intelligence Input,TEAM-045,Violation Found,Yes
+R00971,B0227,2025-10-10,Routine Inspection,TEAM-043,Violation Found,No
+R00972,B0283,2025-10-12,Routine Inspection,TEAM-004,No Major Issue,No
+R00973,B0336,2025-10-12,Risk-Based Inspection,TEAM-036,No Major Issue,No
+R00974,B0147,2025-10-16,Festival Enforcement Drive,TEAM-022,Seizure/Closure,No
+R00975,B0063,2025-10-16,Intelligence Input,TEAM-036,Violation Found,Yes
+R00976,B0322,2025-10-17,Risk-Based Inspection,TEAM-009,Violation Found,Yes
+R00977,B0189,2025-10-17,Consumer Complaint,TEAM-042,Sample Collected,Yes
+R00978,B0427,2025-10-20,Routine Inspection,TEAM-017,Violation Found,Yes
+R00979,B0195,2025-10-25,Routine Inspection,TEAM-007,Violation Found,Yes
+R00980,B0493,2025-10-28,Risk-Based Inspection,TEAM-023,Sample Collected,Yes
+R00981,B0242,2025-10-30,Routine Inspection,TEAM-016,No Major Issue,No
+R00982,B0011,2025-11-02,Routine Inspection,TEAM-031,Violation Found,Yes
+R00983,B0126,2025-11-03,Risk-Based Inspection,TEAM-053,Violation Found,Yes
+R00984,B0275,2025-11-04,Consumer Complaint,TEAM-043,No Major Issue,No
+R00985,B0305,2025-11-07,Routine Inspection,TEAM-012,Sample Collected,Yes
+R00986,B0374,2025-11-08,Risk-Based Inspection,TEAM-059,Violation Found,Yes
+R00987,B0314,2025-11-09,Routine Inspection,TEAM-039,No Major Issue,No
+R00988,B0090,2025-11-11,Routine Inspection,TEAM-001,Violation Found,No
+R00989,B0021,2025-11-14,Intelligence Input,TEAM-003,Sample Collected,Yes
+R00990,B0300,2025-11-15,Consumer Complaint,TEAM-015,Sample Collected,No
+R00991,B0028,2025-11-20,Routine Inspection,TEAM-004,Violation Found,Yes
+R00992,B0108,2025-11-20,Routine Inspection,TEAM-056,Sample Collected,No
+R00993,B0129,2025-11-20,Routine Inspection,TEAM-031,No Major Issue,No
+R00994,B0059,2025-11-22,Consumer Complaint,TEAM-037,Seizure/Closure,No
+R00995,B0089,2025-11-24,Routine Inspection,TEAM-058,No Major Issue,No
+R00996,B0346,2025-11-24,Consumer Complaint,TEAM-027,No Major Issue,No
+R00997,B0417,2025-11-27,Routine Inspection,TEAM-021,Sample Collected,No
+R00998,B0452,2025-11-28,Intelligence Input,TEAM-021,No Major Issue,No
+R00999,B0282,2025-11-29,Routine Inspection,TEAM-024,Violation Found,Yes
+R01000,B0029,2025-11-30,Festival Enforcement Drive,TEAM-001,Sample Collected,No
+R01001,B0147,2025-12-03,Festival Enforcement Drive,TEAM-049,Sample Collected,No
+R01002,B0142,2025-12-03,Festival Enforcement Drive,TEAM-038,Violation Found,No
+R01003,B0055,2025-12-07,Follow-up Inspection,TEAM-033,Sample Collected,No
+R01004,B0198,2025-12-07,Routine Inspection,TEAM-048,No Major Issue,No
+R01005,B0046,2025-12-12,Intelligence Input,TEAM-024,Sample Collected,Yes
+R01006,B0479,2025-12-17,Consumer Complaint,TEAM-052,No Major Issue,No
+R01007,B0418,2025-12-19,Intelligence Input,TEAM-045,No Major Issue,No
+R01008,B0480,2025-12-21,Routine Inspection,TEAM-056,Sample Collected,No
+R01009,B0067,2025-12-27,Festival Enforcement Drive,TEAM-022,Seizure/Closure,No
+R01010,B0151,2025-12-27,Risk-Based Inspection,TEAM-056,Sample Collected,Yes
+R01011,B0097,2025-12-29,Follow-up Inspection,TEAM-008,No Major Issue,No
+R01012,B0463,2025-12-29,Risk-Based Inspection,TEAM-033,Sample Collected,Yes
+R01013,B0294,2026-01-01,Risk-Based Inspection,TEAM-004,Seizure/Closure,Yes
+R01014,B0474,2026-01-02,Risk-Based Inspection,TEAM-016,No Major Issue,No
+R01015,B0405,2026-01-04,Risk-Based Inspection,TEAM-026,Seizure/Closure,Yes
+R01016,B0062,2026-01-06,Routine Inspection,TEAM-001,Violation Found,No
+R01017,B0131,2026-01-07,Routine Inspection,TEAM-042,Sample Collected,Yes
+R01018,B0472,2026-01-08,Festival Enforcement Drive,TEAM-034,Sample Collected,Yes
+R01019,B0408,2026-01-09,Follow-up Inspection,TEAM-048,Violation Found,Yes
+R01020,B0147,2026-01-09,Follow-up Inspection,TEAM-033,No Major Issue,No
+R01021,B0416,2026-01-09,Risk-Based Inspection,TEAM-020,No Major Issue,No
+R01022,B0072,2026-01-10,Routine Inspection,TEAM-025,Violation Found,No
+R01023,B0275,2026-01-11,Risk-Based Inspection,TEAM-042,Seizure/Closure,No
+R01024,B0017,2026-01-13,Follow-up Inspection,TEAM-030,Violation Found,Yes
+R01025,B0087,2026-01-14,Festival Enforcement Drive,TEAM-036,Violation Found,No
+R01026,B0465,2026-01-16,Risk-Based Inspection,TEAM-033,Violation Found,Yes
+R01027,B0004,2026-01-17,Risk-Based Inspection,TEAM-024,Sample Collected,Yes
+R01028,B0037,2026-01-17,Consumer Complaint,TEAM-055,Sample Collected,Yes
+R01029,B0011,2026-01-19,Festival Enforcement Drive,TEAM-038,No Major Issue,No
+R01030,B0188,2026-01-22,Consumer Complaint,TEAM-020,Violation Found,Yes
+R01031,B0033,2026-01-22,Intelligence Input,TEAM-004,No Major Issue,No
+R01032,B0475,2026-01-25,Festival Enforcement Drive,TEAM-059,Violation Found,No
+R01033,B0496,2026-01-27,Routine Inspection,TEAM-009,Sample Collected,Yes
+R01034,B0273,2026-02-01,Risk-Based Inspection,TEAM-016,Violation Found,No
+R01035,B0123,2026-02-05,Risk-Based Inspection,TEAM-041,Violation Found,No
+R01036,B0443,2026-02-06,Follow-up Inspection,TEAM-001,Seizure/Closure,No
+R01037,B0445,2026-02-07,Routine Inspection,TEAM-058,Violation Found,Yes
+R01038,B0168,2026-02-08,Consumer Complaint,TEAM-031,Sample Collected,No
+R01039,B0146,2026-02-08,Follow-up Inspection,TEAM-016,Sample Collected,No
+R01040,B0425,2026-02-10,Consumer Complaint,TEAM-048,Violation Found,No
+R01041,B0038,2026-02-13,Risk-Based Inspection,TEAM-029,No Major Issue,No
+R01042,B0144,2026-02-17,Consumer Complaint,TEAM-027,Seizure/Closure,Yes
+R01043,B0328,2026-02-18,Intelligence Input,TEAM-003,No Major Issue,No
+R01044,B0227,2026-02-19,Routine Inspection,TEAM-056,Sample Collected,No
+R01045,B0489,2026-02-27,Routine Inspection,TEAM-027,No Major Issue,No
+R01046,B0100,2026-02-28,Consumer Complaint,TEAM-046,Violation Found,No
+R01047,B0142,2026-02-28,Festival Enforcement Drive,TEAM-050,Seizure/Closure,Yes
+R01048,B0407,2026-03-03,Risk-Based Inspection,TEAM-013,Seizure/Closure,Yes
+R01049,B0098,2026-03-04,Routine Inspection,TEAM-022,No Major Issue,No
+R01050,B0256,2026-03-05,Risk-Based Inspection,TEAM-049,No Major Issue,No
+R01051,B0201,2026-03-08,Intelligence Input,TEAM-050,Sample Collected,Yes
+R01052,B0342,2026-03-08,Risk-Based Inspection,TEAM-001,Sample Collected,No
+R01053,B0260,2026-03-09,Consumer Complaint,TEAM-041,Sample Collected,Yes
+R01054,B0007,2026-03-10,Intelligence Input,TEAM-005,Sample Collected,Yes
+R01055,B0073,2026-03-13,Intelligence Input,TEAM-021,No Major Issue,No
+R01056,B0322,2026-03-13,Follow-up Inspection,TEAM-013,Violation Found,No
+R01057,B0493,2026-03-14,Routine Inspection,TEAM-018,Seizure/Closure,Yes
+R01058,B0154,2026-03-16,Festival Enforcement Drive,TEAM-005,Violation Found,Yes
+R01059,B0471,2026-03-18,Festival Enforcement Drive,TEAM-036,No Major Issue,No
+R01060,B0163,2026-03-19,Risk-Based Inspection,TEAM-030,Sample Collected,No
+R01061,B0331,2026-03-21,Consumer Complaint,TEAM-040,Sample Collected,No
+R01062,B0330,2026-03-21,Intelligence Input,TEAM-003,No Major Issue,No
+R01063,B0292,2026-03-21,Risk-Based Inspection,TEAM-043,No Major Issue,No
+R01064,B0115,2026-03-22,Follow-up Inspection,TEAM-033,Seizure/Closure,Yes
+R01065,B0161,2026-03-22,Consumer Complaint,TEAM-023,No Major Issue,No
+R01066,B0270,2026-03-23,Intelligence Input,TEAM-019,Sample Collected,Yes
+R01067,B0388,2026-03-23,Risk-Based Inspection,TEAM-009,No Major Issue,No
+R01068,B0053,2026-03-24,Routine Inspection,TEAM-046,Violation Found,Yes
+R01069,B0112,2026-03-25,Consumer Complaint,TEAM-006,No Major Issue,No
+R01070,B0218,2026-03-25,Consumer Complaint,TEAM-051,Sample Collected,Yes
+R01071,B0019,2026-03-26,Consumer Complaint,TEAM-048,No Major Issue,No
+R01072,B0477,2026-03-27,Festival Enforcement Drive,TEAM-055,No Major Issue,No
+R01073,B0075,2026-03-29,Intelligence Input,TEAM-060,Violation Found,Yes
+R01074,B0324,2026-03-29,Festival Enforcement Drive,TEAM-002,Violation Found,Yes
+R01075,B0326,2026-04-01,Risk-Based Inspection,TEAM-019,Violation Found,Yes
+R01076,B0270,2026-04-01,Consumer Complaint,TEAM-056,Sample Collected,No
+R01077,B0120,2026-04-01,Festival Enforcement Drive,TEAM-002,Violation Found,Yes
+R01078,B0492,2026-04-02,Consumer Complaint,TEAM-036,Seizure/Closure,Yes
+R01079,B0137,2026-04-06,Follow-up Inspection,TEAM-038,Seizure/Closure,Yes
+R01080,B0317,2026-04-07,Intelligence Input,TEAM-018,Seizure/Closure,No
+R01081,B0116,2026-04-08,Consumer Complaint,TEAM-013,No Major Issue,No
+R01082,B0119,2026-04-11,Festival Enforcement Drive,TEAM-007,Sample Collected,Yes
+R01083,B0288,2026-04-11,Follow-up Inspection,TEAM-013,Sample Collected,No
+R01084,B0318,2026-04-14,Routine Inspection,TEAM-029,Sample Collected,Yes
+R01085,B0250,2026-04-18,Routine Inspection,TEAM-037,Sample Collected,No
+R01086,B0163,2026-04-19,Routine Inspection,TEAM-006,Seizure/Closure,Yes
+R01087,B0281,2026-04-19,Risk-Based Inspection,TEAM-007,Violation Found,Yes
+R01088,B0211,2026-04-19,Follow-up Inspection,TEAM-021,Violation Found,Yes
+R01089,B0403,2026-04-21,Routine Inspection,TEAM-042,Seizure/Closure,Yes
+R01090,B0308,2026-04-21,Consumer Complaint,TEAM-006,No Major Issue,No
+R01091,B0439,2026-04-22,Intelligence Input,TEAM-033,No Major Issue,No
+R01092,B0144,2026-04-23,Follow-up Inspection,TEAM-042,Violation Found,Yes
+R01093,B0332,2026-04-24,Routine Inspection,TEAM-028,Seizure/Closure,No
+R01094,B0044,2026-04-27,Follow-up Inspection,TEAM-039,Violation Found,Yes
+R01095,B0316,2026-04-27,Risk-Based Inspection,TEAM-031,Violation Found,Yes
+R01096,B0380,2026-04-28,Risk-Based Inspection,TEAM-043,Sample Collected,Yes
+R01097,B0480,2026-04-28,Festival Enforcement Drive,TEAM-007,Violation Found,No
+R01098,B0245,2026-04-29,Follow-up Inspection,TEAM-011,Seizure/Closure,Yes
+R01099,B0121,2026-04-30,Routine Inspection,TEAM-020,Violation Found,Yes
+R01100,B0388,2026-05-01,Consumer Complaint,TEAM-047,Violation Found,Yes
+R01101,B0229,2026-05-01,Festival Enforcement Drive,TEAM-014,Sample Collected,Yes
+R01102,B0291,2026-05-02,Routine Inspection,TEAM-002,No Major Issue,No
+R01103,B0440,2026-05-05,Follow-up Inspection,TEAM-051,Sample Collected,No
+R01104,B0146,2026-05-06,Consumer Complaint,TEAM-030,No Major Issue,No
+R01105,B0298,2026-05-08,Intelligence Input,TEAM-040,Sample Collected,Yes
+R01106,B0165,2026-05-11,Routine Inspection,TEAM-013,Violation Found,Yes
+R01107,B0491,2026-05-11,Consumer Complaint,TEAM-016,No Major Issue,No
+R01108,B0234,2026-05-11,Consumer Complaint,TEAM-006,Sample Collected,Yes
+R01109,B0364,2026-05-13,Consumer Complaint,TEAM-009,Violation Found,Yes
+R01110,B0264,2026-05-15,Follow-up Inspection,TEAM-040,Sample Collected,No
+R01111,B0194,2026-05-18,Festival Enforcement Drive,TEAM-048,No Major Issue,No
+R01112,B0436,2026-05-19,Routine Inspection,TEAM-006,Violation Found,Yes
+R01113,B0395,2026-05-20,Consumer Complaint,TEAM-035,Violation Found,Yes
+R01114,B0419,2026-05-21,Consumer Complaint,TEAM-047,Violation Found,Yes
+R01115,B0318,2026-05-24,Consumer Complaint,TEAM-055,Violation Found,Yes
+R01116,B0173,2026-05-24,Risk-Based Inspection,TEAM-038,Sample Collected,Yes
+R01117,B0399,2026-05-25,Routine Inspection,TEAM-033,Violation Found,Yes
+R01118,B0055,2026-05-25,Intelligence Input,TEAM-001,Violation Found,No
+R01119,B0088,2026-05-25,Routine Inspection,TEAM-028,Sample Collected,Yes
+R01120,B0235,2026-05-26,Intelligence Input,TEAM-015,Sample Collected,Yes
+R01121,B0001,2026-05-28,Risk-Based Inspection,TEAM-026,Sample Collected,Yes
+R01122,B0235,2026-05-29,Risk-Based Inspection,TEAM-007,No Major Issue,No
+R01123,B0396,2026-05-31,Festival Enforcement Drive,TEAM-055,No Major Issue,No
+R01124,B0051,2026-05-31,Routine Inspection,TEAM-050,Sample Collected,No
+R01125,B0111,2026-05-31,Consumer Complaint,TEAM-036,No Major Issue,No
+R01126,B0197,2026-06-03,Routine Inspection,TEAM-015,Seizure/Closure,Yes
+R01127,B0439,2026-06-03,Consumer Complaint,TEAM-006,Violation Found,No
+R01128,B0280,2026-06-04,Routine Inspection,TEAM-041,Sample Collected,Yes
+R01129,B0401,2026-06-04,Routine Inspection,TEAM-030,No Major Issue,No
+R01130,B0172,2026-06-04,Intelligence Input,TEAM-029,Seizure/Closure,Yes
+R01131,B0147,2026-06-07,Consumer Complaint,TEAM-056,Sample Collected,No
+R01132,B0358,2026-06-10,Risk-Based Inspection,TEAM-028,Sample Collected,No
+R01133,B0171,2026-06-10,Consumer Complaint,TEAM-029,Sample Collected,Yes
+R01134,B0423,2026-06-11,Routine Inspection,TEAM-005,Violation Found,Yes
+R01135,B0158,2026-06-11,Risk-Based Inspection,TEAM-037,Seizure/Closure,No
+R01136,B0115,2026-06-14,Routine Inspection,TEAM-058,No Major Issue,No
+R01137,B0299,2026-06-16,Festival Enforcement Drive,TEAM-009,Violation Found,No
+R01138,B0362,2026-06-16,Routine Inspection,TEAM-005,Sample Collected,Yes
+R01139,B0091,2026-06-17,Routine Inspection,TEAM-010,Violation Found,Yes
+R01140,B0349,2026-06-19,Routine Inspection,TEAM-029,Sample Collected,Yes
+R01141,B0414,2026-06-19,Routine Inspection,TEAM-002,Violation Found,Yes
+R01142,B0194,2026-06-21,Routine Inspection,TEAM-004,No Major Issue,No
+R01143,B0343,2026-06-21,Festival Enforcement Drive,TEAM-030,No Major Issue,No
+R01144,B0466,2026-06-22,Intelligence Input,TEAM-026,No Major Issue,No
+R01145,B0249,2026-06-23,Routine Inspection,TEAM-020,No Major Issue,No
+R01146,B0493,2026-06-24,Consumer Complaint,TEAM-002,Sample Collected,No
+R01147,B0260,2026-06-24,Follow-up Inspection,TEAM-044,Violation Found,Yes
+R01148,B0200,2026-06-28,Risk-Based Inspection,TEAM-010,Sample Collected,No
+R01149,B0234,2026-06-28,Risk-Based Inspection,TEAM-020,Sample Collected,Yes
+R01150,B0361,2026-06-30,Routine Inspection,TEAM-037,Violation Found,Yes
+R01151,B0125,2026-07-02,Risk-Based Inspection,TEAM-044,Sample Collected,Yes
+R01152,B0490,2026-07-03,Follow-up Inspection,TEAM-021,Sample Collected,Yes
+R01153,B0082,2026-07-05,Routine Inspection,TEAM-027,Sample Collected,No
+R01154,B0145,2026-07-06,Routine Inspection,TEAM-026,Seizure/Closure,No
+R01155,B0033,2026-07-07,Consumer Complaint,TEAM-035,Sample Collected,Yes
+R01156,B0076,2026-07-08,Consumer Complaint,TEAM-025,No Major Issue,No
+R01157,B0057,2026-07-09,Festival Enforcement Drive,TEAM-013,Sample Collected,No
+R01158,B0435,2026-07-10,Routine Inspection,TEAM-025,Violation Found,Yes
+R01159,B0295,2026-07-11,Risk-Based Inspection,TEAM-047,Violation Found,Yes
+R01160,B0485,2026-07-14,Consumer Complaint,TEAM-007,No Major Issue,No
+R01161,B0049,2026-07-16,Follow-up Inspection,TEAM-023,No Major Issue,No
+R01162,B0354,2026-07-16,Consumer Complaint,TEAM-002,Sample Collected,No
+R01163,B0087,2026-07-17,Routine Inspection,TEAM-060,Violation Found,Yes
+R01164,B0271,2026-07-30,Festival Enforcement Drive,TEAM-059,Seizure/Closure,Yes
+R01165,B0265,2026-08-01,Intelligence Input,TEAM-036,Seizure/Closure,Yes
+R01166,B0097,2026-08-02,Routine Inspection,TEAM-016,Sample Collected,No
+R01167,B0406,2026-08-02,Routine Inspection,TEAM-029,Violation Found,No
+R01168,B0331,2026-08-05,Routine Inspection,TEAM-010,Seizure/Closure,Yes
+R01169,B0254,2026-08-06,Consumer Complaint,TEAM-026,Violation Found,No
+R01170,B0398,2026-08-06,Routine Inspection,TEAM-028,Seizure/Closure,Yes
+R01171,B0115,2026-08-07,Routine Inspection,TEAM-026,No Major Issue,No
+R01172,B0245,2026-08-17,Intelligence Input,TEAM-054,No Major Issue,No
+R01173,B0427,2026-08-19,Consumer Complaint,TEAM-004,Violation Found,Yes
+R01174,B0167,2026-08-19,Routine Inspection,TEAM-054,Sample Collected,Yes
+R01175,B0274,2026-08-20,Festival Enforcement Drive,TEAM-039,Sample Collected,Yes
+R01176,B0281,2026-08-23,Routine Inspection,TEAM-059,No Major Issue,No
+R01177,B0218,2026-08-29,Follow-up Inspection,TEAM-034,No Major Issue,No
+R01178,B0393,2026-08-31,Risk-Based Inspection,TEAM-005,Violation Found,No
+R01179,B0342,2026-08-31,Consumer Complaint,TEAM-009,Violation Found,No
+R01180,B0411,2026-09-01,Routine Inspection,TEAM-042,No Major Issue,No
+R01181,B0061,2026-09-04,Risk-Based Inspection,TEAM-049,Violation Found,No
+R01182,B0454,2026-09-07,Routine Inspection,TEAM-047,Seizure/Closure,Yes
+R01183,B0307,2026-09-07,Intelligence Input,TEAM-059,No Major Issue,No
+R01184,B0048,2026-09-08,Consumer Complaint,TEAM-035,Sample Collected,No
+R01185,B0420,2026-09-08,Consumer Complaint,TEAM-059,Sample Collected,No
+R01186,B0226,2026-09-10,Risk-Based Inspection,TEAM-017,Sample Collected,Yes
+R01187,B0103,2026-09-11,Consumer Complaint,TEAM-035,Sample Collected,No
+R01188,B0321,2026-09-12,Follow-up Inspection,TEAM-040,Sample Collected,Yes
+R01189,B0119,2026-09-15,Risk-Based Inspection,TEAM-008,Violation Found,Yes
+R01190,B0491,2026-09-15,Consumer Complaint,TEAM-055,No Major Issue,No
+R01191,B0192,2026-09-15,Consumer Complaint,TEAM-053,No Major Issue,No
+R01192,B0394,2026-09-16,Routine Inspection,TEAM-007,No Major Issue,No
+R01193,B0017,2026-09-19,Festival Enforcement Drive,TEAM-010,Violation Found,Yes
+R01194,B0326,2026-09-20,Routine Inspection,TEAM-026,Violation Found,Yes
+R01195,B0464,2026-09-21,Intelligence Input,TEAM-032,Violation Found,Yes
+R01196,B0267,2026-09-23,Intelligence Input,TEAM-033,No Major Issue,No
+R01197,B0018,2026-09-25,Consumer Complaint,TEAM-026,Violation Found,Yes
+R01198,B0448,2026-09-26,Festival Enforcement Drive,TEAM-039,Violation Found,Yes
+R01199,B0212,2026-09-29,Festival Enforcement Drive,TEAM-029,Seizure/Closure,Yes
+R01200,B0401,2026-09-29,Routine Inspection,TEAM-019,No Major Issue,No

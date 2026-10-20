@@ -1,0 +1,1796 @@
+sample_id,raid_id,food_category,sample_collection_date,lab_result,detected_issue,lab_status
+S000001,R00001,Bakery Products,2022-01-01,Non-Compliant,Excess Moisture,Completed
+S000002,R00002,Spices,2022-01-02,Compliant,None Detected,Completed
+S000003,R00004,Meat/Poultry,2022-01-03,Compliant,None Detected,Completed
+S000004,R00004,Sweets,2022-01-03,Compliant,None Detected,Completed
+S000005,R00004,Packaged Snacks,2022-01-03,Compliant,None Detected,Completed
+S000006,R00005,Packaged Snacks,2022-01-04,Compliant,None Detected,Completed
+S000007,R00006,Sweets,2022-01-04,Compliant,None Detected,Completed
+S000008,R00006,Spices,2022-01-04,Compliant,None Detected,Completed
+S000009,R00007,Meat/Poultry,2022-01-06,Compliant,None Detected,Completed
+S000010,R00008,Spices,2022-01-07,Non-Compliant,Microbial Contamination,Completed
+S000011,R00008,Street Food,2022-01-07,Non-Compliant,Microbial Contamination,Completed
+S000012,R00009,Sweets,2022-01-07,Compliant,None Detected,Completed
+S000013,R00009,Bakery Products,2022-01-07,Compliant,None Detected,Completed
+S000014,R00010,Beverages,2022-01-09,Compliant,None Detected,Completed
+S000015,R00012,Spices,2022-01-11,Compliant,None Detected,Completed
+S000016,R00012,Street Food,2022-01-11,Compliant,None Detected,Completed
+S000017,R00013,Sweets,2022-01-11,Compliant,None Detected,Completed
+S000018,R00013,Street Food,2022-01-11,Compliant,None Detected,Completed
+S000019,R00014,Bakery Products,2022-01-11,Compliant,None Detected,Completed
+S000020,R00014,Dairy,2022-01-11,Compliant,None Detected,Completed
+S000021,R00015,Grains/Pulses,2022-01-12,Compliant,None Detected,Completed
+S000022,R00016,Spices,2022-01-14,Non-Compliant,Microbial Contamination,Completed
+S000023,R00016,Bakery Products,2022-01-14,Compliant,None Detected,Completed
+S000024,R00017,Sweets,2022-01-18,Compliant,None Detected,Completed
+S000025,R00017,Beverages,2022-01-18,Compliant,None Detected,Completed
+S000026,R00018,Bakery Products,2022-01-18,Compliant,None Detected,Completed
+S000027,R00018,Beverages,2022-01-18,Compliant,None Detected,Completed
+S000028,R00019,Bakery Products,2022-01-18,Compliant,None Detected,Completed
+S000029,R00020,Packaged Snacks,2022-01-19,Compliant,None Detected,Completed
+S000030,R00020,Meat/Poultry,2022-01-19,Compliant,None Detected,Completed
+S000031,R00021,Spices,2022-01-20,Compliant,None Detected,Completed
+S000032,R00022,Edible Oil,2022-01-21,Compliant,None Detected,Completed
+S000033,R00023,Street Food,2022-01-21,Compliant,None Detected,Completed
+S000034,R00023,Grains/Pulses,2022-01-21,Compliant,None Detected,Completed
+S000035,R00023,Sweets,2022-01-21,Compliant,None Detected,Completed
+S000036,R00024,Beverages,2022-01-21,Compliant,None Detected,Completed
+S000037,R00025,Packaged Snacks,2022-01-22,Compliant,None Detected,Completed
+S000038,R00025,Beverages,2022-01-22,Non-Compliant,Microbial Contamination,Completed
+S000039,R00026,Meat/Poultry,2022-01-23,Compliant,None Detected,Completed
+S000040,R00026,Packaged Snacks,2022-01-23,Compliant,None Detected,Completed
+S000041,R00027,Sweets,2022-01-24,Non-Compliant,Adulterant Suspected,Completed
+S000042,R00027,Dairy,2022-01-24,Compliant,None Detected,Completed
+S000043,R00028,Street Food,2022-01-24,Compliant,None Detected,Completed
+S000044,R00028,Dairy,2022-01-24,Compliant,None Detected,Completed
+S000045,R00029,Beverages,2022-01-24,Compliant,None Detected,Completed
+S000046,R00029,Packaged Snacks,2022-01-24,Non-Compliant,Adulterant Suspected,Completed
+S000047,R00030,Bakery Products,2022-01-26,Compliant,None Detected,Completed
+S000048,R00030,Meat/Poultry,2022-01-26,Compliant,None Detected,Completed
+S000049,R00031,Grains/Pulses,2022-01-28,Inconclusive,Pending/Retest,Retest Pending
+S000050,R00031,Beverages,2022-01-28,Compliant,None Detected,Completed
+S000051,R00032,Meat/Poultry,2022-01-28,Compliant,None Detected,Completed
+S000052,R00033,Meat/Poultry,2022-01-31,Inconclusive,Pending/Retest,Retest Pending
+S000053,R00033,Dairy,2022-01-31,Compliant,None Detected,Completed
+S000054,R00035,Grains/Pulses,2022-02-01,Compliant,None Detected,Completed
+S000055,R00036,Bakery Products,2022-02-06,Compliant,None Detected,Completed
+S000056,R00037,Street Food,2022-02-09,Compliant,None Detected,Completed
+S000057,R00038,Beverages,2022-02-10,Compliant,None Detected,Completed
+S000058,R00039,Meat/Poultry,2022-02-12,Inconclusive,Pending/Retest,Retest Pending
+S000059,R00039,Grains/Pulses,2022-02-12,Compliant,None Detected,Completed
+S000060,R00040,Beverages,2022-02-13,Inconclusive,Pending/Retest,Retest Pending
+S000061,R00040,Sweets,2022-02-13,Compliant,None Detected,Completed
+S000062,R00040,Sweets,2022-02-13,Compliant,None Detected,Completed
+S000063,R00041,Beverages,2022-02-13,Compliant,None Detected,Completed
+S000064,R00042,Meat/Poultry,2022-02-14,Non-Compliant,Excess Moisture,Completed
+S000065,R00043,Sweets,2022-02-14,Non-Compliant,Excess Moisture,Completed
+S000066,R00043,Packaged Snacks,2022-02-14,Compliant,None Detected,Completed
+S000067,R00045,Sweets,2022-02-15,Inconclusive,Pending/Retest,Retest Pending
+S000068,R00046,Street Food,2022-02-16,Compliant,None Detected,Completed
+S000069,R00047,Beverages,2022-02-17,Compliant,None Detected,Completed
+S000070,R00047,Grains/Pulses,2022-02-17,Compliant,None Detected,Completed
+S000071,R00047,Packaged Snacks,2022-02-17,Compliant,None Detected,Completed
+S000072,R00048,Meat/Poultry,2022-02-19,Compliant,None Detected,Completed
+S000073,R00048,Sweets,2022-02-19,Compliant,None Detected,Completed
+S000074,R00048,Packaged Snacks,2022-02-19,Compliant,None Detected,Completed
+S000075,R00049,Meat/Poultry,2022-02-19,Compliant,None Detected,Completed
+S000076,R00049,Beverages,2022-02-19,Compliant,None Detected,Completed
+S000077,R00050,Spices,2022-02-21,Compliant,None Detected,Completed
+S000078,R00051,Sweets,2022-02-24,Compliant,None Detected,Completed
+S000079,R00051,Packaged Snacks,2022-02-24,Compliant,None Detected,Completed
+S000080,R00052,Bakery Products,2022-02-26,Compliant,None Detected,Completed
+S000081,R00053,Beverages,2022-02-27,Compliant,None Detected,Completed
+S000082,R00054,Edible Oil,2022-03-07,Compliant,None Detected,Completed
+S000083,R00056,Street Food,2022-03-09,Non-Compliant,Heavy Metal Above Limit,Completed
+S000084,R00057,Dairy,2022-03-09,Compliant,None Detected,Completed
+S000085,R00058,Beverages,2022-03-10,Compliant,None Detected,Completed
+S000086,R00058,Street Food,2022-03-10,Compliant,None Detected,Completed
+S000087,R00059,Spices,2022-03-15,Compliant,None Detected,Completed
+S000088,R00059,Dairy,2022-03-15,Compliant,None Detected,Completed
+S000089,R00059,Sweets,2022-03-15,Compliant,None Detected,Completed
+S000090,R00060,Bakery Products,2022-03-16,Compliant,None Detected,Completed
+S000091,R00060,Bakery Products,2022-03-16,Compliant,None Detected,Completed
+S000092,R00061,Meat/Poultry,2022-03-17,Compliant,None Detected,Completed
+S000093,R00061,Grains/Pulses,2022-03-17,Compliant,None Detected,Completed
+S000094,R00061,Sweets,2022-03-17,Compliant,None Detected,Completed
+S000095,R00062,Street Food,2022-03-18,Compliant,None Detected,Completed
+S000096,R00062,Grains/Pulses,2022-03-18,Compliant,None Detected,Completed
+S000097,R00063,Beverages,2022-03-19,Non-Compliant,Excess Moisture,Completed
+S000098,R00063,Dairy,2022-03-19,Inconclusive,Pending/Retest,Retest Pending
+S000099,R00064,Packaged Snacks,2022-03-19,Compliant,None Detected,Completed
+S000100,R00064,Dairy,2022-03-19,Compliant,None Detected,Completed
+S000101,R00064,Spices,2022-03-19,Compliant,None Detected,Completed
+S000102,R00065,Bakery Products,2022-03-20,Compliant,None Detected,Completed
+S000103,R00066,Meat/Poultry,2022-03-20,Compliant,None Detected,Completed
+S000104,R00067,Meat/Poultry,2022-03-21,Inconclusive,Pending/Retest,Retest Pending
+S000105,R00068,Spices,2022-03-22,Compliant,None Detected,Completed
+S000106,R00068,Beverages,2022-03-22,Non-Compliant,Heavy Metal Above Limit,Completed
+S000107,R00069,Grains/Pulses,2022-03-27,Compliant,None Detected,Completed
+S000108,R00070,Spices,2022-03-28,Compliant,None Detected,Completed
+S000109,R00071,Street Food,2022-03-30,Compliant,None Detected,Completed
+S000110,R00071,Beverages,2022-03-30,Compliant,None Detected,Completed
+S000111,R00072,Packaged Snacks,2022-04-09,Compliant,None Detected,Completed
+S000112,R00072,Street Food,2022-04-09,Compliant,None Detected,Completed
+S000113,R00073,Grains/Pulses,2022-04-10,Compliant,None Detected,Completed
+S000114,R00074,Sweets,2022-04-11,Inconclusive,Pending/Retest,Retest Pending
+S000115,R00075,Sweets,2022-04-16,Compliant,None Detected,Completed
+S000116,R00075,Beverages,2022-04-16,Compliant,None Detected,Completed
+S000117,R00076,Meat/Poultry,2022-04-17,Compliant,None Detected,Completed
+S000118,R00077,Dairy,2022-04-22,Compliant,None Detected,Completed
+S000119,R00077,Bakery Products,2022-04-22,Non-Compliant,Heavy Metal Above Limit,Completed
+S000120,R00078,Street Food,2022-04-24,Non-Compliant,Excess Moisture,Completed
+S000121,R00079,Grains/Pulses,2022-04-26,Non-Compliant,Adulterant Suspected,Completed
+S000122,R00079,Street Food,2022-04-26,Compliant,None Detected,Completed
+S000123,R00079,Sweets,2022-04-26,Non-Compliant,Adulterant Suspected,Completed
+S000124,R00080,Grains/Pulses,2022-04-26,Compliant,None Detected,Completed
+S000125,R00080,Sweets,2022-04-26,Compliant,None Detected,Completed
+S000126,R00080,Spices,2022-04-26,Inconclusive,Pending/Retest,Retest Pending
+S000127,R00081,Packaged Snacks,2022-04-26,Compliant,None Detected,Completed
+S000128,R00082,Spices,2022-04-27,Non-Compliant,Heavy Metal Above Limit,Completed
+S000129,R00083,Street Food,2022-04-28,Non-Compliant,Synthetic Colour,Completed
+S000130,R00084,Spices,2022-04-29,Non-Compliant,Adulterant Suspected,Completed
+S000131,R00084,Meat/Poultry,2022-04-29,Compliant,None Detected,Completed
+S000132,R00085,Packaged Snacks,2022-05-01,Compliant,None Detected,Completed
+S000133,R00085,Dairy,2022-05-01,Compliant,None Detected,Completed
+S000134,R00086,Bakery Products,2022-05-02,Compliant,None Detected,Completed
+S000135,R00087,Bakery Products,2022-05-03,Non-Compliant,Synthetic Colour,Completed
+S000136,R00087,Meat/Poultry,2022-05-03,Compliant,None Detected,Completed
+S000137,R00088,Grains/Pulses,2022-05-04,Compliant,None Detected,Completed
+S000138,R00089,Street Food,2022-05-04,Non-Compliant,Synthetic Colour,Completed
+S000139,R00090,Beverages,2022-05-05,Inconclusive,Pending/Retest,Retest Pending
+S000140,R00090,Bakery Products,2022-05-05,Compliant,None Detected,Completed
+S000141,R00090,Packaged Snacks,2022-05-05,Compliant,None Detected,Completed
+S000142,R00091,Grains/Pulses,2022-05-09,Inconclusive,Pending/Retest,Retest Pending
+S000143,R00091,Edible Oil,2022-05-09,Compliant,None Detected,Completed
+S000144,R00092,Grains/Pulses,2022-05-10,Non-Compliant,Heavy Metal Above Limit,Completed
+S000145,R00093,Meat/Poultry,2022-05-10,Compliant,None Detected,Completed
+S000146,R00094,Dairy,2022-05-11,Compliant,None Detected,Completed
+S000147,R00095,Spices,2022-05-12,Compliant,None Detected,Completed
+S000148,R00095,Spices,2022-05-12,Non-Compliant,Adulterant Suspected,Completed
+S000149,R00095,Bakery Products,2022-05-12,Compliant,None Detected,Completed
+S000150,R00096,Packaged Snacks,2022-05-12,Compliant,None Detected,Completed
+S000151,R00097,Dairy,2022-05-12,Compliant,None Detected,Completed
+S000152,R00098,Street Food,2022-05-20,Compliant,None Detected,Completed
+S000153,R00099,Spices,2022-05-23,Inconclusive,Pending/Retest,Retest Pending
+S000154,R00099,Edible Oil,2022-05-23,Compliant,None Detected,Completed
+S000155,R00100,Sweets,2022-05-24,Compliant,None Detected,Completed
+S000156,R00101,Spices,2022-05-26,Inconclusive,Pending/Retest,Retest Pending
+S000157,R00101,Spices,2022-05-26,Compliant,None Detected,Completed
+S000158,R00101,Sweets,2022-05-26,Non-Compliant,Undeclared Allergen,Completed
+S000159,R00102,Meat/Poultry,2022-05-26,Compliant,None Detected,Completed
+S000160,R00103,Edible Oil,2022-05-27,Compliant,None Detected,Completed
+S000161,R00104,Sweets,2022-05-29,Compliant,None Detected,Completed
+S000162,R00104,Spices,2022-05-29,Compliant,None Detected,Completed
+S000163,R00104,Bakery Products,2022-05-29,Compliant,None Detected,Completed
+S000164,R00106,Dairy,2022-06-03,Compliant,None Detected,Completed
+S000165,R00106,Spices,2022-06-03,Compliant,None Detected,Completed
+S000166,R00106,Meat/Poultry,2022-06-03,Compliant,None Detected,Completed
+S000167,R00107,Dairy,2022-06-04,Compliant,None Detected,Completed
+S000168,R00108,Edible Oil,2022-06-05,Compliant,None Detected,Completed
+S000169,R00109,Dairy,2022-06-05,Compliant,None Detected,Completed
+S000170,R00111,Dairy,2022-06-08,Non-Compliant,Non-permitted Preservative,Completed
+S000171,R00111,Meat/Poultry,2022-06-08,Compliant,None Detected,Completed
+S000172,R00112,Packaged Snacks,2022-06-08,Non-Compliant,Heavy Metal Above Limit,Completed
+S000173,R00113,Packaged Snacks,2022-06-10,Compliant,None Detected,Completed
+S000174,R00114,Bakery Products,2022-06-12,Non-Compliant,Adulterant Suspected,Completed
+S000175,R00115,Dairy,2022-06-12,Compliant,None Detected,Completed
+S000176,R00115,Packaged Snacks,2022-06-12,Non-Compliant,Microbial Contamination,Completed
+S000177,R00116,Packaged Snacks,2022-06-13,Compliant,None Detected,Completed
+S000178,R00117,Spices,2022-06-16,Compliant,None Detected,Completed
+S000179,R00117,Sweets,2022-06-16,Compliant,None Detected,Completed
+S000180,R00117,Bakery Products,2022-06-16,Compliant,None Detected,Completed
+S000181,R00119,Beverages,2022-06-20,Compliant,None Detected,Completed
+S000182,R00119,Beverages,2022-06-20,Compliant,None Detected,Completed
+S000183,R00120,Beverages,2022-06-20,Compliant,None Detected,Completed
+S000184,R00121,Spices,2022-06-20,Compliant,None Detected,Completed
+S000185,R00122,Spices,2022-06-28,Compliant,None Detected,Completed
+S000186,R00123,Sweets,2022-06-29,Compliant,None Detected,Completed
+S000187,R00124,Edible Oil,2022-06-29,Compliant,None Detected,Completed
+S000188,R00125,Dairy,2022-07-02,Compliant,None Detected,Completed
+S000189,R00126,Sweets,2022-07-04,Compliant,None Detected,Completed
+S000190,R00126,Grains/Pulses,2022-07-04,Compliant,None Detected,Completed
+S000191,R00126,Street Food,2022-07-04,Compliant,None Detected,Completed
+S000192,R00127,Grains/Pulses,2022-07-07,Compliant,None Detected,Completed
+S000193,R00127,Meat/Poultry,2022-07-07,Compliant,None Detected,Completed
+S000194,R00128,Grains/Pulses,2022-07-07,Compliant,None Detected,Completed
+S000195,R00129,Street Food,2022-07-09,Compliant,None Detected,Completed
+S000196,R00131,Bakery Products,2022-07-10,Compliant,None Detected,Completed
+S000197,R00131,Beverages,2022-07-10,Compliant,None Detected,Completed
+S000198,R00132,Sweets,2022-07-12,Compliant,None Detected,Completed
+S000199,R00132,Spices,2022-07-12,Compliant,None Detected,Completed
+S000200,R00133,Packaged Snacks,2022-07-14,Compliant,None Detected,Completed
+S000201,R00134,Dairy,2022-07-15,Compliant,None Detected,Completed
+S000202,R00135,Sweets,2022-07-17,Compliant,None Detected,Completed
+S000203,R00136,Dairy,2022-07-19,Compliant,None Detected,Completed
+S000204,R00136,Spices,2022-07-19,Compliant,None Detected,Completed
+S000205,R00137,Street Food,2022-07-19,Inconclusive,Pending/Retest,Retest Pending
+S000206,R00138,Meat/Poultry,2022-07-20,Compliant,None Detected,Completed
+S000207,R00138,Grains/Pulses,2022-07-20,Compliant,None Detected,Completed
+S000208,R00139,Street Food,2022-07-21,Non-Compliant,Undeclared Allergen,Completed
+S000209,R00140,Sweets,2022-07-22,Compliant,None Detected,Completed
+S000210,R00141,Spices,2022-07-23,Compliant,None Detected,Completed
+S000211,R00142,Meat/Poultry,2022-07-23,Compliant,None Detected,Completed
+S000212,R00143,Bakery Products,2022-07-25,Compliant,None Detected,Completed
+S000213,R00143,Meat/Poultry,2022-07-25,Non-Compliant,Excess Moisture,Completed
+S000214,R00143,Spices,2022-07-25,Compliant,None Detected,Completed
+S000215,R00144,Edible Oil,2022-07-28,Non-Compliant,Heavy Metal Above Limit,Completed
+S000216,R00144,Street Food,2022-07-28,Compliant,None Detected,Completed
+S000217,R00145,Packaged Snacks,2022-07-28,Compliant,None Detected,Completed
+S000218,R00145,Sweets,2022-07-28,Compliant,None Detected,Completed
+S000219,R00146,Grains/Pulses,2022-07-30,Compliant,None Detected,Completed
+S000220,R00148,Bakery Products,2022-07-31,Compliant,None Detected,Completed
+S000221,R00149,Packaged Snacks,2022-07-31,Compliant,None Detected,Completed
+S000222,R00150,Dairy,2022-07-31,Compliant,None Detected,Completed
+S000223,R00150,Beverages,2022-07-31,Compliant,None Detected,Completed
+S000224,R00152,Grains/Pulses,2022-08-01,Compliant,None Detected,Completed
+S000225,R00153,Bakery Products,2022-08-04,Non-Compliant,Undeclared Allergen,Completed
+S000226,R00154,Packaged Snacks,2022-08-05,Compliant,None Detected,Completed
+S000227,R00154,Spices,2022-08-05,Compliant,None Detected,Completed
+S000228,R00155,Edible Oil,2022-08-11,Non-Compliant,Excess Moisture,Completed
+S000229,R00156,Edible Oil,2022-08-11,Compliant,None Detected,Completed
+S000230,R00157,Bakery Products,2022-08-12,Non-Compliant,Heavy Metal Above Limit,Completed
+S000231,R00157,Dairy,2022-08-12,Non-Compliant,Synthetic Colour,Completed
+S000232,R00159,Bakery Products,2022-08-15,Compliant,None Detected,Completed
+S000233,R00159,Meat/Poultry,2022-08-15,Compliant,None Detected,Completed
+S000234,R00160,Sweets,2022-08-16,Compliant,None Detected,Completed
+S000235,R00162,Sweets,2022-08-19,Compliant,None Detected,Completed
+S000236,R00162,Grains/Pulses,2022-08-19,Compliant,None Detected,Completed
+S000237,R00163,Grains/Pulses,2022-08-21,Compliant,None Detected,Completed
+S000238,R00163,Sweets,2022-08-21,Non-Compliant,Adulterant Suspected,Completed
+S000239,R00163,Beverages,2022-08-21,Compliant,None Detected,Completed
+S000240,R00165,Street Food,2022-08-25,Compliant,None Detected,Completed
+S000241,R00166,Bakery Products,2022-08-27,Compliant,None Detected,Completed
+S000242,R00166,Dairy,2022-08-27,Compliant,None Detected,Completed
+S000243,R00167,Dairy,2022-08-27,Compliant,None Detected,Completed
+S000244,R00167,Grains/Pulses,2022-08-27,Compliant,None Detected,Completed
+S000245,R00168,Meat/Poultry,2022-08-30,Compliant,None Detected,Completed
+S000246,R00168,Bakery Products,2022-08-30,Compliant,None Detected,Completed
+S000247,R00169,Sweets,2022-08-31,Compliant,None Detected,Completed
+S000248,R00171,Edible Oil,2022-09-03,Compliant,None Detected,Completed
+S000249,R00173,Beverages,2022-09-06,Compliant,None Detected,Completed
+S000250,R00173,Sweets,2022-09-06,Compliant,None Detected,Completed
+S000251,R00174,Beverages,2022-09-08,Compliant,None Detected,Completed
+S000252,R00174,Spices,2022-09-08,Non-Compliant,Heavy Metal Above Limit,Completed
+S000253,R00174,Bakery Products,2022-09-08,Compliant,None Detected,Completed
+S000254,R00175,Street Food,2022-09-08,Compliant,None Detected,Completed
+S000255,R00176,Packaged Snacks,2022-09-08,Non-Compliant,Non-permitted Preservative,Completed
+S000256,R00177,Packaged Snacks,2022-09-08,Compliant,None Detected,Completed
+S000257,R00178,Meat/Poultry,2022-09-10,Compliant,None Detected,Completed
+S000258,R00179,Bakery Products,2022-09-10,Inconclusive,Pending/Retest,Retest Pending
+S000259,R00179,Grains/Pulses,2022-09-10,Compliant,None Detected,Completed
+S000260,R00180,Street Food,2022-09-14,Compliant,None Detected,Completed
+S000261,R00181,Street Food,2022-09-17,Compliant,None Detected,Completed
+S000262,R00182,Sweets,2022-09-17,Compliant,None Detected,Completed
+S000263,R00183,Meat/Poultry,2022-09-18,Compliant,None Detected,Completed
+S000264,R00184,Grains/Pulses,2022-09-21,Compliant,None Detected,Completed
+S000265,R00185,Spices,2022-09-22,Non-Compliant,Non-permitted Preservative,Completed
+S000266,R00186,Spices,2022-09-23,Compliant,None Detected,Completed
+S000267,R00186,Sweets,2022-09-23,Compliant,None Detected,Completed
+S000268,R00187,Packaged Snacks,2022-09-24,Compliant,None Detected,Completed
+S000269,R00187,Beverages,2022-09-24,Compliant,None Detected,Completed
+S000270,R00188,Dairy,2022-09-30,Compliant,None Detected,Completed
+S000271,R00188,Edible Oil,2022-09-30,Compliant,None Detected,Completed
+S000272,R00188,Dairy,2022-09-30,Compliant,None Detected,Completed
+S000273,R00191,Dairy,2022-10-02,Compliant,None Detected,Completed
+S000274,R00191,Dairy,2022-10-02,Non-Compliant,Undeclared Allergen,Completed
+S000275,R00191,Meat/Poultry,2022-10-02,Compliant,None Detected,Completed
+S000276,R00192,Spices,2022-10-04,Compliant,None Detected,Completed
+S000277,R00192,Spices,2022-10-04,Non-Compliant,Microbial Contamination,Completed
+S000278,R00193,Sweets,2022-10-05,Compliant,None Detected,Completed
+S000279,R00194,Beverages,2022-10-06,Compliant,None Detected,Completed
+S000280,R00194,Street Food,2022-10-06,Compliant,None Detected,Completed
+S000281,R00195,Bakery Products,2022-10-06,Compliant,None Detected,Completed
+S000282,R00196,Sweets,2022-10-08,Compliant,None Detected,Completed
+S000283,R00196,Edible Oil,2022-10-08,Compliant,None Detected,Completed
+S000284,R00197,Bakery Products,2022-10-10,Inconclusive,Pending/Retest,Retest Pending
+S000285,R00197,Beverages,2022-10-10,Compliant,None Detected,Completed
+S000286,R00198,Grains/Pulses,2022-10-11,Compliant,None Detected,Completed
+S000287,R00199,Sweets,2022-10-12,Inconclusive,Pending/Retest,Retest Pending
+S000288,R00200,Street Food,2022-10-16,Compliant,None Detected,Completed
+S000289,R00200,Meat/Poultry,2022-10-16,Compliant,None Detected,Completed
+S000290,R00201,Dairy,2022-10-18,Compliant,None Detected,Completed
+S000291,R00202,Street Food,2022-10-18,Compliant,None Detected,Completed
+S000292,R00202,Street Food,2022-10-18,Compliant,None Detected,Completed
+S000293,R00202,Packaged Snacks,2022-10-18,Non-Compliant,Heavy Metal Above Limit,Completed
+S000294,R00203,Beverages,2022-10-19,Compliant,None Detected,Completed
+S000295,R00204,Grains/Pulses,2022-10-22,Non-Compliant,Synthetic Colour,Completed
+S000296,R00205,Packaged Snacks,2022-10-24,Compliant,None Detected,Completed
+S000297,R00205,Spices,2022-10-24,Compliant,None Detected,Completed
+S000298,R00206,Street Food,2022-10-24,Compliant,None Detected,Completed
+S000299,R00206,Dairy,2022-10-24,Compliant,None Detected,Completed
+S000300,R00207,Edible Oil,2022-10-24,Compliant,None Detected,Completed
+S000301,R00208,Packaged Snacks,2022-10-30,Compliant,None Detected,Completed
+S000302,R00209,Spices,2022-10-31,Compliant,None Detected,Completed
+S000303,R00209,Edible Oil,2022-10-31,Compliant,None Detected,Completed
+S000304,R00210,Beverages,2022-11-01,Compliant,None Detected,Completed
+S000305,R00211,Grains/Pulses,2022-11-05,Compliant,None Detected,Completed
+S000306,R00211,Street Food,2022-11-05,Compliant,None Detected,Completed
+S000307,R00212,Spices,2022-11-05,Compliant,None Detected,Completed
+S000308,R00212,Street Food,2022-11-05,Compliant,None Detected,Completed
+S000309,R00213,Dairy,2022-11-13,Compliant,None Detected,Completed
+S000310,R00214,Street Food,2022-11-13,Compliant,None Detected,Completed
+S000311,R00214,Street Food,2022-11-13,Compliant,None Detected,Completed
+S000312,R00216,Spices,2022-11-16,Compliant,None Detected,Completed
+S000313,R00216,Street Food,2022-11-16,Non-Compliant,Non-permitted Preservative,Completed
+S000314,R00217,Street Food,2022-11-17,Non-Compliant,Synthetic Colour,Completed
+S000315,R00218,Bakery Products,2022-11-17,Compliant,None Detected,Completed
+S000316,R00218,Sweets,2022-11-17,Compliant,None Detected,Completed
+S000317,R00219,Sweets,2022-11-18,Compliant,None Detected,Completed
+S000318,R00219,Dairy,2022-11-18,Compliant,None Detected,Completed
+S000319,R00220,Edible Oil,2022-11-19,Non-Compliant,Non-permitted Preservative,Completed
+S000320,R00220,Bakery Products,2022-11-19,Compliant,None Detected,Completed
+S000321,R00222,Beverages,2022-11-21,Compliant,None Detected,Completed
+S000322,R00222,Grains/Pulses,2022-11-21,Compliant,None Detected,Completed
+S000323,R00223,Street Food,2022-11-22,Compliant,None Detected,Completed
+S000324,R00223,Edible Oil,2022-11-22,Compliant,None Detected,Completed
+S000325,R00224,Bakery Products,2022-11-23,Compliant,None Detected,Completed
+S000326,R00225,Packaged Snacks,2022-11-25,Compliant,None Detected,Completed
+S000327,R00226,Beverages,2022-11-27,Compliant,None Detected,Completed
+S000328,R00226,Spices,2022-11-27,Non-Compliant,Synthetic Colour,Completed
+S000329,R00226,Beverages,2022-11-27,Compliant,None Detected,Completed
+S000330,R00227,Street Food,2022-11-27,Compliant,None Detected,Completed
+S000331,R00229,Dairy,2022-11-28,Compliant,None Detected,Completed
+S000332,R00229,Spices,2022-11-28,Compliant,None Detected,Completed
+S000333,R00230,Spices,2022-11-29,Compliant,None Detected,Completed
+S000334,R00230,Grains/Pulses,2022-11-29,Compliant,None Detected,Completed
+S000335,R00230,Dairy,2022-11-29,Compliant,None Detected,Completed
+S000336,R00231,Beverages,2022-11-29,Compliant,None Detected,Completed
+S000337,R00232,Grains/Pulses,2022-11-30,Non-Compliant,Microbial Contamination,Completed
+S000338,R00232,Sweets,2022-11-30,Compliant,None Detected,Completed
+S000339,R00232,Bakery Products,2022-11-30,Non-Compliant,Undeclared Allergen,Completed
+S000340,R00233,Beverages,2022-12-01,Compliant,None Detected,Completed
+S000341,R00234,Spices,2022-12-06,Compliant,None Detected,Completed
+S000342,R00234,Bakery Products,2022-12-06,Non-Compliant,Heavy Metal Above Limit,Completed
+S000343,R00234,Sweets,2022-12-06,Compliant,None Detected,Completed
+S000344,R00235,Spices,2022-12-08,Compliant,None Detected,Completed
+S000345,R00237,Meat/Poultry,2022-12-12,Compliant,None Detected,Completed
+S000346,R00237,Meat/Poultry,2022-12-12,Non-Compliant,Synthetic Colour,Completed
+S000347,R00238,Spices,2022-12-14,Compliant,None Detected,Completed
+S000348,R00238,Meat/Poultry,2022-12-14,Compliant,None Detected,Completed
+S000349,R00239,Bakery Products,2022-12-14,Compliant,None Detected,Completed
+S000350,R00239,Dairy,2022-12-14,Compliant,None Detected,Completed
+S000351,R00240,Spices,2022-12-14,Compliant,None Detected,Completed
+S000352,R00240,Meat/Poultry,2022-12-14,Compliant,None Detected,Completed
+S000353,R00241,Spices,2022-12-16,Compliant,None Detected,Completed
+S000354,R00242,Spices,2022-12-17,Compliant,None Detected,Completed
+S000355,R00242,Beverages,2022-12-17,Compliant,None Detected,Completed
+S000356,R00243,Packaged Snacks,2022-12-19,Compliant,None Detected,Completed
+S000357,R00243,Edible Oil,2022-12-19,Compliant,None Detected,Completed
+S000358,R00244,Meat/Poultry,2022-12-21,Compliant,None Detected,Completed
+S000359,R00245,Packaged Snacks,2022-12-22,Compliant,None Detected,Completed
+S000360,R00246,Beverages,2022-12-25,Compliant,None Detected,Completed
+S000361,R00247,Spices,2022-12-26,Compliant,None Detected,Completed
+S000362,R00247,Meat/Poultry,2022-12-26,Compliant,None Detected,Completed
+S000363,R00248,Street Food,2022-12-28,Non-Compliant,Adulterant Suspected,Completed
+S000364,R00248,Spices,2022-12-28,Compliant,None Detected,Completed
+S000365,R00249,Spices,2022-12-29,Compliant,None Detected,Completed
+S000366,R00249,Packaged Snacks,2022-12-29,Inconclusive,Pending/Retest,Retest Pending
+S000367,R00250,Edible Oil,2022-12-30,Compliant,None Detected,Completed
+S000368,R00251,Street Food,2023-01-03,Compliant,None Detected,Completed
+S000369,R00252,Sweets,2023-01-07,Compliant,None Detected,Completed
+S000370,R00252,Beverages,2023-01-07,Compliant,None Detected,Completed
+S000371,R00253,Sweets,2023-01-09,Non-Compliant,Undeclared Allergen,Completed
+S000372,R00253,Grains/Pulses,2023-01-09,Non-Compliant,Synthetic Colour,Completed
+S000373,R00253,Sweets,2023-01-09,Compliant,None Detected,Completed
+S000374,R00254,Sweets,2023-01-11,Compliant,None Detected,Completed
+S000375,R00254,Edible Oil,2023-01-11,Compliant,None Detected,Completed
+S000376,R00255,Meat/Poultry,2023-01-12,Non-Compliant,Excess Moisture,Completed
+S000377,R00257,Sweets,2023-01-16,Compliant,None Detected,Completed
+S000378,R00258,Packaged Snacks,2023-01-17,Non-Compliant,Excess Moisture,Completed
+S000379,R00258,Bakery Products,2023-01-17,Compliant,None Detected,Completed
+S000380,R00259,Sweets,2023-01-19,Compliant,None Detected,Completed
+S000381,R00259,Meat/Poultry,2023-01-19,Non-Compliant,Synthetic Colour,Completed
+S000382,R00260,Packaged Snacks,2023-01-20,Compliant,None Detected,Completed
+S000383,R00260,Dairy,2023-01-20,Non-Compliant,Excess Moisture,Completed
+S000384,R00261,Edible Oil,2023-01-20,Compliant,None Detected,Completed
+S000385,R00261,Edible Oil,2023-01-20,Inconclusive,Pending/Retest,Retest Pending
+S000386,R00262,Meat/Poultry,2023-01-23,Non-Compliant,Undeclared Allergen,Completed
+S000387,R00263,Edible Oil,2023-01-23,Compliant,None Detected,Completed
+S000388,R00263,Beverages,2023-01-23,Compliant,None Detected,Completed
+S000389,R00264,Dairy,2023-01-25,Compliant,None Detected,Completed
+S000390,R00265,Grains/Pulses,2023-01-29,Compliant,None Detected,Completed
+S000391,R00265,Packaged Snacks,2023-01-29,Compliant,None Detected,Completed
+S000392,R00266,Sweets,2023-01-31,Compliant,None Detected,Completed
+S000393,R00267,Grains/Pulses,2023-02-02,Compliant,None Detected,Completed
+S000394,R00267,Bakery Products,2023-02-02,Compliant,None Detected,Completed
+S000395,R00268,Grains/Pulses,2023-02-02,Compliant,None Detected,Completed
+S000396,R00268,Spices,2023-02-02,Compliant,None Detected,Completed
+S000397,R00268,Bakery Products,2023-02-02,Compliant,None Detected,Completed
+S000398,R00269,Bakery Products,2023-02-04,Compliant,None Detected,Completed
+S000399,R00269,Bakery Products,2023-02-04,Compliant,None Detected,Completed
+S000400,R00270,Bakery Products,2023-02-06,Compliant,None Detected,Completed
+S000401,R00271,Spices,2023-02-07,Compliant,None Detected,Completed
+S000402,R00272,Beverages,2023-02-10,Compliant,None Detected,Completed
+S000403,R00272,Spices,2023-02-10,Compliant,None Detected,Completed
+S000404,R00273,Bakery Products,2023-02-14,Compliant,None Detected,Completed
+S000405,R00273,Street Food,2023-02-14,Compliant,None Detected,Completed
+S000406,R00275,Bakery Products,2023-02-16,Compliant,None Detected,Completed
+S000407,R00275,Spices,2023-02-16,Compliant,None Detected,Completed
+S000408,R00276,Dairy,2023-02-17,Compliant,None Detected,Completed
+S000409,R00276,Grains/Pulses,2023-02-17,Compliant,None Detected,Completed
+S000410,R00277,Bakery Products,2023-02-18,Compliant,None Detected,Completed
+S000411,R00278,Spices,2023-02-19,Compliant,None Detected,Completed
+S000412,R00278,Edible Oil,2023-02-19,Compliant,None Detected,Completed
+S000413,R00279,Packaged Snacks,2023-02-20,Compliant,None Detected,Completed
+S000414,R00279,Grains/Pulses,2023-02-20,Compliant,None Detected,Completed
+S000415,R00279,Meat/Poultry,2023-02-20,Compliant,None Detected,Completed
+S000416,R00280,Meat/Poultry,2023-02-21,Compliant,None Detected,Completed
+S000417,R00280,Beverages,2023-02-21,Compliant,None Detected,Completed
+S000418,R00281,Spices,2023-02-22,Compliant,None Detected,Completed
+S000419,R00282,Bakery Products,2023-02-27,Compliant,None Detected,Completed
+S000420,R00284,Sweets,2023-03-07,Compliant,None Detected,Completed
+S000421,R00285,Grains/Pulses,2023-03-07,Compliant,None Detected,Completed
+S000422,R00287,Spices,2023-03-07,Compliant,None Detected,Completed
+S000423,R00288,Street Food,2023-03-07,Non-Compliant,Heavy Metal Above Limit,Completed
+S000424,R00288,Edible Oil,2023-03-07,Compliant,None Detected,Completed
+S000425,R00289,Packaged Snacks,2023-03-09,Inconclusive,Pending/Retest,Retest Pending
+S000426,R00289,Packaged Snacks,2023-03-09,Non-Compliant,Non-permitted Preservative,Completed
+S000427,R00289,Sweets,2023-03-09,Compliant,None Detected,Completed
+S000428,R00290,Street Food,2023-03-09,Compliant,None Detected,Completed
+S000429,R00290,Grains/Pulses,2023-03-09,Compliant,None Detected,Completed
+S000430,R00291,Meat/Poultry,2023-03-10,Compliant,None Detected,Completed
+S000431,R00292,Meat/Poultry,2023-03-10,Compliant,None Detected,Completed
+S000432,R00293,Street Food,2023-03-12,Inconclusive,Pending/Retest,Retest Pending
+S000433,R00295,Bakery Products,2023-03-15,Compliant,None Detected,Completed
+S000434,R00297,Beverages,2023-03-18,Compliant,None Detected,Completed
+S000435,R00297,Meat/Poultry,2023-03-18,Compliant,None Detected,Completed
+S000436,R00298,Bakery Products,2023-03-18,Compliant,None Detected,Completed
+S000437,R00299,Dairy,2023-03-20,Inconclusive,Pending/Retest,Retest Pending
+S000438,R00299,Edible Oil,2023-03-20,Compliant,None Detected,Completed
+S000439,R00300,Sweets,2023-03-20,Compliant,None Detected,Completed
+S000440,R00300,Dairy,2023-03-20,Inconclusive,Pending/Retest,Retest Pending
+S000441,R00301,Sweets,2023-03-21,Compliant,None Detected,Completed
+S000442,R00301,Street Food,2023-03-21,Compliant,None Detected,Completed
+S000443,R00302,Dairy,2023-03-22,Compliant,None Detected,Completed
+S000444,R00302,Meat/Poultry,2023-03-22,Compliant,None Detected,Completed
+S000445,R00303,Street Food,2023-03-24,Non-Compliant,Synthetic Colour,Completed
+S000446,R00304,Spices,2023-03-24,Compliant,None Detected,Completed
+S000447,R00304,Bakery Products,2023-03-24,Compliant,None Detected,Completed
+S000448,R00305,Dairy,2023-03-26,Compliant,None Detected,Completed
+S000449,R00305,Sweets,2023-03-26,Compliant,None Detected,Completed
+S000450,R00306,Sweets,2023-03-27,Compliant,None Detected,Completed
+S000451,R00307,Meat/Poultry,2023-03-27,Non-Compliant,Undeclared Allergen,Completed
+S000452,R00308,Street Food,2023-03-30,Compliant,None Detected,Completed
+S000453,R00309,Beverages,2023-03-31,Compliant,None Detected,Completed
+S000454,R00309,Edible Oil,2023-03-31,Inconclusive,Pending/Retest,Retest Pending
+S000455,R00310,Meat/Poultry,2023-04-01,Compliant,None Detected,Completed
+S000456,R00310,Edible Oil,2023-04-01,Compliant,None Detected,Completed
+S000457,R00310,Spices,2023-04-01,Compliant,None Detected,Completed
+S000458,R00311,Edible Oil,2023-04-01,Compliant,None Detected,Completed
+S000459,R00312,Bakery Products,2023-04-05,Compliant,None Detected,Completed
+S000460,R00313,Sweets,2023-04-05,Compliant,None Detected,Completed
+S000461,R00314,Street Food,2023-04-07,Non-Compliant,Undeclared Allergen,Completed
+S000462,R00316,Edible Oil,2023-04-07,Inconclusive,Pending/Retest,Retest Pending
+S000463,R00316,Grains/Pulses,2023-04-07,Compliant,None Detected,Completed
+S000464,R00316,Bakery Products,2023-04-07,Non-Compliant,Excess Moisture,Completed
+S000465,R00317,Dairy,2023-04-08,Compliant,None Detected,Completed
+S000466,R00318,Grains/Pulses,2023-04-09,Compliant,None Detected,Completed
+S000467,R00319,Street Food,2023-04-10,Compliant,None Detected,Completed
+S000468,R00320,Edible Oil,2023-04-11,Compliant,None Detected,Completed
+S000469,R00321,Bakery Products,2023-04-11,Compliant,None Detected,Completed
+S000470,R00322,Spices,2023-04-12,Compliant,None Detected,Completed
+S000471,R00322,Edible Oil,2023-04-12,Compliant,None Detected,Completed
+S000472,R00322,Edible Oil,2023-04-12,Compliant,None Detected,Completed
+S000473,R00323,Bakery Products,2023-04-13,Compliant,None Detected,Completed
+S000474,R00324,Beverages,2023-04-14,Compliant,None Detected,Completed
+S000475,R00324,Packaged Snacks,2023-04-14,Compliant,None Detected,Completed
+S000476,R00325,Bakery Products,2023-04-14,Non-Compliant,Synthetic Colour,Completed
+S000477,R00325,Edible Oil,2023-04-14,Non-Compliant,Heavy Metal Above Limit,Completed
+S000478,R00326,Meat/Poultry,2023-04-20,Compliant,None Detected,Completed
+S000479,R00327,Bakery Products,2023-04-22,Compliant,None Detected,Completed
+S000480,R00327,Packaged Snacks,2023-04-22,Compliant,None Detected,Completed
+S000481,R00328,Packaged Snacks,2023-04-22,Compliant,None Detected,Completed
+S000482,R00329,Beverages,2023-04-22,Compliant,None Detected,Completed
+S000483,R00330,Beverages,2023-04-23,Compliant,None Detected,Completed
+S000484,R00331,Edible Oil,2023-04-23,Compliant,None Detected,Completed
+S000485,R00332,Bakery Products,2023-04-24,Compliant,None Detected,Completed
+S000486,R00333,Grains/Pulses,2023-04-25,Compliant,None Detected,Completed
+S000487,R00334,Meat/Poultry,2023-04-27,Compliant,None Detected,Completed
+S000488,R00334,Grains/Pulses,2023-04-27,Compliant,None Detected,Completed
+S000489,R00335,Spices,2023-04-28,Compliant,None Detected,Completed
+S000490,R00335,Street Food,2023-04-28,Compliant,None Detected,Completed
+S000491,R00336,Beverages,2023-05-01,Compliant,None Detected,Completed
+S000492,R00337,Dairy,2023-05-03,Non-Compliant,Excess Moisture,Completed
+S000493,R00338,Meat/Poultry,2023-05-03,Compliant,None Detected,Completed
+S000494,R00339,Packaged Snacks,2023-05-07,Compliant,None Detected,Completed
+S000495,R00339,Spices,2023-05-07,Compliant,None Detected,Completed
+S000496,R00340,Spices,2023-05-07,Compliant,None Detected,Completed
+S000497,R00340,Meat/Poultry,2023-05-07,Compliant,None Detected,Completed
+S000498,R00341,Packaged Snacks,2023-05-08,Non-Compliant,Non-permitted Preservative,Completed
+S000499,R00341,Street Food,2023-05-08,Compliant,None Detected,Completed
+S000500,R00341,Packaged Snacks,2023-05-08,Non-Compliant,Excess Moisture,Completed
+S000501,R00342,Beverages,2023-05-09,Compliant,None Detected,Completed
+S000502,R00343,Dairy,2023-05-11,Compliant,None Detected,Completed
+S000503,R00345,Street Food,2023-05-14,Compliant,None Detected,Completed
+S000504,R00346,Street Food,2023-05-17,Compliant,None Detected,Completed
+S000505,R00347,Bakery Products,2023-05-18,Compliant,None Detected,Completed
+S000506,R00347,Beverages,2023-05-18,Compliant,None Detected,Completed
+S000507,R00348,Bakery Products,2023-05-19,Non-Compliant,Undeclared Allergen,Completed
+S000508,R00348,Packaged Snacks,2023-05-19,Compliant,None Detected,Completed
+S000509,R00348,Sweets,2023-05-19,Compliant,None Detected,Completed
+S000510,R00349,Bakery Products,2023-05-20,Compliant,None Detected,Completed
+S000511,R00350,Meat/Poultry,2023-05-21,Non-Compliant,Adulterant Suspected,Completed
+S000512,R00351,Spices,2023-05-24,Compliant,None Detected,Completed
+S000513,R00353,Beverages,2023-06-04,Compliant,None Detected,Completed
+S000514,R00354,Sweets,2023-06-06,Compliant,None Detected,Completed
+S000515,R00354,Street Food,2023-06-06,Compliant,None Detected,Completed
+S000516,R00356,Spices,2023-06-10,Compliant,None Detected,Completed
+S000517,R00356,Edible Oil,2023-06-10,Compliant,None Detected,Completed
+S000518,R00357,Dairy,2023-06-11,Non-Compliant,Synthetic Colour,Completed
+S000519,R00358,Edible Oil,2023-06-11,Compliant,None Detected,Completed
+S000520,R00358,Bakery Products,2023-06-11,Compliant,None Detected,Completed
+S000521,R00359,Dairy,2023-06-12,Compliant,None Detected,Completed
+S000522,R00359,Dairy,2023-06-12,Compliant,None Detected,Completed
+S000523,R00360,Meat/Poultry,2023-06-12,Inconclusive,Pending/Retest,Retest Pending
+S000524,R00360,Dairy,2023-06-12,Non-Compliant,Excess Moisture,Completed
+S000525,R00362,Dairy,2023-06-22,Compliant,None Detected,Completed
+S000526,R00363,Edible Oil,2023-06-22,Compliant,None Detected,Completed
+S000527,R00364,Sweets,2023-06-24,Compliant,None Detected,Completed
+S000528,R00365,Bakery Products,2023-06-24,Compliant,None Detected,Completed
+S000529,R00365,Packaged Snacks,2023-06-24,Compliant,None Detected,Completed
+S000530,R00367,Bakery Products,2023-06-29,Compliant,None Detected,Completed
+S000531,R00367,Sweets,2023-06-29,Compliant,None Detected,Completed
+S000532,R00368,Packaged Snacks,2023-07-02,Compliant,None Detected,Completed
+S000533,R00368,Edible Oil,2023-07-02,Compliant,None Detected,Completed
+S000534,R00369,Spices,2023-07-03,Compliant,None Detected,Completed
+S000535,R00369,Beverages,2023-07-03,Compliant,None Detected,Completed
+S000536,R00370,Grains/Pulses,2023-07-03,Non-Compliant,Heavy Metal Above Limit,Completed
+S000537,R00371,Grains/Pulses,2023-07-03,Non-Compliant,Excess Moisture,Completed
+S000538,R00371,Edible Oil,2023-07-03,Compliant,None Detected,Completed
+S000539,R00372,Spices,2023-07-06,Compliant,None Detected,Completed
+S000540,R00373,Bakery Products,2023-07-06,Compliant,None Detected,Completed
+S000541,R00375,Street Food,2023-07-12,Compliant,None Detected,Completed
+S000542,R00375,Street Food,2023-07-12,Non-Compliant,Non-permitted Preservative,Completed
+S000543,R00375,Beverages,2023-07-12,Compliant,None Detected,Completed
+S000544,R00376,Sweets,2023-07-13,Compliant,None Detected,Completed
+S000545,R00376,Beverages,2023-07-13,Compliant,None Detected,Completed
+S000546,R00377,Grains/Pulses,2023-07-15,Compliant,None Detected,Completed
+S000547,R00378,Street Food,2023-07-15,Compliant,None Detected,Completed
+S000548,R00379,Packaged Snacks,2023-07-17,Compliant,None Detected,Completed
+S000549,R00379,Sweets,2023-07-17,Compliant,None Detected,Completed
+S000550,R00379,Grains/Pulses,2023-07-17,Compliant,None Detected,Completed
+S000551,R00380,Edible Oil,2023-07-17,Compliant,None Detected,Completed
+S000552,R00380,Sweets,2023-07-17,Compliant,None Detected,Completed
+S000553,R00383,Edible Oil,2023-07-20,Compliant,None Detected,Completed
+S000554,R00383,Grains/Pulses,2023-07-20,Compliant,None Detected,Completed
+S000555,R00384,Dairy,2023-07-22,Non-Compliant,Excess Moisture,Completed
+S000556,R00385,Sweets,2023-07-24,Compliant,None Detected,Completed
+S000557,R00386,Beverages,2023-07-25,Compliant,None Detected,Completed
+S000558,R00386,Grains/Pulses,2023-07-25,Compliant,None Detected,Completed
+S000559,R00387,Street Food,2023-07-26,Compliant,None Detected,Completed
+S000560,R00387,Sweets,2023-07-26,Compliant,None Detected,Completed
+S000561,R00388,Edible Oil,2023-07-26,Compliant,None Detected,Completed
+S000562,R00388,Bakery Products,2023-07-26,Non-Compliant,Heavy Metal Above Limit,Completed
+S000563,R00389,Spices,2023-07-28,Compliant,None Detected,Completed
+S000564,R00390,Bakery Products,2023-07-28,Non-Compliant,Undeclared Allergen,Completed
+S000565,R00390,Spices,2023-07-28,Inconclusive,Pending/Retest,Retest Pending
+S000566,R00391,Grains/Pulses,2023-07-30,Compliant,None Detected,Completed
+S000567,R00391,Edible Oil,2023-07-30,Compliant,None Detected,Completed
+S000568,R00392,Dairy,2023-07-30,Compliant,None Detected,Completed
+S000569,R00392,Meat/Poultry,2023-07-30,Compliant,None Detected,Completed
+S000570,R00394,Street Food,2023-07-31,Compliant,None Detected,Completed
+S000571,R00394,Spices,2023-07-31,Non-Compliant,Undeclared Allergen,Completed
+S000572,R00395,Packaged Snacks,2023-08-01,Compliant,None Detected,Completed
+S000573,R00396,Grains/Pulses,2023-08-02,Compliant,None Detected,Completed
+S000574,R00396,Spices,2023-08-02,Compliant,None Detected,Completed
+S000575,R00397,Bakery Products,2023-08-05,Compliant,None Detected,Completed
+S000576,R00397,Street Food,2023-08-05,Non-Compliant,Heavy Metal Above Limit,Completed
+S000577,R00397,Meat/Poultry,2023-08-05,Non-Compliant,Non-permitted Preservative,Completed
+S000578,R00398,Street Food,2023-08-06,Compliant,None Detected,Completed
+S000579,R00399,Dairy,2023-08-06,Compliant,None Detected,Completed
+S000580,R00399,Meat/Poultry,2023-08-06,Compliant,None Detected,Completed
+S000581,R00400,Packaged Snacks,2023-08-07,Compliant,None Detected,Completed
+S000582,R00401,Bakery Products,2023-08-08,Compliant,None Detected,Completed
+S000583,R00401,Spices,2023-08-08,Compliant,None Detected,Completed
+S000584,R00403,Street Food,2023-08-09,Compliant,None Detected,Completed
+S000585,R00404,Dairy,2023-08-11,Compliant,None Detected,Completed
+S000586,R00405,Beverages,2023-08-13,Compliant,None Detected,Completed
+S000587,R00406,Packaged Snacks,2023-08-20,Compliant,None Detected,Completed
+S000588,R00407,Bakery Products,2023-08-21,Compliant,None Detected,Completed
+S000589,R00407,Street Food,2023-08-21,Compliant,None Detected,Completed
+S000590,R00408,Beverages,2023-08-25,Non-Compliant,Microbial Contamination,Completed
+S000591,R00409,Sweets,2023-08-25,Compliant,None Detected,Completed
+S000592,R00409,Bakery Products,2023-08-25,Compliant,None Detected,Completed
+S000593,R00410,Sweets,2023-08-27,Compliant,None Detected,Completed
+S000594,R00410,Spices,2023-08-27,Compliant,None Detected,Completed
+S000595,R00410,Bakery Products,2023-08-27,Non-Compliant,Undeclared Allergen,Completed
+S000596,R00411,Grains/Pulses,2023-08-27,Compliant,None Detected,Completed
+S000597,R00411,Sweets,2023-08-27,Compliant,None Detected,Completed
+S000598,R00411,Street Food,2023-08-27,Non-Compliant,Undeclared Allergen,Completed
+S000599,R00412,Bakery Products,2023-08-28,Non-Compliant,Undeclared Allergen,Completed
+S000600,R00412,Dairy,2023-08-28,Compliant,None Detected,Completed
+S000601,R00413,Packaged Snacks,2023-09-01,Compliant,None Detected,Completed
+S000602,R00413,Dairy,2023-09-01,Compliant,None Detected,Completed
+S000603,R00414,Spices,2023-09-01,Compliant,None Detected,Completed
+S000604,R00415,Sweets,2023-09-03,Non-Compliant,Synthetic Colour,Completed
+S000605,R00415,Street Food,2023-09-03,Compliant,None Detected,Completed
+S000606,R00416,Bakery Products,2023-09-03,Compliant,None Detected,Completed
+S000607,R00417,Street Food,2023-09-04,Compliant,None Detected,Completed
+S000608,R00418,Beverages,2023-09-04,Non-Compliant,Excess Moisture,Completed
+S000609,R00419,Beverages,2023-09-05,Compliant,None Detected,Completed
+S000610,R00420,Edible Oil,2023-09-11,Compliant,None Detected,Completed
+S000611,R00420,Bakery Products,2023-09-11,Compliant,None Detected,Completed
+S000612,R00421,Bakery Products,2023-09-13,Compliant,None Detected,Completed
+S000613,R00422,Street Food,2023-09-20,Compliant,None Detected,Completed
+S000614,R00422,Sweets,2023-09-20,Inconclusive,Pending/Retest,Retest Pending
+S000615,R00423,Bakery Products,2023-09-21,Compliant,None Detected,Completed
+S000616,R00423,Meat/Poultry,2023-09-21,Compliant,None Detected,Completed
+S000617,R00424,Edible Oil,2023-09-23,Non-Compliant,Excess Moisture,Completed
+S000618,R00424,Edible Oil,2023-09-23,Compliant,None Detected,Completed
+S000619,R00425,Street Food,2023-09-25,Compliant,None Detected,Completed
+S000620,R00425,Street Food,2023-09-25,Compliant,None Detected,Completed
+S000621,R00425,Spices,2023-09-25,Compliant,None Detected,Completed
+S000622,R00426,Street Food,2023-09-25,Compliant,None Detected,Completed
+S000623,R00427,Meat/Poultry,2023-09-27,Non-Compliant,Adulterant Suspected,Completed
+S000624,R00427,Meat/Poultry,2023-09-27,Compliant,None Detected,Completed
+S000625,R00428,Street Food,2023-09-27,Compliant,None Detected,Completed
+S000626,R00429,Meat/Poultry,2023-09-28,Compliant,None Detected,Completed
+S000627,R00429,Dairy,2023-09-28,Compliant,None Detected,Completed
+S000628,R00430,Grains/Pulses,2023-09-28,Compliant,None Detected,Completed
+S000629,R00430,Beverages,2023-09-28,Compliant,None Detected,Completed
+S000630,R00431,Edible Oil,2023-09-29,Compliant,None Detected,Completed
+S000631,R00431,Spices,2023-09-29,Non-Compliant,Synthetic Colour,Completed
+S000632,R00432,Sweets,2023-09-30,Compliant,None Detected,Completed
+S000633,R00432,Meat/Poultry,2023-09-30,Compliant,None Detected,Completed
+S000634,R00433,Edible Oil,2023-10-02,Compliant,None Detected,Completed
+S000635,R00433,Beverages,2023-10-02,Compliant,None Detected,Completed
+S000636,R00434,Packaged Snacks,2023-10-04,Inconclusive,Pending/Retest,Retest Pending
+S000637,R00435,Street Food,2023-10-04,Non-Compliant,Heavy Metal Above Limit,Completed
+S000638,R00435,Edible Oil,2023-10-04,Compliant,None Detected,Completed
+S000639,R00436,Meat/Poultry,2023-10-05,Compliant,None Detected,Completed
+S000640,R00436,Dairy,2023-10-05,Inconclusive,Pending/Retest,Retest Pending
+S000641,R00437,Dairy,2023-10-06,Inconclusive,Pending/Retest,Retest Pending
+S000642,R00438,Packaged Snacks,2023-10-07,Compliant,None Detected,Completed
+S000643,R00439,Beverages,2023-10-08,Compliant,None Detected,Completed
+S000644,R00440,Bakery Products,2023-10-10,Compliant,None Detected,Completed
+S000645,R00440,Beverages,2023-10-10,Compliant,None Detected,Completed
+S000646,R00440,Street Food,2023-10-10,Compliant,None Detected,Completed
+S000647,R00441,Sweets,2023-10-11,Compliant,None Detected,Completed
+S000648,R00441,Street Food,2023-10-11,Compliant,None Detected,Completed
+S000649,R00441,Beverages,2023-10-11,Compliant,None Detected,Completed
+S000650,R00442,Meat/Poultry,2023-10-12,Compliant,None Detected,Completed
+S000651,R00443,Grains/Pulses,2023-10-13,Compliant,None Detected,Completed
+S000652,R00445,Meat/Poultry,2023-10-14,Non-Compliant,Microbial Contamination,Completed
+S000653,R00446,Spices,2023-10-15,Inconclusive,Pending/Retest,Retest Pending
+S000654,R00446,Bakery Products,2023-10-15,Compliant,None Detected,Completed
+S000655,R00446,Sweets,2023-10-15,Inconclusive,Pending/Retest,Retest Pending
+S000656,R00447,Sweets,2023-10-17,Compliant,None Detected,Completed
+S000657,R00448,Edible Oil,2023-10-18,Compliant,None Detected,Completed
+S000658,R00449,Meat/Poultry,2023-10-19,Compliant,None Detected,Completed
+S000659,R00449,Dairy,2023-10-19,Compliant,None Detected,Completed
+S000660,R00450,Beverages,2023-10-19,Compliant,None Detected,Completed
+S000661,R00450,Grains/Pulses,2023-10-19,Inconclusive,Pending/Retest,Retest Pending
+S000662,R00451,Bakery Products,2023-10-21,Compliant,None Detected,Completed
+S000663,R00451,Dairy,2023-10-21,Compliant,None Detected,Completed
+S000664,R00451,Dairy,2023-10-21,Compliant,None Detected,Completed
+S000665,R00452,Beverages,2023-10-22,Inconclusive,Pending/Retest,Retest Pending
+S000666,R00453,Meat/Poultry,2023-10-22,Compliant,None Detected,Completed
+S000667,R00454,Street Food,2023-10-25,Compliant,None Detected,Completed
+S000668,R00455,Dairy,2023-10-27,Compliant,None Detected,Completed
+S000669,R00456,Grains/Pulses,2023-10-27,Compliant,None Detected,Completed
+S000670,R00458,Packaged Snacks,2023-10-29,Compliant,None Detected,Completed
+S000671,R00458,Edible Oil,2023-10-29,Compliant,None Detected,Completed
+S000672,R00459,Beverages,2023-10-30,Compliant,None Detected,Completed
+S000673,R00459,Beverages,2023-10-30,Non-Compliant,Undeclared Allergen,Completed
+S000674,R00460,Street Food,2023-10-30,Compliant,None Detected,Completed
+S000675,R00461,Grains/Pulses,2023-11-01,Compliant,None Detected,Completed
+S000676,R00462,Sweets,2023-11-06,Compliant,None Detected,Completed
+S000677,R00463,Meat/Poultry,2023-11-07,Non-Compliant,Excess Moisture,Completed
+S000678,R00464,Sweets,2023-11-07,Compliant,None Detected,Completed
+S000679,R00465,Beverages,2023-11-08,Non-Compliant,Microbial Contamination,Completed
+S000680,R00465,Packaged Snacks,2023-11-08,Non-Compliant,Heavy Metal Above Limit,Completed
+S000681,R00466,Sweets,2023-11-10,Compliant,None Detected,Completed
+S000682,R00467,Meat/Poultry,2023-11-10,Compliant,None Detected,Completed
+S000683,R00468,Sweets,2023-11-11,Non-Compliant,Non-permitted Preservative,Completed
+S000684,R00468,Spices,2023-11-11,Compliant,None Detected,Completed
+S000685,R00469,Sweets,2023-11-12,Compliant,None Detected,Completed
+S000686,R00469,Edible Oil,2023-11-12,Compliant,None Detected,Completed
+S000687,R00470,Edible Oil,2023-11-14,Compliant,None Detected,Completed
+S000688,R00471,Spices,2023-11-15,Compliant,None Detected,Completed
+S000689,R00471,Edible Oil,2023-11-15,Compliant,None Detected,Completed
+S000690,R00472,Meat/Poultry,2023-11-15,Compliant,None Detected,Completed
+S000691,R00473,Dairy,2023-11-17,Compliant,None Detected,Completed
+S000692,R00473,Beverages,2023-11-17,Compliant,None Detected,Completed
+S000693,R00474,Grains/Pulses,2023-11-19,Compliant,None Detected,Completed
+S000694,R00475,Sweets,2023-11-20,Compliant,None Detected,Completed
+S000695,R00477,Packaged Snacks,2023-11-22,Compliant,None Detected,Completed
+S000696,R00477,Spices,2023-11-22,Compliant,None Detected,Completed
+S000697,R00478,Spices,2023-11-22,Compliant,None Detected,Completed
+S000698,R00478,Spices,2023-11-22,Compliant,None Detected,Completed
+S000699,R00479,Street Food,2023-11-24,Compliant,None Detected,Completed
+S000700,R00480,Sweets,2023-11-24,Inconclusive,Pending/Retest,Retest Pending
+S000701,R00481,Beverages,2023-11-25,Non-Compliant,Undeclared Allergen,Completed
+S000702,R00482,Meat/Poultry,2023-11-25,Compliant,None Detected,Completed
+S000703,R00482,Sweets,2023-11-25,Compliant,None Detected,Completed
+S000704,R00483,Spices,2023-11-26,Compliant,None Detected,Completed
+S000705,R00483,Beverages,2023-11-26,Compliant,None Detected,Completed
+S000706,R00484,Edible Oil,2023-11-27,Compliant,None Detected,Completed
+S000707,R00484,Sweets,2023-11-27,Compliant,None Detected,Completed
+S000708,R00485,Spices,2023-11-27,Compliant,None Detected,Completed
+S000709,R00485,Spices,2023-11-27,Compliant,None Detected,Completed
+S000710,R00485,Beverages,2023-11-27,Non-Compliant,Adulterant Suspected,Completed
+S000711,R00486,Bakery Products,2023-11-28,Compliant,None Detected,Completed
+S000712,R00487,Sweets,2023-11-29,Compliant,None Detected,Completed
+S000713,R00488,Grains/Pulses,2023-12-01,Compliant,None Detected,Completed
+S000714,R00489,Edible Oil,2023-12-03,Compliant,None Detected,Completed
+S000715,R00489,Dairy,2023-12-03,Non-Compliant,Microbial Contamination,Completed
+S000716,R00489,Bakery Products,2023-12-03,Non-Compliant,Synthetic Colour,Completed
+S000717,R00491,Street Food,2023-12-03,Compliant,None Detected,Completed
+S000718,R00491,Sweets,2023-12-03,Compliant,None Detected,Completed
+S000719,R00492,Dairy,2023-12-04,Non-Compliant,Microbial Contamination,Completed
+S000720,R00493,Grains/Pulses,2023-12-04,Compliant,None Detected,Completed
+S000721,R00493,Bakery Products,2023-12-04,Compliant,None Detected,Completed
+S000722,R00494,Bakery Products,2023-12-04,Compliant,None Detected,Completed
+S000723,R00494,Dairy,2023-12-04,Non-Compliant,Synthetic Colour,Completed
+S000724,R00495,Bakery Products,2023-12-05,Inconclusive,Pending/Retest,Retest Pending
+S000725,R00495,Street Food,2023-12-05,Non-Compliant,Microbial Contamination,Completed
+S000726,R00496,Dairy,2023-12-07,Compliant,None Detected,Completed
+S000727,R00497,Street Food,2023-12-07,Inconclusive,Pending/Retest,Retest Pending
+S000728,R00498,Meat/Poultry,2023-12-08,Non-Compliant,Heavy Metal Above Limit,Completed
+S000729,R00499,Edible Oil,2023-12-08,Non-Compliant,Heavy Metal Above Limit,Completed
+S000730,R00500,Meat/Poultry,2023-12-09,Compliant,None Detected,Completed
+S000731,R00500,Beverages,2023-12-09,Compliant,None Detected,Completed
+S000732,R00501,Grains/Pulses,2023-12-10,Non-Compliant,Microbial Contamination,Completed
+S000733,R00503,Edible Oil,2023-12-11,Compliant,None Detected,Completed
+S000734,R00504,Beverages,2023-12-15,Non-Compliant,Non-permitted Preservative,Completed
+S000735,R00504,Beverages,2023-12-15,Compliant,None Detected,Completed
+S000736,R00504,Dairy,2023-12-15,Compliant,None Detected,Completed
+S000737,R00505,Dairy,2023-12-15,Non-Compliant,Microbial Contamination,Completed
+S000738,R00506,Bakery Products,2023-12-16,Compliant,None Detected,Completed
+S000739,R00507,Edible Oil,2023-12-18,Non-Compliant,Non-permitted Preservative,Completed
+S000740,R00507,Beverages,2023-12-18,Compliant,None Detected,Completed
+S000741,R00509,Meat/Poultry,2023-12-21,Compliant,None Detected,Completed
+S000742,R00509,Street Food,2023-12-21,Non-Compliant,Undeclared Allergen,Completed
+S000743,R00509,Bakery Products,2023-12-21,Compliant,None Detected,Completed
+S000744,R00510,Dairy,2023-12-21,Compliant,None Detected,Completed
+S000745,R00510,Beverages,2023-12-21,Compliant,None Detected,Completed
+S000746,R00511,Sweets,2023-12-23,Compliant,None Detected,Completed
+S000747,R00511,Sweets,2023-12-23,Compliant,None Detected,Completed
+S000748,R00512,Grains/Pulses,2023-12-25,Compliant,None Detected,Completed
+S000749,R00512,Meat/Poultry,2023-12-25,Compliant,None Detected,Completed
+S000750,R00513,Meat/Poultry,2023-12-28,Compliant,None Detected,Completed
+S000751,R00513,Beverages,2023-12-28,Compliant,None Detected,Completed
+S000752,R00514,Dairy,2023-12-29,Compliant,None Detected,Completed
+S000753,R00514,Meat/Poultry,2023-12-29,Compliant,None Detected,Completed
+S000754,R00515,Packaged Snacks,2023-12-29,Compliant,None Detected,Completed
+S000755,R00516,Grains/Pulses,2023-12-30,Compliant,None Detected,Completed
+S000756,R00516,Spices,2023-12-30,Compliant,None Detected,Completed
+S000757,R00517,Edible Oil,2023-12-30,Compliant,None Detected,Completed
+S000758,R00518,Edible Oil,2023-12-31,Compliant,None Detected,Completed
+S000759,R00518,Bakery Products,2023-12-31,Compliant,None Detected,Completed
+S000760,R00519,Packaged Snacks,2024-01-01,Compliant,None Detected,Completed
+S000761,R00519,Packaged Snacks,2024-01-01,Inconclusive,Pending/Retest,Retest Pending
+S000762,R00520,Street Food,2024-01-02,Non-Compliant,Synthetic Colour,Completed
+S000763,R00520,Packaged Snacks,2024-01-02,Compliant,None Detected,Completed
+S000764,R00521,Bakery Products,2024-01-02,Compliant,None Detected,Completed
+S000765,R00522,Beverages,2024-01-04,Compliant,None Detected,Completed
+S000766,R00523,Beverages,2024-01-06,Compliant,None Detected,Completed
+S000767,R00524,Edible Oil,2024-01-10,Compliant,None Detected,Completed
+S000768,R00525,Edible Oil,2024-01-13,Compliant,None Detected,Completed
+S000769,R00526,Street Food,2024-01-15,Non-Compliant,Excess Moisture,Completed
+S000770,R00526,Dairy,2024-01-15,Compliant,None Detected,Completed
+S000771,R00527,Sweets,2024-01-16,Compliant,None Detected,Completed
+S000772,R00527,Bakery Products,2024-01-16,Compliant,None Detected,Completed
+S000773,R00528,Meat/Poultry,2024-01-16,Compliant,None Detected,Completed
+S000774,R00529,Packaged Snacks,2024-01-18,Non-Compliant,Undeclared Allergen,Completed
+S000775,R00529,Sweets,2024-01-18,Non-Compliant,Heavy Metal Above Limit,Completed
+S000776,R00531,Sweets,2024-01-19,Non-Compliant,Synthetic Colour,Completed
+S000777,R00531,Edible Oil,2024-01-19,Compliant,None Detected,Completed
+S000778,R00532,Street Food,2024-01-22,Compliant,None Detected,Completed
+S000779,R00532,Sweets,2024-01-22,Compliant,None Detected,Completed
+S000780,R00533,Meat/Poultry,2024-01-23,Compliant,None Detected,Completed
+S000781,R00534,Beverages,2024-01-23,Compliant,None Detected,Completed
+S000782,R00535,Grains/Pulses,2024-01-23,Compliant,None Detected,Completed
+S000783,R00535,Grains/Pulses,2024-01-23,Compliant,None Detected,Completed
+S000784,R00536,Spices,2024-01-23,Non-Compliant,Synthetic Colour,Completed
+S000785,R00536,Bakery Products,2024-01-23,Non-Compliant,Non-permitted Preservative,Completed
+S000786,R00537,Meat/Poultry,2024-01-24,Compliant,None Detected,Completed
+S000787,R00538,Packaged Snacks,2024-01-27,Compliant,None Detected,Completed
+S000788,R00539,Street Food,2024-02-01,Compliant,None Detected,Completed
+S000789,R00539,Spices,2024-02-01,Compliant,None Detected,Completed
+S000790,R00539,Beverages,2024-02-01,Compliant,None Detected,Completed
+S000791,R00540,Edible Oil,2024-02-01,Compliant,None Detected,Completed
+S000792,R00540,Beverages,2024-02-01,Compliant,None Detected,Completed
+S000793,R00541,Bakery Products,2024-02-01,Compliant,None Detected,Completed
+S000794,R00541,Spices,2024-02-01,Compliant,None Detected,Completed
+S000795,R00542,Spices,2024-02-05,Compliant,None Detected,Completed
+S000796,R00543,Packaged Snacks,2024-02-05,Compliant,None Detected,Completed
+S000797,R00544,Bakery Products,2024-02-06,Non-Compliant,Microbial Contamination,Completed
+S000798,R00544,Bakery Products,2024-02-06,Compliant,None Detected,Completed
+S000799,R00545,Dairy,2024-02-06,Compliant,None Detected,Completed
+S000800,R00547,Bakery Products,2024-02-10,Compliant,None Detected,Completed
+S000801,R00548,Dairy,2024-02-11,Compliant,None Detected,Completed
+S000802,R00549,Grains/Pulses,2024-02-12,Compliant,None Detected,Completed
+S000803,R00549,Grains/Pulses,2024-02-12,Non-Compliant,Excess Moisture,Completed
+S000804,R00550,Beverages,2024-02-14,Compliant,None Detected,Completed
+S000805,R00550,Grains/Pulses,2024-02-14,Compliant,None Detected,Completed
+S000806,R00551,Grains/Pulses,2024-02-15,Compliant,None Detected,Completed
+S000807,R00552,Packaged Snacks,2024-02-16,Compliant,None Detected,Completed
+S000808,R00553,Bakery Products,2024-02-16,Non-Compliant,Heavy Metal Above Limit,Completed
+S000809,R00553,Meat/Poultry,2024-02-16,Inconclusive,Pending/Retest,Retest Pending
+S000810,R00554,Edible Oil,2024-02-17,Non-Compliant,Undeclared Allergen,Completed
+S000811,R00555,Packaged Snacks,2024-02-18,Compliant,None Detected,Completed
+S000812,R00555,Meat/Poultry,2024-02-18,Non-Compliant,Non-permitted Preservative,Completed
+S000813,R00555,Sweets,2024-02-18,Compliant,None Detected,Completed
+S000814,R00556,Packaged Snacks,2024-02-19,Compliant,None Detected,Completed
+S000815,R00556,Spices,2024-02-19,Inconclusive,Pending/Retest,Retest Pending
+S000816,R00557,Sweets,2024-02-22,Compliant,None Detected,Completed
+S000817,R00557,Grains/Pulses,2024-02-22,Non-Compliant,Adulterant Suspected,Completed
+S000818,R00558,Grains/Pulses,2024-02-22,Compliant,None Detected,Completed
+S000819,R00558,Street Food,2024-02-22,Compliant,None Detected,Completed
+S000820,R00559,Street Food,2024-02-23,Compliant,None Detected,Completed
+S000821,R00559,Street Food,2024-02-23,Compliant,None Detected,Completed
+S000822,R00560,Edible Oil,2024-02-25,Compliant,None Detected,Completed
+S000823,R00560,Spices,2024-02-25,Compliant,None Detected,Completed
+S000824,R00561,Meat/Poultry,2024-02-25,Compliant,None Detected,Completed
+S000825,R00561,Grains/Pulses,2024-02-25,Compliant,None Detected,Completed
+S000826,R00561,Meat/Poultry,2024-02-25,Compliant,None Detected,Completed
+S000827,R00562,Meat/Poultry,2024-02-26,Compliant,None Detected,Completed
+S000828,R00562,Sweets,2024-02-26,Non-Compliant,Undeclared Allergen,Completed
+S000829,R00563,Meat/Poultry,2024-02-26,Non-Compliant,Synthetic Colour,Completed
+S000830,R00564,Edible Oil,2024-02-28,Compliant,None Detected,Completed
+S000831,R00564,Packaged Snacks,2024-02-28,Compliant,None Detected,Completed
+S000832,R00564,Dairy,2024-02-28,Compliant,None Detected,Completed
+S000833,R00565,Street Food,2024-02-28,Compliant,None Detected,Completed
+S000834,R00566,Bakery Products,2024-03-03,Compliant,None Detected,Completed
+S000835,R00566,Meat/Poultry,2024-03-03,Compliant,None Detected,Completed
+S000836,R00567,Sweets,2024-03-04,Compliant,None Detected,Completed
+S000837,R00569,Bakery Products,2024-03-07,Compliant,None Detected,Completed
+S000838,R00570,Edible Oil,2024-03-08,Compliant,None Detected,Completed
+S000839,R00571,Meat/Poultry,2024-03-09,Compliant,None Detected,Completed
+S000840,R00571,Street Food,2024-03-09,Compliant,None Detected,Completed
+S000841,R00572,Grains/Pulses,2024-03-09,Compliant,None Detected,Completed
+S000842,R00572,Sweets,2024-03-09,Compliant,None Detected,Completed
+S000843,R00573,Edible Oil,2024-03-09,Compliant,None Detected,Completed
+S000844,R00573,Sweets,2024-03-09,Compliant,None Detected,Completed
+S000845,R00573,Bakery Products,2024-03-09,Compliant,None Detected,Completed
+S000846,R00574,Street Food,2024-03-10,Compliant,None Detected,Completed
+S000847,R00574,Meat/Poultry,2024-03-10,Compliant,None Detected,Completed
+S000848,R00575,Packaged Snacks,2024-03-10,Compliant,None Detected,Completed
+S000849,R00575,Edible Oil,2024-03-10,Compliant,None Detected,Completed
+S000850,R00576,Grains/Pulses,2024-03-14,Non-Compliant,Adulterant Suspected,Completed
+S000851,R00576,Dairy,2024-03-14,Compliant,None Detected,Completed
+S000852,R00576,Dairy,2024-03-14,Compliant,None Detected,Completed
+S000853,R00577,Meat/Poultry,2024-03-14,Compliant,None Detected,Completed
+S000854,R00577,Grains/Pulses,2024-03-14,Compliant,None Detected,Completed
+S000855,R00577,Grains/Pulses,2024-03-14,Inconclusive,Pending/Retest,Retest Pending
+S000856,R00578,Bakery Products,2024-03-16,Non-Compliant,Heavy Metal Above Limit,Completed
+S000857,R00578,Packaged Snacks,2024-03-16,Compliant,None Detected,Completed
+S000858,R00578,Sweets,2024-03-16,Compliant,None Detected,Completed
+S000859,R00579,Bakery Products,2024-03-17,Non-Compliant,Non-permitted Preservative,Completed
+S000860,R00580,Edible Oil,2024-03-20,Compliant,None Detected,Completed
+S000861,R00580,Grains/Pulses,2024-03-20,Compliant,None Detected,Completed
+S000862,R00580,Bakery Products,2024-03-20,Compliant,None Detected,Completed
+S000863,R00581,Street Food,2024-03-21,Compliant,None Detected,Completed
+S000864,R00581,Grains/Pulses,2024-03-21,Compliant,None Detected,Completed
+S000865,R00582,Sweets,2024-03-23,Compliant,None Detected,Completed
+S000866,R00583,Sweets,2024-03-24,Compliant,None Detected,Completed
+S000867,R00583,Beverages,2024-03-24,Compliant,None Detected,Completed
+S000868,R00584,Street Food,2024-03-24,Compliant,None Detected,Completed
+S000869,R00584,Dairy,2024-03-24,Compliant,None Detected,Completed
+S000870,R00584,Meat/Poultry,2024-03-24,Compliant,None Detected,Completed
+S000871,R00585,Edible Oil,2024-03-27,Compliant,None Detected,Completed
+S000872,R00586,Edible Oil,2024-03-28,Inconclusive,Pending/Retest,Retest Pending
+S000873,R00586,Street Food,2024-03-28,Non-Compliant,Microbial Contamination,Completed
+S000874,R00586,Street Food,2024-03-28,Compliant,None Detected,Completed
+S000875,R00587,Edible Oil,2024-03-30,Compliant,None Detected,Completed
+S000876,R00588,Packaged Snacks,2024-03-31,Non-Compliant,Undeclared Allergen,Completed
+S000877,R00589,Beverages,2024-04-01,Compliant,None Detected,Completed
+S000878,R00589,Street Food,2024-04-01,Compliant,None Detected,Completed
+S000879,R00590,Bakery Products,2024-04-06,Compliant,None Detected,Completed
+S000880,R00590,Grains/Pulses,2024-04-06,Compliant,None Detected,Completed
+S000881,R00590,Edible Oil,2024-04-06,Compliant,None Detected,Completed
+S000882,R00591,Sweets,2024-04-08,Non-Compliant,Adulterant Suspected,Completed
+S000883,R00592,Beverages,2024-04-08,Compliant,None Detected,Completed
+S000884,R00592,Dairy,2024-04-08,Compliant,None Detected,Completed
+S000885,R00593,Packaged Snacks,2024-04-08,Compliant,None Detected,Completed
+S000886,R00595,Grains/Pulses,2024-04-10,Compliant,None Detected,Completed
+S000887,R00595,Beverages,2024-04-10,Compliant,None Detected,Completed
+S000888,R00596,Packaged Snacks,2024-04-11,Compliant,None Detected,Completed
+S000889,R00597,Beverages,2024-04-14,Compliant,None Detected,Completed
+S000890,R00598,Street Food,2024-04-15,Compliant,None Detected,Completed
+S000891,R00599,Bakery Products,2024-04-15,Compliant,None Detected,Completed
+S000892,R00600,Dairy,2024-04-15,Non-Compliant,Non-permitted Preservative,Completed
+S000893,R00600,Packaged Snacks,2024-04-15,Compliant,None Detected,Completed
+S000894,R00601,Beverages,2024-04-16,Non-Compliant,Synthetic Colour,Completed
+S000895,R00602,Dairy,2024-04-17,Compliant,None Detected,Completed
+S000896,R00602,Street Food,2024-04-17,Compliant,None Detected,Completed
+S000897,R00604,Grains/Pulses,2024-04-18,Compliant,None Detected,Completed
+S000898,R00604,Packaged Snacks,2024-04-18,Compliant,None Detected,Completed
+S000899,R00604,Spices,2024-04-18,Compliant,None Detected,Completed
+S000900,R00605,Sweets,2024-04-18,Compliant,None Detected,Completed
+S000901,R00606,Spices,2024-04-18,Compliant,None Detected,Completed
+S000902,R00606,Grains/Pulses,2024-04-18,Compliant,None Detected,Completed
+S000903,R00606,Bakery Products,2024-04-18,Compliant,None Detected,Completed
+S000904,R00607,Meat/Poultry,2024-04-19,Compliant,None Detected,Completed
+S000905,R00607,Grains/Pulses,2024-04-19,Compliant,None Detected,Completed
+S000906,R00608,Packaged Snacks,2024-04-19,Compliant,None Detected,Completed
+S000907,R00608,Bakery Products,2024-04-19,Compliant,None Detected,Completed
+S000908,R00609,Dairy,2024-04-22,Compliant,None Detected,Completed
+S000909,R00609,Packaged Snacks,2024-04-22,Non-Compliant,Adulterant Suspected,Completed
+S000910,R00610,Edible Oil,2024-04-22,Compliant,None Detected,Completed
+S000911,R00610,Spices,2024-04-22,Compliant,None Detected,Completed
+S000912,R00610,Meat/Poultry,2024-04-22,Compliant,None Detected,Completed
+S000913,R00611,Bakery Products,2024-04-23,Compliant,None Detected,Completed
+S000914,R00611,Spices,2024-04-23,Non-Compliant,Undeclared Allergen,Completed
+S000915,R00612,Spices,2024-04-27,Compliant,None Detected,Completed
+S000916,R00612,Packaged Snacks,2024-04-27,Compliant,None Detected,Completed
+S000917,R00612,Sweets,2024-04-27,Compliant,None Detected,Completed
+S000918,R00614,Sweets,2024-05-03,Compliant,None Detected,Completed
+S000919,R00615,Meat/Poultry,2024-05-04,Compliant,None Detected,Completed
+S000920,R00616,Meat/Poultry,2024-05-06,Compliant,None Detected,Completed
+S000921,R00617,Spices,2024-05-07,Inconclusive,Pending/Retest,Retest Pending
+S000922,R00618,Grains/Pulses,2024-05-08,Compliant,None Detected,Completed
+S000923,R00619,Packaged Snacks,2024-05-08,Compliant,None Detected,Completed
+S000924,R00619,Beverages,2024-05-08,Non-Compliant,Synthetic Colour,Completed
+S000925,R00620,Dairy,2024-05-12,Compliant,None Detected,Completed
+S000926,R00620,Meat/Poultry,2024-05-12,Non-Compliant,Heavy Metal Above Limit,Completed
+S000927,R00621,Edible Oil,2024-05-13,Compliant,None Detected,Completed
+S000928,R00621,Packaged Snacks,2024-05-13,Compliant,None Detected,Completed
+S000929,R00622,Packaged Snacks,2024-05-13,Compliant,None Detected,Completed
+S000930,R00624,Edible Oil,2024-05-15,Compliant,None Detected,Completed
+S000931,R00624,Grains/Pulses,2024-05-15,Compliant,None Detected,Completed
+S000932,R00625,Edible Oil,2024-05-17,Compliant,None Detected,Completed
+S000933,R00625,Beverages,2024-05-17,Compliant,None Detected,Completed
+S000934,R00626,Dairy,2024-05-18,Inconclusive,Pending/Retest,Retest Pending
+S000935,R00626,Edible Oil,2024-05-18,Non-Compliant,Excess Moisture,Completed
+S000936,R00627,Spices,2024-05-22,Compliant,None Detected,Completed
+S000937,R00627,Sweets,2024-05-22,Compliant,None Detected,Completed
+S000938,R00628,Spices,2024-05-22,Compliant,None Detected,Completed
+S000939,R00629,Beverages,2024-05-23,Compliant,None Detected,Completed
+S000940,R00630,Dairy,2024-05-23,Non-Compliant,Undeclared Allergen,Completed
+S000941,R00630,Bakery Products,2024-05-23,Non-Compliant,Undeclared Allergen,Completed
+S000942,R00631,Beverages,2024-05-24,Compliant,None Detected,Completed
+S000943,R00631,Dairy,2024-05-24,Compliant,None Detected,Completed
+S000944,R00632,Edible Oil,2024-05-24,Compliant,None Detected,Completed
+S000945,R00633,Beverages,2024-05-24,Compliant,None Detected,Completed
+S000946,R00634,Sweets,2024-05-24,Compliant,None Detected,Completed
+S000947,R00635,Packaged Snacks,2024-05-25,Compliant,None Detected,Completed
+S000948,R00636,Packaged Snacks,2024-05-26,Non-Compliant,Adulterant Suspected,Completed
+S000949,R00637,Beverages,2024-05-28,Compliant,None Detected,Completed
+S000950,R00638,Spices,2024-05-30,Compliant,None Detected,Completed
+S000951,R00640,Edible Oil,2024-05-31,Compliant,None Detected,Completed
+S000952,R00641,Edible Oil,2024-06-03,Compliant,None Detected,Completed
+S000953,R00641,Sweets,2024-06-03,Compliant,None Detected,Completed
+S000954,R00641,Spices,2024-06-03,Non-Compliant,Synthetic Colour,Completed
+S000955,R00642,Spices,2024-06-04,Compliant,None Detected,Completed
+S000956,R00644,Street Food,2024-06-05,Compliant,None Detected,Completed
+S000957,R00644,Meat/Poultry,2024-06-05,Compliant,None Detected,Completed
+S000958,R00645,Bakery Products,2024-06-07,Compliant,None Detected,Completed
+S000959,R00646,Street Food,2024-06-08,Compliant,None Detected,Completed
+S000960,R00647,Spices,2024-06-11,Non-Compliant,Adulterant Suspected,Completed
+S000961,R00648,Grains/Pulses,2024-06-11,Compliant,None Detected,Completed
+S000962,R00648,Grains/Pulses,2024-06-11,Non-Compliant,Microbial Contamination,Completed
+S000963,R00649,Bakery Products,2024-06-13,Compliant,None Detected,Completed
+S000964,R00649,Sweets,2024-06-13,Compliant,None Detected,Completed
+S000965,R00650,Edible Oil,2024-06-14,Compliant,None Detected,Completed
+S000966,R00650,Bakery Products,2024-06-14,Non-Compliant,Undeclared Allergen,Completed
+S000967,R00651,Street Food,2024-06-19,Compliant,None Detected,Completed
+S000968,R00652,Dairy,2024-06-23,Compliant,None Detected,Completed
+S000969,R00653,Sweets,2024-06-23,Compliant,None Detected,Completed
+S000970,R00653,Bakery Products,2024-06-23,Compliant,None Detected,Completed
+S000971,R00654,Packaged Snacks,2024-07-06,Non-Compliant,Excess Moisture,Completed
+S000972,R00654,Bakery Products,2024-07-06,Compliant,None Detected,Completed
+S000973,R00655,Bakery Products,2024-07-09,Non-Compliant,Excess Moisture,Completed
+S000974,R00656,Spices,2024-07-10,Compliant,None Detected,Completed
+S000975,R00656,Grains/Pulses,2024-07-10,Compliant,None Detected,Completed
+S000976,R00657,Street Food,2024-07-11,Compliant,None Detected,Completed
+S000977,R00658,Spices,2024-07-16,Non-Compliant,Adulterant Suspected,Completed
+S000978,R00658,Spices,2024-07-16,Non-Compliant,Synthetic Colour,Completed
+S000979,R00659,Bakery Products,2024-07-16,Compliant,None Detected,Completed
+S000980,R00660,Spices,2024-07-18,Inconclusive,Pending/Retest,Retest Pending
+S000981,R00660,Sweets,2024-07-18,Compliant,None Detected,Completed
+S000982,R00661,Grains/Pulses,2024-07-18,Compliant,None Detected,Completed
+S000983,R00661,Bakery Products,2024-07-18,Non-Compliant,Undeclared Allergen,Completed
+S000984,R00662,Bakery Products,2024-07-19,Compliant,None Detected,Completed
+S000985,R00663,Street Food,2024-07-21,Compliant,None Detected,Completed
+S000986,R00663,Sweets,2024-07-21,Compliant,None Detected,Completed
+S000987,R00664,Packaged Snacks,2024-07-24,Compliant,None Detected,Completed
+S000988,R00664,Dairy,2024-07-24,Compliant,None Detected,Completed
+S000989,R00666,Dairy,2024-07-25,Compliant,None Detected,Completed
+S000990,R00666,Bakery Products,2024-07-25,Compliant,None Detected,Completed
+S000991,R00667,Meat/Poultry,2024-07-26,Compliant,None Detected,Completed
+S000992,R00667,Sweets,2024-07-26,Compliant,None Detected,Completed
+S000993,R00668,Beverages,2024-07-26,Non-Compliant,Heavy Metal Above Limit,Completed
+S000994,R00668,Grains/Pulses,2024-07-26,Compliant,None Detected,Completed
+S000995,R00668,Packaged Snacks,2024-07-26,Compliant,None Detected,Completed
+S000996,R00669,Beverages,2024-07-30,Compliant,None Detected,Completed
+S000997,R00670,Packaged Snacks,2024-07-31,Compliant,None Detected,Completed
+S000998,R00670,Bakery Products,2024-07-31,Compliant,None Detected,Completed
+S000999,R00671,Street Food,2024-08-03,Compliant,None Detected,Completed
+S001000,R00672,Dairy,2024-08-04,Compliant,None Detected,Completed
+S001001,R00674,Packaged Snacks,2024-08-06,Non-Compliant,Non-permitted Preservative,Completed
+S001002,R00674,Grains/Pulses,2024-08-06,Compliant,None Detected,Completed
+S001003,R00675,Edible Oil,2024-08-07,Compliant,None Detected,Completed
+S001004,R00676,Sweets,2024-08-08,Inconclusive,Pending/Retest,Retest Pending
+S001005,R00677,Edible Oil,2024-08-08,Compliant,None Detected,Completed
+S001006,R00677,Sweets,2024-08-08,Compliant,None Detected,Completed
+S001007,R00677,Spices,2024-08-08,Compliant,None Detected,Completed
+S001008,R00679,Spices,2024-08-09,Compliant,None Detected,Completed
+S001009,R00679,Beverages,2024-08-09,Compliant,None Detected,Completed
+S001010,R00680,Sweets,2024-08-09,Compliant,None Detected,Completed
+S001011,R00680,Spices,2024-08-09,Compliant,None Detected,Completed
+S001012,R00681,Beverages,2024-08-09,Compliant,None Detected,Completed
+S001013,R00682,Spices,2024-08-11,Compliant,None Detected,Completed
+S001014,R00682,Beverages,2024-08-11,Compliant,None Detected,Completed
+S001015,R00683,Spices,2024-08-13,Inconclusive,Pending/Retest,Retest Pending
+S001016,R00683,Sweets,2024-08-13,Compliant,None Detected,Completed
+S001017,R00684,Meat/Poultry,2024-08-15,Compliant,None Detected,Completed
+S001018,R00685,Spices,2024-08-17,Compliant,None Detected,Completed
+S001019,R00686,Bakery Products,2024-08-18,Non-Compliant,Adulterant Suspected,Completed
+S001020,R00686,Packaged Snacks,2024-08-18,Compliant,None Detected,Completed
+S001021,R00687,Grains/Pulses,2024-08-19,Compliant,None Detected,Completed
+S001022,R00687,Packaged Snacks,2024-08-19,Compliant,None Detected,Completed
+S001023,R00688,Spices,2024-08-21,Compliant,None Detected,Completed
+S001024,R00688,Spices,2024-08-21,Compliant,None Detected,Completed
+S001025,R00688,Packaged Snacks,2024-08-21,Non-Compliant,Synthetic Colour,Completed
+S001026,R00689,Dairy,2024-08-26,Non-Compliant,Adulterant Suspected,Completed
+S001027,R00689,Spices,2024-08-26,Non-Compliant,Undeclared Allergen,Completed
+S001028,R00690,Sweets,2024-08-27,Compliant,None Detected,Completed
+S001029,R00691,Bakery Products,2024-08-31,Compliant,None Detected,Completed
+S001030,R00692,Street Food,2024-08-31,Compliant,None Detected,Completed
+S001031,R00692,Packaged Snacks,2024-08-31,Compliant,None Detected,Completed
+S001032,R00692,Dairy,2024-08-31,Compliant,None Detected,Completed
+S001033,R00693,Meat/Poultry,2024-08-31,Compliant,None Detected,Completed
+S001034,R00694,Edible Oil,2024-09-01,Compliant,None Detected,Completed
+S001035,R00694,Packaged Snacks,2024-09-01,Non-Compliant,Excess Moisture,Completed
+S001036,R00695,Sweets,2024-09-01,Compliant,None Detected,Completed
+S001037,R00695,Spices,2024-09-01,Compliant,None Detected,Completed
+S001038,R00695,Beverages,2024-09-01,Compliant,None Detected,Completed
+S001039,R00696,Dairy,2024-09-03,Compliant,None Detected,Completed
+S001040,R00697,Bakery Products,2024-09-03,Non-Compliant,Heavy Metal Above Limit,Completed
+S001041,R00698,Bakery Products,2024-09-05,Compliant,None Detected,Completed
+S001042,R00698,Meat/Poultry,2024-09-05,Compliant,None Detected,Completed
+S001043,R00698,Grains/Pulses,2024-09-05,Compliant,None Detected,Completed
+S001044,R00699,Grains/Pulses,2024-09-05,Compliant,None Detected,Completed
+S001045,R00699,Street Food,2024-09-05,Compliant,None Detected,Completed
+S001046,R00700,Bakery Products,2024-09-06,Compliant,None Detected,Completed
+S001047,R00700,Grains/Pulses,2024-09-06,Compliant,None Detected,Completed
+S001048,R00700,Sweets,2024-09-06,Compliant,None Detected,Completed
+S001049,R00702,Sweets,2024-09-08,Compliant,None Detected,Completed
+S001050,R00703,Edible Oil,2024-09-08,Compliant,None Detected,Completed
+S001051,R00703,Packaged Snacks,2024-09-08,Compliant,None Detected,Completed
+S001052,R00704,Meat/Poultry,2024-09-08,Compliant,None Detected,Completed
+S001053,R00704,Grains/Pulses,2024-09-08,Compliant,None Detected,Completed
+S001054,R00704,Meat/Poultry,2024-09-08,Compliant,None Detected,Completed
+S001055,R00705,Packaged Snacks,2024-09-09,Non-Compliant,Excess Moisture,Completed
+S001056,R00705,Dairy,2024-09-09,Compliant,None Detected,Completed
+S001057,R00706,Beverages,2024-09-09,Non-Compliant,Adulterant Suspected,Completed
+S001058,R00708,Meat/Poultry,2024-09-12,Compliant,None Detected,Completed
+S001059,R00708,Street Food,2024-09-12,Compliant,None Detected,Completed
+S001060,R00709,Street Food,2024-09-16,Compliant,None Detected,Completed
+S001061,R00709,Bakery Products,2024-09-16,Compliant,None Detected,Completed
+S001062,R00709,Dairy,2024-09-16,Compliant,None Detected,Completed
+S001063,R00710,Spices,2024-09-19,Compliant,None Detected,Completed
+S001064,R00711,Meat/Poultry,2024-09-25,Compliant,None Detected,Completed
+S001065,R00711,Spices,2024-09-25,Compliant,None Detected,Completed
+S001066,R00712,Spices,2024-09-27,Compliant,None Detected,Completed
+S001067,R00712,Meat/Poultry,2024-09-27,Compliant,None Detected,Completed
+S001068,R00713,Meat/Poultry,2024-09-29,Compliant,None Detected,Completed
+S001069,R00714,Grains/Pulses,2024-09-29,Non-Compliant,Heavy Metal Above Limit,Completed
+S001070,R00714,Street Food,2024-09-29,Non-Compliant,Excess Moisture,Completed
+S001071,R00714,Dairy,2024-09-29,Compliant,None Detected,Completed
+S001072,R00715,Beverages,2024-09-30,Compliant,None Detected,Completed
+S001073,R00715,Spices,2024-09-30,Compliant,None Detected,Completed
+S001074,R00716,Street Food,2024-10-01,Compliant,None Detected,Completed
+S001075,R00717,Packaged Snacks,2024-10-01,Non-Compliant,Undeclared Allergen,Completed
+S001076,R00718,Street Food,2024-10-01,Compliant,None Detected,Completed
+S001077,R00718,Street Food,2024-10-01,Non-Compliant,Excess Moisture,Completed
+S001078,R00719,Spices,2024-10-02,Compliant,None Detected,Completed
+S001079,R00721,Meat/Poultry,2024-10-05,Compliant,None Detected,Completed
+S001080,R00721,Bakery Products,2024-10-05,Compliant,None Detected,Completed
+S001081,R00722,Edible Oil,2024-10-07,Compliant,None Detected,Completed
+S001082,R00723,Meat/Poultry,2024-10-07,Non-Compliant,Non-permitted Preservative,Completed
+S001083,R00723,Beverages,2024-10-07,Compliant,None Detected,Completed
+S001084,R00724,Grains/Pulses,2024-10-08,Non-Compliant,Heavy Metal Above Limit,Completed
+S001085,R00724,Grains/Pulses,2024-10-08,Compliant,None Detected,Completed
+S001086,R00725,Sweets,2024-10-10,Compliant,None Detected,Completed
+S001087,R00726,Sweets,2024-10-12,Compliant,None Detected,Completed
+S001088,R00727,Packaged Snacks,2024-10-12,Non-Compliant,Heavy Metal Above Limit,Completed
+S001089,R00727,Packaged Snacks,2024-10-12,Compliant,None Detected,Completed
+S001090,R00727,Bakery Products,2024-10-12,Compliant,None Detected,Completed
+S001091,R00728,Sweets,2024-10-13,Compliant,None Detected,Completed
+S001092,R00728,Packaged Snacks,2024-10-13,Compliant,None Detected,Completed
+S001093,R00729,Dairy,2024-10-15,Compliant,None Detected,Completed
+S001094,R00729,Packaged Snacks,2024-10-15,Compliant,None Detected,Completed
+S001095,R00730,Spices,2024-10-17,Non-Compliant,Undeclared Allergen,Completed
+S001096,R00730,Meat/Poultry,2024-10-17,Non-Compliant,Undeclared Allergen,Completed
+S001097,R00731,Sweets,2024-10-17,Compliant,None Detected,Completed
+S001098,R00732,Beverages,2024-10-17,Compliant,None Detected,Completed
+S001099,R00732,Edible Oil,2024-10-17,Non-Compliant,Adulterant Suspected,Completed
+S001100,R00733,Bakery Products,2024-10-24,Compliant,None Detected,Completed
+S001101,R00733,Meat/Poultry,2024-10-24,Compliant,None Detected,Completed
+S001102,R00734,Spices,2024-10-24,Inconclusive,Pending/Retest,Retest Pending
+S001103,R00734,Spices,2024-10-24,Compliant,None Detected,Completed
+S001104,R00735,Meat/Poultry,2024-10-25,Compliant,None Detected,Completed
+S001105,R00735,Bakery Products,2024-10-25,Compliant,None Detected,Completed
+S001106,R00736,Spices,2024-10-26,Compliant,None Detected,Completed
+S001107,R00739,Street Food,2024-10-28,Compliant,None Detected,Completed
+S001108,R00739,Bakery Products,2024-10-28,Compliant,None Detected,Completed
+S001109,R00740,Meat/Poultry,2024-10-28,Compliant,None Detected,Completed
+S001110,R00740,Spices,2024-10-28,Compliant,None Detected,Completed
+S001111,R00741,Packaged Snacks,2024-10-29,Compliant,None Detected,Completed
+S001112,R00741,Beverages,2024-10-29,Non-Compliant,Undeclared Allergen,Completed
+S001113,R00741,Bakery Products,2024-10-29,Compliant,None Detected,Completed
+S001114,R00742,Dairy,2024-10-30,Compliant,None Detected,Completed
+S001115,R00742,Spices,2024-10-30,Compliant,None Detected,Completed
+S001116,R00742,Sweets,2024-10-30,Non-Compliant,Non-permitted Preservative,Completed
+S001117,R00743,Dairy,2024-10-31,Compliant,None Detected,Completed
+S001118,R00744,Dairy,2024-11-06,Compliant,None Detected,Completed
+S001119,R00744,Sweets,2024-11-06,Compliant,None Detected,Completed
+S001120,R00745,Edible Oil,2024-11-07,Compliant,None Detected,Completed
+S001121,R00745,Bakery Products,2024-11-07,Compliant,None Detected,Completed
+S001122,R00745,Meat/Poultry,2024-11-07,Compliant,None Detected,Completed
+S001123,R00747,Beverages,2024-11-08,Compliant,None Detected,Completed
+S001124,R00747,Beverages,2024-11-08,Compliant,None Detected,Completed
+S001125,R00748,Packaged Snacks,2024-11-09,Compliant,None Detected,Completed
+S001126,R00748,Street Food,2024-11-09,Compliant,None Detected,Completed
+S001127,R00749,Sweets,2024-11-09,Compliant,None Detected,Completed
+S001128,R00750,Meat/Poultry,2024-11-11,Compliant,None Detected,Completed
+S001129,R00750,Grains/Pulses,2024-11-11,Compliant,None Detected,Completed
+S001130,R00752,Spices,2024-11-12,Compliant,None Detected,Completed
+S001131,R00752,Packaged Snacks,2024-11-12,Compliant,None Detected,Completed
+S001132,R00753,Sweets,2024-11-13,Compliant,None Detected,Completed
+S001133,R00753,Street Food,2024-11-13,Compliant,None Detected,Completed
+S001134,R00754,Sweets,2024-11-13,Compliant,None Detected,Completed
+S001135,R00755,Sweets,2024-11-14,Compliant,None Detected,Completed
+S001136,R00756,Dairy,2024-11-14,Compliant,None Detected,Completed
+S001137,R00756,Edible Oil,2024-11-14,Compliant,None Detected,Completed
+S001138,R00756,Meat/Poultry,2024-11-14,Compliant,None Detected,Completed
+S001139,R00757,Edible Oil,2024-11-15,Inconclusive,Pending/Retest,Retest Pending
+S001140,R00757,Dairy,2024-11-15,Compliant,None Detected,Completed
+S001141,R00758,Grains/Pulses,2024-11-16,Compliant,None Detected,Completed
+S001142,R00758,Edible Oil,2024-11-16,Compliant,None Detected,Completed
+S001143,R00758,Street Food,2024-11-16,Compliant,None Detected,Completed
+S001144,R00759,Beverages,2024-11-16,Compliant,None Detected,Completed
+S001145,R00760,Edible Oil,2024-11-17,Compliant,None Detected,Completed
+S001146,R00761,Grains/Pulses,2024-11-20,Compliant,None Detected,Completed
+S001147,R00761,Bakery Products,2024-11-20,Non-Compliant,Excess Moisture,Completed
+S001148,R00762,Meat/Poultry,2024-11-23,Non-Compliant,Non-permitted Preservative,Completed
+S001149,R00762,Sweets,2024-11-23,Compliant,None Detected,Completed
+S001150,R00763,Bakery Products,2024-11-23,Compliant,None Detected,Completed
+S001151,R00763,Dairy,2024-11-23,Compliant,None Detected,Completed
+S001152,R00763,Meat/Poultry,2024-11-23,Compliant,None Detected,Completed
+S001153,R00764,Packaged Snacks,2024-11-24,Compliant,None Detected,Completed
+S001154,R00766,Sweets,2024-11-28,Compliant,None Detected,Completed
+S001155,R00767,Sweets,2024-11-28,Compliant,None Detected,Completed
+S001156,R00768,Street Food,2024-11-30,Inconclusive,Pending/Retest,Retest Pending
+S001157,R00768,Packaged Snacks,2024-11-30,Compliant,None Detected,Completed
+S001158,R00768,Bakery Products,2024-11-30,Compliant,None Detected,Completed
+S001159,R00769,Spices,2024-11-30,Compliant,None Detected,Completed
+S001160,R00769,Meat/Poultry,2024-11-30,Inconclusive,Pending/Retest,Retest Pending
+S001161,R00769,Dairy,2024-11-30,Inconclusive,Pending/Retest,Retest Pending
+S001162,R00770,Sweets,2024-12-01,Non-Compliant,Undeclared Allergen,Completed
+S001163,R00771,Dairy,2024-12-01,Compliant,None Detected,Completed
+S001164,R00771,Street Food,2024-12-01,Compliant,None Detected,Completed
+S001165,R00771,Street Food,2024-12-01,Compliant,None Detected,Completed
+S001166,R00772,Spices,2024-12-02,Compliant,None Detected,Completed
+S001167,R00772,Spices,2024-12-02,Compliant,None Detected,Completed
+S001168,R00773,Dairy,2024-12-02,Compliant,None Detected,Completed
+S001169,R00773,Street Food,2024-12-02,Compliant,None Detected,Completed
+S001170,R00774,Edible Oil,2024-12-02,Compliant,None Detected,Completed
+S001171,R00775,Beverages,2024-12-02,Compliant,None Detected,Completed
+S001172,R00776,Dairy,2024-12-04,Inconclusive,Pending/Retest,Retest Pending
+S001173,R00776,Sweets,2024-12-04,Compliant,None Detected,Completed
+S001174,R00776,Edible Oil,2024-12-04,Compliant,None Detected,Completed
+S001175,R00777,Edible Oil,2024-12-07,Compliant,None Detected,Completed
+S001176,R00778,Grains/Pulses,2024-12-07,Compliant,None Detected,Completed
+S001177,R00778,Bakery Products,2024-12-07,Compliant,None Detected,Completed
+S001178,R00779,Sweets,2024-12-07,Compliant,None Detected,Completed
+S001179,R00780,Spices,2024-12-09,Compliant,None Detected,Completed
+S001180,R00781,Street Food,2024-12-11,Compliant,None Detected,Completed
+S001181,R00781,Street Food,2024-12-11,Non-Compliant,Microbial Contamination,Completed
+S001182,R00782,Street Food,2024-12-13,Compliant,None Detected,Completed
+S001183,R00783,Packaged Snacks,2024-12-14,Compliant,None Detected,Completed
+S001184,R00784,Grains/Pulses,2024-12-19,Compliant,None Detected,Completed
+S001185,R00785,Meat/Poultry,2024-12-20,Compliant,None Detected,Completed
+S001186,R00785,Bakery Products,2024-12-20,Compliant,None Detected,Completed
+S001187,R00786,Packaged Snacks,2024-12-23,Compliant,None Detected,Completed
+S001188,R00787,Dairy,2024-12-25,Compliant,None Detected,Completed
+S001189,R00788,Spices,2024-12-25,Compliant,None Detected,Completed
+S001190,R00788,Edible Oil,2024-12-25,Compliant,None Detected,Completed
+S001191,R00789,Spices,2024-12-26,Compliant,None Detected,Completed
+S001192,R00790,Packaged Snacks,2024-12-27,Compliant,None Detected,Completed
+S001193,R00790,Sweets,2024-12-27,Compliant,None Detected,Completed
+S001194,R00790,Sweets,2024-12-27,Compliant,None Detected,Completed
+S001195,R00791,Packaged Snacks,2024-12-27,Non-Compliant,Heavy Metal Above Limit,Completed
+S001196,R00792,Sweets,2024-12-29,Compliant,None Detected,Completed
+S001197,R00793,Bakery Products,2024-12-30,Compliant,None Detected,Completed
+S001198,R00794,Street Food,2025-01-01,Non-Compliant,Heavy Metal Above Limit,Completed
+S001199,R00795,Edible Oil,2025-01-02,Compliant,None Detected,Completed
+S001200,R00795,Sweets,2025-01-02,Compliant,None Detected,Completed
+S001201,R00796,Spices,2025-01-05,Compliant,None Detected,Completed
+S001202,R00797,Bakery Products,2025-01-06,Compliant,None Detected,Completed
+S001203,R00797,Grains/Pulses,2025-01-06,Compliant,None Detected,Completed
+S001204,R00798,Meat/Poultry,2025-01-06,Compliant,None Detected,Completed
+S001205,R00798,Edible Oil,2025-01-06,Compliant,None Detected,Completed
+S001206,R00798,Street Food,2025-01-06,Compliant,None Detected,Completed
+S001207,R00799,Bakery Products,2025-01-12,Compliant,None Detected,Completed
+S001208,R00800,Dairy,2025-01-13,Compliant,None Detected,Completed
+S001209,R00800,Edible Oil,2025-01-13,Compliant,None Detected,Completed
+S001210,R00802,Grains/Pulses,2025-01-16,Compliant,None Detected,Completed
+S001211,R00802,Bakery Products,2025-01-16,Compliant,None Detected,Completed
+S001212,R00803,Beverages,2025-01-16,Non-Compliant,Undeclared Allergen,Completed
+S001213,R00803,Beverages,2025-01-16,Compliant,None Detected,Completed
+S001214,R00803,Street Food,2025-01-16,Compliant,None Detected,Completed
+S001215,R00804,Edible Oil,2025-01-19,Compliant,None Detected,Completed
+S001216,R00805,Edible Oil,2025-01-20,Compliant,None Detected,Completed
+S001217,R00806,Dairy,2025-01-23,Inconclusive,Pending/Retest,Retest Pending
+S001218,R00807,Packaged Snacks,2025-01-23,Non-Compliant,Non-permitted Preservative,Completed
+S001219,R00808,Bakery Products,2025-01-24,Compliant,None Detected,Completed
+S001220,R00808,Sweets,2025-01-24,Non-Compliant,Adulterant Suspected,Completed
+S001221,R00811,Dairy,2025-01-28,Inconclusive,Pending/Retest,Retest Pending
+S001222,R00811,Edible Oil,2025-01-28,Compliant,None Detected,Completed
+S001223,R00814,Beverages,2025-01-30,Compliant,None Detected,Completed
+S001224,R00816,Sweets,2025-01-30,Compliant,None Detected,Completed
+S001225,R00816,Grains/Pulses,2025-01-30,Compliant,None Detected,Completed
+S001226,R00817,Bakery Products,2025-01-31,Compliant,None Detected,Completed
+S001227,R00817,Packaged Snacks,2025-01-31,Compliant,None Detected,Completed
+S001228,R00818,Grains/Pulses,2025-02-01,Compliant,None Detected,Completed
+S001229,R00818,Spices,2025-02-01,Non-Compliant,Adulterant Suspected,Completed
+S001230,R00819,Packaged Snacks,2025-02-03,Compliant,None Detected,Completed
+S001231,R00819,Dairy,2025-02-03,Inconclusive,Pending/Retest,Retest Pending
+S001232,R00819,Bakery Products,2025-02-03,Compliant,None Detected,Completed
+S001233,R00821,Sweets,2025-02-06,Inconclusive,Pending/Retest,Retest Pending
+S001234,R00822,Edible Oil,2025-02-06,Compliant,None Detected,Completed
+S001235,R00823,Edible Oil,2025-02-07,Compliant,None Detected,Completed
+S001236,R00823,Grains/Pulses,2025-02-07,Compliant,None Detected,Completed
+S001237,R00824,Edible Oil,2025-02-08,Compliant,None Detected,Completed
+S001238,R00825,Sweets,2025-02-09,Compliant,None Detected,Completed
+S001239,R00826,Spices,2025-02-09,Compliant,None Detected,Completed
+S001240,R00826,Sweets,2025-02-09,Compliant,None Detected,Completed
+S001241,R00827,Bakery Products,2025-02-12,Compliant,None Detected,Completed
+S001242,R00829,Packaged Snacks,2025-02-13,Compliant,None Detected,Completed
+S001243,R00830,Spices,2025-02-16,Compliant,None Detected,Completed
+S001244,R00830,Edible Oil,2025-02-16,Non-Compliant,Synthetic Colour,Completed
+S001245,R00831,Spices,2025-02-16,Compliant,None Detected,Completed
+S001246,R00831,Meat/Poultry,2025-02-16,Inconclusive,Pending/Retest,Retest Pending
+S001247,R00832,Meat/Poultry,2025-02-17,Non-Compliant,Heavy Metal Above Limit,Completed
+S001248,R00832,Street Food,2025-02-17,Compliant,None Detected,Completed
+S001249,R00833,Sweets,2025-02-17,Compliant,None Detected,Completed
+S001250,R00834,Edible Oil,2025-02-21,Compliant,None Detected,Completed
+S001251,R00834,Meat/Poultry,2025-02-21,Non-Compliant,Microbial Contamination,Completed
+S001252,R00834,Street Food,2025-02-21,Compliant,None Detected,Completed
+S001253,R00835,Spices,2025-02-22,Compliant,None Detected,Completed
+S001254,R00836,Edible Oil,2025-02-23,Compliant,None Detected,Completed
+S001255,R00836,Dairy,2025-02-23,Compliant,None Detected,Completed
+S001256,R00837,Bakery Products,2025-02-24,Compliant,None Detected,Completed
+S001257,R00837,Spices,2025-02-24,Inconclusive,Pending/Retest,Retest Pending
+S001258,R00838,Packaged Snacks,2025-02-25,Non-Compliant,Microbial Contamination,Completed
+S001259,R00839,Grains/Pulses,2025-02-26,Inconclusive,Pending/Retest,Retest Pending
+S001260,R00840,Grains/Pulses,2025-03-01,Compliant,None Detected,Completed
+S001261,R00840,Dairy,2025-03-01,Compliant,None Detected,Completed
+S001262,R00841,Grains/Pulses,2025-03-03,Compliant,None Detected,Completed
+S001263,R00843,Street Food,2025-03-05,Compliant,None Detected,Completed
+S001264,R00843,Dairy,2025-03-05,Non-Compliant,Heavy Metal Above Limit,Completed
+S001265,R00843,Bakery Products,2025-03-05,Compliant,None Detected,Completed
+S001266,R00844,Dairy,2025-03-07,Compliant,None Detected,Completed
+S001267,R00844,Beverages,2025-03-07,Compliant,None Detected,Completed
+S001268,R00844,Beverages,2025-03-07,Non-Compliant,Undeclared Allergen,Completed
+S001269,R00846,Beverages,2025-03-14,Compliant,None Detected,Completed
+S001270,R00846,Sweets,2025-03-14,Inconclusive,Pending/Retest,Retest Pending
+S001271,R00847,Sweets,2025-03-17,Compliant,None Detected,Completed
+S001272,R00848,Beverages,2025-03-18,Compliant,None Detected,Completed
+S001273,R00849,Sweets,2025-03-19,Compliant,None Detected,Completed
+S001274,R00849,Sweets,2025-03-19,Non-Compliant,Heavy Metal Above Limit,Completed
+S001275,R00850,Packaged Snacks,2025-03-20,Compliant,None Detected,Completed
+S001276,R00850,Beverages,2025-03-20,Non-Compliant,Heavy Metal Above Limit,Completed
+S001277,R00851,Street Food,2025-03-21,Compliant,None Detected,Completed
+S001278,R00851,Edible Oil,2025-03-21,Compliant,None Detected,Completed
+S001279,R00852,Bakery Products,2025-03-21,Compliant,None Detected,Completed
+S001280,R00852,Bakery Products,2025-03-21,Non-Compliant,Excess Moisture,Completed
+S001281,R00852,Dairy,2025-03-21,Non-Compliant,Excess Moisture,Completed
+S001282,R00854,Meat/Poultry,2025-03-22,Compliant,None Detected,Completed
+S001283,R00854,Grains/Pulses,2025-03-22,Inconclusive,Pending/Retest,Retest Pending
+S001284,R00855,Spices,2025-03-22,Inconclusive,Pending/Retest,Retest Pending
+S001285,R00855,Grains/Pulses,2025-03-22,Inconclusive,Pending/Retest,Retest Pending
+S001286,R00855,Bakery Products,2025-03-22,Non-Compliant,Non-permitted Preservative,Completed
+S001287,R00857,Meat/Poultry,2025-04-03,Compliant,None Detected,Completed
+S001288,R00858,Dairy,2025-04-07,Compliant,None Detected,Completed
+S001289,R00859,Beverages,2025-04-08,Compliant,None Detected,Completed
+S001290,R00859,Sweets,2025-04-08,Non-Compliant,Excess Moisture,Completed
+S001291,R00859,Edible Oil,2025-04-08,Non-Compliant,Non-permitted Preservative,Completed
+S001292,R00860,Packaged Snacks,2025-04-09,Compliant,None Detected,Completed
+S001293,R00860,Grains/Pulses,2025-04-09,Compliant,None Detected,Completed
+S001294,R00860,Dairy,2025-04-09,Non-Compliant,Synthetic Colour,Completed
+S001295,R00861,Grains/Pulses,2025-04-09,Compliant,None Detected,Completed
+S001296,R00863,Street Food,2025-04-14,Inconclusive,Pending/Retest,Retest Pending
+S001297,R00863,Sweets,2025-04-14,Compliant,None Detected,Completed
+S001298,R00864,Edible Oil,2025-04-18,Compliant,None Detected,Completed
+S001299,R00865,Spices,2025-04-19,Compliant,None Detected,Completed
+S001300,R00866,Spices,2025-04-23,Compliant,None Detected,Completed
+S001301,R00867,Street Food,2025-04-24,Compliant,None Detected,Completed
+S001302,R00868,Bakery Products,2025-04-25,Compliant,None Detected,Completed
+S001303,R00868,Spices,2025-04-25,Inconclusive,Pending/Retest,Retest Pending
+S001304,R00868,Sweets,2025-04-25,Compliant,None Detected,Completed
+S001305,R00869,Packaged Snacks,2025-04-27,Compliant,None Detected,Completed
+S001306,R00870,Bakery Products,2025-04-29,Compliant,None Detected,Completed
+S001307,R00870,Packaged Snacks,2025-04-29,Inconclusive,Pending/Retest,Retest Pending
+S001308,R00871,Edible Oil,2025-04-30,Compliant,None Detected,Completed
+S001309,R00872,Packaged Snacks,2025-05-01,Compliant,None Detected,Completed
+S001310,R00873,Bakery Products,2025-05-02,Compliant,None Detected,Completed
+S001311,R00873,Beverages,2025-05-02,Non-Compliant,Heavy Metal Above Limit,Completed
+S001312,R00873,Beverages,2025-05-02,Compliant,None Detected,Completed
+S001313,R00874,Beverages,2025-05-03,Compliant,None Detected,Completed
+S001314,R00874,Packaged Snacks,2025-05-03,Compliant,None Detected,Completed
+S001315,R00875,Bakery Products,2025-05-07,Compliant,None Detected,Completed
+S001316,R00878,Packaged Snacks,2025-05-13,Compliant,None Detected,Completed
+S001317,R00879,Beverages,2025-05-18,Compliant,None Detected,Completed
+S001318,R00880,Spices,2025-05-19,Non-Compliant,Adulterant Suspected,Completed
+S001319,R00880,Sweets,2025-05-19,Compliant,None Detected,Completed
+S001320,R00880,Bakery Products,2025-05-19,Inconclusive,Pending/Retest,Retest Pending
+S001321,R00881,Packaged Snacks,2025-05-20,Non-Compliant,Heavy Metal Above Limit,Completed
+S001322,R00881,Dairy,2025-05-20,Compliant,None Detected,Completed
+S001323,R00881,Packaged Snacks,2025-05-20,Compliant,None Detected,Completed
+S001324,R00882,Beverages,2025-05-21,Compliant,None Detected,Completed
+S001325,R00882,Bakery Products,2025-05-21,Compliant,None Detected,Completed
+S001326,R00883,Grains/Pulses,2025-05-26,Compliant,None Detected,Completed
+S001327,R00883,Dairy,2025-05-26,Non-Compliant,Undeclared Allergen,Completed
+S001328,R00883,Grains/Pulses,2025-05-26,Non-Compliant,Excess Moisture,Completed
+S001329,R00884,Street Food,2025-06-01,Compliant,None Detected,Completed
+S001330,R00884,Sweets,2025-06-01,Compliant,None Detected,Completed
+S001331,R00885,Street Food,2025-06-02,Compliant,None Detected,Completed
+S001332,R00886,Sweets,2025-06-06,Compliant,None Detected,Completed
+S001333,R00886,Edible Oil,2025-06-06,Compliant,None Detected,Completed
+S001334,R00887,Beverages,2025-06-10,Inconclusive,Pending/Retest,Retest Pending
+S001335,R00887,Street Food,2025-06-10,Compliant,None Detected,Completed
+S001336,R00887,Meat/Poultry,2025-06-10,Compliant,None Detected,Completed
+S001337,R00888,Street Food,2025-06-10,Compliant,None Detected,Completed
+S001338,R00889,Bakery Products,2025-06-11,Compliant,None Detected,Completed
+S001339,R00889,Grains/Pulses,2025-06-11,Compliant,None Detected,Completed
+S001340,R00890,Sweets,2025-06-13,Compliant,None Detected,Completed
+S001341,R00890,Spices,2025-06-13,Compliant,None Detected,Completed
+S001342,R00891,Bakery Products,2025-06-17,Non-Compliant,Synthetic Colour,Completed
+S001343,R00891,Dairy,2025-06-17,Compliant,None Detected,Completed
+S001344,R00892,Bakery Products,2025-06-19,Non-Compliant,Undeclared Allergen,Completed
+S001345,R00892,Beverages,2025-06-19,Non-Compliant,Heavy Metal Above Limit,Completed
+S001346,R00893,Meat/Poultry,2025-06-23,Compliant,None Detected,Completed
+S001347,R00893,Edible Oil,2025-06-23,Compliant,None Detected,Completed
+S001348,R00894,Spices,2025-06-23,Compliant,None Detected,Completed
+S001349,R00895,Beverages,2025-06-25,Compliant,None Detected,Completed
+S001350,R00895,Packaged Snacks,2025-06-25,Non-Compliant,Adulterant Suspected,Completed
+S001351,R00895,Spices,2025-06-25,Compliant,None Detected,Completed
+S001352,R00896,Packaged Snacks,2025-06-26,Compliant,None Detected,Completed
+S001353,R00897,Sweets,2025-06-27,Inconclusive,Pending/Retest,Retest Pending
+S001354,R00897,Spices,2025-06-27,Compliant,None Detected,Completed
+S001355,R00899,Edible Oil,2025-06-30,Compliant,None Detected,Completed
+S001356,R00900,Street Food,2025-07-01,Compliant,None Detected,Completed
+S001357,R00900,Dairy,2025-07-01,Compliant,None Detected,Completed
+S001358,R00901,Meat/Poultry,2025-07-03,Non-Compliant,Non-permitted Preservative,Completed
+S001359,R00901,Spices,2025-07-03,Compliant,None Detected,Completed
+S001360,R00902,Edible Oil,2025-07-03,Compliant,None Detected,Completed
+S001361,R00902,Spices,2025-07-03,Inconclusive,Pending/Retest,Retest Pending
+S001362,R00903,Dairy,2025-07-04,Inconclusive,Pending/Retest,Retest Pending
+S001363,R00903,Meat/Poultry,2025-07-04,Compliant,None Detected,Completed
+S001364,R00904,Spices,2025-07-04,Non-Compliant,Microbial Contamination,Completed
+S001365,R00904,Beverages,2025-07-04,Compliant,None Detected,Completed
+S001366,R00904,Beverages,2025-07-04,Compliant,None Detected,Completed
+S001367,R00905,Street Food,2025-07-06,Compliant,None Detected,Completed
+S001368,R00905,Edible Oil,2025-07-06,Compliant,None Detected,Completed
+S001369,R00906,Dairy,2025-07-10,Compliant,None Detected,Completed
+S001370,R00906,Bakery Products,2025-07-10,Compliant,None Detected,Completed
+S001371,R00907,Meat/Poultry,2025-07-11,Compliant,None Detected,Completed
+S001372,R00907,Packaged Snacks,2025-07-11,Compliant,None Detected,Completed
+S001373,R00908,Packaged Snacks,2025-07-12,Compliant,None Detected,Completed
+S001374,R00908,Bakery Products,2025-07-12,Non-Compliant,Non-permitted Preservative,Completed
+S001375,R00908,Packaged Snacks,2025-07-12,Compliant,None Detected,Completed
+S001376,R00910,Edible Oil,2025-07-14,Non-Compliant,Synthetic Colour,Completed
+S001377,R00911,Sweets,2025-07-14,Non-Compliant,Microbial Contamination,Completed
+S001378,R00911,Street Food,2025-07-14,Compliant,None Detected,Completed
+S001379,R00911,Meat/Poultry,2025-07-14,Inconclusive,Pending/Retest,Retest Pending
+S001380,R00913,Bakery Products,2025-07-16,Compliant,None Detected,Completed
+S001381,R00914,Meat/Poultry,2025-07-16,Compliant,None Detected,Completed
+S001382,R00914,Packaged Snacks,2025-07-16,Compliant,None Detected,Completed
+S001383,R00915,Beverages,2025-07-24,Compliant,None Detected,Completed
+S001384,R00915,Sweets,2025-07-24,Compliant,None Detected,Completed
+S001385,R00915,Packaged Snacks,2025-07-24,Compliant,None Detected,Completed
+S001386,R00916,Meat/Poultry,2025-07-28,Compliant,None Detected,Completed
+S001387,R00916,Bakery Products,2025-07-28,Compliant,None Detected,Completed
+S001388,R00917,Bakery Products,2025-07-30,Compliant,None Detected,Completed
+S001389,R00917,Edible Oil,2025-07-30,Non-Compliant,Excess Moisture,Completed
+S001390,R00918,Edible Oil,2025-07-31,Compliant,None Detected,Completed
+S001391,R00919,Grains/Pulses,2025-08-01,Compliant,None Detected,Completed
+S001392,R00919,Dairy,2025-08-01,Non-Compliant,Synthetic Colour,Completed
+S001393,R00920,Dairy,2025-08-04,Compliant,None Detected,Completed
+S001394,R00921,Street Food,2025-08-07,Compliant,None Detected,Completed
+S001395,R00921,Beverages,2025-08-07,Compliant,None Detected,Completed
+S001396,R00923,Edible Oil,2025-08-08,Compliant,None Detected,Completed
+S001397,R00924,Sweets,2025-08-09,Compliant,None Detected,Completed
+S001398,R00924,Meat/Poultry,2025-08-09,Compliant,None Detected,Completed
+S001399,R00924,Grains/Pulses,2025-08-09,Compliant,None Detected,Completed
+S001400,R00927,Grains/Pulses,2025-08-12,Compliant,None Detected,Completed
+S001401,R00927,Spices,2025-08-12,Compliant,None Detected,Completed
+S001402,R00928,Dairy,2025-08-14,Compliant,None Detected,Completed
+S001403,R00929,Meat/Poultry,2025-08-15,Compliant,None Detected,Completed
+S001404,R00930,Spices,2025-08-15,Non-Compliant,Heavy Metal Above Limit,Completed
+S001405,R00931,Street Food,2025-08-17,Non-Compliant,Synthetic Colour,Completed
+S001406,R00931,Bakery Products,2025-08-17,Compliant,None Detected,Completed
+S001407,R00933,Beverages,2025-08-23,Compliant,None Detected,Completed
+S001408,R00933,Packaged Snacks,2025-08-23,Compliant,None Detected,Completed
+S001409,R00933,Bakery Products,2025-08-23,Inconclusive,Pending/Retest,Retest Pending
+S001410,R00934,Packaged Snacks,2025-08-24,Compliant,None Detected,Completed
+S001411,R00935,Grains/Pulses,2025-08-24,Compliant,None Detected,Completed
+S001412,R00936,Street Food,2025-08-25,Compliant,None Detected,Completed
+S001413,R00937,Spices,2025-08-26,Non-Compliant,Non-permitted Preservative,Completed
+S001414,R00937,Edible Oil,2025-08-26,Compliant,None Detected,Completed
+S001415,R00937,Bakery Products,2025-08-26,Compliant,None Detected,Completed
+S001416,R00938,Grains/Pulses,2025-08-27,Compliant,None Detected,Completed
+S001417,R00940,Dairy,2025-08-30,Compliant,None Detected,Completed
+S001418,R00941,Dairy,2025-08-30,Compliant,None Detected,Completed
+S001419,R00942,Grains/Pulses,2025-08-31,Compliant,None Detected,Completed
+S001420,R00942,Packaged Snacks,2025-08-31,Compliant,None Detected,Completed
+S001421,R00943,Meat/Poultry,2025-08-31,Compliant,None Detected,Completed
+S001422,R00943,Edible Oil,2025-08-31,Inconclusive,Pending/Retest,Retest Pending
+S001423,R00943,Bakery Products,2025-08-31,Non-Compliant,Undeclared Allergen,Completed
+S001424,R00944,Beverages,2025-09-01,Compliant,None Detected,Completed
+S001425,R00946,Grains/Pulses,2025-09-04,Compliant,None Detected,Completed
+S001426,R00946,Dairy,2025-09-04,Compliant,None Detected,Completed
+S001427,R00946,Dairy,2025-09-04,Compliant,None Detected,Completed
+S001428,R00947,Sweets,2025-09-06,Compliant,None Detected,Completed
+S001429,R00948,Packaged Snacks,2025-09-10,Compliant,None Detected,Completed
+S001430,R00948,Spices,2025-09-10,Compliant,None Detected,Completed
+S001431,R00948,Sweets,2025-09-10,Compliant,None Detected,Completed
+S001432,R00951,Meat/Poultry,2025-09-12,Non-Compliant,Non-permitted Preservative,Completed
+S001433,R00951,Grains/Pulses,2025-09-12,Non-Compliant,Microbial Contamination,Completed
+S001434,R00954,Street Food,2025-09-17,Compliant,None Detected,Completed
+S001435,R00954,Beverages,2025-09-17,Compliant,None Detected,Completed
+S001436,R00955,Spices,2025-09-19,Compliant,None Detected,Completed
+S001437,R00956,Street Food,2025-09-19,Compliant,None Detected,Completed
+S001438,R00957,Meat/Poultry,2025-09-20,Compliant,None Detected,Completed
+S001439,R00960,Packaged Snacks,2025-09-24,Non-Compliant,Non-permitted Preservative,Completed
+S001440,R00961,Bakery Products,2025-09-26,Compliant,None Detected,Completed
+S001441,R00962,Spices,2025-09-29,Compliant,None Detected,Completed
+S001442,R00963,Beverages,2025-09-29,Compliant,None Detected,Completed
+S001443,R00964,Meat/Poultry,2025-09-29,Non-Compliant,Non-permitted Preservative,Completed
+S001444,R00965,Sweets,2025-09-30,Compliant,None Detected,Completed
+S001445,R00965,Bakery Products,2025-09-30,Compliant,None Detected,Completed
+S001446,R00966,Packaged Snacks,2025-10-01,Compliant,None Detected,Completed
+S001447,R00967,Bakery Products,2025-10-04,Compliant,None Detected,Completed
+S001448,R00968,Grains/Pulses,2025-10-04,Inconclusive,Pending/Retest,Retest Pending
+S001449,R00968,Packaged Snacks,2025-10-04,Compliant,None Detected,Completed
+S001450,R00968,Beverages,2025-10-04,Compliant,None Detected,Completed
+S001451,R00970,Spices,2025-10-08,Compliant,None Detected,Completed
+S001452,R00971,Packaged Snacks,2025-10-10,Compliant,None Detected,Completed
+S001453,R00971,Dairy,2025-10-10,Inconclusive,Pending/Retest,Retest Pending
+S001454,R00972,Dairy,2025-10-12,Compliant,None Detected,Completed
+S001455,R00972,Dairy,2025-10-12,Compliant,None Detected,Completed
+S001456,R00973,Street Food,2025-10-12,Compliant,None Detected,Completed
+S001457,R00974,Street Food,2025-10-16,Compliant,None Detected,Completed
+S001458,R00974,Dairy,2025-10-16,Non-Compliant,Non-permitted Preservative,Completed
+S001459,R00974,Beverages,2025-10-16,Compliant,None Detected,Completed
+S001460,R00977,Dairy,2025-10-17,Compliant,None Detected,Completed
+S001461,R00977,Grains/Pulses,2025-10-17,Compliant,None Detected,Completed
+S001462,R00977,Street Food,2025-10-17,Compliant,None Detected,Completed
+S001463,R00978,Meat/Poultry,2025-10-20,Compliant,None Detected,Completed
+S001464,R00980,Grains/Pulses,2025-10-28,Compliant,None Detected,Completed
+S001465,R00980,Sweets,2025-10-28,Compliant,None Detected,Completed
+S001466,R00981,Edible Oil,2025-10-30,Non-Compliant,Synthetic Colour,Completed
+S001467,R00982,Beverages,2025-11-02,Inconclusive,Pending/Retest,Retest Pending
+S001468,R00983,Spices,2025-11-03,Compliant,None Detected,Completed
+S001469,R00983,Dairy,2025-11-03,Compliant,None Detected,Completed
+S001470,R00984,Bakery Products,2025-11-04,Compliant,None Detected,Completed
+S001471,R00984,Spices,2025-11-04,Compliant,None Detected,Completed
+S001472,R00985,Edible Oil,2025-11-07,Compliant,None Detected,Completed
+S001473,R00986,Meat/Poultry,2025-11-08,Compliant,None Detected,Completed
+S001474,R00987,Dairy,2025-11-09,Compliant,None Detected,Completed
+S001475,R00988,Beverages,2025-11-11,Compliant,None Detected,Completed
+S001476,R00988,Spices,2025-11-11,Non-Compliant,Synthetic Colour,Completed
+S001477,R00989,Beverages,2025-11-14,Compliant,None Detected,Completed
+S001478,R00989,Edible Oil,2025-11-14,Compliant,None Detected,Completed
+S001479,R00990,Edible Oil,2025-11-15,Compliant,None Detected,Completed
+S001480,R00990,Spices,2025-11-15,Compliant,None Detected,Completed
+S001481,R00991,Street Food,2025-11-20,Inconclusive,Pending/Retest,Retest Pending
+S001482,R00992,Sweets,2025-11-20,Compliant,None Detected,Completed
+S001483,R00992,Edible Oil,2025-11-20,Compliant,None Detected,Completed
+S001484,R00992,Edible Oil,2025-11-20,Compliant,None Detected,Completed
+S001485,R00993,Grains/Pulses,2025-11-20,Compliant,None Detected,Completed
+S001486,R00993,Packaged Snacks,2025-11-20,Compliant,None Detected,Completed
+S001487,R00994,Dairy,2025-11-22,Compliant,None Detected,Completed
+S001488,R00994,Dairy,2025-11-22,Compliant,None Detected,Completed
+S001489,R00995,Beverages,2025-11-24,Inconclusive,Pending/Retest,Retest Pending
+S001490,R00995,Edible Oil,2025-11-24,Compliant,None Detected,Completed
+S001491,R00996,Grains/Pulses,2025-11-24,Compliant,None Detected,Completed
+S001492,R00997,Beverages,2025-11-27,Inconclusive,Pending/Retest,Retest Pending
+S001493,R00997,Meat/Poultry,2025-11-27,Compliant,None Detected,Completed
+S001494,R00997,Bakery Products,2025-11-27,Compliant,None Detected,Completed
+S001495,R00999,Grains/Pulses,2025-11-29,Compliant,None Detected,Completed
+S001496,R01000,Street Food,2025-11-30,Compliant,None Detected,Completed
+S001497,R01000,Sweets,2025-11-30,Non-Compliant,Heavy Metal Above Limit,Completed
+S001498,R01000,Meat/Poultry,2025-11-30,Compliant,None Detected,Completed
+S001499,R01001,Sweets,2025-12-03,Compliant,None Detected,Completed
+S001500,R01001,Dairy,2025-12-03,Compliant,None Detected,Completed
+S001501,R01002,Spices,2025-12-03,Inconclusive,Pending/Retest,Retest Pending
+S001502,R01003,Meat/Poultry,2025-12-07,Compliant,None Detected,Completed
+S001503,R01003,Street Food,2025-12-07,Compliant,None Detected,Completed
+S001504,R01004,Spices,2025-12-07,Compliant,None Detected,Completed
+S001505,R01005,Edible Oil,2025-12-12,Compliant,None Detected,Completed
+S001506,R01005,Meat/Poultry,2025-12-12,Compliant,None Detected,Completed
+S001507,R01006,Meat/Poultry,2025-12-17,Compliant,None Detected,Completed
+S001508,R01008,Edible Oil,2025-12-21,Compliant,None Detected,Completed
+S001509,R01008,Spices,2025-12-21,Compliant,None Detected,Completed
+S001510,R01008,Street Food,2025-12-21,Compliant,None Detected,Completed
+S001511,R01009,Edible Oil,2025-12-27,Non-Compliant,Microbial Contamination,Completed
+S001512,R01009,Edible Oil,2025-12-27,Compliant,None Detected,Completed
+S001513,R01010,Grains/Pulses,2025-12-27,Compliant,None Detected,Completed
+S001514,R01010,Packaged Snacks,2025-12-27,Compliant,None Detected,Completed
+S001515,R01010,Street Food,2025-12-27,Compliant,None Detected,Completed
+S001516,R01011,Edible Oil,2025-12-29,Compliant,None Detected,Completed
+S001517,R01012,Meat/Poultry,2025-12-29,Compliant,None Detected,Completed
+S001518,R01012,Spices,2025-12-29,Compliant,None Detected,Completed
+S001519,R01012,Spices,2025-12-29,Inconclusive,Pending/Retest,Retest Pending
+S001520,R01013,Street Food,2026-01-01,Inconclusive,Pending/Retest,Retest Pending
+S001521,R01013,Street Food,2026-01-01,Compliant,None Detected,Completed
+S001522,R01014,Street Food,2026-01-02,Compliant,None Detected,Completed
+S001523,R01014,Dairy,2026-01-02,Compliant,None Detected,Completed
+S001524,R01014,Spices,2026-01-02,Non-Compliant,Microbial Contamination,Completed
+S001525,R01015,Street Food,2026-01-04,Compliant,None Detected,Completed
+S001526,R01015,Street Food,2026-01-04,Compliant,None Detected,Completed
+S001527,R01016,Bakery Products,2026-01-06,Compliant,None Detected,Completed
+S001528,R01016,Sweets,2026-01-06,Compliant,None Detected,Completed
+S001529,R01016,Packaged Snacks,2026-01-06,Compliant,None Detected,Completed
+S001530,R01017,Street Food,2026-01-07,Compliant,None Detected,Completed
+S001531,R01017,Meat/Poultry,2026-01-07,Non-Compliant,Undeclared Allergen,Completed
+S001532,R01018,Packaged Snacks,2026-01-08,Compliant,None Detected,Completed
+S001533,R01019,Sweets,2026-01-09,Compliant,None Detected,Completed
+S001534,R01020,Packaged Snacks,2026-01-09,Compliant,None Detected,Completed
+S001535,R01021,Bakery Products,2026-01-09,Compliant,None Detected,Completed
+S001536,R01022,Grains/Pulses,2026-01-10,Compliant,None Detected,Completed
+S001537,R01023,Meat/Poultry,2026-01-11,Compliant,None Detected,Completed
+S001538,R01023,Packaged Snacks,2026-01-11,Compliant,None Detected,Completed
+S001539,R01024,Sweets,2026-01-13,Non-Compliant,Undeclared Allergen,Completed
+S001540,R01024,Packaged Snacks,2026-01-13,Non-Compliant,Undeclared Allergen,Completed
+S001541,R01026,Dairy,2026-01-16,Compliant,None Detected,Completed
+S001542,R01026,Beverages,2026-01-16,Compliant,None Detected,Completed
+S001543,R01026,Grains/Pulses,2026-01-16,Compliant,None Detected,Completed
+S001544,R01027,Bakery Products,2026-01-17,Compliant,None Detected,Completed
+S001545,R01027,Packaged Snacks,2026-01-17,Compliant,None Detected,Completed
+S001546,R01028,Meat/Poultry,2026-01-17,Compliant,None Detected,Completed
+S001547,R01028,Packaged Snacks,2026-01-17,Compliant,None Detected,Completed
+S001548,R01029,Beverages,2026-01-19,Compliant,None Detected,Completed
+S001549,R01029,Beverages,2026-01-19,Compliant,None Detected,Completed
+S001550,R01030,Bakery Products,2026-01-22,Compliant,None Detected,Completed
+S001551,R01031,Street Food,2026-01-22,Compliant,None Detected,Completed
+S001552,R01032,Street Food,2026-01-25,Compliant,None Detected,Completed
+S001553,R01033,Spices,2026-01-27,Compliant,None Detected,Completed
+S001554,R01033,Sweets,2026-01-27,Compliant,None Detected,Completed
+S001555,R01034,Spices,2026-02-01,Compliant,None Detected,Completed
+S001556,R01035,Meat/Poultry,2026-02-05,Non-Compliant,Adulterant Suspected,Completed
+S001557,R01035,Spices,2026-02-05,Compliant,None Detected,Completed
+S001558,R01036,Bakery Products,2026-02-06,Inconclusive,Pending/Retest,Retest Pending
+S001559,R01037,Dairy,2026-02-07,Compliant,None Detected,Completed
+S001560,R01038,Meat/Poultry,2026-02-08,Non-Compliant,Microbial Contamination,Completed
+S001561,R01038,Beverages,2026-02-08,Compliant,None Detected,Completed
+S001562,R01039,Grains/Pulses,2026-02-08,Compliant,None Detected,Completed
+S001563,R01040,Packaged Snacks,2026-02-10,Compliant,None Detected,Completed
+S001564,R01041,Sweets,2026-02-13,Compliant,None Detected,Completed
+S001565,R01042,Grains/Pulses,2026-02-17,Non-Compliant,Heavy Metal Above Limit,Completed
+S001566,R01042,Packaged Snacks,2026-02-17,Non-Compliant,Non-permitted Preservative,Completed
+S001567,R01043,Sweets,2026-02-18,Compliant,None Detected,Completed
+S001568,R01043,Dairy,2026-02-18,Compliant,None Detected,Completed
+S001569,R01043,Packaged Snacks,2026-02-18,Compliant,None Detected,Completed
+S001570,R01044,Beverages,2026-02-19,Compliant,None Detected,Completed
+S001571,R01044,Grains/Pulses,2026-02-19,Compliant,None Detected,Completed
+S001572,R01046,Edible Oil,2026-02-28,Compliant,None Detected,Completed
+S001573,R01046,Spices,2026-02-28,Non-Compliant,Heavy Metal Above Limit,Completed
+S001574,R01046,Bakery Products,2026-02-28,Compliant,None Detected,Completed
+S001575,R01047,Street Food,2026-02-28,Compliant,None Detected,Completed
+S001576,R01047,Meat/Poultry,2026-02-28,Compliant,None Detected,Completed
+S001577,R01048,Bakery Products,2026-03-03,Compliant,None Detected,Completed
+S001578,R01048,Packaged Snacks,2026-03-03,Compliant,None Detected,Completed
+S001579,R01049,Grains/Pulses,2026-03-04,Compliant,None Detected,Completed
+S001580,R01050,Spices,2026-03-05,Compliant,None Detected,Completed
+S001581,R01051,Bakery Products,2026-03-08,Compliant,None Detected,Completed
+S001582,R01051,Spices,2026-03-08,Compliant,None Detected,Completed
+S001583,R01052,Dairy,2026-03-08,Non-Compliant,Adulterant Suspected,Completed
+S001584,R01053,Spices,2026-03-09,Compliant,None Detected,Completed
+S001585,R01053,Bakery Products,2026-03-09,Compliant,None Detected,Completed
+S001586,R01054,Grains/Pulses,2026-03-10,Compliant,None Detected,Completed
+S001587,R01054,Sweets,2026-03-10,Compliant,None Detected,Completed
+S001588,R01055,Spices,2026-03-13,Compliant,None Detected,Completed
+S001589,R01056,Beverages,2026-03-13,Compliant,None Detected,Completed
+S001590,R01057,Edible Oil,2026-03-14,Compliant,None Detected,Completed
+S001591,R01057,Meat/Poultry,2026-03-14,Compliant,None Detected,Completed
+S001592,R01058,Bakery Products,2026-03-16,Non-Compliant,Adulterant Suspected,Completed
+S001593,R01060,Bakery Products,2026-03-19,Non-Compliant,Excess Moisture,Completed
+S001594,R01060,Grains/Pulses,2026-03-19,Compliant,None Detected,Completed
+S001595,R01061,Spices,2026-03-21,Compliant,None Detected,Completed
+S001596,R01063,Bakery Products,2026-03-21,Compliant,None Detected,Completed
+S001597,R01064,Street Food,2026-03-22,Compliant,None Detected,Completed
+S001598,R01065,Spices,2026-03-22,Compliant,None Detected,Completed
+S001599,R01066,Beverages,2026-03-23,Compliant,None Detected,Completed
+S001600,R01066,Dairy,2026-03-23,Compliant,None Detected,Completed
+S001601,R01066,Dairy,2026-03-23,Compliant,None Detected,Completed
+S001602,R01067,Beverages,2026-03-23,Compliant,None Detected,Completed
+S001603,R01069,Grains/Pulses,2026-03-25,Compliant,None Detected,Completed
+S001604,R01070,Packaged Snacks,2026-03-25,Non-Compliant,Excess Moisture,Completed
+S001605,R01071,Bakery Products,2026-03-26,Compliant,None Detected,Completed
+S001606,R01072,Dairy,2026-03-27,Compliant,None Detected,Completed
+S001607,R01073,Packaged Snacks,2026-03-29,Compliant,None Detected,Completed
+S001608,R01074,Beverages,2026-03-29,Inconclusive,Pending/Retest,Retest Pending
+S001609,R01074,Sweets,2026-03-29,Non-Compliant,Synthetic Colour,Completed
+S001610,R01076,Spices,2026-04-01,Compliant,None Detected,Completed
+S001611,R01076,Meat/Poultry,2026-04-01,Compliant,None Detected,Completed
+S001612,R01077,Edible Oil,2026-04-01,Compliant,None Detected,Completed
+S001613,R01078,Packaged Snacks,2026-04-02,Compliant,None Detected,Completed
+S001614,R01078,Meat/Poultry,2026-04-02,Non-Compliant,Microbial Contamination,Completed
+S001615,R01079,Dairy,2026-04-06,Non-Compliant,Adulterant Suspected,Completed
+S001616,R01080,Edible Oil,2026-04-07,Compliant,None Detected,Completed
+S001617,R01081,Dairy,2026-04-08,Compliant,None Detected,Completed
+S001618,R01082,Spices,2026-04-11,Compliant,None Detected,Completed
+S001619,R01082,Street Food,2026-04-11,Compliant,None Detected,Completed
+S001620,R01083,Dairy,2026-04-11,Compliant,None Detected,Completed
+S001621,R01084,Street Food,2026-04-14,Compliant,None Detected,Completed
+S001622,R01084,Meat/Poultry,2026-04-14,Compliant,None Detected,Completed
+S001623,R01085,Edible Oil,2026-04-18,Compliant,None Detected,Completed
+S001624,R01085,Sweets,2026-04-18,Compliant,None Detected,Completed
+S001625,R01086,Packaged Snacks,2026-04-19,Inconclusive,Pending/Retest,Retest Pending
+S001626,R01087,Meat/Poultry,2026-04-19,Compliant,None Detected,Completed
+S001627,R01089,Sweets,2026-04-21,Non-Compliant,Heavy Metal Above Limit,Completed
+S001628,R01090,Bakery Products,2026-04-21,Compliant,None Detected,Completed
+S001629,R01091,Sweets,2026-04-22,Compliant,None Detected,Completed
+S001630,R01091,Street Food,2026-04-22,Non-Compliant,Adulterant Suspected,Completed
+S001631,R01092,Sweets,2026-04-23,Compliant,None Detected,Completed
+S001632,R01093,Spices,2026-04-24,Compliant,None Detected,Completed
+S001633,R01093,Bakery Products,2026-04-24,Compliant,None Detected,Completed
+S001634,R01094,Sweets,2026-04-27,Compliant,None Detected,Completed
+S001635,R01094,Beverages,2026-04-27,Compliant,None Detected,Completed
+S001636,R01095,Packaged Snacks,2026-04-27,Compliant,None Detected,Completed
+S001637,R01095,Dairy,2026-04-27,Compliant,None Detected,Completed
+S001638,R01095,Street Food,2026-04-27,Non-Compliant,Adulterant Suspected,Completed
+S001639,R01096,Meat/Poultry,2026-04-28,Compliant,None Detected,Completed
+S001640,R01097,Dairy,2026-04-28,Compliant,None Detected,Completed
+S001641,R01098,Packaged Snacks,2026-04-29,Non-Compliant,Adulterant Suspected,Completed
+S001642,R01098,Beverages,2026-04-29,Non-Compliant,Excess Moisture,Completed
+S001643,R01098,Packaged Snacks,2026-04-29,Compliant,None Detected,Completed
+S001644,R01099,Grains/Pulses,2026-04-30,Compliant,None Detected,Completed
+S001645,R01101,Packaged Snacks,2026-05-01,Compliant,None Detected,Completed
+S001646,R01101,Dairy,2026-05-01,Compliant,None Detected,Completed
+S001647,R01101,Edible Oil,2026-05-01,Compliant,None Detected,Completed
+S001648,R01102,Grains/Pulses,2026-05-02,Compliant,None Detected,Completed
+S001649,R01103,Bakery Products,2026-05-05,Compliant,None Detected,Completed
+S001650,R01103,Edible Oil,2026-05-05,Inconclusive,Pending/Retest,Retest Pending
+S001651,R01103,Spices,2026-05-05,Compliant,None Detected,Completed
+S001652,R01104,Edible Oil,2026-05-06,Compliant,None Detected,Completed
+S001653,R01105,Edible Oil,2026-05-08,Compliant,None Detected,Completed
+S001654,R01105,Dairy,2026-05-08,Non-Compliant,Heavy Metal Above Limit,Completed
+S001655,R01105,Sweets,2026-05-08,Compliant,None Detected,Completed
+S001656,R01106,Street Food,2026-05-11,Non-Compliant,Non-permitted Preservative,Completed
+S001657,R01106,Beverages,2026-05-11,Non-Compliant,Heavy Metal Above Limit,Completed
+S001658,R01107,Beverages,2026-05-11,Non-Compliant,Non-permitted Preservative,Completed
+S001659,R01108,Grains/Pulses,2026-05-11,Compliant,None Detected,Completed
+S001660,R01108,Grains/Pulses,2026-05-11,Inconclusive,Pending/Retest,Retest Pending
+S001661,R01108,Bakery Products,2026-05-11,Compliant,None Detected,Completed
+S001662,R01109,Spices,2026-05-13,Compliant,None Detected,Completed
+S001663,R01110,Meat/Poultry,2026-05-15,Compliant,None Detected,Completed
+S001664,R01110,Packaged Snacks,2026-05-15,Non-Compliant,Heavy Metal Above Limit,Completed
+S001665,R01110,Sweets,2026-05-15,Compliant,None Detected,Completed
+S001666,R01113,Dairy,2026-05-20,Compliant,None Detected,Completed
+S001667,R01114,Edible Oil,2026-05-21,Compliant,None Detected,Completed
+S001668,R01114,Meat/Poultry,2026-05-21,Compliant,None Detected,Completed
+S001669,R01115,Bakery Products,2026-05-24,Compliant,None Detected,Completed
+S001670,R01116,Grains/Pulses,2026-05-24,Compliant,None Detected,Completed
+S001671,R01116,Grains/Pulses,2026-05-24,Compliant,None Detected,Completed
+S001672,R01117,Beverages,2026-05-25,Compliant,None Detected,Completed
+S001673,R01118,Meat/Poultry,2026-05-25,Compliant,None Detected,Completed
+S001674,R01119,Street Food,2026-05-25,Compliant,None Detected,Completed
+S001675,R01120,Sweets,2026-05-26,Compliant,None Detected,Completed
+S001676,R01120,Packaged Snacks,2026-05-26,Compliant,None Detected,Completed
+S001677,R01120,Packaged Snacks,2026-05-26,Compliant,None Detected,Completed
+S001678,R01121,Spices,2026-05-28,Inconclusive,Pending/Retest,Retest Pending
+S001679,R01122,Dairy,2026-05-29,Compliant,None Detected,Completed
+S001680,R01122,Meat/Poultry,2026-05-29,Non-Compliant,Microbial Contamination,Completed
+S001681,R01123,Meat/Poultry,2026-05-31,Compliant,None Detected,Completed
+S001682,R01124,Dairy,2026-05-31,Compliant,None Detected,Completed
+S001683,R01125,Sweets,2026-05-31,Compliant,None Detected,Completed
+S001684,R01126,Meat/Poultry,2026-06-03,Compliant,None Detected,Completed
+S001685,R01126,Edible Oil,2026-06-03,Compliant,None Detected,Completed
+S001686,R01126,Sweets,2026-06-03,Compliant,None Detected,Completed
+S001687,R01127,Meat/Poultry,2026-06-03,Compliant,None Detected,Completed
+S001688,R01127,Spices,2026-06-03,Non-Compliant,Synthetic Colour,Completed
+S001689,R01128,Sweets,2026-06-04,Inconclusive,Pending/Retest,Retest Pending
+S001690,R01128,Bakery Products,2026-06-04,Compliant,None Detected,Completed
+S001691,R01128,Street Food,2026-06-04,Compliant,None Detected,Completed
+S001692,R01129,Sweets,2026-06-04,Compliant,None Detected,Completed
+S001693,R01129,Bakery Products,2026-06-04,Compliant,None Detected,Completed
+S001694,R01130,Grains/Pulses,2026-06-04,Compliant,None Detected,Completed
+S001695,R01130,Beverages,2026-06-04,Non-Compliant,Excess Moisture,Completed
+S001696,R01131,Packaged Snacks,2026-06-07,Compliant,None Detected,Completed
+S001697,R01131,Spices,2026-06-07,Inconclusive,Pending/Retest,Retest Pending
+S001698,R01132,Packaged Snacks,2026-06-10,Compliant,None Detected,Completed
+S001699,R01133,Sweets,2026-06-10,Compliant,None Detected,Completed
+S001700,R01133,Meat/Poultry,2026-06-10,Compliant,None Detected,Completed
+S001701,R01133,Edible Oil,2026-06-10,Compliant,None Detected,Completed
+S001702,R01134,Dairy,2026-06-11,Compliant,None Detected,Completed
+S001703,R01135,Street Food,2026-06-11,Compliant,None Detected,Completed
+S001704,R01135,Street Food,2026-06-11,Compliant,None Detected,Completed
+S001705,R01136,Sweets,2026-06-14,Compliant,None Detected,Completed
+S001706,R01137,Sweets,2026-06-16,Compliant,None Detected,Completed
+S001707,R01138,Beverages,2026-06-16,Compliant,None Detected,Completed
+S001708,R01138,Dairy,2026-06-16,Compliant,None Detected,Completed
+S001709,R01138,Edible Oil,2026-06-16,Compliant,None Detected,Completed
+S001710,R01139,Packaged Snacks,2026-06-17,Non-Compliant,Heavy Metal Above Limit,Completed
+S001711,R01140,Meat/Poultry,2026-06-19,Compliant,None Detected,Completed
+S001712,R01141,Street Food,2026-06-19,Compliant,None Detected,Completed
+S001713,R01142,Meat/Poultry,2026-06-21,Compliant,None Detected,Completed
+S001714,R01143,Sweets,2026-06-21,Compliant,None Detected,Completed
+S001715,R01144,Packaged Snacks,2026-06-22,Compliant,None Detected,Completed
+S001716,R01144,Meat/Poultry,2026-06-22,Compliant,None Detected,Completed
+S001717,R01144,Beverages,2026-06-22,Compliant,None Detected,Completed
+S001718,R01145,Grains/Pulses,2026-06-23,Non-Compliant,Non-permitted Preservative,Completed
+S001719,R01146,Edible Oil,2026-06-24,Compliant,None Detected,Completed
+S001720,R01146,Spices,2026-06-24,Non-Compliant,Microbial Contamination,Completed
+S001721,R01146,Street Food,2026-06-24,Compliant,None Detected,Completed
+S001722,R01148,Spices,2026-06-28,Compliant,None Detected,Completed
+S001723,R01148,Meat/Poultry,2026-06-28,Compliant,None Detected,Completed
+S001724,R01149,Sweets,2026-06-28,Compliant,None Detected,Completed
+S001725,R01151,Grains/Pulses,2026-07-02,Compliant,None Detected,Completed
+S001726,R01151,Beverages,2026-07-02,Compliant,None Detected,Completed
+S001727,R01151,Sweets,2026-07-02,Compliant,None Detected,Completed
+S001728,R01152,Dairy,2026-07-03,Compliant,None Detected,Completed
+S001729,R01152,Bakery Products,2026-07-03,Non-Compliant,Undeclared Allergen,Completed
+S001730,R01153,Dairy,2026-07-05,Compliant,None Detected,Completed
+S001731,R01153,Bakery Products,2026-07-05,Compliant,None Detected,Completed
+S001732,R01153,Beverages,2026-07-05,Compliant,None Detected,Completed
+S001733,R01154,Sweets,2026-07-06,Compliant,None Detected,Completed
+S001734,R01154,Street Food,2026-07-06,Compliant,None Detected,Completed
+S001735,R01155,Edible Oil,2026-07-07,Non-Compliant,Heavy Metal Above Limit,Completed
+S001736,R01157,Edible Oil,2026-07-09,Compliant,None Detected,Completed
+S001737,R01158,Packaged Snacks,2026-07-10,Compliant,None Detected,Completed
+S001738,R01158,Bakery Products,2026-07-10,Compliant,None Detected,Completed
+S001739,R01160,Dairy,2026-07-14,Inconclusive,Pending/Retest,Retest Pending
+S001740,R01161,Spices,2026-07-16,Non-Compliant,Excess Moisture,Completed
+S001741,R01161,Beverages,2026-07-16,Inconclusive,Pending/Retest,Retest Pending
+S001742,R01162,Sweets,2026-07-16,Compliant,None Detected,Completed
+S001743,R01163,Grains/Pulses,2026-07-17,Compliant,None Detected,Completed
+S001744,R01163,Dairy,2026-07-17,Non-Compliant,Adulterant Suspected,Completed
+S001745,R01163,Sweets,2026-07-17,Compliant,None Detected,Completed
+S001746,R01164,Meat/Poultry,2026-07-30,Compliant,None Detected,Completed
+S001747,R01165,Sweets,2026-08-01,Compliant,None Detected,Completed
+S001748,R01166,Beverages,2026-08-02,Compliant,None Detected,Completed
+S001749,R01166,Bakery Products,2026-08-02,Compliant,None Detected,Completed
+S001750,R01167,Bakery Products,2026-08-02,Non-Compliant,Non-permitted Preservative,Completed
+S001751,R01167,Bakery Products,2026-08-02,Compliant,None Detected,Completed
+S001752,R01168,Spices,2026-08-05,Non-Compliant,Synthetic Colour,Completed
+S001753,R01169,Beverages,2026-08-06,Compliant,None Detected,Completed
+S001754,R01170,Packaged Snacks,2026-08-06,Compliant,None Detected,Completed
+S001755,R01170,Meat/Poultry,2026-08-06,Compliant,None Detected,Completed
+S001756,R01171,Beverages,2026-08-07,Compliant,None Detected,Completed
+S001757,R01172,Meat/Poultry,2026-08-17,Compliant,None Detected,Completed
+S001758,R01173,Meat/Poultry,2026-08-19,Inconclusive,Pending/Retest,Retest Pending
+S001759,R01173,Grains/Pulses,2026-08-19,Compliant,None Detected,Completed
+S001760,R01174,Dairy,2026-08-19,Non-Compliant,Microbial Contamination,Completed
+S001761,R01174,Edible Oil,2026-08-19,Compliant,None Detected,Completed
+S001762,R01175,Dairy,2026-08-20,Compliant,None Detected,Completed
+S001763,R01175,Dairy,2026-08-20,Compliant,None Detected,Completed
+S001764,R01176,Spices,2026-08-23,Compliant,None Detected,Completed
+S001765,R01177,Street Food,2026-08-29,Non-Compliant,Microbial Contamination,Completed
+S001766,R01177,Bakery Products,2026-08-29,Compliant,None Detected,Completed
+S001767,R01178,Bakery Products,2026-08-31,Compliant,None Detected,Completed
+S001768,R01178,Edible Oil,2026-08-31,Compliant,None Detected,Completed
+S001769,R01179,Meat/Poultry,2026-08-31,Non-Compliant,Synthetic Colour,Completed
+S001770,R01180,Packaged Snacks,2026-09-01,Inconclusive,Pending/Retest,Retest Pending
+S001771,R01181,Bakery Products,2026-09-04,Compliant,None Detected,Completed
+S001772,R01181,Beverages,2026-09-04,Compliant,None Detected,Completed
+S001773,R01182,Edible Oil,2026-09-07,Compliant,None Detected,Completed
+S001774,R01182,Meat/Poultry,2026-09-07,Compliant,None Detected,Completed
+S001775,R01184,Edible Oil,2026-09-08,Non-Compliant,Synthetic Colour,Completed
+S001776,R01184,Dairy,2026-09-08,Compliant,None Detected,Completed
+S001777,R01185,Grains/Pulses,2026-09-08,Compliant,None Detected,Completed
+S001778,R01185,Dairy,2026-09-08,Compliant,None Detected,Completed
+S001779,R01185,Packaged Snacks,2026-09-08,Compliant,None Detected,Completed
+S001780,R01186,Dairy,2026-09-10,Compliant,None Detected,Completed
+S001781,R01187,Street Food,2026-09-11,Compliant,None Detected,Completed
+S001782,R01188,Street Food,2026-09-12,Compliant,None Detected,Completed
+S001783,R01190,Beverages,2026-09-15,Compliant,None Detected,Completed
+S001784,R01191,Edible Oil,2026-09-15,Compliant,None Detected,Completed
+S001785,R01192,Spices,2026-09-16,Compliant,None Detected,Completed
+S001786,R01193,Bakery Products,2026-09-19,Inconclusive,Pending/Retest,Retest Pending
+S001787,R01194,Edible Oil,2026-09-20,Compliant,None Detected,Completed
+S001788,R01194,Grains/Pulses,2026-09-20,Compliant,None Detected,Completed
+S001789,R01195,Spices,2026-09-21,Compliant,None Detected,Completed
+S001790,R01196,Sweets,2026-09-23,Compliant,None Detected,Completed
+S001791,R01197,Meat/Poultry,2026-09-25,Non-Compliant,Excess Moisture,Completed
+S001792,R01197,Grains/Pulses,2026-09-25,Compliant,None Detected,Completed
+S001793,R01198,Beverages,2026-09-26,Non-Compliant,Heavy Metal Above Limit,Completed
+S001794,R01199,Edible Oil,2026-09-29,Non-Compliant,Adulterant Suspected,Completed
+S001795,R01200,Bakery Products,2026-09-29,Compliant,None Detected,Completed
